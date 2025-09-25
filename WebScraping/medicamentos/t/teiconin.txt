@@ -1,0 +1,61 @@
+Teiconin, para o que é indicado e para o que serve?
+Teiconin está indicado no tratamento de infecções causadas por bactérias Gram-positivas sensíveis, incluindo aquelas resistentes a outros antibióticos tais como meticilina e as cefalosporinas: endocardite (inflamação da camada mais interna do coração - endocárdio), septicemia (infecção geral grave), infecções osteoarticulares (infecção nos ossos e articulações), infecções do trato respiratório inferior (traqueia, pulmões, brônquios, bronquíolos e alvéolos pulmonares), infecções de pele e tecidos moles, infecções urinárias (de urina) e peritonite (inflamação do peritônio) associada à diálise peritoneal (processo de filtração do sangue através do peritônio) crônica ambulatorial.
+Também está indicado no tratamento de infecções em pacientes alérgicos às penicilinas ou cefalosporinas.
+Teiconin pode ser usado por via oral no tratamento de diarreia associada ao uso de antibiótico, incluindo colite pseudomembranosa (infecção intestinal causada por uma bactéria (Clostridium difficile)). Teiconin pode ser utilizado para profilaxia (prevenção) em pacientes nos quais a infecção por microrganismos Gram-positivos pode ser perigosa (por exemplo, em pacientes que necessitam de cirurgia dental ou ortopédica).
+Como o Teiconin funciona?
+Teiconin é um antibiótico glicopeptídeo que age na biossíntese da parede celular e tem ação contra bactérias Grampositivas aeróbias (que necessitam de oxigênio para sobreviver) e anaeróbias (que podem viver sem oxigênio).
+Tempo médio de início de ação
+A maioria dos pacientes com infecções causadas por microrganismos sensíveis ao antibiótico apresenta resposta terapêutica dentro das primeiras 48-72 horas.
+
+
+Quais as contraindicações do Teiconin?
+Teiconin é contraindicado em pacientes com histórico de hipersensibilidade a teicoplanina.
+
+
+Como usar o Teiconin?
+Instruções para preparação da injeção (reconstituição):
+Teiconin 200mg
+3 mL Água para injeção
+Teiconin 400mg
+3 mL Água para injeção
+Adicione lentamente 3 mL de água para injeção ao frasco-ampola e role-o lentamente entre as mãos, até que o pó esteja completamente dissolvido, tomando-se o cuidado de evitar a formação de espuma.
+É importante assegurar que todo o pó esteja dissolvido, mesmo aquele que estiver perto da tampa.
+A agitação da solução pode causar a formação de espuma, a qual torna difícil recuperar o volume desejado.
+Entretanto, se todo o pó estiver completamente dissolvido, a espuma não altera a concentração da solução. Se a solução ficar espumosa, o frasco deve ficar em repouso por aproximadamente 15 minutos. Retire a solução lentamente do frasco-ampola, tentando recuperar a maior parte da solução colocando a agulha na parte central da tampa de borracha. As soluções reconstituídas contem 200 mg de teicoplanina em 3 mL (frasco-ampola de 200 mg) e 400 mg em 3 mL (frasco-ampola de 400 mg).
+É importante que a solução seja corretamente preparada e cuidadosamente colocada na seringa, pois, caso contrário, pode levar a administração de uma dose menor que a dose total. A solução final é isotônica e tem pH de 7,2 a 7,8. A solução é estável por 48 horas á temperatura ambiente ou por 21 dias a 5°C sem perda da potência.
+Entretanto, a boa prática farmacêutica recomenda que as soluções reconstituídas sejam utilizadas imediatamente e a porção não utilizada descartada. Quando as circunstâncias tornam isto impraticável, os frascos reconstituídos e misturas de líquidos para a infusão devem ser mantidos refrigerados (5°C) e descartados dentro de 24 horas. As soluções reconstituídas podem ser injetadas diretamente ou diluídas alternativamente, como se segue:
+
+Incompatibilidades
+As soluções de teicoplanina e aminoglicosídeos são incompatíveis quando misturadas diretamente e não devem ser misturadas antes da injeção.
+Modo de administração
+Teiconin pode ser administrado por via intravenosa (IV) ou intramuscular (IM). A administração IV pode ser feita diretamente por injeção (3 - 5 minutos) ou através de infusão, (30 minutos). A dose diária é geralmente única, entretanto, em infecções graves, recomenda-se uma dose de ataque a intervalos de 12 horas para as 3 primeiras doses podendo se estender por até 4 dias (8 doses iniciais), dependendo da gravidade da infecção.
+A maioria dos pacientes com infecções causadas por microrganismos sensíveis ao antibiótico apresenta resposta terapêutica dentro das primeiras 48-72 horas. A duração total do tratamento é determinada pelo tipo e gravidade da infecção e resposta clínica do paciente. Em endocardite (inflamação do endocárdio, camada mais interna do coração) e osteomielite (inflamação óssea), recomenda-se tratamento por 3 semanas ou mais. Somente o método de administração infusão IV pode ser usado em recém-nascidos. A gravidade da doença e o local da infecção devem ser considerados na determinação das doses de teicoplanina.
+Posologia do Teiconin
+Adultos
+Para infecções por Gram-positivos em geral
+O regime inicial é de 3 doses de 400 mg IV a cada 12 horas (dose de ataque), seguida de uma dose de manutenção de 400 mg IV ou IM uma vez ao dia. Em casos de septicemia (infecção grave e generalizada do corpo), infecções ósteo-articulares (ossos e articulações), endocardites (infecção no coração), pneumonias graves e outras infecções graves causadas por organismos Gram-positivos em geral: o regime inicial é de 400 mg a cada 12 horas via IV para as 3 primeiras doses podendo se estender por até 4 dias (8 doses iniciais), dependendo da gravidade da infecção, seguida de uma dose de manutenção de 400 mg IV ou IM uma vez ao dia. A dose padrão de 400 mg corresponde a aproximadamente 6 mg/kg. Em pacientes com mais de 85 kg, deve-se utilizar a dose de 6 mg/kg.
+Podem ser necessárias doses maiores em algumas situações clínicas. Em algumas situações, tais como em pacientes com queimaduras graves infectadas ou endocardite causada por Staphylococcus aureus, pode ser necessária dose de manutenção de até 12 mg/kg por via IV. No caso de endocardite causada por S.aureus, foram obtidos resultados satisfatórios quando Teiconin (teicoplanina) foi administrado junto com outros antibióticos. A eficácia da monoterapia com teicoplanina para esta indicação ainda está sendo investigada.
+Quando as concentrações séricas de teicoplanina são monitoradas em infecções graves, os níveis (imediatamente antes da dose subsequente) devem ser equivalentes a 10 vezes a CIM (concentração inibitória mínima) ou pelo menos, 10 mg/L, podendo ser de 15 a 20 mg/L dependendo da gravidade da infecção.
+Terapia combinada
+Quando a infecção requer atividade bactericida máxima, recomenda-se a combinação com um agente bactericida apropriado (ex: em endocardite estafilocócica) ou quando infecções mistas com patógenos Gram-negativos não podem ser excluídas (ex: terapia empírica de febre em pacientes neutropênicos). Profilaxia de endocardite por Gram-positivos em cirurgia dental e em pacientes com doença valvular: uma administração intravenosa de 400 mg (6 mg/kg) no momento da indução anestésica. Profilaxia de infecções por Gram-positivos em cirurgia ortopédica e vascular: uma dose IV de 400 mg (ou 6 mg/kg se >85 kg) no momento da indução anestésica.
+Diarreia causada por Clostridium difficile associada a antibióticos
+Após reconstituição do pó do frasco-ampola com a solução diluente, a solução deve ser administrada como solução oral (a solução não tem gosto). A dose usual é de 200 mg por via oral, duas vezes ao dia durante 7 a 14 dias. A eficácia e segurança da administração de teicoplanina pelas vias intratecal/intralombar e intraventricular não foram estudadas em estudos clínicos controlados.
+Entretanto, foi relatado caso de toxicidade, incluindo convulsões, com o uso intraventricular de teicoplanina. Portanto, por segurança e para garantir a eficácia deste medicamento, a administração deve ser somente por via intravenosa ou intramuscular.
+Idosos
+Igual à dose dos adultos (se a função renal (dos rins) estiver gravemente comprometida, devem-se seguir as instruções para pacientes com função renal comprometida).
+Crianças acima de 2 meses de idade até 16 anos
+Para as infecções por Gram-positivos em geral: a dose recomendada é de 10 mg/kg por via intravenosa a cada 12 horas para as 3 primeiras doses (doses de ataque); as doses diárias subsequentes devem ser de 6 mg/kg em injeção única intravenosa ou intramuscular (doses de manutenção).
+Em infecções graves por microrganismos Gram-positivos ou em crianças neutropênicas (mais susceptíveis a infecções) a dose de ataque recomendada é de 10 mg/kg por via intravenosa a cada 12 horas para as 3 primeiras doses; as doses diárias subsequentes de manutenção devem ser de 10 mg/kg em única injeção intravenosa ou intramuscular.
+Recém-nascidos menores de dois meses
+Recomenda-se administrar dose única de ataque de 16 mg/kg por via intravenosa no primeiro dia; as doses diárias de manutenção subsequentes devem ser de 8 mg/kg por via intravenosa.
+Recomenda-se administrar as doses por infusão intravenosa por 30 minutos.
+Pacientes com insuficiência renal
+Em pacientes com insuficiência renal, a diminuição da dose não é necessária até o quarto dia de tratamento, após este período a dose deve ser ajustada para manter uma concentração sérica de pelo menos 10 mg/L.
+A partir do quinto dia, deve-se seguir o seguinte esquema:
+Insuficiência renal moderada, com depuração de creatinina de 40 a 60 mL/min, a dose de manutenção deverá ser diminuída para a metade (utilizando a dose usual de manutenção a cada dois dias ou a metade desta dose uma vez ao dia).
+Em insuficiência renal grave, com depuração de creatinina menor que 40 mL/min e em pacientes sob hemodiálise, a dose de manutenção deve ser reduzida para um terço da usual (utilizando esta dose a cada três dias ou um terço da dose uma vez ao dia). A teicoplanina não é dializável.
+Diálise peritoneal ambulatorial contínua para peritonite: Após dose única de ataque de 400 mg IV, são administrados 20 mg/L por bolsa na 1ª semana, 20 mg/L em bolsas alternadas na 2ª semana, e 20 mg/L na bolsa que permanece durante a noite na 3ª semana.
+Siga a orientação de seu médico respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.
+O que devo fazer quando eu me esquecer de usar o Teiconin?
+Caso esqueça de administrar uma dose, administre-a assim que possível. No entanto, se estiver próximo do horário da dose seguinte, espere por este horário, respeitando sempre o intervalo determinado pela posologia. Nunca devem ser administradas duas doses ao mesmo tempo.
+Em caso de dúvidas, procure orientação do farmacêutico ou de seu médico ou cirurgião-dentista

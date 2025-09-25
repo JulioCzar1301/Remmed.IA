@@ -1,0 +1,56 @@
+Filgrastim, para o que é indicado e para o que serve?
+Filgrastim está indicado:
+Em pacientes com câncer que recebem quimioterapia mielossupressora, ou seja, que afeta a produção de células sanguíneas na medula;
+Em pacientes com câncer submetidos a transplante de medula óssea;
+Em pacientes com neutropenia crônica grave (neutropenia congênita grave, neutropenia cíclica ou neutropenia idiopática), ou seja, com diminuição crônica das células de defesa do sangue;
+Na neutropenia (diminuição das células de defesa do sangue) associada a aids.
+
+
+Como o Filgrastim funciona?
+O filgrastim é um estimulante do sangue que auxilia a produção de células brancas sanguíneas, o que irá ajudar a prevenir infecções durante o tratamento do câncer (quimioterapia).
+O filgrastim aumenta consideravelmente o número de células brancas chamadas neutrófilos no sangue periférico 24 horas após sua administração.
+
+
+Quais as contraindicações do Filgrastim?
+O filgrastim não deve ser administrado em pacientes com alergia ao filgrastim, às proteínas derivadas da E. coli e/ou a qualquer outro componente do medicamento.
+Não deve ser administrado em pacientes portadores de neutropenia congênita grave (síndrome de Kostman) que apresentam anomalias citogenéticas.
+Não deve administrado 24 horas (1 dia) antes ou após a quimioterapia ou radioterapia.
+
+
+Como usar o Filgrastim?
+Instruções de uso
+Seu médico irá prescrever a dose exata e irá lhe dizer com que frequência você deve tomá-la.
+O filgrastim pode ser administrado por injeção intravenosa ou subcutânea. Uma enfermeira, você ou outra pessoa treinada pode ser responsável pela aplicação da injeção.
+Para ser eficaz, este produto deve ser utilizado seguindo todas as recomendações de seu médico, principalmente quanto ao modo de usar e duração do tratamento.
+Se você for fazer a aplicação, certifique-se que entendeu corretamente as instruções de como o filgrastim deve ser aplicado:
+Não use maior quantidade ou mais frequentemente que o recomendado pelo seu médico.
+Aplique o medicamento sempre em locais diferentes do seu corpo.
+Não agite o frasco. Não utilize o medicamento caso você observe alguma partícula dentro do frasco.
+Troque sempre a seringa a cada aplicação. Você não deve utilizar a seringa e a agulha mais de uma vez.
+Não reutilizar o frasco-ampola após retirar a dose a ser administrada. Desprezar o resto do produto.
+Instruções de diluição
+Se necessário, o filgrastim pode ser diluído em solução de glicose a 5%. Uma vez diluído, o produto pode ser adsorvido por vidro ou materiais plásticos. Entretanto, se a diluição for realizada conforme as instruções a seguir, o preparado é compatível com vidro e com uma variedade de materiais plásticos, como PVC, poliolefina (copolímero do polipropileno e polietileno) e polipropileno.
+Quando o produto for diluído a uma concentração inferior a 1,5 MUI/mL (15 mcg/mL) de filgrastim, deve-se adicionar albumina sérica humana até uma concentração final de 2 mg/mL.
+Por exemplo: para um volume de injeção final de 20 mL, deve-se adicionar 0,2 mL de uma solução de albumina humana a 20% a doses de filgrastim inferiores a 30 MUI (300 mcg).
+Não se recomenda diluir a uma concentração final inferior a 0,2 MUI/mL (2 mcg/mL).
+Nunca diluir o produto com solução salina, já que pode precipitar.
+Não reutilizar o frasco-ampola após retirar a dose a ser administrada. Desprezar o resto do produto.
+Incompatibilidade
+Não se deve diluir o fligrastim em soluções salinas.
+Posologia do Filgrastim
+Pacientes submetidos a quimioterapia mielossupressora
+A dose recomendada de filgrastim é de 0,5 MUI (5 mcg)/kg/dia. A dose inicial de filgrastim deve ser administrada apenas 24 horas após a quimioterapia citotóxica. O filgrastim é administrado por via subcutânea ou infusão intravenosa (30 minutos). Deve-se continuar a administração diária de filgrastim até que a contagem de neutrófilos tenha se normalizado após superar o nadir de neutrófilos esperado. Em geral, o tempo de tratamento é de 14 dias, podendo variar de acordo com o tipo, dose e protocolo da quimioterapia citotóxica aplicada. Os pacientes submetidos a quimioterapia citotóxica apresentam um aumento típico e transitório dos neutrófilos 1-2 dias após o início do tratamento com filgrastim. Entretanto, para manter a resposta terapêutica, o tratamento com filgrastim não deve ser interrompido até que a contagem de neutrófilos tenha se normalizado após superar o nadir de neutrófilos esperado. A descontinuação prematura do tratamento com filgrastim antes de alcançar o nadir neutrofílico não é recomendada.
+Se necessário, pode-se aumentar a dose em incrementos de 5 mcg/kg por cada ciclo de quimioterapia.
+Pacientes submetidos a transplante autólogo de medula óssea
+A dose inicial recomendada de filgrastim é de 1,0 MUI (10 mcg)/kg/dia, por infusão intravenosa (foram utilizadas diversas durações: cerca de 30 minutos, 4 horas ou 24 horas) ou subcutânea (24 horas), usualmente por até 21 dias, começando 2 a 4 horas após a infusão da medula óssea, mas não antes de 24 horas após a última dose de quimioterapia. Não se conhece a eficácia e segurança da administração de filgrastim durante períodos superiores a 28 dias neste grupo de pacientes.
+Uma vez superada a contagem mais baixa das células de defesa, quando a mesma retorna a níveis de 1,0 x 109/l, a dose diária de filgrastim pode ser reduzida para 0,5 MUI (5 mcg)/kg/dia.
+Se a contagem dos neutrófilos exceder 1,0 x 109/l por mais de três dias consecutivos, a terapia com filgrastim deve ser descontinuada. Se a contagem de neutrófilos diminuir para abaixo deste valor, pode-se manter a dose em 5 mcg/kg/ dia.
+Se a contagem de neutrófilos diminuir para menos de 1,0 x 109 /l, enquanto o paciente recebe uma dose de 5 mcg/kg/dia, esta pode ser aumentada para 1,0 MUI (10 mcg)/kg/dia.
+Pacientes com neutropenia crônica grave
+Neutropenia congênita
+A dose recomendada é de 1,2 MUI (12 mcg)/kg/dia em uma única dose ou em doses divididas por via subcutânea. Ajustar de acordo com a resposta obtida.
+Neutropenia cíclica ou idiopática
+A dose recomendada é de 0,5 MUI (5 mcg)/kg/dia. É necessário realizar ajustes periódicos da dose para manter a contagem de neutrófilos entre 1.500 e 10.000 neutrófilos/mm3.
+Pacientes com neutropenia associada a AIDS
+A dose inicial recomendada é de 0,1 MUI (1 mcg)/kg/dia, aumentando, se necessário, até que a contagem de neutrófilos alcance valores normais (usualmente até um máximo de 0,4 MUI/kg/dia). Em seguida, ajustar a dose até manter a contagem de neutrófilos dentro dos valores normais.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

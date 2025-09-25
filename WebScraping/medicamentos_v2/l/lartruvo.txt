@@ -1,0 +1,29 @@
+Lartruvo, para o que é indicado e para o que serve?
+Lartruvo, em combinação com a doxorrubicina, é indicado para o tratamento de pacientes com sarcoma de partes moles avançado (tipo de câncer que se desenvolve a partir de tecidos, como músculo, gordura, nervos, tecidos fibrosos, vasos sanguíneos ou tecidos mais profundos da pele), não passível de tratamento curativo com radioterapia ou cirurgia e que não foram previamente tratados com medicamentos antraciclínicos (categoria específica de medicamentos que são utilizados para tratar diversos tipos de câncer, como por exemplo, a doxorrubicina).
+
+
+Como o Lartruvo funciona?
+Lartruvo é um medicamento utilizado para tentar inibir o crescimento das células do tumor, fazendo com que o tumor diminua ou pare de crescer. As relações de exposição/resposta de olaratumabe e o ciclo de tempo da resposta farmacodinâmica são desconhecidos.
+
+
+Quais as contraindicações do Lartruvo?
+Lartruvo é contraindicado para pacientes alérgicos ao olaratumabe ou a qualquer outro ingrediente usado na formulação.
+
+
+Como usar o Lartruvo?
+Inspecionar o conteúdo do frasco quanto a materiais particulados e descoloração antes da diluição.
+Descartar o frasco caso sejam identificados materiais particulados ou descolorações. Calcular a dose e o volume necessário de Lartruvo para preparar a solução para infusão. Retirar o volume necessário de Lartruvo e depois diluir apenas com solução estéril de cloreto de sódio 0,9%, num recipiente de infusão intravenosa para um volume final de 250 mL. Inverter suavemente o recipiente para misturar adequadamente. Descartar o frasco com a porção de Lartruvo não utilizada. Inspecionar visualmente a solução para infusão para detecção de material particulado e descoloração antes da administração. Se partículas ou descolorações forem identificadas, descartar a solução. Administrar a solução para infusão de Lartruvo por via intravenosa durante 60 minutos por uma linha de infusão independente. Lavar o sistema com solução estéril de cloreto de sódio 0,9% ao final da infusão.
+Posologia do Lartruvo
+Apenas solução salina a 0,9% deve ser utilizada para diluição. Não administrar ou misturar com solução de dextrose. Não administrar Lartruvo em infusão concomitante de eletrólitos ou outras medicações no mesmo cateter intravenoso.
+A dose recomendada de Lartruvo é de 15 mg/Kg administrada por infusão intravenosa durante 60 minutos nos dias 1 e 8 de cada ciclo de três semanas, até a progressão da doença ou toxicidade inaceitável. Para os primeiros 8 ciclos, Lartruvo é coadministrado com doxorrubicina, que é administrada no dia 1 de cada ciclo após a infusão de Lartruvo.
+Pré-medicação
+Pré-medicar todos os pacientes com um antagonista de H1 (por exemplo, difenidramina) e dexametasona (ou medicamentos equivalentes) por via intravenosa, 30-60 minutos antes das doses de Lartruvo, nos dias 1 e 8 do ciclo 1.
+Para os ciclos subsequentes, pré-medicar todos os pacientes com um antagonista de H1 (por exemplo, difenidramina), por via intravenosa, 30-60 minutos antes de cada dose de Lartruvo.
+Em pacientes que tenham sofrido reações relacionadas à infusão (RRI) de Grau 1 ou 2, interromper a infusão e administrar paracetamol, e repetir o antagonista de H1 e dexametasona (ou medicamentos equivalentes), conforme necessário. Para todas as infusões subsequentes, prémedicar com o seguinte (ou medicamentos equivalentes): cloridrato de difenidramina (por via intravenosa), paracetamol e dexametasona.
+Ajustes de dose
+Após a recuperação da RRI de Grau 1 e 2, reduzir a taxa de infusão de Lartruvo em 50% e manter a taxa reduzida para todas as infusões seguintes. Interromper imediatamente e permanentemente Lartruvo para RRI de Grau 3 ou 4.
+Para toxicidade não hematológica grave de Grau 3, considerada relacionada a Lartruvo, reduzir a dose de Lartruvo a 12 mg/Kg para todas as infusões subsequentes.
+Se ocorrer febre/infecção ou neutropenia [diminuição do número de neutrófilos (células brancas do sangue)] de Grau 4 com duração superior a uma semana, interromper temporariamente a administração de Lartruvo até que a contagem absoluta de neutrófilos seja de 1.000 x 103 /µL ou superior e, em seguida, reduza a dose para 12 mg/Kg.
+Para toxicidades relacionadas à doxorrubicina, refira-se à bula atual.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

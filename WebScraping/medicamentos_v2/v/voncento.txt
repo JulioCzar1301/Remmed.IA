@@ -1,0 +1,66 @@
+Voncento, para o que é indicado e para o que serve?
+Este medicamento é destinado à profilaxia e ao tratamento de sangramento não cirúrgico e cirúrgico associado à deficiência do fator de von Willebrand, em decorrência da doença de von Willebrand, quando o tratamento com acetato de desmopressina é ineficaz ou é contraindicado.
+Este medicamento é destinado à profilaxia e ao tratamento de sangramento não cirúrgico e cirúrgico associado à deficiência de fator VIII de coagulação, em decorrência à hemofilia A (deficiência congênita de fator VIII de coagulação).
+
+
+Como o Voncento funciona?
+Os princípios ativos do Voncento®, fator VIII de coagulação humana (FVIII) e fator de von Willebrand (FVW) humano, são fatores de coagulação (substâncias que ajudam o sangue a coagular). Os pacientes com hemofilia A não apresentam FVIII, e os pacientes com doença de von Willebrand (DVW) não apresentam FVW ou apresentam FVW não funcional. Isso causa problemas de coagulação sanguínea, levando a hemorragias nas articulações, músculos ou órgãos internos.
+Voncento® é usado para substituir os fatores de coagulação ausentes, fornecendo controle temporário do distúrbio de sangramento.
+
+
+Quais as contraindicações do Voncento?
+Utilizar com precaução em pacientes com reações alérgicas conhecidas aos componentes da preparação.
+
+
+Como usar o Voncento?
+O medicamento deve ser administrado por via intravenosa (IV).
+Posologia do Voncento
+Doença de von Willebrand
+É importante calcular a dose usando o número de UI de FvW:Rco especificado. Geralmente, 1 UI/kg de FvW:RCo aumenta o nível circulante de FvW:RCo por 0,02 UI/mL (2%).
+Os níveis de FvW:RCo de > 0,6 UI/mL (60%) e de FVIII:C de > 0,4 UI/mL (40%) devem ser atingidos.
+Tratamento sob demanda
+Normalmente, 40-80 UI/kg do fator de von Willebrand (FvW:RCo) correspondentes a 20-40 UI FVIII:C/kg de peso corporal (PC) são recomendados para atingir hemostasia.
+Uma dose inicial de 80 UI/kg de FvW:RCo pode ser necessária, especialmente em pacientes com doença de von Willebrand tipo 3, em que a manutenção de níveis adequados pode precisar de doses maiores do que em outros tipos de doença de von Willebrand.
+Prevenção de hemorragia em caso de cirurgia
+Para a prevenção de sangramento excessivo durante ou após a cirurgia, a aplicação deve iniciar 1 – 2 horas antes do procedimento cirúrgico.
+Uma dose adequada deve ser administrada novamente a cada 12 – 24 horas. A dose e a duração do tratamento dependem do estado clínico do paciente, o tipo e a gravidade do sangramento, e dos níveis de FvW:RCo e FVIII:C.
+Ao usar um produto para a doença de von Willebrand contendo fator VIII de coagulação, o médico responsável deve estar ciente de que o tratamento contínuo pode causar um aumento excessivo em FVIII:C. Após 24 – 48 horas de tratamento para evitar um aumento excessivo em FVIII:C, a redução de dose e/ou o prolongamento do intervalo da dose ou o uso de um produto de fator de von Willebrand contendo um nível baixo de fator VIII de coagulação devem ser considerados.
+Tratamento de profilaxia
+Para a profilaxia em longo prazo em pacientes de estudo clínico com doença de von Willebrand, uma dose de 25 – 40 UI de FvW:RCo/kg de peso corporal deve ser considerada a uma frequência de 1 a 3 vezes por semana. Em pacientes jovens ou pacientes com sangramentos gastrintestinais ou menorragia, intervalos de dose mais curtos ou doses mais altas podem ser necessários. A dose e a duração do tratamento dependerão da condição clínica do paciente, assim como os seus níveis plasmáticos de FvW:RCo e FVIII:C.
+População pediátrica com Doença de von Willebrand
+Tratamento de sangramento
+Geralmente, 40 – 80 UI/kg do fator de von Willebrand (FvW:RCo) correspondentes a 20 – 40 UI de FVIII:C/kg de peso corporal (PC) são recomendados em pacientes pediátricos para tratar um sangramento.
+Tratamento de profilaxia
+Pacientes entre 12 e 18 anos de idade: A administração baseia-se nas mesmas diretrizes que adultos.
+Pacientes < 12 anos de idade: Com base nos resultados de um estudo clínico, no qual os pacientes pediátricos com menos do que 12 anos de idade apresentaram exposição menor do FvW, uma dose profilática entre 40 – 80 UI de FvW:RCo/kg do peso corporal de 1 a 3 vezes por semana, deve ser considerada. A dose e a duração do tratamento dependerão da condição clínica do paciente, assim como os seus níveis plasmáticos de FvW:RCo e FVIII:C.
+Hemofilia A
+É importante calcular a dose usando o número de UI de FVIII:C especificado. A dose e a duração da terapia de substituição dependerão da gravidade da deficiência de FVIII, o local e a extensão do sangramento e a condição clínica do paciente.
+O número de unidades de fator VIII de coagulação administrado é apresentado em Unidades Internacionais (UI), que está relacionado ao padrão atual da OMS para produtos com fator VIII de coagulação. A atividade de fator VIII de coagulação no plasma é apresentada tanto como percentual (relativo ao plasma humano normal) ou em UI (relacionado ao Padrão Internacional para FVIII no plasma).
+1 UI da atividade do fator VIII coagulação é equivalente àquela quantidade de fator VIII de coagulação em 1 mL de plasma humano normal.
+Tratamento sob demanda
+O cálculo da dose necessária de fator VIII de coagulação baseia-se no achado empírico de que 1 UI de fator VIII de coagulação por kg de peso corporal aumenta a atividade plasmática de fator VIII de coagulação em cerca de 2% da atividade normal (recuperação “in vivo” 2 UI/dL).
+A dose necessária é determinada usando a seguinte fórmula:
+Unidades necessárias = peso corporal [kg] x aumento desejado de FVIII [% ou UI/dL] x 0,5.
+A quantidade a ser administrada e a frequência de administração devem sempre ser orientadas para a eficácia clínica de cada caso individualmente.
+No caso dos seguintes eventos hemorrágicos, a atividade de FVIII não deve cair abaixo de determinado nível da atividade plasmática (em % de normal ou UI/dL) dentro do período correspondente.
+A seguinte tabela pode ser usada para orientar a administração em episódios de sangramento e cirurgia:
+Grau de hemorragia / Tipo de procedimento cirúrgico Nível necessário do fator VIII de coagulação (%) (UI/dL) Frequência das doses (horas)/ Duração da terapia (dias)
+Hemorragia
+Hemartrose inicial, sangramento muscular ou sangramento oral 20 – 40 Repetir a cada 12 a 24 horas por pelo menos 1 dia, até o episódio de sangramento conforme indicado por dor ser resolvido ou recuperado
+Hematrose mais extensa, sangramento muscular ou hematoma 30 – 60 Repetir a infusão a cada 12- 24 horas por 3-4 dias ou mais até a dor ou a incapacidade aguda ser resolvida
+Hemorragias de ameaça à vida 60 - 100 Repetir a infusão a cada 8 ou 24 horas até a ameaça ser resolvida
+Cirurgia
+Cirurgia de pequeno porte, incluindo extração de dente 30 – 60 A cada 24 horas, pelo menos 1 dia, até a recuperação
+Cirurgia de grande porte 80 – 100 (pré- e pós-cirurgia) Repetir a infusão a cada 8-24 horas até a recuperação adequada da ferida, em seguida, terapia por pelo menos 7 dias para manter a atividade do fator VIII de coagulação de 30% a 60 % (UI/dL)
+Durante o curso do tratamento, a determinação apropriada dos níveis de fator VIII de coagulação é utilizada como base para determinar a dose a ser administrada e a frequência das infusões repetidas.
+Particularmente, no caso de intervenções cirúrgicas de grande porte, é indispensável o monitoramento preciso da terapia de substituição por meio da análise de coagulação (atividade de FVIII plasmático). A resposta ao fator VIII de coagulação é individual, atingindo diferentes níveis de recuperação “in vivo” e demonstrando diferentes meias-vidas.
+Tratamento de profilaxia
+Para profilaxia em longo prazo em pacientes com hemofilia A grave, a dose usual é de 20 a 40 UI de fator VIII de coagulação por kg de peso corporal em intervalos de 2 a 3 dias. Em alguns casos, especialmente em pacientes jovens, intervalos de dose mais curtos ou doses maiores podem ser necessários.
+Pacientes não tratados anteriormente
+A segurança e a eficácia de Voncento® em pacientes não tratados anteriormente ainda não foram estabelecidas.
+População pediátrica com hemofilia A
+A administração em crianças e adolescentes com hemofilia A com idade < 18 anos baseia-se no peso corporal e, portanto, geralmente considera-se as mesmas diretrizes que para adultos. Em alguns casos, intervalos de dose mais curtos ou doses maiores podem ser necessários. A frequência da administração deve sempre ser orientada com relação à eficácia clínica de casa caso individualmente.
+Idosos
+Nenhum ajuste da dose é necessário para idosos.
+Orientação de monitoramento
+Recomenda-se que as concentrações plasmáticas de FVIII:C e/ou FvW:RCo sejam determinadas no plasma do paciente em intervalos adequados e durante o tratamento de episódios de sangramento grave.

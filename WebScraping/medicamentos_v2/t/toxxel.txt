@@ -1,0 +1,79 @@
+Toxxel, para o que é indicado e para o que serve?
+Carcinoma de Ovário1
+Terapia de primeira linha em combinação com um composto de platina para o tratamento do carcinoma avançado de ovário.
+Terapia de segunda linha para o tratamento do carcinoma avançado de ovário.
+Câncer de Mama2
+Tratamento adjuvante do câncer de mama linfonodo positivo, administrado em sequência a uma terapia padrão combinada.
+Tratamento de primeira linha após recidiva da doença dentro de 6 meses de terapia adjuvante. A terapia anterior deve incluir uma antraciclina, a menos que clinicamente contraindicada.
+Terapia de primeira linha em câncer avançado ou metastático de mama, em combinação com trastuzumabe, em pacientes com super expressão do HER-2 em níveis de 2+ e 3+ como determinado por imunohistoquímica.
+Terapia de segunda linha após falha da quimioterapia combinada para doença metastática. A terapia anterior deve incluir uma antraciclina, a menos que clinicamente contraindicada.
+Câncer de Não-pequenas Células do Pulmão3
+Tratamento de primeira linha em combinação com um composto de platina ou como agente único para o tratamento do câncer de não-pequenas células do pulmão em pacientes que não são candidatos a cirurgia e/ou radioterapia com potencial de cura.
+Sarcoma de Kaposi
+Tratamento de segunda linha no sarcoma de Kaposi relacionado à AIDS4.
+1 CID C56 – Neoplasia maligna do ovário.
+2 CID C50 – Neoplasia maligna da mama.
+3 CID C34 – Neoplasia maligna dos brônquios e dos pulmões.
+4 CID B21.0 – Doença pelo HIV resultando em sarcoma de Kaposi.
+
+
+Quais as contraindicações do Toxxel?
+Paclitaxel é contraindicado em pacientes com histórico de reações graves de hipersensibilidade ao paclitaxel ou ao óleo de rícino polioxietilado.
+Paclitaxel não deve ser administrado em pacientes com tumores sólidos que apresentem contagem de neutrófilos basal < 1.500 células/mm³ ou pacientes com sarcoma de Kaposi relacionado à AIDS com contagem de neutrófilos basal ou subsequente < 1.000 células/mm³.
+
+
+Como usar o Toxxel?
+Todos os pacientes devem ser pré-medicados antes da administração de Paclitaxel para reduzir o risco da ocorrência de reações graves de hipersensibilidade. Esta pré-medicação pode corresponder a 20 mg por via oral de dexametasona (ou equivalente), utilizados aproximadamente 12 e 6 horas antes da administração do paclitaxel ou 20 mg por via intravenosa aproximadamente 30 a 60 minutos antes de Paclitaxel; 50 mg de difenidramina (ou seu equivalente) por via intravenosa 30 a 60 minutos antes de Paclitaxel e cimetidina (300 mg) ou ranitidina (50 mg) por via intravenosa 30 a 60 minutos antes de Paclitaxel.
+Ciclos repetidos de Paclitaxel não devem ser administrados a pacientes com tumores sólidos até que a contagem de neutrófilos seja de, pelo menos, 1500 células/mm³ e a de plaquetas, 100.000 células/mm³ (<1000 células/mm3 para pacientes com Sarcoma de Kaposi). Pacientes que tiveram neutropenia grave (menor que 500 células/mm³) ou neuropatia periférica grave devem ser submetidos a doses reduzidas em 20% nos ciclos subsequentes. A incidência de neurotoxicidade e a gravidade da neutropenia aumentam com a dose dentro de um regime.
+Nota: Não se recomenda o contato do concentrado não-diluído com materiais ou dispositivos de plástico PVC (cloreto de polivinila) usados no preparo das soluções para infusão. Para minimizar a exposição do paciente ao plastificante DEHP (di-(2 etilexil)ftalato), que pode se desprender das paredes das bolsas de infusão ou dos materiais de PVC utilizados, as soluções diluídas de Paclitaxel devem ser mantidas em frascos (de vidro ou polipropileno) ou em bolsas plásticas (de polipropileno ou poliolefina) e administradas através de materiais de polietileno.
+Precauções Quanto à Preparação e à Administração
+O paclitaxel é uma droga citotóxica antineoplásica e Paclitaxel deve ser manuseado com cuidado. O uso de luvas é recomendado. Se a solução de Paclitaxel entrar em contato com a pele, lavá-la com água e sabão imediata e completamente. Se houver contato de Paclitaxel com membranas mucosas, deve-se enxaguá-las bem com água. Após exposição tópica, os eventos incluíram formigamento, queimação e rubor. Em casos de inalação, foram relatadas dispneia, dor torácica, irritação nos olhos, dor de garganta e náuseas. Dada a possibilidade de extravasamento, é aconselhável monitorar cautelosamente o local da infusão quanto a possível infiltração durante a administração da droga.
+Paclitaxel deve ser administrado através de um filtro com membrana microporosa de não mais que 0,22 mícron. O uso de filtros que incorporem tubos curtos revestidos de PVC por dentro e por fora não resulta em liberação significativa de DEHP.
+Condições de manuseio e dispensação
+Procedimentos para manuseio e descarte adequado de drogas antineoplásicas devem ser considerados.1-4
+Para minimizar o risco de exposição dérmica, sempre use luvas impermeáveis quando estiver manuseando frascos contendo Paclitaxel. Isto inclui todas as atividades de manuseio em situações clínicas, farmácias, depósitos e serviço domiciliar, incluindo durante a abertura da embalagem e inspeção, transporte dentro de uma instalação e preparação e administração da dose.
+Risco de uso por via não recomendada
+Para segurança e eficácia desta apresentação, Paclitaxel não deve ser administrado por vias não recomendadas. A administração deve ser somente pela via intravenosa.
+Preparação para Administração Intravenosa
+Paclitaxel deve ser diluído antes da infusão até o volume final de 100 a 25 mL (frasco ampola de 5 mL), 333 a 83,3 mL (frasco-ampola de 16,7 mL) e 1000 a 250 mL (frasco-ampola de 50 mL), atingindo uma concentração final de 0,3 a 1,2 mg/mL. Paclitaxel deve ser diluído em uma das seguintes soluções: solução injetável de cloreto de sódio a 0,9%, solução glicosada a 5%, solução com glicose 5% e cloreto de sódio 0,9%, ou em solução glicosada a 5% em solução de Ringer.
+Na preparação, as soluções podem mostrar turbidez, atribuída ao veículo da formulação. Não foram observadas perdas significativas de potência após liberação da solução através de dispositivos de administração intravenosa contendo um filtro de 0,22 mícron.
+As soluções de Paclitaxel devem ser preparadas e mantidas em frascos de vidro, polipropileno ou poliolefina. Devem ser utilizados dispositivos de administração que não contenham PVC, como os feitos de polietileno (vide NOTA).
+As soluções diluídas são quimica e fisicamente estáveis por até 27 horas em temperatura ambiente (aproximadamente 25º C) e em condições de iluminação ambiente, devendo as infusões ser concluídas neste período de tempo. Foram raros os relatos de precipitação com períodos de infusão mais longos do que as 3 horas recomendadas. Agitação excessiva, vibração ou sacudidas podem induzir à precipitação e devem ser evitadas. O equipamento de infusão deve ser completamente lavado com o diluente compatível antes do uso.
+Dispositivos com pontas afiadas não devem ser utilizados com os frascos de Paclitaxel, pois podem causar o rompimento da tampa, resultando na perda da integridade estéril da solução de Paclitaxel.
+Posologia do Paclitaxel
+Carcinoma de Ovário
+Terapia combinada
+Para pacientes que não receberam tratamento anterior, o regime posológico recomendado a cada 3 semanas é a administração intravenosa de 175 mg/m2 de Paclitaxel por 3 horas, seguida pela administração de um composto de platina.
+Alternativamente, um regime mais mielodepressivo de Paclitaxel pode também ser a administração intravenosa de uma dose de 135 mg/m2 por 24 horas, seguida por um composto de platina, a cada 3 semanas.
+Monoterapia
+Em pacientes anteriormente tratadas com quimioterapia, o esquema recomendado corresponde a 175 mg/m2 de Paclitaxel administrados intravenosamente por 3 horas, a cada 3 semanas.
+Câncer de Mama
+Terapia adjuvante
+175 mg/m2 de Paclitaxel administrados intravenosamente por 3 horas, a cada 3 semanas por 4 ciclos em sequência à terapia-padrão combinada.
+Monoterapia, terapia de primeira linha após recidiva dentro de um período de 6 meses da terapia adjuvante
+175 mg/m2 de Paclitaxel administrados intravenosamente por 3 horas, a cada 3 semanas.
+Terapia de primeira linha em câncer avançado ou metastático de mama
+Em combinação com trastuzumabe, a dose recomendada de Paclitaxel é 175 mg/m2 administrados intravenosamente por um período de 3 horas, com um intervalo de três semanas entre os ciclos. A infusão de Paclitaxel deve ser iniciada no dia seguinte da primeira dose de trastuzumabe ou imediatamente após as doses subsequentes de trastuzumabe, caso a dose precedente de trastuzumabe tenha sido bem tolerada.
+Monoterapia, terapia de segunda linha após falha da quimioterapia combinada para doença metastática
+175 mg/m2 de Paclitaxel administrados intravenosamente por 3 horas, a cada 3 semanas.
+Câncer de Não-Pequenas Células de Pulmão
+Terapia combinada
+Para pacientes não tratados anteriormente, a dose recomendada com 3 semanas de intervalo entre os ciclos é de 175 mg/m2 de Paclitaxel administrados intravenosamente por 3 horas, seguida por um composto de platina.
+Alternativamente, um regime mais mielodepressivo de Paclitaxel pode ser a administração intravenosa de 135 mg/m2 por 24 horas, seguida por um composto de platina, com intervalo de 3 semanas entre os ciclos.
+Monoterapia
+Paclitaxel 175 – 225 mg/m2 administrado intravenosamente por 3 horas, a cada 3 semanas.
+Sarcoma de Kaposi Relacionado à AIDS
+Terapia de segunda linha
+A dose de Paclitaxel recomendada é de 135 mg/m2 administrados intravenosamente por 3 horas, com intervalos de 3 semanas entre os ciclos, ou 100 mg/m2 administrados intravenosamente por 3 horas, com intervalos de 2 semanas entre os ciclos (intensidade da dose 45 – 50 mg/m2/semana).
+Com base na imunodepressão observada em pacientes com doença avançada pelo HIV, as seguintes modificações são recomendadas nestes pacientes:
+A dose de dexametasona, uma das três drogas da pré-medicação, deve ser reduzida para 10 mg por via oral
+O tratamento com Paclitaxel só poderá ser iniciado ou repetido se a contagem de neutrófilos for de, no mínimo, 1.000 células/mm³
+A dose de Paclitaxel nos ciclos subsequentes deve ser reduzida em 20% para os pacientes com neutropenia grave (< 500 células/mm³ durante 1 semana ou mais)
+Concomitantemente, o fator de crescimento hematopoiético (G-CSF) deve ser iniciado conforme indicado clinicamente
+Paclitaxel também pode ser administrado em uma dose de 80 mg/m2 semanalmente para tratamento de câncer de ovário, câncer de mama e sarcoma de Kaposi, como terapia de segunda linha, levando-se sempre em conta que todos os pacientes devem ser pré-medicados antes da administração de Paclitaxel. Esta posologia parece estar associada a uma menor mielotoxicidade com eficácia terapêutica similar à administração a cada 21 dias.
+Insuficiência Hepática
+Pacientes com insuficiência hepática podem apresentar risco de toxicidade aumentado, particularmente mielossupressão graus III-IV. O ajuste de dose é recomendado. Os pacientes devem ser bem monitorados quanto ao desenvolvimento de mielossupressão profunda.
+Tabela 9: Recomendações de Dosagem em Pacientes com Insuficiência Hepática Baseadas em Dados Clínicos
+a Diferenças no critério para níveis de bilirrubina entre infusão de 3 e 24 horas se devem a diferenças no desenho do estudo clínico.
+b As recomendações de dosagem são para o primeiro curso da terapia; reduções de doses adicionais nos cursos subsequentes devem ser baseadas na tolerância individual.
+LSN: limite superior da normalidade.

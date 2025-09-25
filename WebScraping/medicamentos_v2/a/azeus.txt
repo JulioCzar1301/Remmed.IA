@@ -1,0 +1,75 @@
+Azeus, para o que é indicado e para o que serve?
+Antes de iniciar o tratamento com aztreonam, deve-se conduzir exames adequados para isolamento dos agentes causadores da infecção e para determinação da sensibilidade ao Aztreonam. O tratamento pode ser iniciado empiricamente, antes da disponibilidade dos resultados dos testes de sensibilidade. Em infecções onde há suspeita ou constatação da presença de patógenos gram-positivos ou anaeróbios, Aztreonam deve ser usado concomitantemente a outro antibiótico para se obter cobertura apropriada.
+A atividade do aztreonam é limitada a bacilos aeróbicos gram-negativos, e as espécies de bactérias produtoras de βlactamases também são muito sensíveis.
+Aztreonam é indicado no tratamento das infecções listadas abaixo, quando causadas por micro-organismos gramnegativos sensíveis ao medicamento.
+Infecções do trato urinário
+Monoterapia para infecções do trato urinário nosocomial que são resistentes a outros agentes ou em situações onde o risco de toxicidade dos aminoglicosídeos é alto.
+Bacteremia
+Causada por Pseudomonas aeruginosa, sugere o uso de aztreonam em combinação com a ampicilina. Uma combinação de aztreonam com piperacilina em crianças com neutropenia febril foi sugerida como terapia de primeira linha, pois evitou toxicidade relacionada à aminoglicosídeo.
+Infecções respiratórias inferiores
+Quando usado empiricamente para o tratamento de infecções respiratórias deve ser sempre combinado com agentes ativos contra organismos gram-positivos e anaeróbios. Em pneumonias nosocomiais, ele pode ser usado em combinação com anti-pseudomonal (penicilinas) e cefalosporinas de terceira geração.
+Infecções ósseas e articulares
+Osteomielite e artrite séptica causada por cepas sensíveis de E. coli, Proteus, Klebsiella, Serratia e mesmo Pseudomonas. Em situações onde a possibilidade de infecção gram-positiva também existe, um agente anti-estafilocócico deve ser adicionado.
+Sistema Nervoso Central
+Meningites gram-negativas com boa atividade contra N. meningites.
+Sistema gastrintestinal
+Eficaz contra Campylobacter, Salmonella e Shigella. No tratamento da tuberculose multiresistente em crianças causadas por Salmonella typhi, o aztreonam pode ser usado como terapia de segunda linha em casos de insuficiência da ceftriaxona.
+Situações específicas
+Eficaz contra B. cepacia, Enterobacter cloacae, Acinetobacter calcoaceticus e para organismos específicos da Unidade de Tratamento Intensiva (UTI). Em casos de fibrose cística: P. aeruginosa, E.coli, H. influenzae, K. pneumoniae, S. epidermidis, Streptococcus beta-hemolítico, H. parainfluenzae, K. oxytoca, E. aerogenes e E. aglomerans são comumente isoladas em crianças. Ele, no entanto, não é eficaz contra S. aureus.
+
+
+Quais as contraindicações do Azeus?
+Aztreonam é contraindicado em pacientes com história de hipersensibilidade ao aztreonam ou a qualquer outro componente da formulação.
+
+
+Como usar o Azeus?
+Aztreonam pode ser administrado por via intramuscular ou intravenosa.
+Preparo de soluções parenterais
+Uma vez adicionado o diluente, o conteúdo do frasco deverá ser agitado imediatamente e vigorosamente. As soluções diluídas não devem ser utilizadas para doses múltiplas; caso o conteúdo do frasco não seja totalmente utilizado em uma única dose, o restante da solução não utilizada deverá ser descartada.
+Administração intramuscular
+Para administração intramuscular, Aztreonam deve ser diluído em, no mínimo, 3 mL de diluente por grama de aztreonam. Podem ser usados os seguintes diluentes: água para injetáveis; água bacteriostática para injetáveis (com álcool benzílico* ou com metil e propilparabeno); solução de cloreto de sódio 0,9%; solução de cloreto de sódio 0,9% em álcool benzílico.
+*Diluentes contendo álcool benzílico não são adequados para uso em recém-nascidos.
+Aztreonam deve ser administrado por injeção intramuscular profunda em grande massa muscular (quadrante superior externo da região glútea ou na parte lateral da coxa). Uma vez que o aztreonam é bem tolerado, não é necessário empregar agente anestésico local.
+Administração intravenosa
+Para injeção intravenosa direta, a dose desejada de Aztreonam deve ser preparada usando-se 6 a 10 mL de água para injetáveis. A solução resultante deverá ser administrada lentamente, diretamente na veia ou no equipo de administração, por um período de 3 a 5 minutos.
+Aztreonam
+Volume Volume de solução reconstituída
+Concentração da solução reconstituída
+1g
+3 mL 3,95 mL
+253,16 mg/mL
+6 mL 6,95 mL
+143,88 mg/mL
+10 mL 10,95 mL
+91,32 mg/mL
+Infusão intravenosa
+Cada grama de Aztreonam deverá ser dissolvido, inicialmente, em 3 mL de água para injetáveis. A concentração final não deverá exceder a 2% p/v e pode ser obtida com uma das seguintes soluções para infusão intravenosa: solução de cloreto de sódio 0,9%; solução de Ringer; solução de Ringer-Lactato; solução de glicose 5% ou 10%; solução de glicose 5% com cloreto de sódio 0,9%; solução de glicose 5% com cloreto de sódio 0,45%; solução de glicose 5% com cloreto de sódio 0,2%; solução de lactato de sódio (M/6); solução de manitol 5% ou 10%; solução de Ringer-Lactato com 5% de glicose. Alternativamente, o conteúdo de um frasco de 100 mL pode ser reconstituído para uma concentração final que não exceda a 2% p/v com uma solução para infusão apropriada listada acima. Em caso de infusão intermitente de Aztreonam e de outro fármaco farmacotecnicamente incompatível, o equipo de administração dos medicamentos deve ser lavado, antes e depois da administração de Aztreonam, com um diluente compatível com ambos os fármacos. Os medicamentos não devem ser administrados simultaneamente. Toda infusão de Aztreonam deve ser administrada por um período de 20 a 60 minutos. Ao se utilizar um tubo de administração em Y, deve-se atentar para o volume calculado de solução de aztreonam, necessário para que toda a dose seja infundida. Pode-se usar um aparelho para controle de volume de administração para aplicar uma diluição inicial de Aztreonam em uma solução para infusão compatível durante a administração; neste caso, a diluição final de aztreonam deve fornecer uma concentração que não exceda a 2% p/v.
+Associação com outros antibióticos
+Soluções de Aztreonam para infusão intravenosa que não excedam a 2% p/v reconstituídas/diluídas com solução de cloreto de sódio 0,9% ou solução de glicose a 5%, com adição de fosfato de clindamicina, sulfato de gentamicina, sulfato de tobramicina ou cefazolina sódica, nas concentrações normalmente empregadas clinicamente, são estáveis físicoquimicamente por até 24 horas à temperatura ambiente ou 3 dias sob refrigeração. Soluções de ampicilina sódica e aztreonam em cloreto de sódio 0,9% são estáveis físico-quimicamente por 24 horas à temperatura ambiente e por 48 horas, sob refrigeração.
+A estabilidade em solução de glicose 5% é de 2 horas à temperatura ambiente e 8 horas sob refrigeração. Soluções de aztreonam/cloxacilina sódica e aztreonam/cloridrato de vancomicina são estáveis em Dinea IR 137 (solução de diálise peritoneal) com glicose a 4,25% por até 24 horas à temperatura ambiente.
+Outras misturas de fármacos ou as associações já mencionadas, em concentrações fora daquelas especificadas, não são recomendadas uma vez que não se dispõe de dados de compatibilidade. Aztreonam é incompatível com nafcilina sódica, cefradina e metronidazol.
+Posologia do Aztreonam
+Adultos
+Tipo de Infecção
+Doses (*) (em g)
+Frequência (em horas)
+Infecções das vias urinárias
+1
+8 ou 12
+Infecções generalizadas moderadamente graves
+1 ou 2
+8 ou 12
+Infecções generalizadas ou potencialmente letais
+2
+6 ou 8
+(*) A dose máxima recomendada é de 8g ao dia.
+Recomenda-se a via intravenosa para a administração de doses únicas maiores que 1g ou para pacientes com septicemia bacteriana, abscessos parenquimatosos localizadas (por exemplo, abscessos intra-abdominais), peritonites ou em outras infecções generalizadas graves ou potencialmente letais. Devido à gravidade das infecções causadas por Pseudomonas aeruginosa, recomenda-se uma dose de 2g a cada 6 ou 8 horas, pelo menos como tratamento inicial de infecções sistêmicas produzidas por este micro-organismo.
+Crianças e adolescentes
+A dose habitual para pacientes com mais de uma semana de vida é de 30 mg/kg a intervalos de 6 a 8 horas. A dose recomendada para o tratamento de infecções graves, em pacientes com 2 anos de idade ou mais, é de 50 mg/kg em intervalos de 6 a 8 horas para todos os pacientes, inclusive no tratamento de infecções devido a Pseudomonas aeruginosa. A dose pediátrica máxima não deve exceder a dose máxima recomendada para adultos.
+Insuficiência renal
+Níveis séricos prolongados de aztreonam podem ocorrer em pacientes com insuficiência renal persistente ou transitória.
+Portanto, após uma dose usual inicial, a dosagem de Aztreonam deve ser dividida pela metade em pacientes com clearance de creatinina estimado entre 10 e 30 mL/min/1,73m2 . Quando se dispõe somente do valor da concentração sérica de creatinina, pode-se utilizar a fórmula a seguir (segundo o sexo, peso e idade do paciente) para o cálculo aproximado da depuração de creatinina. A creatinina sérica deve representar um estado de equilíbrio da função renal.
+Homens
+Mulheres
+0,85 x valor obtido acima.
+Para pacientes com insuficiência renal grave, com clearance de creatinina menor que 10 mL/min/1,73m2 , como aqueles que necessitam de hemodiálise, deverão receber inicialmente as doses usuais. A dose de manutenção deverá ser 1/4 da dose inicial usual, administrados a intervalos fixos de 6, 8 ou 12 horas. Em infecções graves ou potencialmente letais, além das doses de manutenção assinaladas, deverá ser administrado 1/8 da dose inicial após cada sessão de hemodiálise.

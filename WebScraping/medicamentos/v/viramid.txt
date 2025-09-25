@@ -1,0 +1,32 @@
+Viramid, para o que é indicado e para o que serve?
+Viramid é indicado no tratamento da infecção do trato respiratório inferior causada pelo vírus sincicial respiratório (VSR). Estudos demonstram que Viramid sob a forma de aerossol é benéfico no tratamento de infecções severas causadas pelo VSR em neonatos e crianças principalmente na presença de doenças cardiovasculares, pulmonares ou imunodeficiência.
+Como o Viramid funciona?
+O mecanismo de ação é desconhecido, apesar de haver evidências de que a inibição de outros vírus de RNA e DNA seja devida à competição da ribavirina pela guanosina na formação do mRNA da cápsula estrutural e/ou interferir com as enzimas responsáveis pela metilação funcional dessas moléculas, que são críticas para a produção das proteínas estruturais do vírus.
+
+
+Quais as contraindicações do Viramid?
+Viramid é contraindicado a pacientes hipersensíveis à ribavirina.
+Este medicamento é contraindicado em crianças que necessitam de ventilação assistida a não ser que o paciente receba monitoramento constante e o equipamento seja mantido. Contudo, pode ocorrer a precipitação da droga no equipamento respiratório o que pode interferir com a segurança e efetividade da ventilação do paciente.
+Este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar grávidas durante o tratamento. Mulheres grávidas ou que possam ficar grávidas não devem ser expostas a este medicamento (Categoria X).
+Viramid pode causar danos fetais e a infecção pelo vírus sincicial respiratório é auto limitada nessa população.
+Viramid não é completamente eliminado da circulação sanguínea durante as quatro primeiras semanas após a administração. Apesar de não haver nenhuma correlação direta, Viramid tem demonstrado ser teratogênico e/ou embrioletal em quase todas as espécies testadas. Contudo, babuínos recebendo doses superiores a 120 mg/kg/dia de Viramid por períodos superiores a 4 dias, a partir de 20 dias da organogênese e durante a gestação, não apresentaram nenhum efeito teratogênico.
+Este medicamento causa malformação ao bebe durante a gravidez.
+
+
+Como usar o Viramid?
+Antes do uso do medicamento, ler as instruções de operação do manual do gerador de micropartículas de aerossol “ICN Small Particle Aerosol Generator (SPAG-2)”. Viramid não deve ser administrado através de nenhum outro aparelho gerador de aerossol, e o SPAG-2 deve ser utilizado apenas para administrar Viramid.
+O tratamento deve ser iniciado o mais precocemente possível e dentro dos 3 primeiros dias a partir da infecção do trato respiratório inferior pelo vírus sincicial respiratório.
+O tratamento precoce durante a infecção severa do trato respiratório inferior é importante para a eficácia do tratamento.
+O tratamento é conduzido continuadamente independente do tempo requerido pelo cuidado de base, por pelo menos 3 e por não mais de 7 dias, e é parte do programa total de tratamento.
+O aerossol é fornecido através de uma câmara de oxigênio acoplada ao gerador de aerossol SPAG-2.
+A administração através de máscara facial ou tenda de oxigênio pode ser necessária caso a câmara não possa ser utilizada (vide o manual do SPAG-2). Contudo, o volume de distribuição e a área de condensação são maiores com a tenda e a eficácia desse método de administração da droga foi avaliado em um pequeno número de pacientes. Viramid não deve ser administrado com outro equipamento gerador de aerossol ou através do mesmo reservatório contendo outros medicamentos sob a forma de aerossol.
+Broncodilatadores sob a forma de aerossol, quando clinicamente indicados, podem ser administrados com o equipamento utilizado para o Viramid SPAG-2 fechado. O medicamento deve ser administrado na concentração recomendada de 20 mg/ml de Viramid como solução inicial no reservatório da unidade do SPAG-2, sendo que a concentração média de aerossol por um período de 12 horas deve ser de 190 microgramas/litro de ar (0,19 mg/l).
+Alternativamente, pode ser administrado pelo método de alta dose e curta duração, onde as 6g de ribavirina contidas em um frasco de Viramid devem ser dissolvidas em 100ml de água para injetáveis ou para inalação, o que resulta em uma solução com concentração de ribavirina de 60mg/ml.
+Esta solução deve ser colocada no reservatório do SPAG-2 e administrada ao paciente em 2 horas, 3 vezes ao dia.
+Após 3 períodos de 2 horas de administração, a solução remanescente no equipamento deve ser descartada e uma nova solução preparada.
+O método de alta dose e curta duração não pode ser utilizado em pacientes que necessitam de ventilação assistida. Viramid na concentração de 60mg/ml pode fechar as válvulas ventilatórias e comprometer a segurança do paciente.
+O VSR pode ser detectado por um método diagnóstico rápido como a demonstração do antígeno viral na secreção do trato respiratório por imunofluorescência ou ELISA antes ou durante as primeiras 24 horas de tratamento. O tratamento pode ser iniciado enquanto os resultados dos exames diagnósticos estão sendo aguardados. Porém, o tratamento não pode ser continuado sem o resultado positivo para infecção pelo VSR. O tratamento deve ser restrito a pacientes hospitalizados e a administração deve ser contínua durante o período de terapia individual determinado pelo médico assistente.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.
+O que devo fazer quando eu me esquecer de usar o Viramid?
+Caso haja esquecimento de administração (dose omitida), administrar o quanto antes.
+Em caso de dúvidas, procure orientação do farmacêutico ou de seu médico, ou cirurgião-dentista.

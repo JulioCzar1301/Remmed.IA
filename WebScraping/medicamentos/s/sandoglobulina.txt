@@ -1,0 +1,111 @@
+Sandoglobulina, para o que é indicado e para o que serve?
+Sandoglobulina® é indicada para:
+Terapia de reposição em:
+Síndromes da imunodeficiência primárias (deficiência de anticorpos desde o nascimento), tais como:
+Ausência de anticorpos (agamaglobulinemia) e deficiência de anticorpos (hipogamaglobulinemia) desde o nascimento;
+Imunodeficiência comum variável;
+Imunodeficiência combinada grave;
+Síndrome de Wiskott-Aldrich.
+Câncer de medula óssea (mieloma) ou doença maligna das células brancas do sangue (leucemia linfocítica crônica) com hipogamaglobulinemia secundária grave e infecções recorrentes.
+Crianças com infecção congênita (desde o nascimento) por HIV e infecções recorrentes.
+Imunomodulação:
+Púrpura trombocitopénica idiopática (doença autoimune caracterizada por uma redução gradual do número de plaquetas no sangue) em crianças ou adultos com alto risco de sangramento ou antes de cirurgia para corrigir a contagem de plaquetas;
+Síndrome de Guillain-Barré (doença rara na qual os nervos periféricos se deterioram);
+Doença de Kawasaki (inflamação das paredes dos vasos sanguíneos, que pode evoluir para aneurismas).
+Transplante alogênico (entre indivíduos diferentes) de medula óssea.
+
+
+Como o Sandoglobulina funciona?
+As imunoglobulinas são importantes componentes do sistema de resposta imune do corpo. As imunoglobulinas são produzidas por células especiais do corpo e agem como inibidores (anticorpos) de substâncias estranhas ao organismo, como bactérias, vírus e toxinas bacterianas. A Sandoglobulina® contém principalmente imunoglobulina G (IgG), com anticorpos contra vários agentes infecciosos. Doses adequadas de Sandoglobulina® podem retornar os níveis baixos de IgG ao normal.
+
+
+Quais as contraindicações do Sandoglobulina?
+Não use Sandoglobulina®:
+Se você for alérgico (hipersensível) a quaisquer componentes do medicamento. Informe seu médico se você for alérgico a algum medicamento ou alimento;
+Se você for alérgico (hipersensível) a imunoglobulinas semelhantes à Sandoglobulina®, especialmente em casos muito raros de deficiência de IgA, quando o paciente tem anticorpos anti-IgA.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Sandoglobulina?
+Sandoglobulina® deve ser armazenada na forma liofilizada e reconstituída antes da utilização.
+A concentração e, consequentemente, o volume da solução de Sandoglobulina® a ser administrado e a natureza do diluente devem ser ajustados de acordo com as necessidades de fluido, eletrólito e calorias em cada situação individual do paciente. Os pacientes tratados com Sandoglobulina® devem ter uma condição de hidratação normal. Uma solução de cloreto de sódio 0,9% (incluída na embalagem), água para injeção ou uma solução de glicose 5% podem ser usadas como diluente. O intervalo de concentração para a solução reconstituída é de 3% a 12%. Note que uma solução a 3% em água é hipotônica (192 mOsm / kg).
+Tabela 1: Osmolalidade (mOsm / kg) em função do solvente e da concentração
+Solvente
+Concentração
+3%
+6% 9% 12%
+Solução de cloreto de sódio 0,9%
+498 690 882
+1074
+Solução de glicose 5%
+444 636 828
+1020
+Água para injetáveis
+192 384 576
+768
+A apresentação 6g de Sandoglobulina® constitue uma solução a 3% quando o liófilo é dissolvido com todo conteúdo do diluente fornecido (NaCl 0,9%). Para preparar concentrações maiores, o volume de diluente é reduzido para dar a concentração desejada, conforme mostrado na tabela abaixo.
+Tabela 2: Volume de Diluente Requerido (mL)
+Concentração
+Dose (6 g)
+3%
+200
+6%
+100
+9%
+66
+12%
+50
+A dissolução e administração devem ser efetuadas utilizando-se o equipamento fornecido na embalagem, que se destina à utilização única. Se o diluente requerido não for fornecido em frascos com o volume necessário, a quantidade requerida de diluente deve ser medida com uma seringa (não incluída na embalagem) e injetada no frasco do pó liofilizado, evitando a formação de espuma. A solução reconstituída não deve ser congelada e descongelada novamente, mas deve ser usada imediatamente após a reconstituição. É preferível utilizar o conjunto de infusão com filtro integrado fornecido com o produto para a infusão da solução. Se isso não for possível, deve-se ter o cuidado de utilizar um conjunto de infusão alternativo, que também inclua um filtro integrado. Peças usadas do frasco do produto não devem ser reutilizadas.
+Os pacientes tratados com Sandoglobulina® pela primeira vez devem receber uma infusão de uma solução a 3% a uma velocidade de 0,5-1 ml/min. (cerca de 10-20 gotas / min.) Se nenhum efeito indesejável ocorrer dentro de 15 minutos, a velocidade de infusão pode ser aumentada para 1-1,5 ml / min. (cerca de 20-30 gotas/min.) nos próximos 15 minutos e depois para 2-2,5 ml / min. (cerca de 40-50 gotas / min.). Em todos os pacientes tratados regularmente com Sandoglobulina® e com boa tolerância, a infusão pode ser iniciada com 1-1,5 ml / min. Se for necessária a infusão de mais de um frasco no mesmo dia, o segundo e todos os frascos subsequentes podem ser administrados a uma concentração mais elevada (até 12%) ou mais rapidamente (aumentar a velocidade lentamente e monitorar o paciente).
+Preparação da solução para infusão (ver figuras 1-4):
+Retirar as tampas plásticas protetoras do frasco de pó liofilizado e do frasco do diluente e desinfetar as duas tampas de borracha com álcool. Remover a tampa de proteção de um lado do dispositivo de transferência e inserir a agulha exposta no frasco do diluente.
+Retirar a segunda tampa de proteção do dispositivo de transferência. Segurar os dois frascos conforme mostrado na fig. 2-a, conectar rapidamente o frasco do diluente no frasco do pó liofilizado e girar a unidade combinada para a posição vertical (Fig. 2b). O vácuo no frasco do liófilo somente pode ser mantido e utilizado para a transferência se os frascos forem conectados rapidamente e colocados imediatamente na posição vertical, o que acelera a dissolução e facilita a transferência. Deixar o diluente fluir para o frasco contendo pó liofilizado.
+Retirar o frasco vazio do diluente, interrompendo assim o vácuo (ver fig. 3). Isto reduzirá a formação de espuma e acelerará o processo de dissolução. Retirar o conjunto de transferência.
+Misturar vigorosamente o frasco contendo pó liofilizado com movimentos circulares, mas sem agitar. Caso contrário, se formará espuma, e esta demora a desaparecer. O pó liofilizado dissolverá dentro de alguns minutos.
+Se apenas uma parte do diluente fornecido com o produto for utilizada, o diluente excedente deve primeiro ser retirado do frasco com uma seringa e agulha estéreis. Depois disso, o solvente remanescente pode ser transferido, como descrito acima, fazendo uso do vácuo no frasco do produto.
+A quantidade de diluente estéril necessária quando outros diluentes ou concentrações maiores de IgG forem utilizadas é apresentada na Tabela 2. Sob condições assépticas, medir a quantidade necessária de diluente com uma seringa estéril e injetar o diluente no frasco contendo pó liofilizado.
+Posologia do Sandoglobulina
+A dose e o intervalo entre as doses dependem da indicação. Na terapia de reposição, pode ser necessária a individualização da dose para cada paciente, dependendo dos parâmetros farmacocinéticos e da resposta clínica. A seguinte posologia pode servir como orientação.
+Terapia de reposição nas síndromes de imunodeficiência primária (deficiência de anticorpos desde o nascimento)
+A posologia deverá assegurar um nível plasmático de IgG (medido antes da próxima infusão) de pelo menos 4 a 6 g/L. São necessários três a seis meses após o início da terapia até que a concentração de equilíbrio seja atingida. A dose inicial recomendada é de 0,4 a 0,8 g/kg de peso corporal, seguida de pelo menos 0,2 g/kg de peso corporal a cada três semanas.
+A dose necessária para manter um nível de IgG no sangue de 6 g/L é da ordem de 0,2 a 0,8 g/kg de peso corporal por mês. O intervalo entre as doses, quando a concentração do estado estacionário é atingida, varia de 2 a 4 semanas. O nível plasmático de IgG deve ser monitorado para ajustar a dose necessária e o intervalo entre as doses.
+Câncer de medula óssea (mieloma) ou doença maligna das células brancas do sangue (leucemia linfocítica crônica) com hipogamaglobulinemia secundária grave e infecções recorrentes; terapia de reposição em crianças com AIDS e infecções recorrentes
+A dose recomendada é de 0,2 a 0,4 g/kg de peso corporal a cada três a quatro semanas.
+Púrpura trombocitopênica idiopática
+Para o tratamento de um episódio agudo, a dose recomendada é de 0,8 a 1 g/kg de peso corporal no primeiro dia, a qual pode ser repetida uma vez dentro de 3 dias se for necessário, ou uma dose diária de 0,4 g/kg de peso corporal por 2 a 5 dias sucessivos. O tratamento pode ser repetido se for clinicamente indicado.
+Síndrome de Guillain-Barré
+A dose recomendada é de 0,4 g/kg de peso corporal/dia, por 3 a 7 dias. A experiência em crianças é limitada.
+Doença de Kawasaki
+A dose recomendada é de 1,6 a 2 g/kg de peso corporal dividida em várias doses durante 2 a 5 dias ou 2 g/kg de peso corporal, como uma única dose. Em ambos os casos, o tratamento deve ser dado em adição ao tratamento com ácido acetilsalicílico.
+Transplante alogênico de medula óssea
+O tratamento com a imunoglobulina humana pode ser usado como parte do regime de preparação e após o transplante.
+Para o tratamento de infecções e prevenção da doença enxerto versus hospedeiro (rejeição de transplante), a posologia deve ser adaptada de paciente para paciente. A dose inicial é normalmente de 0,5 g/kg de peso corporal por semana, começando sete dias antes do transplante e continuando por até 3 meses após o transplante.
+No caso de uma deficiência persistente na produção de anticorpos, uma dose de 0,5 g/kg de peso corporal por mês é recomendada até que os níveis de anticorpos voltem ao normal.
+As recomendações de dose estão resumidas na tabela a seguir:
+Indicação Terapêutica
+Dose
+Intervalo entre as injeções
+Terapia de reposição
+Síndrome da imunodeficiência primária
+Dose inicial: 0,4-0,8 g/kg peso corporal. Doses posteriores: 0,2-0,8 g/kg peso corporal
+A cada 2-4 semanas até obter um nível plasmático de IgG de pelo menos 4-6 g/L
+Síndrome da imunodeficiência secundária
+0,2-0,4 g/kg peso corporal
+A cada 3-4 semanas até obter um nível plasmático de IgG de pelo menos 4-6 g/L
+Crianças com AIDS
+0,2-0,4 g/kg peso corporal
+A cada 3 - 4 semanas
+Imunomodulação
+Púrpura trombocitopênica idiopática
+0,8 -1 g/kg peso corporal ou 0,4 g/kg peso corporal/dia
+No 1° dia; repetir uma vez a dose dentro de 3 dias, se necessário. Durante 2-5 dias
+Síndrome de Guillain-Barré
+0,4 g/kg peso corporal/dia
+Em várias doses durante 2-5 dias, em adição ao tratamento com ácido acetilsalicílico. Em uma dose, em adição ao tratamento com ácido acetilsalicílico
+Transplante alogênico de medula óssea
+Tratamento de infecção e profilaxia da doença enxerto versus hospedeiro
+0,5 g/kg peso corporal
+Semanalmente, começando 7 dias antes do transplante até 3 meses depois
+Deficiência persistente de anticorpos
+0,5 g/kg peso corporal
+Mensalmente até a normalização dos níveis de anticorpos

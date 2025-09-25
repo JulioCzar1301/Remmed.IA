@@ -1,0 +1,180 @@
+Wezenla, para o que é indicado e para o que serve?
+Seringa preenchida
+Psoríase em Placa
+Adultos
+Wezenla é indicado no tratamento da psoríase em placa, moderada a grave, em adultos que não responderam, ou que têm uma contraindicação, ou que são intolerantes a outras terapêuticas sistêmicas, incluindo ciclosporina, metotrexato e radiação ultravioleta A associada à administração de psoraleno (PUVA).
+População Pediátrica
+Wezenla é indicado para o tratamento da psoríase em placa, moderada a grave, em crianças maiores de 6 anos e adolescentes, que estão inadequadamente controlados por, ou que são intolerantes a outras terapias sistêmicas ou fototerapia.
+Artrite Psoriásica
+Wezenla, isolado ou em combinação com metotrexato, é indicado para o tratamento da artrite psoriásica ativa em pacientes adultos, quando a resposta ao tratamento com drogas antirreumáticas modificadoras da doença (DMARD) foi inadequada.
+Doença de Crohn
+Wezenla é indicado para o tratamento de pacientes adultos com Doença de Crohn ativa de moderada a grave, que tiveram uma resposta inadequada, perda de resposta ou que foram intolerantes à terapia convencional ou ao anti-TNF-alfa ou que tem contraindicações médicas para tais terapias.
+Colite Ulcerativa
+Wezenla é indicado para o tratamento de pacientes adultos com Colite Ulcerativa ativa moderada a grave, que tiveram uma resposta inadequada, perda de resposta ou que foram intolerantes à terapia convencional ou à terapia com medicamentos biológicos ou que tem contraindicações para tais terapias.
+Frasco-ampola
+Doença de Crohn
+Wezenla é indicado para o tratamento de pacientes adultos com Doença de Crohn ativa de moderada a grave, que tiveram uma resposta inadequada, perda de resposta ou que foram intolerantes à terapia convencional ou ao anti-TNF-alfa ou que tem contraindicações médicas para tais terapias.
+Colite Ulcerativa
+Wezenla é indicado para o tratamento de pacientes adultos com Colite Ulcerativa ativa moderada a grave, que tiveram uma resposta inadequada, perda de resposta ou que foram intolerantes à terapia convencional ou à terapia com medicamentos biológicos ou que tem contraindicações para tais terapias.
+
+
+Como o Wezenla funciona?
+Ustequinumabe é um anticorpo monoclonal IgG1kappa completamente humano que se liga com alta afinidade e especificidade à subunidade proteica p40 das citocinas humanas: interleucina (IL)-12 e IL-23. Ustequinumabe inibe a bioatividade da IL-12 e da IL-23 humanas impedindo que essas citocinas se liguem ao receptor proteico IL-12Rbeta1 expresso na superfície das células do sistema imunológico. Ustequinumabe não se liga a IL-12 nem a IL-23 pré-ligadas aos receptores de superfície celular IL-12Rbeta1. Assim, não é provável que ustequinumabe contribua para a citotoxicidade mediada por complemento ou anticorpo da célula que tem o receptor.
+A IL-12 e IL-23 são citocinas heterodiméricas secretadas pelas células apresentadoras de antígeno ativadas, como macrófagos e células dendríticas. A IL-12 estimula as células “natural killer” (NK) e conduz a diferenciação das células T CD4+ para o fenótipo de células auxiliares T1 (Th1) e estimula a produção de gamainterferona (INFγ). A IL-23 induz a via da célula auxiliar T17 (Th17) e promove a secreção de IL-17A, IL-21 e IL-22. Os níveis de IL-12 e IL-23 são elevados na pele e no sangue de pacientes com psoríase, e a IL12/23p40 sérica faz a distinção entre pacientes com artrite psoriásica e indivíduos sadios, implicando a IL- 12 e IL-23 na fisiopatologia de doenças inflamatórias psoriásicas. Polimorfismos genéticos nos genes da IL- 23A, IL-23R e IL-12B conferem susceptibilidade a estas doenças. Adicionalmente a IL-12 e a IL-23 são altamente expressas na pele psoriásica lesionada e a indução de INFγ mediada pela IL-12 está correlacionada com a atividade da doença psoriásica. Células T responsivas para IL-23 foram encontradas na êntese em um modelo de artrite inflamatória de camundongo, onde a IL-23 dirige a inflamação da êntese.
+Além disso, há evidência pré-clínica implicando a IL-23 e vias descendentes na erosão óssea e destruição óssea através do aumento do ligante do receptor ativador do fator nuclear-kappa B (RANKL), a qual ativa os osteoclastos.
+Em pacientes com doença de Crohn, IL-12 e IL-23 estão elevadas nos intestinos e gânglios linfáticos. Isto é acompanhado por aumentos séricos dos níveis de INFγ e IL-17A, sugerindo que a IL-12 e IL-23 promovem a ativação do Th1 e Th17 na doença de Crohn. Tanto a IL-12 quanto a IL-23 também podem estimular a produção de TNF-alfa por células T, resultando na inflamação intestinal crônica e lesão das células epiteliais. Associações significativas foram encontradas entre a doença de Crohn e polimorfismos genéticos nos genes IL23R e IL12B, sugerindo um potencial papel causal para a IL-12/23 de sinalização na doença. Isto é suportado pelos dados pré-clínicos que demonstram que a sinalização IL-12/23 é necessária para a lesão intestinal nos modelos de rato para doença inflamatória intestinal.
+Através da ligação às subunidades p40 compartilhadas da IL-12 e IL-23, ustequinumabe exerce seus efeitos clínicos na psoríase, artrite psoriásica, doença de Crohn e na colite ulcerativa pela interrupção das cascatas das citocinas associadas às Th1 e Th17, que são fundamentais para a patologia destas doenças.
+
+
+Quais as contraindicações do Wezenla?
+O uso de Wezenla não é indicado para pessoas com hipersensibilidade grave ao ustequinumabe ou a qualquer um dos excipientes do produto.
+
+
+Como usar o Wezenla?
+Seringa preenchida
+Instruções para uso, manipulação e descarte
+Wezenla deve ser utilizado sob supervisão e orientação médica. Em pacientes pediátricos, é recomendado que Wezenla seja administrado por um profissional da saúde. Wezenla pode ser aplicado por você ou seu cuidador, se o seu médico considerar apropriado, após treinamento adequado na técnica de administração subcutânea e descarte. Durante o tratamento recomenda-se o acompanhamento médico, conforme necessário.
+Os pacientes devem ser instruídos a injetar a quantidade prescrita de Wezenla de acordo com as instruções fornecidas no folheto informativo do paciente.
+Informações importantes
+É importante que você não tente realizar a injeção até que você tenha lido e compreendido completamente estas instruções de uso. 
+Crianças com 12 anos ou mais com psoríase que pesam 60kg ou mais devem usar a seringa preenchida sob supervisão dos pais ou cuidador. 
+Não usar a seringa se o cartucho estiver danificado ou se selo de segurança estiver rompido. 
+Não usar a seringa após data de validade descrita no rótulo. 
+Não chacoalhar a seringa.
+Não remover a tampa da seringa até que você esteja pronto para a injeção.
+Não usar a seringa caso ela tenha sido congelada. 
+Não usar a seringa caso ela tenha sido derrubada em uma superfície rígida. Parte da seringa pode estar quebrada mesmo que não se possa ver a rachadura. Utilizar uma nova seringa e ligar para o Serviço de Atendimento ao Cliente Amgen (SAC). 
+A seringa não contém látex.
+Importante: Mantenha a seringa e coletor de materiais perfurocortantes for a da vista e alcance de crianças.
+Preparação de Wezenla
+Segurar a seringa pelo corpo e removê-la da embalagem;
+Não segurar pela haste do êmbolo, suporte para os dedos ou tampa da agulha;
+Não segurar os clips de proteção da agulha;
+Aguardar 30 minutos para que a seringa atinja temperatura ambiente;
+Deixar a seringa aquecer naturalmente;
+Não aquecer com água quente, no microondas ou radiação solar direta;
+Não chacoalhar a seringa em momento algum;
+Usar a seringa em temperatura ambiente proporciona uma injeção mais confortável;
+Reunir e colocar os itens para sua injeção em uma superfície limpa e bem iluminada.
+Preparando-se para a injeção
+Inspecionar o medicamento. Ele deve estar límpido a levemente opalescente e incolor a amarelo claro;
+Não há problema em ver bolhar de ar;
+Não usar se o medicamento estiver congelado, turvo, sem cor contiver partículas grandes;
+Verificar a data de validade (Val.) e inspecionar a seringa;
+Não usar se ultrapassada a data de validade;
+Não usar a seringa se:
+A tampa estiver ausente ou solta;
+Houver rachaduras ou partes quebradas;
+Tiver sido derrubada em uma superfície rígida.
+Certificar-se de que você está com o medicamento e dose corretos.
+Injetar em um dos locais a seguir:
+Injetar em sua coxa ou abdômen (a pelo menos 5 cm do umbigo);
+Escolher um local diferente para cada injeção;
+Uma outra pessoa pode injetar em sua coxa, abdômen, parte posterior do braço, ou glúteo.
+Importante: Evitar áreas com cicatrizes, estrias ou com a pele sensível, machucada, avermelhada ou enrijecida.
+Lavar as mãos abundantemente com água e sabão;
+Limpar o local da injeção com álcool;
+Deixe sua pele secar naturalmente;
+Não tocar essa área novamente antes de injetar.
+Injetando Wezenla
+Puxe a tampa da agulha enquanto segura o corpo da seringa;
+Importante: Somente retirar a tampa quando você puder injetar imediatamente (dentro de 5 minutos), pois o medicamento pode secar;
+Não torcer ou dobrar a tampa da agulha;
+Nunca colocar a tampa da agulha de volta. Isso pode danificar a agulha;
+Não deixar nada tocar a agulha uma vez que a tampa tiver sido removida;
+Não colocar a seringa em superfície alguma uma vez que a tampa tiver sido removida;
+Não tentar expulsar bolhar de ar. Não há problema em ver bolhas de ar;
+Ver uma gota do medicamento na ponta da agulha é normal;
+Pinçar a pele ao redor do local de aplicação antes da injeção;
+Pinçar a pele entre o polegar e dedo indicador para criar uma prega para injeção;
+Se possível, a prega deve ter cerca de 5 cm de extensão;
+Importante: Continuar pinçando a pele até que a injeção seja finalizada;
+Inserir a agulha na prega pinçada;
+Inserir a agulha na prega pinçada em ângulo reto ou com pelo menos 45 graus;
+Não colocar o dedo sobre a haste do êmbolo enquanto estiver inserindo a agulha, pois isso pode resultar na perda de medicamento.
+Pressionar a ponta do êmbolo para baixo lentamente até que ele alcance a cavidade do dispositivo de segurança da agulha;
+Não puxar o êmbolo de volta em nenhum momento;
+Não remover a seringa até que todo o medicamento tenha sido injetado.
+Manter a ponta do êmbolo pressionada e remover a agulha da pele;
+Manter a ponta do êmbolo pressionada e remover a agulha da pele;
+Despinçar a pele após remover a agulha;
+Retirar seu polegar lentamente da ponta do êmbolo. Isto permitirá que a seringa vazia se mova para cima até que a agulha esteja totalmente coberta pelo protetor da agulha.
+Descartar e finaliza a aplicação de Wezenla;
+Importante: Nunca puxar o protetor da agulha de volta;
+Coloque a seringa e a tampa da agulha usadas no coletor de materiais perfurocortantes;
+Não reutilize a seringa;
+Importante: Não descarte a seringa no lixo comum de casa.
+Verificar o local da injeção
+Não esfregar o local de injeção;
+Se houver sangue, pressione o local da injeção com algodão ou gaze. Aplicar um curativo adesivo, se necessário.
+Dosagem
+Psoríase em placa - Adultos
+Para o tratamento da psoríase em placa Wezenla é administrado por injeção subcutânea. A dose recomendada de Wezenla é 45 mg administrada nas Semanas 0 e 4 e, depois, a cada 12 semanas. A interrupção do tratamento deve ser considerada em pacientes que não apresentem qualquer resposta ao tratamento até as 28 semanas. Alternativamente, a dose de 90 mg pode ser usada em pacientes com peso corpóreo maior que 100 kg, nos mesmos intervalos de tempo.
+Ajuste de dose
+Para pacientes que respondem inadequadamente a 45 mg a cada 12 semanas, pode-se considerar a possibilidade de tratamento com 90 mg a cada 12 semanas. Para pacientes que responderam inadequadamente à posologia de 90 mg a cada 12 semanas, uma dose de 90 mg a cada 8 semanas pode ser considerada.
+Retratamento
+O retratamento com um esquema posológico nas Semanas 0 e 4 após interrupção da terapia mostrou ser seguro e eficaz.
+Artrite psoriásica - Adultos
+A dose recomendada de Wezenla é 45 mg, administrada nas Semanas 0 e 4 e, depois, a cada 12 semanas. Alternativamente, a dose de 90 mg pode ser usada em pacientes com peso corpóreo maior que 100 kg.
+Doença de Crohn e colite ulcerativa
+No regime de tratamento, a primeira dose de Wezenla é administrada por via intravenosa. Para a posologia do regime de dosagem intravenosa, vide bula de Wezenla 130 mg solução injetável.
+A primeira administração subcutânea de 90 mg de Wezenla deve ocorrer na Semana 8 após a dose intravenosa. Depois disso, recomenda-se a administração a cada 12 semanas.
+Os pacientes que não apresentarem resposta adequada nas 8 semanas após a primeira dose subcutânea, podem receber uma segunda dose subcutânea.
+Os pacientes que perderem a resposta na dosagem a cada 12 semanas podem se beneficiar de um aumento na frequência de dosagem a cada 8 semanas.
+Os pacientes podem ser administrados posteriormente a cada 8 semanas ou a cada 12 semanas de acordo com o julgamento clínico.
+Deve-se considerar a interrupção do tratamento em pacientes que não apresentarem evidência de benefício terapêutico 16 semanas após a dose de indução IV ou 16 semanas após a mudança para a dose de manutenção a cada 8 semanas.
+Imunomoduladores e/ou corticosteroides podem ser continuados durante o tratamento com Wezenla. Em pacientes que responderam ao tratamento com Wezenla, os corticosteroides podem ser reduzidos ou descontinuados de acordo com o padrão de tratamento.
+Para a doença de Crohn ou Colite ulcerativa, se o tratamento for interrompido, a retomada do tratamento com a dose subcutânea a cada 8 semanas é segura e eficaz.
+Para a posologia e modo de usar por via intravenosa, vide bula de Wezenla 130 mg solução injetável.
+Psoríase em placa – População pediátrica, 6 anos ou mais
+Para o tratamento de psoríase em placa, Wezenla deve ser administrado por via subcutânea. A dose recomendada de Wezenla é baseada no peso corporal como demonstrado abaixo (Tabela 1). Wezenla deve ser administrado nas Semanas 0 e 4 e depois a cada 12 semanas.
+Tabela 1: Dose Recomendada de Wezenla para psoríase pediátrica
+Peso
+Dose recomendada
+Forma farmacêutica
+≥ 60 a ≤ 100 kg
+45 mg
+Seringa preenchida
+> 100 kg
+90 mg
+Seringa preenchida
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. 
+Não interrompa o tratamento sem o conhecimento de seu médico.
+Frasco-ampola
+Instruções para uso, manipulação e descarte
+Administração por infusão intravenosa
+Wezenla 130 mg frasco-ampola injetável deve ser utilizado apenas para infusão IV. A infusão intravenosa de Wezenla deve ser administrada por profissionais de saúde qualificados.
+Instruções para a diluição de Wezenla 130 mg para infusão IV (Doença de Crohn e colite ulcerativa)
+A solução de Wezenla 130 mg deve ser diluída e preparada para infusão intravenosa por um profissional de saúde, utilizando técnica asséptica.
+Calcular a dose e o número de frascos de Wezenla necessários com base no peso corpóreo do paciente (vide Tabela 1). Cada 26 mL do frasco-ampola de Wezenla contém 130 mg de ustequinumabe. 
+Retirar e em seguida descartar um volume da solução de 0,9% p/v de cloreto de sódio da bolsa de infusão de 250 mL, igual ao volume de Wezenla a ser adicionado (descartar 26 mL de cloreto de sódio para cada frasco-ampola de Wezenla necessário, para 2 frascos descartar 52 mL, para 3 frascos descartar 78 mL, para 4 frascos descartar 104 mL). 
+Retirar 26 mL de Wezenla de cada frasco-ampola necessário e adicioná-lo à bolsa de infusão de 250 mL. O volume final na bolsa de infusão deve ser de 250 mL. Misture delicadamente. 
+Inspecionar visualmente a solução diluída antes da administração. Não a utilize se observar partículas opacas, descoloração ou partículas estranhas. 
+Administrar a solução diluída ao longo de um período de pelo menos uma hora. De acordo com estudos de estabilidade, após diluição em bolsa de infusão com diluente salino 0,9% e 0,45%, Wezenla é estável por um período de até 8 horas a 25ºC. 
+Utilizar apenas um equipo de infusão com um filtro em linha estéril, não pirogênico, de baixa ligação às proteínas (tamanho de poro de 0,2 micrômetros). 
+Não infundir Wezenla concomitantemente a outros agentes pelo mesmo equipo de infusão intravenosa. 
+Cada frasco-ampola é para uso único e qualquer medicamento não utilizado deve ser descartado de maneira adequada.
+Dosagem
+Doença de Crohn e colite ulcerativa
+A solução para infusão de Wezenla é destinada para o uso sob a orientação e supervisão de médicos com experiência no diagnóstico e tratamento da Doença de Crohn e colite ulcerativa. Este só deve ser utilizado para a dose de indução intravenosa.
+O tratamento com Wezenla deve ser iniciado com uma única dose intravenosa com base no peso corporal. A solução de infusão deve ser composta pelo número de frascos de Wezenla 130 mg como especificado na Tabela 1.
+Tabela 1: Dose inicial intravenosa de Wezenla
+Peso corpóreo do paciente no momento da aplicação
+Dose Recomendada(a)
+Número de frasco-ampola de 130 mg de Wezenla
+≤ 55 kg
+260 mg
+2
+> 55 kg a ≤ 85 kg
+390 mg
+3
+> 85 kg
+520 mg
+4
+(a) Aproximadamente 6 mg/kg.
+O tratamento de manutenção subcutânea, deve ser iniciado 8 semanas após a administração da dose de indução intravenosa. Para a posologia do regime subsequente de dosagem subcutânea, vide a bula de Wezenla solução injetável em seringa pré-preenchida (uso subcutâneo).
+Imunomoduladores e/ou corticosteroides podem ser continuados durante o tratamento com Wezenla. Em pacientes que responderam ao tratamento com Wezenla, os corticosteroides podem ser reduzidos ou descontinuados de acordo com o padrão de tratamento.
+Para a doença de Crohn, se o tratamento for interrompido, a retomada do tratamento com a dose subcutânea a cada 8 semanas é segura e eficaz.
+Para a posologia e modo de usar via subcutânea, verificar a bula do medicamento com as apresentações subcutâneas.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. 
+Não interrompa o tratamento sem o conhecimento de seu médico.

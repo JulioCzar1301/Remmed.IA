@@ -1,0 +1,22 @@
+Genvoya, para o que é indicado e para o que serve?
+É indicado para o tratamento de adultos e adolescentes (com 12 anos de idade ou mais, com um peso corporal de, pelo menos, 35 kg), com infeção pelo vírus da imunodeficiência humana do tipo 1 (HIV 1), sem quaisquer mutações conhecidas associadas a resistência à classe dos inibidores da integrase, entricitabina ou tenofovir.
+
+
+Quais as contraindicações do Genvoya?
+CDF de Hemifumarato de Tenofovir Alafenamida + Cobicistate + Elvitegravir + Entricitabina não deverá ser administrado em pacientes menores de 12 anos de idade ou que pesem < 35 kg.
+O medicamento não é recomendado para uso em pacientes com insuficiência hepática grave.
+A CDF de Hemifumarato de Tenofovir Alafenamida + Cobicistate + Elvitegravir + Entricitabina não foi estudada em pacientes infectados com HIV com coinfecção crônica de HBV ou HCV. A descontinuação da terapia com o Hemifumarato de Tenofovir Alafenamida + Cobicistate + Elvitegravir + Entricitabina em pacientes coinfectados com HIV-1 e HBV pode ser associada a exacerbações agudas graves da hepatite.
+
+
+Como usar o Genvoya?
+O medicamento deve ser administrado por via oral.
+A dose recomendada é um comprimido 1x ao dia.
+Populações especiais
+Insuficiência renal
+Nenhuma diferença clínica relevante na exposição a TAF foi observada entre indivíduos saudáveis e indivíduos com insuficiência renal grave. Nenhuma diferença clínica relevante na farmacocinética de EVG ou COBI foi observada entre indivíduos saudáveis e indivíduos com insuficiência renal grave. A exposição da FTC após a administração de Hemifumarato de Tenofovir Alafenamida + Cobicistate + Elvitegravir + Entricitabina em indivíduos com eGFRCG de 30 a 69 mL/min foi comparável ao que é mostrado em indivíduos com insuficiência renal leve (50-80 mL/min) que não necessitam de ajuste de dose. No geral, o Hemifumarato de Tenofovir Alafenamida + Cobicistate + Elvitegravir + Entricitabina pode ser administrado uma vez por dia sem ajuste da dose em pacientes com insuficiência renal leve ou moderada (eGFRCG ≥ 30mL/min). Pacientes com insuficiência renal grave (eGFRCG < 30mL/min) não foram estudados.
+Insuficiência hepática
+Não foram observadas diferenças clinicamente relevantes na farmacocinética do TAF ou TFV em indivíduos com insuficiência hepática leve a moderada, portanto, não é necessário ajuste da dose de TAF em pacientes com insuficiência hepática leve a moderada. O efeito de insuficiência hepática severa na farmacocinética do TAF não foi estudado. Nenhuma diferença clínica relevante na PK de EVG ou COBI foi observada entre indivíduos com insuficiência hepática moderada e indivíduos saudáveis (Child-Pugh Classe B). Não são necessários ajustes na dosagem de EVG ou COBI para pacientes com insuficiência hepática leve a moderada. A PK de EVG e COBI em indivíduos com insuficiência hepática severa (Child-Pugh Classe C) não foi avaliada. A farmacocinética de FTC não foi estudada em pacientes com insuficiência hepática.
+Gênero
+Análises populacionais de farmacocinética não indicaram influência estatisticamente significativa ou clinicamente relevante na exposição ao TAF com base no sexo. Foi observado um efeito modesto e estatisticamente significativo do sexo nos parâmetros farmacocinéticos de TFV, entretanto o intervalo de exposição ao TFV em todos os indivíduos do sexo masculino e feminino foi parecido, e por isso as relações observadas não foram consideradas clinicamente relevantes.
+Raça
+Análises populacionais de farmacocinética não indicaram influência estatisticamente significativa ou clinicamente relevante na exposição ao TAF com base na raça. Foi observado um efeito modesto e estatisticamente significativo da etnia (afrodescendente versus não afrodescendente) nos parâmetros farmacocinéticos de TFV, entretanto o intervalo de exposição ao TFV em todas as etnias foi parecido, e por isso as relações observadas não foram consideradas clinicamente relevantes.

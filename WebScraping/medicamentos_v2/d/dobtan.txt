@@ -1,0 +1,68 @@
+Dobtan, para o que é indicado e para o que serve?
+Dobtan é indicado para o tratamento de insuficiência cardíaca aguda.
+
+
+Como o Dobtan funciona?
+A dobutamina age diretamente no coração, aumentando a sua força de contração. O início da ação da dobutamina ocorre 1 a 2 minutos após o início da administração, entretanto, podem ser necessários até 10 minutos quando a velocidade de infusão é baixa.
+
+
+Quais as contraindicações do Dobtan?
+Dobtan não deve ser usado por pacientes que apresentam estenose subaórtica hipertrófica idiopática ou cardiomiopatia hipertrófica obstrutiva (caracterizada pelo espessamento do músculo do ventrículo do coração), feocromocitoma (tumor formado por células produtoras de substâncias adrenérgicas, como a adrenalina), arritmias cardíacas (alteração no ritmo dos batimentos do coração) ou reações alérgicas à dobutamina.
+
+
+Como usar o Dobtan?
+Dobtan é para uso injetável e, portanto, deve ser administrado em serviços profissionais autorizados. Deve ser administrado por via endovenosa, exclusivamente por infusão endovenosa.
+A solução deve ser diluída antes da administração.
+Deve ser administrado por via endovenosa, exclusivamente por infusão endovenosa.
+Abertura da ampola
+Segure a ampola inclinada a um ângulo de aproximadamente 45°;
+Apoie a ponta dos polegares na ampola, conforme figura abaixo;
+Com o dedo indicador envolva a parte superior da ampola, pressionando-a para trás até sua abertura, conforme figura abaixo.
+Diluição
+Diluente
+Glicose 5%; cloreto de sódio 0,9%; glicose 5% em cloreto de sódio 0,9%; glicose 10%; ou em Ringer Lactato.
+As diluições devem ser feitas considerando as necessidades de fluidos do paciente.
+Concentrações das soluções
+A ampola de Dobtan contém uma solução com 250 mg de dobutamina em 20 mL.
+Diluído para 1.000 mL obtém-se a concentração 250 mcg/mL.
+Diluído para 500 mL obtém-se a concentração 500 mcg/mL.
+Diluído para 250 mL obtém-se a concentração 1.000 mcg/mL.
+Obs.: A concentração de dobutamina não deve ultrapassar 5.000 mcg/mL (250 mg de dobutamina diluídos para 50 mL).
+Aparência da solução diluída
+Incolor.
+Soluções contendo dobutamina podem apresentar uma cor rósea, o que indica leve oxidação da formulação, mas sem perda da potência desde que os parâmetros de estabilidade sejam respeitados.
+Estabilidade após diluição
+Temperatura ambiente (entre 15°e 30°C)
+24 horas.
+O medicamento não deve ser congelado devido à possibilidade de cristalização.
+Medicamentos endovenosos devem ser inspecionados visualmente e não devem ser usados se houver presença de material particulado.
+A administração de dobutamina deve ser feita através de aparelhos capazes de controlar a velocidade de infusão, para evitar a administração de doses maciças.
+Incompatibilidades
+A dobutamina é incompatível com soluções alcalinas, portanto, não misturar com produtos como a injeção de bicarbonato de sódio a 5%. Não usar a dobutamina em conjunto com outros medicamentos ou diluentes contendo bissulfito de sódio e etanol.
+A dobutamina é também incompatível com:
+Succinato sódico de hidrocortisona; cefazolina; cefamandol; cefalotina neutra; penicilina; ácido etacrínico e heparina sódica.
+Compatibilidades
+Quando administrada por tubos tipo Y, a dobutamina é compatível com dopamina, lidocaína, verapamil, cloreto de potássio.
+Posologia do Dobtan
+Atenção: As doses são dadas em termos de dobutamina.
+Doses e velocidades de infusão
+Para aumentar o débito cardíaco geralmente se emprega uma dose de 2,5 a 10 mcg/kg/min. Recomendase iniciar com a dose menor (2,5 mcg/kg/min). O ajuste das doses e a duração do tratamento são determinados pelo médico, de acordo com a resposta clínica individual. Alguns pacientes podem necessitar de doses mais elevadas que as usuais.
+Adultos
+A infusão de dobutamina deve ser iniciada com a dose mais baixa (2,5 mcg/kg/min) e titulada a intervalos de alguns minutos, guiada pela resposta do paciente. As doses geralmente se situam entre 2,5 a 10 mcg/kg/min na maioria dos pacientes.
+Frequentemente doses até 20 mcg/kg/min são necessárias para melhora adequada da hemodinâmica. Em raras ocasiões doses de até 40 mcg/kg/min foram reportadas.
+Na Tabela 1 são fornecidas as velocidades de infusão, em função das concentrações e das doses desejadas de dobutamina.
+Crianças
+Doses geralmente de 5 a 20 mcg/kg/min, mas considerando as particularidades da resposta clínica.
+Na Tabela 1 são fornecidas as velocidades de infusão, em função das concentrações e das doses desejadas de dobutamina.
+Tabela 1 – Velocidade de infusão em função da concentração e da dose desejada de dobutamina
+Dobtan Concentração da solução
+Dose desejada (dobutamina) mcg/kg/min 250 mcg/mL 500 mcg/mL 1.000 mcg/mL
+Velocidade da infusão (mL/kg/min)*
+2,5 0,01 0,005 0,0025
+5 0,02 0,01 0,005
+7,5 0,03 0,015 0,0075
+10 0,04 0,02 0,01
+12,5 0,05 0,025 0,0125
+15 0,06 0,03 0,015
+*É a velocidade (em mL/kg/min) necessária para proporcionar a dose desejada de dobutamina referida na coluna da esquerda. Observar que são fornecidos números (mL/kg/min) para cálculo das velocidades para as três principais diluições utilizadas de dobutamina (250 mcg/mL; 500 mcg/mL e 1.000 mcg/mL).
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

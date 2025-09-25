@@ -1,0 +1,52 @@
+Zevuxa, para o que é indicado e para o que serve?
+Dasatinibe é indicado para o tratamento de adultos com leucemia mieloide crônica¹ cromossomo Philadelphia-positivo (LMC Ph+) na fase crônica recém-diagnosticada.
+Dasatinibe é indicado para o tratamento de adultos com leucemia mieloide crônica1 cromossomo Philadelphia-positivo (LMC Ph+) nas fases crônica, acelerada ou blástica mieloide /linfoide com resistência ou intolerância à terapia anterior incluindo imatinibe.
+Dasatinibe também é indicado para o tratamento de adultos com leucemia linfoblástica aguda² cromossomo Philadelphia-positivo (LLA Ph+) com resistência ou intolerância à terapia anterior.
+¹ CID C92.1 – Leucemia mieloide crônica.
+² CID C91.0 – Leucemia linfoblástica aguda.
+
+
+Quais as contraindicações do Zevuxa?
+Dasatinibe é contraindicado em pacientes com hipersensibilidade ao Dasatinibe ou a qualquer outro componente da formulação.
+
+
+Como usar o Zevuxa?
+A dose inicial recomendada de Dasatinibe para Leucemia Mieloide Crônica Cromossomo Philadelphia-positivo (LMC Ph+) na fase crônica é 100 mg administrada oralmente uma vez ao dia. A dose inicial recomendada de Dasatinibe para Leucemia Mieloide Crônica Cromossomo Philadelphia-positivo (LMC Ph+) na fase acelerada, blástica mieloide /linfoide, ou para Leucemia Linfoblástica Aguda Cromossomo Philadelphia-positivo (LLA Ph+) é de 140 mg administrada oralmente uma vez ao dia. Os comprimidos não devem ser esmagados ou cortados. Eles devem ser ingeridos inteiros. Dasatinibe pode ser administrado junto ou não com a alimentação, pela manhã ou à noite.
+Em estudos clínicos, o tratamento com Dasatinibe foi continuado até a progressão da doença ou até que o paciente não tolerasse mais o medicamento. O efeito da suspensão do tratamento na evolução da doença a longo prazo após atingir-se uma resposta citogenética (incluindo resposta citogenética completa [RCC]) ou resposta molecular maior (RMM) não foi investigado.
+Modificação da dose
+O aumento ou redução da dose é recomendado baseado na resposta e tolerabilidade individual do paciente.
+Concomitantemente com fortes indutores da CYP3A4
+O uso concomitante de um forte indutor da CYP3A4 pode diminuir as concentrações plasmáticas de Dasatinibe e deve ser evitado (exemplo: dexametasona, fenitoína, carbamazepina, rifampina, rifabutina, fenobarbital). Erva de São João pode diminuir as concentrações plasmáticas de Dasatinibe de maneira imprevisível e deve ser evitada. Se fortes indutores da CYP3A4 devem ser co-administrados aos pacientes, baseado nos estudos farmacocinéticos, um aumento na dose de Dasatinibe deve ser considerado. Se a dose de Dasatinibe for aumentada, o paciente deve ser cuidadosamente monitorado para a toxicidade.
+Concomitantemente com fortes inibidores da CYP3A4
+Inibidores da CYP3A4 (exemplo: cetoconazol, itraconazol, claritromicina, atazanavir, indinavir, nefazodona, nelfinavir, ritonavir, saquinavir, telitromicina, e voriconazol) podem aumentar a concentração plasmática de Dasatinibe. Suco de toranja (grapefruit) também pode aumentar a concentração plasmática de Dasatinibe e deve ser evitado.
+A escolha de medicação concomitante alternativa com mínimo ou nenhum potencial para inibição enzimática, se possível, é recomendada. Se Dasatinibe precisar ser administrado com um inibidor potente da CYP3A4, um decréscimo da dose deve ser considerado. Baseado em estudos farmacocinéticos, um decréscimo para 20 mg diários deve ser considerado para pacientes tomando 100 mg por dia de Dasatinibe. Para pacientes tomando 140 mg por dia de Dasatinibe, um decréscimo para 40 mg por dia deve ser considerado.
+Essas reduções na dose de Dasatinibe são previstas para ajustar a área sob a curva (AUC) para a faixa observada sem inibidores de CYP3A4. No entanto, não existem dados clínicos com esses ajustes de dose em pacientes recebendo fortes inibidores de CYP3A4. Se Dasatinibe não é tolerado após a redução da dose, ou o forte inibidor de CYP3A4  deve ser descontinuado, ou o tratamento com Dasatinibe deve ser interrompido até que o tratamento com o inibidor seja terminado. Quando o forte inibidor é descontinuado, um período de eliminação (washout) de aproximadamente uma semana deve ser considerado antes que a dose de Dasatinibe seja aumentada.
+Escalonamento da dose
+Em estudos clínicos realizados com pacientes adultos com LMC Ph+ e LLA Ph+, o escalonamento da dose para 140 mg uma vez ao dia (LMC Ph+ fase crônica) ou 180 mg uma vez ao dia (LMC Ph+ fase avançada e LLA Ph+) foi permitido para os pacientes que não atingiram uma resposta hematológica ou citogenética na dose inicial recomendada.
+Ajuste da dose para reações adversas
+Mielossupressão
+Em estudos clínicos, a mielossupressão foi tratada com a interrupção da dose, redução da dose ou suspensão da terapia em estudo. O fator de crescimento hematopoiético tem sido utilizado em pacientes com mielossupressão resistente. Transfusão de plaquetas e transfusão de hemácias foram utilizadas conforme apropriado. As diretrizes para modificação de dose estão resumidas na tabela abaixo.
+Tabela 7: Ajustes da Dose para Neutropenia e Trombocitopenia:
+LMC Ph+ Fase crônica (dose inicial 100 mg uma vez ao dia) CNA* < 0,5 × 109/L ou Plaquetas < 50 109/L 1. Suspender Dasatinibe até CNA ≥1,0 × 109/L e plaquetas ≥ 50 × 109/L.
+  2. Recomeçar o tratamento com Dasatinibe na dose original inicial se houver recuperação em ≤ 7 dias.
+3. Se as plaquetas < 25 × 109/L ou recorrência de CNA < 0,5× 109/L por > 7 dias, repetir a Etapa 1 e reiniciar o Dasatinibe em dose reduzida de 80 mg uma vez ao dia (segundo episódio) ou descontinuá-lo (terceiro episódio).
+LMC Ph+ Fase Acelerada, LMC Ph+ Fase Blástica e LLA Ph+ (dose inicial 140 mg uma vez ao dia) CNA* < 0,5 × 109/L ou Plaquetas < 10 × 109/L
+1. Verificar se a citopenia está relacionada com a leucemia (aspirado ou biópsia de medula óssea).
+2. Se a citopenia não estiver relacionada com a leucemia, suspender Dasatinibe até CNA ≥ 1,0 × 109/L e plaquetas ≥ 20 × 109/L e reiniciar na dose original inicial.
+3. No caso de recorrência da citopenia, repetir Etapa 1 e reiniciar Dasatinibe na dose reduzida de 100 mg uma vez ao dia (segundo episódio) ou 80 mg uma vez ao dia (terceiro episódio).
+4. Se a citopenia estiver relacionada com a leucemia, considere o escalonamento da dose para 180 mg uma vez ao dia.
+*CNA: Contagem de neutrófilos absolutos.
+Reações adversas não-hematológicas
+Caso haja o desenvolvimento de reações adversas não-hematológicas graves com o uso do Dasatinibe, o tratamento deve ser suspenso até a resolução ou melhora do evento. Então o tratamento pode ser reiniciado conforme adequado em uma dose reduzida dependendo da gravidade inicial e da recorrência do evento.
+Se uma reação adversa não-hematológica moderada, Grau 2, se desenvolver com Dasatinibe, interromper o tratamento até a resolução do evento ou retorno à linha basal. Retomar com a mesma dose se for primeira ocorrência e com uma dose reduzida se for um evento recorrente.
+Se uma reação adversa não-hematológica severa, Grau 3 ou 4, se desenvolver com Dasatinibe, o tratamento deve ser suspenso até a resolução do evento. Depois da resolução, o tratamento pode ser retomado conforme apropriado com uma dose reduzida dependendo da severidade inicial do evento. Para pacientes com LMC na fase crônica que receberam 100 mg uma vez ao dia, é recomendada a redução da dose para 80 mg uma vez ao dia com uma redução maior de 80 mg uma vez ao dia para 50 mg uma vez ao dia, se necessário. Para pacientes com LMC em fase avançada ou LLA Ph+ que receberam 140 mg uma vez ao dia, é recomendada a redução de dose para 100 mg uma vez ao dia com uma redução maior de 100 mg uma vez ao dia para 50 mg uma vez ao dia, se necessário.
+Derrame pleural
+Se um derrame pleural é diagnosticado, interromper Dasatinibe até o paciente estar assintomático ou tiver retornado à linha basal. Se o episódio não melhorar dentro de aproximadamente uma semana, considerar o uso de diuréticos ou corticosteroides ou ambos concomitantemente. Depois da resolução do primeiro episódio, considerar a reintrodução do Dasatinibe na mesma dose. Depois da resolução de um episódio recorrente, reintroduzir o Dasatinibe em uma dose reduzida. Depois da resolução de um episódio severo (Grau 3 ou 4), o tratamento pode ser retomado com uma dose reduzida apropriada dependendo da severidade do evento.
+Manuseio e Descarte
+Procedimentos para o manuseio correto e descarte de medicamentos contra o câncer devem ser considerados. Foram publicadas diversas diretrizes sobre o assunto.
+Dasatinibe comprimidos consiste de um comprimido central (contendo a substância ativa), revestido por uma camada de filme para impedir a exposição dos profissionais de saúde à substância ativa.
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+Mulheres grávidas devem evitar a exposição aos comprimidos amassados ou quebrados.
+Risco de uso por via de administração não recomendada
+Para segurança e eficácia desta apresentação, Dasatinibe não deve ser administrado por vias não recomendadas. A administração deve ser somente pela via oral.
+Este medicamento não deve ser partido, aberto ou mastigado.

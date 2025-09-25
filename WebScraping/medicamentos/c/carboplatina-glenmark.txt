@@ -1,0 +1,44 @@
+Carboplatina Glenmark, para o que é indicado e para o que serve?
+Carcinoma do ovário de origem epitelial, carcinoma de pequenas células do pulmão, carcinoma epidermóide das vias aéreas e digestivas superiores.
+
+
+Quais as contraindicações do Carboplatina Glenmark?
+Antecedentes alérgicos à carboplatina ou a outros produtos contendo platina ou manitol;
+Durante gravidez e aleitamento;
+Pacientes com supressão medular ou sangramento severos.
+
+
+Como usar o Carboplatina Glenmark?
+Reconstituição da carboplatina
+Imediatamente antes do uso, o conteúdo do frasco-ampola deve ser diluído em água para injeção, glicose 5% para injeção ou soro fisiológico 0,9% para injeção, com concentração final de 10 mg/ml. Carboplatina pode ser diluída até concetrações de 0,5 mg/ml.
+Estabilidade das soluções reconstituídas
+As soluções reconstituídas de carboplatina são estáveis durante 8 horas a 25ºC. Drogas de uso parenteral devem ser minuciosamente inspecionadas visualmente quanto a particulas suspensas antes da administração.
+Incompatibilidades
+O alumínio reage com a carboplatina formando precipitados e levando à perda da potência; portanto, agulhas ou instrumentos de uso intravenoso contendo partes em alumínio que possam entrar em contato com a droganão devem ser usados para preparação ou administração de carboplatina.
+Cuidados de administração
+Esta preparação é destinada somente para uso intravenoso, geralmente por infusão, durante 15 minutos ou mais. Pode ser administrada em pacientes de ambulatório desde que não se requeira hidratação.
+Como em toda preparação de solução citotóxica, certas precauções especiais devem ser seguidas para a segurança no manuseio e descarte.
+A preparação da droga deverá ser feita em área restrita, o ideal é manipulá-la em fluxo laminar vertical identificado (Cabine de Segurança Biológica – Classe II). A superfície de trabalho deverá estar coberta com plástico descartável revestida por papel absorvente.
+Devem ser utilizadas roupas protetoras adequadas, tais como luvas descartáveis, óculos de segurança, vestimentas e máscaras descartáveis. Em caso de contato com os olhos, lavar com grande quantidade de água ou solução fisiológica.
+Todos os instrumentos e seringas a serem usados devem possuir acessórios Luer-Lock. Uma possível formação de aerossóis pode ser reduzida pelo uso de agulhas de largo calibre e/ou agulhas hipodérmicas com abertura de escape.
+Posologia do Carboplatina - Glenmark
+Carcinoma ovariano avançado
+Tratamento inicial
+Em pacientes com carcinoma ovariano avançado, a carboplatina em combinação com outras drogas é recomendada na dose de 300 mg/m2 I.V., no 11º dia de cada 4 semanas por 6 ciclos.
+Tratamento secundário
+A carboplatina, como monoterapia, tem sido eficaz em pacientes com carcinoma ovariano. A dosagem recomendada é de 360 mg/m2 I.V., recorrência no 11º dia de cada 4 semanas.
+Metástase de carcinoma de pequenas células do pulmão
+A dose recomendada é de 400 mg/m2, dose única I.V., administrada por infusão rápida, por curto período de tempo (15 - 60 min). A terapia não pode ser repetida antes de 4 semanas após o tratamento prévio com carboplatina. O uso ideal em combinação com outros agentes mielossupressores requer ajuste de dose de acordo com a dieta e esquema posológico adotado.
+Ajuste de dosagem
+Recomenda-se uma redução inicial na dose de 20 a 25%, quando os pacientes apresentam fatores de risco, como tratamento mielossupressor prévio e capacidade física diminuída (ECOG-Zubrod -4 ou Karnofsky abaixo de 80%).
+Recomenda-se determinar o nadir hematológico semanalmente para reajuste posológico futuro.
+Pacientes com Disfunção Renal
+Pacientes com clearance de creatinina abaixo de 60 ml/min apresentam maior risco de supressão severa da medula óssea. E em pacientes com lesão renal que receberam terapia única com carboplatina, a incidência de leucopenia, neutropenia ou trombocitopenia severas tem sido em torno de 25% quando foram utilizadas modificações de dosagem, conforme tabela abaixo.
+Clearance de creatinina basal
+Dose inicial recomendada
+41-59 ml/min
+250 mg/m2
+16-40 ml/min
+200 mg/m2
+Recomenda-se que estas doses sejam aplicadas para início de tratamento. As doses subsequentes podem ser ajustadas de acordo com a tolerância do paciente, baseadas no grau da supressão da medula óssea.
+Em geral, ciclos intermitentes de carboplatina não devem ser repetidos até que a contagem de neutrófilos seja no mínimo 2.000 células/mm3 e a de plaquetas, 100.000 células/ mm3.

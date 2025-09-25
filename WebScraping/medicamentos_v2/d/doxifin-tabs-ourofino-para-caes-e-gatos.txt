@@ -1,0 +1,50 @@
+Doxifin Tabs Ourofino para Cães e Gatos, para o que é indicado e para o que serve?
+Doxifin Tabs é um antibiótico à base de doxiciclina em formulação palatável. Pertencente à classe das tetraciclinas, é conhecida por sua boa eficácia contra um amplo espectro de bactérias, especialmente organismos intracelulares. Sua melhor solubilidade lipídica a faz atingir maiores concentrações intracelulares comparada a outras tetraciclinas.
+Com ação bacteriostática, Doxifin Tabs é indicado para o tratamento de diversas enfermidades que acometem cães e gatos, causadas pelos seguintes agentes etiológicos sensíveis à doxiciclina:
+Bordetella bronchiseptica, Corynebacterium auriscanis, Enterococcus faecalis, Escherichia coli, Fusobacterium nucleatum, Haemophilus haemoglobinophilus, Klebsiella pneumoniae, Pasteurella multocida, Porphyromonas gulae, Salmonella Typhimurium, Staphylococcus aureus, Staphylococcus intermedius, Staphylococcus pseudointermedius, Streptococcus canis e Streptococcus dysgalactiae.
+
+
+Como o Doxifin Tabs Ourofino para Cães e Gatos funciona?
+Farmacodinâmica
+As tetraciclinas são antimicrobianos bacteriostáticos de amplo espectro com ação em bactérias Gram-positivas e Gram-negativas, incluindo alguns anaeróbios; para riquetsias, clamídias, micoplasmas e também para alguns protozoários. Sua ação se deve a uma conjunção sobre a subunidade 30S do ribossoma bacteriano, bloqueando a ligação do aminoacil-tRNA ao sítio aceptor no complexo mRNA-ribossoma. Este bloqueio impede efetivamente a adição de novos aminoácidos à cadeia peptídica em crescimento, inibindo a síntese de proteínas das células bacterianas.
+Farmacocinética
+Cerca de 95% da Doxiciclina é absorvida após administração oral e devido a sua alta lipossolubilidade, alcança excelentes níveis de distribuição e penetração na maioria dos líquidos e tecidos orgânicos. Também possui maior capacidade de ligação a proteínas plasmáticas do que outras tetraciclinas, resultando em uma meia-vida prolongada em humanos e animais.
+A Doxiciclina é eliminada quase que exclusivamente pelas fezes através de rotas não-biliares em uma forma inativa. Sua eliminação será mais lenta, resultando em níveis séricos persistentes.
+Diferentemente de outros antimicrobianos de sua classe, a presença de alimento no estômago não interfere na absorção da Doxiciclina.
+Para determinação da eficácia do produto frente aos microrganismos de interesse, realizou-se a determinação da farmacocinética do Doxifin Tabs, e os resultados e gráficos com a curva de farmacocinética obtida seguem abaixo:
+Parâmetros Dose de 10 mg de Doxiciclina por kg de peso vivo - via oral
+Cães Gatos
+Tmax (horas) 4,17 ± 3,12 3,67 ± 2,07
+Cmax (ng/mL) 1995,87 ± 911,49 11703,33 ± 3298,14
+T ½ (horas) 14,7 ± 13,24 5,51 ± 0,81
+ASC0-t (ng-hr/mL) 21500,33 ± 5606,89 94438,26 ± 23350,18
+T>CIM (%) 100 100
+ASC/CIM (%) 43,0 e 716,7 188,9 e 3147,9
+Tmax: Tempo para atingir a concentração máxima;
+Cmax: Concentração máxima;
+T ½: Meia-vida de eliminação;
+ASC0-t: Área sob a curva de concentração plasmática;
+T>CIM: Tempo no qual as concentrações sanguíneas permanecem acima da CIM do patógeno;
+ASC/CIM: Relação entre área sob a curva e CIM;
+Gráfico 1: Curva de concentração plasmática média da Doxiciclina em cães tratados com Doxifin Tabs e valores de CIM obtidos in vitro (dados em escala logarítimica para facilitar visualização). Determinação do alcance de CIM e T>CIM por análise visual direta.
+Gráfico 2: Curva de concentração plasmática média da Doxiciclina em gatos tratados com Doxifin Tabs e valores de CIM obtidos in vitro (dados em escala logarítimica para facilitar visualização). Determinação do alcance de CIM e T>CIM por análise visual direta.
+A Doxiciclina é um fármaco com ação tempo-dependente e efeito pós-antibiótico, sendo a avaliação de sua eficácia baseada nas razões AUC/CIM, que deve ser ≥ 40% e T>CIM, que deve ser ≥ 50%.
+
+
+Quais as contraindicações do Doxifin Tabs Ourofino para Cães e Gatos?
+Não administrar em animais com histórico de hipersensibilidade à doxiciclina. Não administrar para animais com menos de 30 dias de idade.
+Não foram realizados estudos de segurança com animais prenhes ou em fase de lactação.
+
+
+Como usar o Doxifin Tabs Ourofino para Cães e Gatos?
+Doxifin Tabs deve ser oferecido ao animal, de acordo com a dosagem preconizada para o seu peso corporal, diretamente na mão do proprietário ou juntamente com ração ou outros alimentos, não havendo a necessidade de jejum prévio ou qualquer alteração na dieta para a sua administração. A eficácia de antimicrobianos depende da sensibilidade dos microrganismos aos princípios ativos que compõem o produto e do atendimento adequado às recomendações do médico-veterinário que prescreveu o medicamento, como dose, intervalo de administração e tempo de tratamento.
+Dosagem
+Doxifin Tabs possui três diferentes apresentações, sendo cada uma delas indicada para uma faixa de peso dos animais a serem tratados. A dose terapêutica da doxiciclina é de 10 mg/kg de peso corporal, devendo ser administrada uma vez ao dia por sete dias consecutivos, ou ainda, no caso de tratamento de erliquiose, por 28 dias consecutivos.
+Característica Apresentação Dose
+Para gatos 50 mg ½ comprimido para gatos com até 2,5 kg
+1 comprimido para gatos entre 2,6 e 5 kg
+Para cães de pequeno porte 50 mg 1 comprimido para 5 kg
+Para cães de médio porte 100 mg 1 comprimido para 10 kg
+Para cães de grande porte 200 mg 1 comprimido para 20 kg
+Obs.: A partição dos comprimidos deve ser realizada apenas ao meio, respeitando-se o sulco presente nos comprimidos.
+O acompanhamento do médico-veterinário durante e após o término do tratamento da erliquiose é necessário para minimizar as chances de recidiva da erliquiose. Porém, deve-se diferenciar a existência de recidivas com a reinfestação pelo contato com carrapatos portadores de E. canis e considerar a prevenção de infestações por carrapatos.

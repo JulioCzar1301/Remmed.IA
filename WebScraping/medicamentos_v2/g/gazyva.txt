@@ -1,0 +1,45 @@
+Gazyva, para o que é indicado e para o que serve?
+Leucemia Linfocítica Crônica (LLC)
+Gazyva® está indicado, juntamente com outro medicamento chamado clorambucila, para tratar pacientes adultos portadores de leucemia linfocítica crônica, que não tenham recebido outro medicamento anteriormente e que apresentem comorbidades (ocorrência simultânea de dois ou mais problemas de saúde em um mesmo indivíduo), tornando-os não elegíveis ao tratamento baseado na dose plena do medicamento fludarabina.
+Linfoma Folicular
+Gazyva® está indicado para o tratamento de portadores de linfoma folicular que ainda não tenham sido tratados, juntamente com outros medicamentos e depois tomado sozinho em terapia de manutenção, em pacientes que respondem ao tratamento.
+Gazyva® está indicado, juntamente com outro medicamento chamado bendamustina e depois tomado sozinho, em terapia de manutenção, para tratamento de portadores de linfoma folicular que não tenham respondido ou que tenham recaído durante ou depois do tratamento com rituximabe ou com um esquema de tratamento contendo rituximabe.
+
+
+Como o Gazyva funciona?
+Gazyva® é um anticorpo do tipo IgG1 fabricado por glicoengenharia. Ele se liga a um antígeno que fica na superfície de algumas células brancas do sangue chamadas de linfócitos B que podem ser não malignas ou malignas, mas não atinge as células-tronco do sistema formador de células do sangue nem outras células de tecidos normais. Por serem produzidos por glicoengenharia, esses anticorpos apresentam uma atividade mais potente.
+Em estudos não clínicos, isto é, que não foram realizados em seres humanos, Gazyva® provocou a morte direta das células e colaborou na toxicidade celular e fagocitose (englobamento de células pelo sistema de defesa) que dependem de anticorpos recrutando células imunoefetoras (células com atividade imunológica). Também atuou na toxicidade que depende de complemento. Isso se traduz em uma redução maior das células do tipo B e maior eficácia antitumoral em animais.
+Em um estudo clínico realizado com pacientes tratados com Gazyva® , houve redução de células B (número de células B CD19+ < 0,07 x 109/L) no final do período de tratamento e o número continuou baixo durante o período de recuperação dos primeiros 6 meses. A recuperação de células B foi observada entre 12 a 18 meses de acompanhamento em 35% (14 de 40) pacientes sem doença progressiva e 13% (5 de 40) com doença progressiva.
+
+
+Quais as contraindicações do Gazyva?
+Você não deve utilizar este medicamento se souber que tem alergia ao obinutuzumabe ou a qualquer um dos outros componentes de Gazyva®.
+
+
+Como usar o Gazyva?
+Gazyva® deve ser administrado por infusão intravenosa por meio de um acesso venoso exclusivo, em um ambiente onde meios de reanimação estejam imediatamente disponíveis e sob a supervisão rigorosa de um médico experiente. Infusões de Gazyva® não devem ser administradas em injeção direta ou em bolus. Deve-se utilizar solução isotônica de cloreto de sódio 0,9% (soro fisiológico) como veículo de infusão.
+Pré-medicação, consistindo de analgésico/antipirético, anti-histamínico e glicocorticoide, deverá ser sempre administrada antes de cada infusão de Gazyva®.
+O profissional da saúde saberá como preparar o medicamento.
+Leucemia linfocítica crônica
+Dose de Gazyva® em combinação com clorambucila
+A dose recomendada de Gazyva® é de 1000 mg administrados nos dias 1-2 (100 mg + 900 mg), dia 8 e dia 15 do primeiro ciclo de tratamento de 28 dias, seguido por 1000 mg administrados apenas no dia 1 para cada ciclo de tratamento subsequente (ciclos 2 a 6).
+Linfoma Folicular
+A dose recomendada de Gazyva® é de 1000 mg administrados no dia 1, dia 8 e dia 15 do primeiro ciclo de tratamento de 28 dias ou 21 dias, seguidos por 1000 mg administrados apenas no dia 1 de cada ciclo de tratamento subsequente (Ciclos 2 a 6 ou 2 a 8).
+Pacientes que responderem ao tratamento (resposta completa ou resposta parcial) ou apresentem doença estável devem continuar a receber Gazyva® 1000 mg isoladamente como terapia de manutenção uma vez a cada 2 meses até a progressão da doença ou por até dois anos.
+Duração do Tratamento
+Seis ou oito ciclos de tratamento, com duração de 28 ou 21 dias cada.
+Modificações de dose durante o tratamento
+Não são recomendadas reduções de dose de Gazyva®.
+Orientações em caso de reações infusionais
+Para reações mais intensas (Grau 4), a infusão deverá ser interrompida ou até definitivamente encerrada. Se a reação for de Grau 3, a infusão deve ser interrompida temporariamente e deve-se administrar medicação adequada para tratamento dos sintomas. Se for de Graus 1 e 2, pode-se diminuir a velocidade da infusão e os sintomas tratados adequadamente. Quando os sintomas desaparecerem, a infusão poderá ser reiniciada, a não ser depois de uma reação Grau 4.
+Ajustes de dose para populações especiais
+Crianças
+A segurança e a eficácia de Gazyva® em crianças abaixo dos 18 anos de idade não foram estabelecidas.
+Idosos
+Não é necessário ajuste de dose para pacientes idosos.
+Insuficiência Renal
+Não é necessário ajuste de dose em pacientes com insuficiência renal leve ou moderada. Gazyva® não foi estudado em pacientes com depuração de creatinina (CrCl) < 30 mL/min.
+Insuficiência Hepática
+A segurança e a eficácia de Gazyva® em pacientes com insuficiência hepática não foram estabelecidas.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

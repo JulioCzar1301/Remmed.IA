@@ -1,0 +1,86 @@
+Vancotrat, para o que é indicado e para o que serve?
+Vancotrat é indicado para o tratamento de infecções graves causadas pela bactéria Staphylococcus aureus resistente a antibióticos betalactâmicos (ex.: penicilinas ou cefalosporinas). Também é indicado para tratar infecções causadas por outras bactérias suscetíveis em pacientes alérgicos a antibióticos betalactâmicos (ex.: penicilinas ou cefalosporinas) ou que não responderam a outros tratamentos.
+Vancotrat é indicado para o tratamento de infecção óssea; septicemia (infecção no sangue); infecção do trato respiratório inferior (pneumonia); infecção na pele e estruturas da pele. É indicado também para o tratamento e prevenção de endocardite (infecção das válvulas do coração).
+
+
+Como o Vancotrat funciona?
+Vancotrat é um medicamento antibacteriano da classe dos glicopeptídeos tricíclicos. Em doses adequadas promove a morte das bactérias. O tempo para cura da infecção pode variar de dias a meses, dependendo do local e do tipo de bactéria causadora da infecção e das condições do paciente.
+
+
+Quais as contraindicações do Vancotrat?
+Vancotrat é contraindicado em pacientes com conhecida alergia a esse antibacteriano ou a outro glicopeptídeo.
+
+
+Como usar o Vancotrat?
+Vancotrat é para uso injetável, por infusão (gota a gota na veia), portanto deve ser administrado somente em serviços profissionais autorizados.
+Infusão intravenosa (gota a gota na veia)
+Atenção
+A vancomicina deve ser administrada exclusivamente por infusão intravenosa (gota a gota na veia) a uma velocidade de no máximo 10 mg/minuto. A infusão deve sempre ser feita em pelo menos 60 minutos, mesmo quando soluções mais diluídas ou doses menores de 500 mg são administradas. Diminui-se a possibilidade de tromboflebite usando soluções com concentração de no máximo 5 mg/mL e fazendo rotação nos locais de administração (a menos que a administração se faça por cateter venoso central).
+Não administrar por via intramuscular (pode haver necrose dos tecidos) e nem por via intravenosa direta.
+O produto preparado em capela de fluxo unidirecional (laminar) validado pode ser armazenado pelos tempos descritos a seguir. Para produtos preparados fora desta condição, recomenda-se o uso imediato.
+Reconstituição
+Diluente: água para injetáveis.
+Volume: 10 mL.
+Após reconstituição, o produto tem volume final de aproximadamente 10,2 mL e concentração de aproximadamente 49 mg/mL.
+Aparência da solução reconstituída
+Solução límpida, isenta de partículas estranhas visíveis.
+Estabilidade após reconstituição
+Temperatura ambiente (entre 15º e 30ºC): 24 horas.
+Sob refrigeração (entre 2º e 8ºC): 14 dias.
+Diluição
+Diluente: cloreto de sódio 0,9%, glicose 5% ou Solução de Ringer Lactato.
+Volume: 100 mL.
+Após diluição, o produto tem concentração de aproximadamente 4,5 mg/mL.
+Estabilidade após a diluição com cloreto de sódio 0,9% ou glicose 5%
+Temperatura ambiente (entre 15º e 30ºC): 24 horas.
+Sob refrigeração (entre 2º e 8ºC): 14 dias.
+Estabilidade após a diluição com Solução de Ringer Lactato
+Temperatura ambiente (entre 15º e 30ºC): 24 horas.
+Sob refrigeração (entre 2º e 8ºC): 96 horas
+Tempo de infusão
+1 hora. Não ultrapassar 10 mg/minuto.
+Incompatibilidades
+A solução de vancomicina tem um pH baixo e pode provocar instabilidade química ou física quando misturada com outros compostos (especialmente com soluções alcalinas).
+A vancomicina tem demonstrado incompatibilidade com:
+Albumina humana, aminofilina, anfotericina B (complexo com colesteril sulfato), aztreonam, bivalirudina, cefazolina, cefotaxima, cefotetano, cefoxitina, ceftazidima, ceftriaxona, cefuroxima, cloranfenicol (succinato sódico), dimenidrinato, fusidato sódico, foscarnet, heparina sódica, idarrubicina, metotrexato sódico, nafcilina sódica, omeprazol, pantoprazol sódico, piperacilina + tazobactam, propofol, sargramostim, ticarcilina + clavulanato de potássio e varfarina.
+A vancomicina não deve ser misturada com outros medicamentos.
+Se clinicamente necessária a utilização concomitante de uma dessas drogas e vancomicina, elas devem ser administradas separadamente (não misturá-las no mesmo frasco ou na mesma bolsa). Se estiver utilizando a técnica em Y, suspender temporariamente a administração de um medicamento enquanto se administra o outro.
+Posologia do Vancotrat
+Atenção: as doses são dadas em termos de vancomicina. 
+Adultos
+A dose intravenosa usual é de 2 g/dia divididos em: 500 mg a cada 6 horas ou 1 g a cada 12 horas.
+Outros fatores tais como idade ou obesidade, podem requerer modificação na dose usual diária.
+Pacientes com restrição de líquidos
+A vancomicina deve ser administrada a uma concentração de no máximo 10 mg/mL e a uma velocidade de infusão de no máximo 10 mg/minuto.
+Atenção: concentrações acima de 5 mg/mL aumentam o risco de reações relacionadas com a infusão. Eventos relacionados com a infusão podem, entretanto, ocorrer a qualquer velocidade ou concentração.
+Endocardite (prevenção)
+Quando pacientes alérgicos à penicilina e que têm doença cardíaca congênita, doença reumática ou outra doença valvular adquirida, são submetidos a procedimentos cirúrgicos do trato gastrintestinal ou geniturinário, a dose usual é de 1 g, administrado durante 2 horas. O término da infusão deve ocorrer 30 minutos antes do início da cirurgia (respeitando-se o tempo de infusão).
+Dependendo do risco de infecção, a gentamicina pode ser associada, sendo administrada por via intramuscular ou intravenosa, em local diferente, na dose de 1,5 mg/kg de peso corporal, não ultrapassando 120 mg.
+Adultos com função renal diminuída
+Dose inicial: 15 mg/kg de peso corporal.
+Dose de manutenção: ajustar as doses de acordo com o clearance de creatinina como indicado na Tabela 1.
+Tabela 1: Adultos com função renal diminuída – doses de manutenção
+Clearance de creatinina (mL/ min) Dose
+> 80 500 mg a cada 6 horas ou 1 g a cada 12 horas
+50 – 80 1 g a cada 1 a 3 dias
+10 – 50 1 g a cada 3 a 7 dias
+< 10 1 g a cada 7 a 14 dias
+Pacientes funcionalmente anéfricos (sem função renal)
+A tabela não é válida para tais pacientes. Para pacientes funcionalmente anéfricos, uma dose inicial de 15 mg/kg deve ser administrada para alcançar prontamente as concentrações séricas terapêuticas. A dose necessária para manter concentrações estáveis é de 1,9 mg/kg/dia.
+Em pacientes com diminuição acentuada da função renal, pode ser mais conveniente administrar doses de manutenção de 250 mg a 1 g, uma vez a cada diversos dias ao invés de doses diárias. Em caso de anúria, tem sido recomendada a dose de 1 g a cada 7 a 10 dias.
+Idosos
+Administrar as mesmas doses de adultos.
+Idosos têm maior chance de apresentar diminuição da função renal, pode ser necessário reduzir as doses.
+Crianças
+Crianças até 1 mês de idade
+Estes pacientes têm um maior volume de distribuição e a função renal incompletamente desenvolvida, portanto, as normas posológicas diferem das recomendadas para crianças maiores de 1 mês de idade e adultos, devendo-se diminuir as doses intravenosas diárias.
+Primeira semana de vida: dose inicial de 15 mg/kg de peso corporal, seguida de 10 mg/kg de peso corporal a cada 12 horas; cada dose deve ser administrada por um tempo de no mínimo 60 minutos.
+Segunda semana até 1 mês de vida: dose inicial de 15 mg/kg de peso corporal, seguida de 10 mg/kg de peso corporal a cada 8 horas.
+Crianças acima de 1 mês a 12 anos de idade
+A dose intravenosa usual é de 10 mg/kg de peso corporal a cada 6 horas, ou 20 mg/kg de peso corporal a cada 12 horas.
+Crianças com endocardite bacteriana
+A dose endovenosa usual é de 20 mg/kg de peso corporal administrado durante 1 a 2 horas. O término da infusão deve ocorrer 30 minutos antes do início da cirurgia (respeitando-se o tempo de infusão de no mínimo 60 minutos).
+Duração do tratamento
+A duração do tratamento será determinada pelo médico. Como na terapia com antibióticos em geral, o tratamento com Vancotrat deve ser prolongado por um mínimo de 48 a 72 horas após abaixar a temperatura do paciente, ou após a constatação da eliminação das bactérias causadoras da infecção.
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

@@ -1,0 +1,67 @@
+Isothane, para o que é indicado e para o que serve?
+Este medicamento é destinado à indução e manutenção da anestesia geral em pacientes pediátricos ou adultos, em procedimentos cirúrgicos hospitalares ou ambulatoriais. Isothane é um líquido volátil para inalação, não inflamável e não explosivo, administrado por vaporização. É um medicamento anestésico geral inalatório halogenado.
+Como o Isothane funciona?
+O Isothane é um agente anestésico líquido, não inflamável, para o uso em anestesia geral inalatória, por meio de vaporização. Isothane é um anestésico inalatório, pertencente ao grupo dos anestésicos halogenados. A indução e a recuperação da anestesia ocorrem rapidamente com isoflurano. Isothane apresenta um odor levemente irritante de éter, o que pode limitar a velocidade de indução.
+Isothane é metabolizado (transformado dentro do organismo) de forma mínima em comparação a outros anestésicos halogenados, tais como enflurano ou halotano. Em média, 95% do isoflurano é recuperado no ar expirado, 0,2% do isoflurano captado pelo organismo é metabolizado. O principal metabólito (produto formado) é o ácido trifluoroacético. O nível sérico médio (concentração no sangue) de fluoreto inorgânico em pacientes anestesiados com isoflurano está entre 3 e 4 μmol/litro.
+Em pacientes anestesiados com isoflurano, o pico médio da concentração sérica (quantidade presente no sangue) de fluoretos inorgânicos é, geralmente, menor do que 5 μmol/litro e ocorre cerca de 4 horas após a anestesia, retornando aos níveis normais em 24 horas. Isto não deve alterar a função renal em um indivíduo normal.
+
+
+Quais as contraindicações do Isothane?
+Isothane é contraindicado em pacientes com:
+Hipersensibilidade a anestésicos halogenados;
+Conhecida ou suspeita disposição genética para hipertermia maligna (doença muscular hereditária, caracterizada por resposta hipermetabólica após exposição a anestésicos inalatórios);
+História de hipertermia maligna (doença muscular hereditária, caracterizada por resposta hipermetabólica após exposição a anestésicos inalatórios) ou nos quais tenham ocorrido disfunção hepática (alteração nas funções do fígado), icterícia (coloração amarelada da pele, devido ao acúmulo de bilirrubina) ou febre inexplicada, leucocitose (aumento dos glóbulos brancos) ou eosinofilia (aumento do número de eosinófilos no sangue) após uma administração anterior de anestésico halogenado;
+Cirurgia obstétrica (cirurgia para realização de partos);
+Ou em pacientes que utilizem inibidores não seletivos da MAO.
+
+
+Como usar o Isothane?
+Concentrações Alveolares Mínimas (CAM) de isoflurano em humanos:
+Idade
+O2 - 100% O2 + N2O (60%)
+Neonatos
+1,60 ---
+1 - 6 meses
+1,87
+---
+7 - 11 meses
+1,80 ---
+1 - 2 anos
+1,60
+---
+3 - 5 anos
+1,62
+---
+6 - 10 anos
+1,40
+0,58
+10 -15 anos 1,16
+0,53
+  Idade (anos) O2 - 100%
+O2 + N2O (70%)
+26 ± 4
+1,28 0,56
+44 ± 7
+1,15 0,50
+64 ± 5
+1,05
+0,37
+Posologia do Isothane
+Pré-medicação
+Deve ser selecionada de acordo com a necessidade individual do paciente e decisão médica do anestesiologista.
+Anestesia cirúrgica
+A concentração de isoflurano liberada pelo vaporizador durante a anestesia deve ser conhecida, isto pode ser controlado através do uso de vaporizadores calibrados especificamente para Isothane.
+Indução da anestesia
+Se o isoflurano for usado para indução da anestesia, recomenda-se uma concentração inicial de 0,5%. Concentrações de 1,3 - 3,0% geralmente levam à anestesia cirúrgica dentro de 7 a 10 minutos.
+Recomenda-se uso de dose hipnótica de barbitúrico de ação curta ou outro produto, tal como propofol, etomidato ou midazolam, a fim de evitar tosse ou laringospasmo, que pode surgir se a indução for realizada com Isothane apenas ou em combinação com oxigênio ou mistura de oxigênio/óxido nitroso.
+Manutenção da anestesia
+A anestesia pode ser mantida durante a cirurgia usando-se uma concentração de 1,0 - 2,5% com administração simultânea de N2O e O2.
+Uma concentração maior, de 1,5 - 3,5%, é necessária quando Isothane é administrado com oxigênio puro.
+Recuperação
+A concentração de Isothane deve ser reduzida para 0,5% ao final da cirurgia ou para 0% durante o fechamento da ferida cirúrgica para permitir recuperação imediata.
+Se toda administração de agentes anestésicos tiver sido interrompida, as vias aéreas do paciente devem ser ventiladas diversas vezes com oxigênio 100% até o completo despertar.
+Se o gás carreador for uma mistura de 50% de O2 e 50% de N2O, o valor da concentração alveolar mínima de isoflurano é de, aproximadamente, 0,65%.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.
+O que devo fazer quando eu me esquecer de usar o Isothane?
+Em casos de dúvidas, procure orientação do farmacêutico ou de seu médico, ou cirurgião-dentista.

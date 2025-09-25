@@ -1,0 +1,53 @@
+Spikevax, para o que é indicado e para o que serve?
+A Spikevax (ômicron XBB.1.5) é uma vacina utilizada para prevenção da COVID-19, causada pelo SARS-CoV-2. É administrada a indivíduos com idade igual ou superior a 6 meses. A substância ativa da Spikevax (ômicron XBB.1.5) é o mRNA que codifica a proteína S (Spike) do SARS-CoV-2. O mRNA está encapsulado em nanopartículas lipídicas SM-102.
+Uma vez que a Spikevax (ômicron XBB.1.5) não contém o vírus, esta não lhe poderá transmitir COVID19.
+
+
+Como o Spikevax funciona?
+A Spikevax (ômicron XBB.1.5) estimula as defesas naturais do corpo (sistema imunológico). A vacina funciona fazendo com que o corpo produza sua própria proteção (anticorpos) contra o vírus que causa COVID-19. 
+A Spikevax (ômicron XBB.1.5) utiliza uma substância chamada ácido ribonucleico mensageiro (mRNA) para transmitir instruções, que as células do corpo podem utilizar para produzir a proteína S (spike), que se encontra no vírus. As células produzem, então, anticorpos contra a proteína S, para ajudar a combater o vírus. Isto irá ajudá-lo a proteger-se contra a COVID-19.
+
+
+Quais as contraindicações do Spikevax?
+A vacina é contraindicada em indivíduos com alergia à substância ativa ou a qualquer outro componente da fórmula.
+
+
+Como usar o Spikevax?
+A vacina deve ser administrada por via intramuscular. O local preferido é o músculo deltoide da parte superior do braço. A vacina não deve ser administrada por via intravascular, subcutânea ou intradérmica. 
+Após cada injeção da vacina, o seu médico, farmacêutico ou enfermeiro irá observar você durante pelo menos 15 minutos para monitorizar sinais de uma eventual reação alérgica. 
+Caso ainda tenha dúvidas sobre a utilização desta vacina, fale com o seu médico, farmacêutico ou enfermeiro.
+Tabela 1. Posologia de Spikevax (ômicron XBB.1.5)
+Idade(s)
+Dose
+Recomendações adicionais
+Crianças de 6 meses a 4 anos de idade, sem vacinação prévia e sem história conhecida de infecção por SARS-CoV-2
+Duas doses de 0,25 mL cada, administradas via intramuscular*
+Administre a segunda dose 28 dias após a primeira dose. 
+Se uma criança recebeu uma dose anterior de qualquer vacina Spikevax, uma dose de Spikevax (ômicron XBB.1.5) deve ser administrada para completar a série de duas doses.
+Crianças de 6 meses a 4 anos de idade, com vacinação prévia ou história conhecida de infecção por SARS-CoV-2
+Uma dose de 0,25 mL, administrada via intramuscular*
+Spikevax (ômicron XBB.1.5) deve ser administrada pelo menos 3 meses após a dose mais recente de uma vacina contra a COVID-19
+Crianças de 5 a 11 anos de idade, com ou sem vacinação prévia
+Uma dose de 0,25 mL, administrada via intramuscular*
+Indivíduos com idade igual ou superior a 12 anos, com ou sem vacinação prévia
+Uma dose de 0,5 mL, administrada via intramuscular
+Adultos de 65 anos de idade e mais
+Uma dose de 0,5 mL, administrada via intramuscular
+Uma dose adicional pode ser administrada, pelo menos, 3 meses após a dose mais recente de uma vacina contra a COVID-19
+*Não utilizar o frasco-ampola de dose única ou a seringa preenchida para administrar um volume parcial de 0,25 mL.
+Tabela 2. Posologia de Spikevax (ômicron XBB.1.5) para indivíduos imunocomprometidos
+Idade(s)
+Dose
+Recomendações adicionais
+Crianças imunocomprometidas de 6 meses a 4 anos de idade, sem vacinação prévia
+Duas doses de 0,25 mL, administradas via intramuscular*
+Uma terceira dose em imunocomprometidos severos pode ser administrada, pelo menos, 28 dias após a segunda dose.
+Crianças imunocomprometidas de 6 meses a 4 anos de idade, com vacinação prévia
+Uma dose de 0,25 mL, administrada via intramuscular*
+Doses adicionais apropriadas à idade podem ser administradas em imunocomprometidos grave, pelo menos, 2 meses após a dose mais recente de uma vacina contra a COVID-19, a critério do profissional de saúde, levando em consideração as circunstâncias clínicas do indivíduo.
+Crianças imunocomprometidas de 5 a 11 anos de idade, com ou sem vacinação prévia
+Uma dose de 0,25 mL, administrada via intramuscular*
+Indivíduos imunocomprometidos a partir de 12 anos de idade, com ou sem vacinação prévia
+Uma dose de 0,5 mL, administrada via intramuscular
+*Não utilizar o frasco de dose única ou a seringa preenchida para administrar um volume parcial de 0,25 mL.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

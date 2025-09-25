@@ -1,0 +1,51 @@
+Sevoness, para o que é indicado e para o que serve?
+Sevoness (sevoflurano) é indicado para indução e manutenção de anestesia geral em pacientes adultos e pediátricos para procedimentos cirúrgicos hospitalares e ambulatoriais.
+
+
+Como o Sevoness funciona?
+O medicamento Sevoness (sevoflurano) é um anestésico geral inalatório, de uso hospitalar, cuja administração tem sido associada à indução anestésica com perda de consciência rápida e suave, bem como a rápida recuperação após descontinuação da anestesia.
+Para indução anestésica, o tempo estimado de início da ação do medicamento geralmente é de menos de 2 minutos, tanto em adultos quanto em crianças.
+
+
+Quais as contraindicações do Sevoness?
+Sevoness (sevoflurano) não deve ser utilizado em pacientes com suscetibilidade genética conhecida ou suspeita de hipertermia maligna (um aumento anormal da temperatura corporal).
+Sevoness (sevoflurano) não deve ser utilizado em pacientes com sensibilidade conhecida ou suspeita ao sevoflurano ou a outro agente anestésico inalatório halogenado por exemplo, histórico de hepatotoxicidade (dano ao fígado causado por toxinas), incluindo geralmente aumento das enzimas hepáticas (enzimas do fígado), febre, leucocitose (aumento transitório no número de glóbulos brancos no sangue) e/ou eosinofilia temporária (aumento anormal no número de eosinófilos no sangue) relacionada à anestesia com um desses agentes.
+Este medicamento é contraindicação em casos de sensibilidade conhecida ao sevoflurano.
+Este medicamento não deve ser utilizado em mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Sevoness?
+Instruções para o preenchimento de vaporizadores
+O frasco de sevoflurano é fornecido com um colar chaveado de frasco e deve ser preenchido somente em vaporizadores projetados para uso com sevoflurano usando um adaptador chaveado.
+O sevoflurano deve ser administrado com um vaporizador calibrado especificamente para sevoflurano.
+Somente vaporizadores que demonstraram ser compatíveis com este medicamento devem ser usados para a administração. O sevoflurano pode sofrer degradação na presença de ácidos fortes de Lewis que podem ser formados em superfícies metálicas ou de vidro em condições difíceis, e o uso de vaporizadores que contenham tais ácidos fortes de Lewis, ou que podem formá-los em condições normais de utilização, devem ser evitados.
+Certifique-se com o fabricante que o seu vaporizador é calibrado e validado para a utilização deste produto.
+Retirar o lacre e a tampa do frasco anestésico e verificar se o gargalo do frasco não está danificado.
+Colocar a extremidade maior do adaptador em cima do colar, alinhando os furos no adaptador com as argolas no colar, e apertar firmemente. A cor do adaptador deve combinar com a cor do colar para o adaptador indexar corretamente.
+Anexar a outra extremidade do adaptador na porta de preenchimento do vaporizador conforme as instruções do fabricante do vaporizador e encher o vaporizador.
+Desconectar o adaptador do vaporizador e permitir que qualquer excesso de Sevoflurano drene de volta para o frasco antes de desconectar o adaptador do frasco.
+Recolocar a tampa firmemente no frasco e descartar o frasco.
+Posologia do Sevoness
+A concentração de sevoflurano sendo administrada por um vaporizador durante a anestesia deve ser conhecida. Isto pode ser realizado usando um vaporizador calibrado especificamente para o sevoflurano.
+A administração de anestesia geral deve ser individualizada com base na resposta do paciente.
+Substituição de Absorventes de CO2 Dessecados
+Quando um clínico suspeita que o absorvente de CO2 pode estar dessecado, este deve ser substituído. A reação exotérmica que ocorre com o sevoflurano e os absorventes de CO2 é aumentada quando o absorvente de CO2 se torna seco, como depois de um extenso período de fluxo de gás seco através dos recipientes de absorvente de CO2.
+Medicação Pré-Anestésica
+Nenhuma pré-medicação específica está indicada ou contraindicada com sevoflurano. A decisão de administrar ou não uma pré-medicação e a escolha da pré-medicação fica a critério do anestesiologista.
+Indução
+Sevoflurano possui um odor não irritante e não causa irritabilidade respiratória; é apropriado para indução com máscara em pacientes pediátricos e adultos.
+Manutenção
+Planos cirúrgicos de anestesia podem geralmente ser alcançados com concentrações de 0,5 a 3% de sevoflurano com ou sem o uso concomitante de óxido nitroso. O sevoflurano pode ser administrado com qualquer tipo de circuito de anestesia.
+Tabela 9: Valores CAM para pacientes adultos e pediátricos de acordo com a idade
+Idade do paciente (anos) Sevoflurano em oxigênio Sevoflurano em N2O a 65%/ O2 a 35%
+0 a 1 mês# 3,3% -
+1 a < 6 meses 3,0% -
+6 meses a < 3 anos 2,8% 2,0%@
+3 a 12 2,5% -
+25 2,6% 1,4%
+40 2,1% 1,1%
+60 1,7% 0,9%
+80 1,4% 0,7%
+# Os neonatos têm idade gestacional completa. A CAM em bebês prematuros não foi determinada.
+@ Em pacientes pediátricos com idade entre 1 e < 3 anos, foi utilizado N2O a 60%/O2 a 40%.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

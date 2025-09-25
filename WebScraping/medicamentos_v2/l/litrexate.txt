@@ -1,0 +1,58 @@
+Litrexate, para o que é indicado e para o que serve?
+Metotrexato é um fármaco citotóxico utilizado na quimioterapia antineoplásica e em certas patologias não malignas.
+Indicações em oncologia
+Metotrexato é indicado para o tratamento dos seguintes tumores sólidos e neoplasias malignas hematológicas:
+Neoplasias trofoblásticas gestacionais (coriocarcinoma uterino, corioadenoma destruens e mola hidatiforme);
+Leucemias linfocíticas agudas;
+Câncer pulmonar de células pequenas;
+Câncer de cabeça e pescoço (carcinoma de células escamosas);
+Câncer de mama;
+Osteossarcoma;
+Tratamento e profilaxia de linfoma ou leucemia meníngea;
+Terapia paliativa de tumores sólidos inoperáveis;
+Linfomas não-Hodgkin e linfoma de Burkitt.
+Indicações não oncológicas
+Psoríase grave.
+Informações além da bula: Metotrexato
+
+
+Quais as contraindicações do Litrexate?
+Metotrexato é contraindicado em casos de:
+Hipersensibilidade ao metotrexato ou quaisquer excipientes da formulação.
+Aleitamento.
+Insuficiência renal grave.
+Formulações de metotrexato e diluentes contendo conservantes não devem ser usadas em terapia intratecal ou em alta dose de metotrexato.
+Aplicável apenas a pacientes com psoríase:
+Alcoolismo, doença hepática alcoólica ou outra doença crônica do fígado.
+Evidência ostensiva ou laboratorial de síndromes de imunodeficiência.
+Discrasias sanguíneas preexistentes, tais como hipoplasia da medula óssea, leucopenia, trombocitopenia ou anemia significativa.
+Metotrexato é um medicamento classificado na categoria X de risco de gravidez. Portanto, este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar grávidas durante o tratamento.
+
+
+Como usar o Litrexate?
+Os indivíduos que entrarem em contato com fármacos anticâncer ou trabalharem em áreas onde essas drogas são usadas podem estar expostos a esses agentes no ar ou através do contato direto com os objetos contaminados. Os prováveis efeitos à saúde podem ser reduzidos pela aderência aos procedimentos institucionais, diretrizes publicadas e regulamentações locais para a preparação, administração, transporte e descarte dos fármacos perigosos. Não existe concordância geral que todos os procedimentos recomendados nas diretrizes sejam necessários ou apropriados.
+Indicações em oncologia
+A dose do Metotrexato para indicações oncológicas é habitualmente baseada na área de superfície corpórea (m2) do paciente ou no peso corpóreo (kg). Entretanto, se o paciente for obeso ou tiver retenção hídrica grave, a dosagem deve ser baseada no peso corpóreo ideal estimado.
+A faixa de dose terapêutica do Metotrexato para indicações oncológicas é muito ampla. A dose, as vias intravenosa (injeção em bolus ou infusão), intramuscular, intratecal e esquemas de administração variam de acordo com a doença que está sendo tratada, os tratamentos citotóxicos concomitantes que estão sendo empregados (fármacos e radioterapia), a condição do paciente e a disponibilidade de adequadas medidas quimioprotetoras / de suporte.
+De um modo geral, as doses devem ser reduzidas em função de deficiências hematológicas e insuficiência renal ou hepática. Doses elevadas (superiores a 100 mg) são geralmente administradas através de infusão intravenosa lenta, durante períodos que não devem exceder a 24 horas, sendo que parte da dose é injetada inicialmente por via IV rápida. A solução final de infusão deve ser diluída em meio adequado, estéril, isento de conservantes (como por exemplo, soro fisiológico ou soro glicosado a 5%). As doses intravenosas (IV) de Metotrexato variam, usualmente, de 30 a 120 mg/m2/ciclo em pacientes com função renal normal. Doses de Metotrexato tão elevadas quanto 12-15 g/m2 podem ser administradas (por exemplo, no tratamento de osteossarcoma), as quais devem sempre ser administradas com ácido folínico (folinato de cálcio) a fim de proteger contra a toxicidade excessiva. Além disso, doses altas não devem ser administradas por push IV e necessitam de pré-hidratação e alcalinização da urina. A dosagem do Metotrexato deve ser ajustada se o fármaco for utilizado em associação com outros agentes quimioterápicos com sobreposição de toxicidades. É necessário ter especial cuidado no caso de associações com outros fármacos nefrotóxicos (por exemplo, cisplatina).
+Os exemplos de doses abaixo têm sido empregados nas indicações que se seguem:
+Coriocarcinoma e doenças trofoblásticas similares
+15 a 30 mg/dia em ciclos terapêuticos de 5 dias. Os ciclos são usualmente repetidos 3 a 5 vezes, caso necessário com intervalos de repouso de uma ou duas semanas (6 - 12 dias, em média), até o desaparecimento de qualquer efeito tóxico porventura manifestado. A eficácia é avaliada através da dosagem das gonadotrofinas coriônicas urinárias (GCU) de 24 horas, que devem retornar ao normal, ou a menos que 50 UI/24h, após o 3º ou 4º ciclo. Recomenda-se um ou dois ciclos suplementares após a normalização das GCU. Antes de cada ciclo é essencial cuidadosa avaliação clínica. Doses semelhantes de Metotrexato têm sido também utilizadas no tratamento de mola hidatiforme e do corioadenoma destruens.
+Leucemia aguda linfocítica (linfoblástica)
+No uso isolado, a dose na fase aguda é de 20 - 40 mg/m2 IM ou IV, duas vezes por semana, e a dose de manutenção é de 15 - 30 mg/m2 IM, uma ou duas vezes por semana, geralmente associado a outros quimioterápicos. Diante de recidiva, a remissão pode ser novamente obtida com a administração do esquema inicial. Quando empregado em associação à corticoterapia, o Metotrexato deverá ter sua dose reduzida em relação ao seu emprego isolado.
+Leucemia meníngea
+Pelo fato dos portadores de leucemia estarem sujeitos à invasão leucêmica do sistema nervoso central, que poderá ou não apresentar sintomatologia, é recomendável a análise rotineira do líquido cefalorraquidiano (LCR) em tais pacientes. Devido à marcante frequência da leucemia meníngea, é agora uma prática comum administrar o Metotrexato intratecalmente como profilaxia, uma vez que a passagem da droga do sangue para o líquido cefalorraquidiano é mínima. Por via IT, a administração é feita sob forma de solução, na dose de 12 mg/m2 (recomendando-se 15 mg como dose máxima), a intervalos de 2 a 5 dias. A solução final de infusão deve apresentar uma concentração de 1 mg/mL em meio adequado, estéril, isento de conservantes (como por exemplo, soro fisiológico ou soro glicosado a 5%).
+O Metotrexato é administrado até que a contagem de células no LCR retorne ao normal, ponto em que se aconselha uma dose adicional.
+Doses elevadas podem ocasionar convulsões, porém qualquer que seja a dose injetada por via IT pode desencadear efeitos indesejáveis, principalmente de natureza neurológica. Após administração IT, a droga aparece em concentrações significativas na circulação, quando pode dar origem à toxicidade sistêmica. Por conseguinte, a terapia antileucêmica sistêmica com o medicamento deve ser apropriadamente ajustada, reduzida ou interrompida. O envolvimento focal do SNC poderá não responder à quimioterapia por via IT.
+Alternativamente, foi sugerido um esquema baseado na idade do paciente, com crianças abaixo de 1 ano recebendo 6 mg, 8 mg para crianças de 1 ano, 10 mg para as de 2 anos e 12 mg para aquelas com 3 anos ou mais.
+Não deve ser realizada radioterapia envolvendo o sistema nervoso central concomitantemente com Metotrexato IT.
+Câncer de mama
+O Metotrexato, em doses IV de 10-60 mg/m2, é comumente incluído em regimes combinados cíclicos com outros agentes citotóxicos, no tratamento do câncer avançado de mama. Esquemas similares têm sido também utilizados como terapia adjuvante em casos precoces após mastectomia e/ou radioterapia.
+Terapia paliativa de tumores sólidos inoperáveis
+Têm sido recomendadas doses de 25 a 50 mg por semana, por via intramuscular. Doses de 30 mg a 50 mg têm sido aplicadas por perfusão, diluídas em soro fisiológico e instiladas em cavidades do corpo relacionadas ao tumor.
+Indicações não oncológicas
+No tratamento de indicações não oncológicas, são normalmente utilizadas doses baixas (administradas por injeção IM).
+Psoríase grave
+Dose única de 10 a 25 mg por semana, IM ou IV, até obtenção de resposta adequada. Ao se decidir pela quimioterapia da psoríase com Metotrexato, recomenda-se avaliação da funcionalidade renal, hepática e hematopoiética antes da terapia, periodicamente, no decorrer desta e antes de sua reinstituição. Pacientes femininos devem ser orientadas no sentido de evitar a concepção durante pelo menos 8 semanas após a terapia com Metotrexato. Uma vez obtida resposta clínica, a dose deverá ser reduzida ao mínimo possível e administrada a intervalos maiores.
+Dose Omitida
+Como Metotrexato é um medicamento de uso exclusivamente hospitalar, o plano de tratamento é definido pelo médico que acompanha o caso. Se o paciente não receber uma dose deste medicamento, o médico deve redefinir a programação do tratamento. O esquecimento da dose pode comprometer a eficácia do tratamento.

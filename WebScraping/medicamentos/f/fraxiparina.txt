@@ -1,0 +1,86 @@
+Fraxiparina, para o que é indicado e para o que serve?
+Profilaxia de doenças tromboembólicas, tais como:
+Aquelas associadas à cirurgia em geral ou ortopédica;
+Aquelas em pacientes clínicos de alto risco (insuficiência respiratória e/ou infecção respiratória e/ou insuficiência cardíaca), hospitalizadas em unidade de tratamento intensivo.
+Tratamento de doenças tromboembólicas.
+Prevenção de coagulação durante a hemodiálise.
+Tratamento de angina instável e infarto do miocárdio não-Q.
+Como o Fraxiparina funciona?
+A nadroparina apresenta uma ligação de alta afinidade à proteína do plasma antitrombina III (ATIII). Esta ligação leva a uma inibição acelerada do fator Xa, que contribui para o alto potencial antitrombótico da nadroparina.
+
+
+Quais as contraindicações do Fraxiparina?
+A nadroparina é contraindicada em casos de:
+Hipersensibilidade a nadroparina ou qualquer dos excipientes das injeções de nadroparina;
+Histórico de trombocitopenia com nadroparina;
+Sangramento ativo ou risco aumentado de hemorragia em relação a hemostasias, exceto por coagulação intravascular disseminada não induzida por heparina;
+Lesão orgânica com tendência a sangramento (tal como uma úlcera péptica ativa);
+Acidente vascular cerebral hemorrágico;
+Infecção endocárdica aguda;
+Insuficiência renal grave (clearance de creatinina abaixo de 30mL/min) em pacientes recebendo tratamento por doenças tromboembólicas, angina instável e infarto do miocárdio não-Q.
+
+
+Como usar o Fraxiparina?
+Seringas são feitas para uso único e qualquer parte não utilizada de cada seringa deve ser descartada. Soluções não podem ser misturadas com outros preparados ou preparadas novamente.
+As recomendações específicas devem ser tomadas a cerca da cronometragem da dose de nadroparina para anestesia raquidiana/epidural ou punção lombar.
+Atenção especial deve ser prestada as instruções de dosagem específicas para cada Heparina de Baixo Peso Molecular patenteada, sendo que diferentes unidades de medida (unidades ou mg) são usadas para expressar doses. Portanto, a nadroparina não deve ser usada alternadamente com outras heparinas de baixo peso molecular durante tratamento contínuo. Além disso, atenção deve ser prestada para uso da formulação correta de nadroparina, de potência única ou dupla, já que isso afetará o regime de dosagem.
+Seringas graduadas são indicadas para uso quando ajuste de dose para peso corporal é necessário.
+A nadroparina não é planejada para injeção intramuscular.
+A contagem de plaquetas deve ser monitorizada durante o tratamento com nadroparina.
+Técnica de injeção subcutânea
+O local usual para injeção subcutânea é o lado direito ou esquerdo da parede abdominal, mas a coxa pode ser usada como uma alternativa. Para evitar perda da solução quando fazendo uso de seringas pré-carregadas, a bolha de ar não pode ser expelida da seringa antes da injeção. A agulha deve ser introduzida perpendicularmente em uma dobra de pele pinçada entre os dedos que deve ser pinçada gentilmente, mas com firmeza até que a injeção seja completada. O local da aplicação da injeção não deve ser friccionado.
+Posologia do Fraxiparina
+Adultos
+Profilaxia de doenças tromboemólicas
+Cirurgia em geral:
+A dose recomendada de Fraxiparina é 0,3mL (2850UI anti-Xa) administrada por via subcutânea de 2 a 4 horas antes da cirurgia e depois mais uma vez ao dia nos dias subsequentes.
+O tratamento deve ser contínuo por pelo menos sete dias e durante o período de risco, até o paciente poder se movimentar.
+Cirurgia Ortopédica:
+Fraxiparina é administrada por via subcutânea e a dose é ajustada por peso corporal de acordo com a tabela abaixo. Isto é com base em uma dose alvo de 38UI anti-Xa por kg de peso corporal e é aumentada em 50% no quarto dia do pós-operatório.
+A dose inicial é administrada 12 horas antes da cirurgia e uma segunda dose 12 horas após o término da cirurgia. O tratamento é então continuado uma vez ao dia durante o período de risco e até o paciente poder se movimentar. O período de tratamento mínimo é de 10 dias.
+Pacientes clínicos de alto risco em tratamento intensivo (insuficiência respiratória e/ou infecção respiratória e/ou insuficiência cardíaca):
+Fraxiparina é administrada por via subcutânea uma vez ao dia. A dose deve ser ajustada por peso corporal de acordo com a tabela abaixo. O tratamento deve ser continuado durante o período de risco de tromboembolia.
+Peso corporal (kg) Uma vez ao dia
+Volume injetado (mL) UI Anti-Xa
+≤70 0,4 3800
+>70 0,6 5700
+Tratamento de doenças tromoembólicas
+No tratamento de doenças tromboembólicas, a terapia com anti-coagulante oral deve ser iniciada tão logo que for possível, salvo se contra-indicado. O tratamento com Fraxiparina deve ser interrompido antes que o valor da Razão Normalizada Internacional seja alcançado.
+É recomendado que a Fraxiparina seja administrada por via subcutânea duas vezes ao dia (a cada 12 horas) para duração habitual de 10 dias.
+Peso corporal (kg) Duas vezes ao dia para duração habitual de 10 dias
+Volume injetado (mL) UI Anti-Xa
+<50 0,4 3800
+50-59 0,5 4750
+60-69 0,6 5700
+70-79 0,7 6650
+80-89 0,8 7600
+≥90 0,9 8550
+Prevenção de formação de coágulo durante a hemodiálise
+Na prevenção de formação de coágulo durante a hemodiálise, a dose de Fraxiparina deve ser otimizada para cada paciente, também considerando as condições técnicas da diálise.
+Fraxiparina é geralmente aplicada em dose única na linha arterial no início de cada sessão.
+Para pacientes sem risco aumentado de hemorragia, as doses iniciais seguintes são sugeridas de acordo com o peso corporal e geralmente são suficientes para uma sessão de quatro horas.
+Peso corporal (kg) Injetado na linha arterial no início da diálise
+Volume injetado (mL) Anti-XaUI
+<50 0,3 2850
+50-69 0,4 3800
+≥70 0,6 5700
+As doses devem ser reduzidas à metade em pacientes com risco aumentado de hemorragia.
+Uma dose adicional menor pode ser aplicada durante a diálise para sessões que durem mais que 4 horas. A dose nas sessões de diálise subsequentes deve ser ajustada conforme necessário de acordo com o efeito observado.
+Os pacientes devem ser cuidadosamente monitorizados durante cada sessão de diálise para sinais de sangramento ou coagulação no circuito de diálise.
+Tratamento de angina instável e infarto do miocáidio não-Q
+É recomendado que a Fraxiparina seja administrada por via subcutânea duas vezes ao dia (a cada 12 horas). A duração habitual do tratamento é de seis dias. Em estudos clínicos em pacientes com angina instável e infarto do miocárdio não-Q, a Fraxiparina foi administrada em associação com até 325mg de ácido acetilsalicílico por dia.
+A dose inicial é administrada como uma injeção em bolus i.v. e doses subsequentes dadas por injeção subcutânea. A dose deve ser ajustada por peso corporal de acordo com a tabela abaixo, que é baseada em uma dose alvo de 86UI anti-Xa por kg de peso corporal.
+Crianças e Adolescentes
+A nadroparina não é recomendada para crianças e adolescentes por haver dados insuficientes a respeito de segurança e eficácia para estabelecer a dosagem em pacientes com menos de 18 anos.
+Idosos
+Não é necessário ajuste de dosagem para pessoa idosa, salvo se a função renal estiver insuficiente. É recomendado que a função renal seja avaliada antes de iniciar o tratamento.
+Insuficiência Renal
+Profilaxia de doenças tromboembólicas
+A redução da dose não é necessária em pacientes com insuficiência renal leve a moderada (clearance de creatinina maior ou igual a 30mL/min e menor que 60mL/min) recebendo doses profiláticas de nadroparina. Em pacientes com insuficiência renal grave (clearance de creatinina menor que 30mL/min) a dose deve ser reduzida em 25%.
+Tratamento de doenças tromboembólicas, angina instável e infarto do miocárdio não-Q
+Em pacientes com insuficiência renal leve a moderada recebendo nadroparina para o tratamento destas condições, a dose deve ser reduzida em 25%. A nadroparina é contra-indicada para pacientes com insuficiência renal grave.
+Insuficiência hepática
+Não foram realizados estudos em pacientes com insuficiência hepática.
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.
+Siga corretamente o modo de usar. Não desaparecendo os sintomas, procure orientação médica.

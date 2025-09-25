@@ -1,0 +1,56 @@
+Inspra, para o que é indicado e para o que serve?
+Inspra® (eplerenona) é indicado para o tratamento da hipertensão; para insuficiência cardíaca após um episódio de infarto agudo do miocárdio em pacientes estáveis e com evidências clínicas de disfunção cardíaca; e para tratamento da insuficiência cardíaca crônica classe II da NYHA (classificação da extensão da doença) [NYHA - New York Heart Association].
+
+
+Como o Inspra funciona?
+Inspra® causa aumento das quantidades de sódio e água a serem excretados, enquanto o potássio é retido. Devido esse mecanismo atua como diurético e como anti-hipertensivo. A concentração máxima de Inspra® no sangue é alcançada após 1,5 a 2 horas após a ingestão do comprimido e o estado de equilíbrio é alcançado em dois dias. A absorção de Inspra® não é afetada por alimentos.
+
+
+Quais as contraindicações do Inspra?
+Inspra® é contraindicado em todos os pacientes com as seguintes condições:
+Hipersensibilidade à eplerenona (substância ativa de Inspra®) ou a qualquer componente deste medicamento;
+Nível de potássio no sangue aumentado de forma clinicamente significativa ou com condições associadas que levam ao aumento do potássio;
+Nível de potássio no sangue >5,0 mmol/L (mEq/L) no início do tratamento;
+Insuficiência renal moderada a grave (depuração da creatinina <50 mL/min) na insuficiência cardíaca após infarto agudo do miocárdio ou depuração da creatinina <30 mL/min na insuficiência cardíaca;insuficiência hepática grave uso concomitante com diuréticos poupadores de potássio ou inibidores potentes de CYP450 3A4, como cetoconazol, itraconazol e ritonavir.
+Inspra® também é contraindicado em pacientes tratados para hipertensão com as seguintes condições:
+Diabetes Tipo 2 com perda de proteína na urina;
+Creatinina sérica >2,0 mg/dL (ou >177 µmol/L) em homens, ou >1,8 mg/dL (ou >159 µmol/L) em mulheres;
+Uso concomitante com suplementos de potássio;
+Insuficiência renal moderada a grave (depuração da creatinina <50 mL/min);
+Não é recomendado na população pediátrica;
+Não deve ser administrado a pacientes com insuficiência renal grave (eTFG <30 mL/min/1,73 m2 ), porque o risco de acúmulo de potássio é maior com o agravamento da função renal. A eplerenona não pode ser removida por hemodiálise.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Inspra?
+Para o ajuste individual de dose, as concentrações de 25 mg e 50 mg estão disponíveis. O regime máximo de dose é de 50 mg ao dia para insuficiência cardíaca e 100 mg ao dia para hipertensão.
+Hipertensão
+Inspra® pode ser usado sozinho ou em combinação com outros agentes anti-hipertensivos. A dose inicial recomendada de Inspra® é de 50 mg administrada uma vez ao dia. Se a pressão arterial não for adequadamente controlada, a dose pode ser aumentada para 50 mg duas vezes ao dia. Doses mais altas não são recomendadas porque não têm um efeito maior sobre a pressão arterial e estão associadas a um risco aumentado de reações adversas, incluindo potássio aumentado. A adição de eplerenona ou placebo ao regime antihipertensivo de pacientes cuja pressão arterial não foi controlada com outros anti-hipertensivos resultou em reduções significativamente maiores na pressão sistólica.
+Insuficiência Cardíaca Classe II (Crônica) da NYHA
+Para pacientes com insuficiência cardíaca crônica classe II da NYHA e eTFG ≥ 50 mL/min/1,73 m2 , o tratamento deve ser iniciado com uma dose de 25 mg uma vez ao dia e, em seguida, aumentada para a dose alvo de 50 mg uma vez ao dia por 4 semanas, levando em conta o nível de potássio sérico.
+Níveis de potássio sérico
+O potássio sérico deve ser medido antes de iniciar o tratamento com Inspra®, na primeira semana e um mês após o início do tratamento ou ajuste da dose. O potássio sérico deve ser avaliado periodicamente depois disso, e a dose de Inspra® ajustada com base no nível de potássio sérico.
+Tabela 1. Ajuste de dose com base nos níveis de potássio sérico:
+Potássio sérico (mmol/L ou mEq/L) Ação Ajuste de dose
+<5,0 Aumento
+25 mg em dias alternados para 25 mg uma vez por dia
+25 mg uma vez por dia a 50 mg uma vez por dia
+5,0-5,4 Manutenção Sem ajuste de dose
+5,5-5,9 Diminuição 50 mg uma vez por dia a 25 mg uma vez por dia 
+25 mg uma vez por dia para 25 mg a cada dois dias 
+25 mg em dias alternados até a suspensão
+≥6,0 Retenção N/A
+Após a retenção de Inspra® devido ao potássio sérico ≥6,0 mmol/L (ou> 6,0 mEq/L), a eplerenona pode ser reiniciada com uma dose de 25 mg em dias alternados quando os níveis de potássio caíram abaixo de 5,0 mmol/L (ou 5,0 mEq/L).
+Considerações Gerais
+Potássio
+O potássio sérico deve ser medido antes do início do tratamento com Inspra® e, dentro de uma semana e depois de um mês após o início do tratamento ou após o ajuste de dose. Em seguida, potássio sérico deve ser avaliado periodicamente.
+Alimentos
+Inspra® pode ser administrado com ou sem alimentos.
+Medicamentos CYP3A4 concomitantes
+Os pacientes que estiverem recebendo inibidores leves a moderados de CYP3A4, tais como eritromicina, saquinavir, verapamil e fluconazol, devem receber a dose de 25 mg uma vez ao dia.
+Pacientes com insuficiência cardíaca NYHA Classe II (crônica) e insuficiência renal moderada (CrCl 30- 60 mL/min)
+Devem iniciar o tratamento com uma dose de 25 mg em dias alternados, titulada para a dose alvo de 25 mg uma vez ao dia, de preferência dentro de 4 semanas, apenas se os níveis de potássio sérico permanecerem <5,0 mmol/L.
+A avaliação periódica do potássio sérico é recomendada.
+Este medicamento não deve ser partido, aberto ou mastigado.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento de seu médico.

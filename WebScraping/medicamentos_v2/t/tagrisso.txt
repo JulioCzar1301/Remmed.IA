@@ -1,0 +1,81 @@
+Tagrisso, para o que é indicado e para o que serve?
+Tagrisso contém a substância ativa osimertinibe que pertence à classe de medicamentos contra o câncer chamados inibidores de tirosina quinase.
+Tagrisso é indicado para o tratamento de pacientes adultos com um tipo de câncer de pulmão chamado câncer de pulmão de não pequenas células (CPNPC) quando:
+O paciente teve resultado positivo para o teste de mutações de deleção no éxon 19 ou substituição no éxon 21 (L858R) do EGFR (Receptores do Fator de Crescimento Epidérmico) para tratamento adjuvante após remoção cirúrgica do tumor para prevenção do retorno do câncer. 
+Tratamento de pacientes com CPNPC localmente avançado e irressecável (estágio III), cujo tumor apresenta deleções no éxon 19 do EGFR ou mutações de substituição no éxon 21 (L858R) e cuja doença não progrediu durante ou após quimiorradioterapia concomitante ou sequencial à base de platina. 
+O paciente teve resultado positivo para o teste de mutações de deleção no éxon 19 ou substituição no éxon 21 (L858R) do EGFR (Receptores do Fator de Crescimento Epidérmico) para o tratamento inicial do câncer, podendo ser tratado com Tagrisso em monoterapia ou em combinação com pemetrexede e quimioterapia à base de platina. 
+O paciente teve resultado positivo para o teste de mutação T790M e o câncer progrediu durante o uso de, ou após terapia prévia com outros medicamentos inibidores de tirosina quinase dos Receptores do Fator de Crescimento Epidérmico (EGFR).
+
+
+Como o Tagrisso funciona?
+Tagrisso funciona bloqueando o EGFR e pode ajudar a retardar ou parar o crescimento do câncer de pulmão. Ele também pode ajudar a reduzir o tumor. Pode, ainda, ajudar a prevenir o retorno do tumor após sua remoção cirúrgica e impedir o crescimento do tumor após o tratamento com quimioterapia e radiação.
+Tagrisso será somente prescrito por um médico experiente no uso de medicamentos contra o câncer. Se você tiver qualquer dúvida sobre como Tagrisso funciona ou porquê este medicamento foi prescrito, pergunte ao seu médico.
+
+
+Quais as contraindicações do Tagrisso?
+Você não deve tomar Tagrisso se tiver alergia (hipersensibilidade) ao osimertinibe ou a qualquer outro excipiente contido na fórmula do medicamento.
+Você não deve tomar Tagrisso se estiver tomando Erva de São João (Hypericum perforatum).
+
+
+Como usar o Tagrisso?
+Tagrisso pode ser tomado com ou sem alimentos, no mesmo horário todos os dias.
+Este medicamento destina-se ao uso oral. Os comprimidos devem ser engolidos inteiros com água.
+Este medicamento não deve ser partido, aberto ou mastigado.
+Se o paciente não for capaz de engolir o comprimido, ele deve primeiro ser dissolvido em 50 mL de água sem gás. O comprimido deve ser colocado na água, sem esmagar, agitado até a dispersão e imediatamente ingerido. Um volume adicional de meio copo de água deve ser adicionado para garantir que nenhum resíduo permaneça no recipiente e então ingerido imediatamente.
+Caso seja necessária administração por sonda nasogástrica, o mesmo processo descrito acima deve ser seguido, mas com a utilização de volumes de 15 mL para a dispersão inicial e de 15 mL para a limpeza dos resíduos. O volume resultante de 30 mL de líquido deve ser administrado de acordo com as instruções do fabricante da sonda naso-gástrica com enxágues apropriados com água. A dispersão e os resíduos devem ser administrados dentro de 30 minutos da adição dos comprimidos na água.
+O tratamento com o Tagrisso deve ser iniciado por um médico experiente no uso de terapias contra o câncer.
+Ao se considerar o uso do Tagrisso, o status da mutação EGFR deve ser determinado, utilizando um teste validado para:
+Mutações de deleção no éxon 19 ou substituição no éxon 21 (L858R) (em amostra de tumor para o tratamento adjuvante, de tumor localmente avançado e irressecável e em amostra de tumor ou de plasma para tratamento de primeira linha).
+Mutação T790M (em amostra de tumor ou de plasma quando o câncer progrediu durante o uso de, ou após terapia prévia com medicamentos inibidores de tirosina quinase dos EGFR).
+Posologia do Tagrisso
+A dose recomendada de Tagrisso, quando ingerido sozinho ou quando ingerido com pemetrexede e uma quimioterapia à base de platina, é de 80 mg, uma vez ao dia, até progressão da doença ou toxicidade inaceitável no tratamento de câncer de pulmão localmente avançado ou metastático e, até recorrência da doença ou toxicidade inaceitável no tratamento adjuvante após remoção cirúrgica do tumor para prevenção do retorno do câncer.
+Dose esquecida
+Se você se esquecer de tomar uma dose de Tagrisso, tome a dose esquecida assim que se lembrar. Porém, se faltar menos de 12 horas para a próxima dose, você não deve tomar a dose esquecida, devendo esperar o horário da próxima dose. Tome a próxima dose no horário habitual.
+Ajuste de dose
+A interrupção da dose e/ou a redução da dose podem ser necessárias com base na segurança e tolerabilidade individuais. Se for necessária a redução da dose, então a dose de Tagrisso deve ser reduzida para 40 mg, uma vez ao dia. As orientações para redução da dose de Tagrisso devido à toxicidade das reações adversas são fornecidas na Tabela 1.
+Tabela 1. Recomendações de ajuste de dose para Tagrisso
+Órgão Alvo
+Reação Adversaa
+Modificação na Dose
+Pulmonarb
+DPI/Pneumonite
+Tagrisso deve ser permanentemente descontinuado
+DPI/Pneumonite após quimiorradioterapia definitiva à base de platina: assintomático (Grau 1)
+Tagrisso deve ser continuado ou interrompido e reiniciado, conforme apropriado
+DPI/Pneumonite após quimioradioterapia definitiva à base de platina: Grau ≥2
+Tagrisso deve ser permanentemente descontinuado
+Cardíacob
+Intervalo QTc maior do que 500 mseg em pelo menos 2 ECGs separados
+Tagrisso deve ser suspenso até que o intervalo QTc seja inferior a 481 mseg ou recuperado para o basal se o QTc basal for maior ou igual a 481 mseg, e então, reiniciado em uma dose reduzida (40 mg)
+Prolongamento do intervalo QTc com sinais/sintomas de arritmia grave
+Tagrisso deve ser permanentemente descontinuado
+Cutâneab
+Síndrome de Stevens-Johnson e necrólise epidérmica tóxica
+Tagrisso deve ser permanentemente descontinuado
+Sistema Sanguíneo e Linfáticob
+Anemia aplásica
+Tagrisso deve ser permanentemente descontinuado
+Outro
+Reação adversa de Grau 3 ou superior
+Tagrisso deve ser suspenso por até 3 semanas
+Se a reação adversa de Grau 3 ou superior melhorar para Grau 0-2 após a suspensão de Tagrisso por até 3 semanas
+Tagrisso pode ser reiniciado na mesma dose (80 mg) ou em uma dose menor (40 mg)
+Reação adversa de Grau 3 ou superior que não melhora para Grau 0-2 após a suspensão por até 3 semanas
+Tagrisso deve ser permanentemente descontinuado
+aNota: A intensidade dos eventos adversos clínicos é classificada de acordo com a Terminologia Comum para Eventos Adversos (CTCAE) do Instituto Nacional do Câncer (NCI) versão 4.0.
+bNota: Ver seção "Quais cuidados devo ter ao usar o Tagrisso?".
+Populações especiais de pacientes
+Nenhum ajuste de dose é necessário devido à idade do paciente, peso corporal, sexo, etnia e condição do tabagismo.
+Pacientes pediátricos e adolescentes
+A segurança e a eficácia de Tagrisso em crianças ou adolescentes com idade inferior a 18 anos não foram estabelecidas. Não existem dados disponíveis.
+Idosos (>65 anos)
+Tagrisso pode ser usado em adultos independentemente da idade.
+Disfunção hepática
+Nenhum ajuste de dose é recomendado em pacientes com disfunção hepática leve (Child Pugh A, bilirrubina total ≤ LSN e AST > LSN ou bilirrubina total entre 1,0 a 1,5 vezes LSN e qualquer valor de AST) ou disfunção hepática moderada (Child Pugh B, bilirrubina total entre 1,5 a 3,0 vezes LSN e qualquer valor de AST). A dose apropriada de Tagrisso não foi estabelecida em pacientes com disfunção hepática grave.
+Insuficiência renal
+Nenhum ajuste de dose é recomendado em pacientes com disfunção renal leve, moderada ou grave. A segurança e eficácia de Tagrisso não foi estabelecida em pacientes com doença renal em estágio terminal (depuração de creatinina (ClCr) menor que 15 mL/min, calculado pela equação de Cockcroft e Gault) ou em diálise. Cuidados devem ser tomados quando pacientes com disfunção renal grave e em estágio terminal são tratados.
+Terapia combinada
+Quando Tagrisso é administrado em associação com outros medicamentos anticancerígenos, é importante que você também leia a bula destes outros medicamentos. Se você tiver alguma dúvida sobre esses medicamentos, pergunte ao seu médico.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.
+Este medicamento não deve ser partido, aberto ou mastigado.

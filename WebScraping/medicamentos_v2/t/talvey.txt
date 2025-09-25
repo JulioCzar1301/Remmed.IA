@@ -1,0 +1,68 @@
+Talvey, para o que é indicado e para o que serve?
+O Talvey® é indicado para o tratamento de pacientes adultos com mieloma múltiplo (um tipo de câncer da medula óssea) recidivado ou refratário que receberam pelo menos três terapias anteriores, incluindo um inibidor de proteassoma, um agente imunomodulador e um anticorpo monoclonal anti-CD38 e que demonstraram progressão da doença na última terapia.
+Esse medicamento foi registrado por meio de um procedimento especial, conforme previsão da Resolução RDC nº 205, de 28 de dezembro de 2017, considerando a raridade e gravidade da doença para a qual está indicado. Novas informações ainda serão apresentadas à Anvisa e poderão gerar alterações nesta bula ou mesmo na condição do registro do medicamento.
+
+
+Como o Talvey funciona?
+O Talvey® é um medicamento anticâncer, que contém o talquetamabe como substância ativa. O talquetamabe é um anticorpo, que é um tipo de proteína, desenhado para reconhecer e atacar alvos específicos do corpo. 
+O Talvey® possui dois alvos:
+Receptor CD3 (grupo de diferenciação 3), expresso na superfície de células T, e;
+Receptor GPRC5D (família de receptores C acoplados à proteína G grupo 5 membro D), encontrado nas células de mieloma múltiplo.
+Talvey® funciona ligando-se, concomitantemente, às células do mieloma múltiplo e às células T, para desencadear mecanismos que levam à morte das células cancerígenas que expressam o GPRC5D.
+
+
+Quais as contraindicações do Talvey?
+Talvey® não deve ser utilizado em pacientes alérgicos ao talquetamabe ou a qualquer um dos componentes na formulação.
+
+
+Como usar o Talvey?
+O seu médico irá determinar a sua dose de Talvey®, a frequência e a duração do tratamento.
+As doses recomendadas de Talvey® serão administradas por via subcutânea em um cronograma de dose semanal ou a cada duas semanas, de acordo com a Tabela 1.
+Tabela 1: Dose Recomendada de Talvey®
+Cronograma de dose
+Fase
+Dia
+Dose de Talvey® a
+Cronograma de dose semanal
+Doses para escalonamento
+Dia 1
+0,01 mg/kg
+Dia 3b
+0,06 mg/kg
+Dia 5b
+0,4 mg/kg
+Dose de Tratamento
+Uma vez por semanac após a dose para escalonamento
+0,4 mg/kg
+Cronograma de dose a cada duas semanas
+Dose para escalonamento
+Dia 1
+0,01 mg/kg
+Dia 3b
+0,06 mg/kg
+Dia 5b
+0,4 mg/kg
+Dia 7b
+0,8 mg/kg
+Dose de Tratamento
+Uma vez a cada 2 semanasc após a dose para escalonamento
+0,8 mg/kg
+a A dose é fundamentada no peso corporal real e deve ser administrada por via subcutânea.
+b A dose pode ser administrada depois de 2 a 4 dias da dose anterior e pode ser administrada até 7 dias após a dose anterior, para permitir a resolução de reações adversas.
+c Manter um mínimo de 6 dias entre as doses semanais e um mínimo de 12 dias entre as doses quinzenais (a cada 2 semanas).
+Posologia recomendada
+As posologias recomendadas de Talvey® consistem em (veja Tabela 1):
+Uma dose de 0,4 mg/kg de peso corporal real administrada uma vez por semana após a conclusão do cronograma de doses para escalonamento ou; 
+Uma dose de 0,8 mg/kg de peso corporal real administrada uma vez a cada duas semanas após a conclusão do cronograma de doses para escalonamento.
+O Talvey® deve ser continuado até a ocorrência de progressão da doença ou toxicidade inaceitável.
+Talvey® será administrado por um médico ou enfermeiro como uma injeção sob a sua pele (injeção subcutânea) na área do abdômen ou coxa.
+Medicamentos administrados durante o tratamento com Talvey®
+Antes de cada dose do cronograma das doses para escalonamento de Talvey® podem ser administrados os medicamentos a seguir para reduzir o risco de síndrome de liberação de citocinas (SLC).
+Corticosteroide (dexametasona oral ou intravenosa, 16 mg ou equivalente);
+Anti-histamínico (difenidramina oral ou intravenosa, 50 mg, ou equivalente);
+Antipiréticos (acetaminofeno oral ou intravenoso, 650 mg a 1000 mg, ou equivalente).
+A administração dos medicamentos pré-tratamento pode ser necessária para doses subsequentes de Talvey® para pacientes que repetem doses na fase de escalonamento devido a atrasos de dose ou para pacientes que apresentarem SLCs.
+Você pode receber a recomendação de hospitalização para monitoramento de sinais e sintomas por 48 horas após a administração de todas as doses dentro do cronograma de doses para escalonamento de Talvey®.
+É importante ir a todas as suas consultas médicas para garantir que o tratamento funcione. Caso haja perda de dose, agende a próxima o mais rápido possível.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. 
+Não interrompa o tratamento sem o conhecimento do seu médico.

@@ -1,0 +1,95 @@
+Bortezomibe Bergamo/Amgen, para o que é indicado e para o que serve?
+O Bortezomibe é indicado para o tratamento de pacientes com mieloma múltiplo:
+Que não receberam tratamento prévio e impossibilitdos de receberem tratamento com alta dose de quimioterapia e transplante de medula óssea. Nesses pacientes, o Bortezomibe é utilizado em combinação com melfalana e prednisona.
+Que receberam pelo menos um tratamento anterior.
+
+
+Quais as contraindicações do Bortezomibe Bergamo/Amgen?
+O Bortezomibe é contraindicado em pacientes com hipersensibilidade ao Bortezomibe, boro ou manitol.
+Gravidez (Categoria D)
+Mulheres em idade fértil devem evitar a gravidez durante o tratamento com Bortezomibe.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica. Informe imediatamente seu médico em caso de suspeita de gravidez.
+
+
+Como usar o Bortezomibe Bergamo/Amgen?
+O Bortezomibe pode ser administrado por ambas as vias IV ou SC.
+Atenção: a via subcutânea somente pode ser utilizada para Bortezomibe.
+Para as diferentes vias de administração, diferentes volumes de solução de cloreto de sódio 0,9% são utilizados para reconstituir o medicamento. Após a reconstituição, a concentração de Bortezomibe por mL de solução para a administração subcutânea (2,5 mg/mL) é maior que a concentração para a administração intravenosa (1,0 mg/mL).
+Como cada via de administração tem diferentes concentrações da solução reconstituída, deve-se ter cuidado ao calcular o volume a ser administrado.
+A embalagem de Bortezomibe contém adesivos que sinalizam a via de administração a ser utilizada. Estes adesivos devem ser colados diretamente no frasco-ampola e na seringa de Bortezomibe durante sua reconstituição com a finalidade de alertar o profissional de saúde quanto à correta via de administração.
+O conteúdo de cada frasco-ampola de Bortezomibe deve ser reconstituído apenas com solução salina normal (0,9%), de acordo com as seguintes instruções baseadas na via de administração:
+O Bortezomibe deve ser administrado em injeção intravenosa ou subcutânea. Quando administrado em injeção intravenosa, Bortezomibe é injetado em bolus (3-5 segundos), através de cateter intravenoso periférico ou central, seguido por lavagem com solução de cloreto de sódio 0,9%.
+Para administração subcutânea, a solução reconstituída é injetada na coxa (direita ou esquerda) ou abdome (esquerdo ou direito). Os locais de injeção devem ser alternados para injeções sucessivas. Novas injeções devem ser administradas a, pelo menos, 2,5 cm do local anterior, e nunca em áreas em que o local esteja sensível, ferido, vermelho ou rígido.
+Se ocorrerem reações no local da injeção após a administração subcutânea de Bortezomibe, uma solução menos concentrada de Bortezomibe (1 mg/mL ao invés de 2,5 mg/mL) pode ser administrada por via subcutânea, ou alterada para injeção IV.
+Como cada via de administração apresenta diferente concentração da solução reconstituída, deve-se ter cuidado no momento de calcular o volume a ser administrado.
+Devem decorrer pelo menos 72 horas entre as administrações consecutivas de Bortezomibe.
+Ocorreram casos fatais de administração inadvertida de Bortezomibe pela via intratecal. O Bortezomibe deve ser administrado somente pelas vias intravenosa ou subcutânea.
+O Bortezomibe não deve ser administrado pela via intratecal.
+Monoterapia
+Mieloma Múltiplo Recidivado
+Dose recomendada
+A dose recomendada de Bortezomibe é de 1,3 mg/m2/dose administrada 2 vezes por semana durante 2 semanas (Dias 1, 4, 8 e 11), seguido por um período de repouso de 10 dias (Dias 12 a 21).
+Este período de 3 semanas é considerado como um ciclo de tratamento. Para extensão do tratamento além de 8 ciclos, Bortezomibe pode ser administrado no esquema padrão ou no esquema de manutenção de uma vez por semana por 4 semanas (Dias 1, 8, 15 e 22), seguido por um período de repouso de 13 dias (Dias 23 a 35).
+Deve ser observado intervalo de pelo menos 72 horas entre as doses consecutivas de Bortezomibe.
+Em estudos clínicos, pacientes com resposta completa (CR) confirmada receberam 2 ciclos adicionais de Bortezomibe. Recomenda-se que pacientes que respondem ao Bortezomibe recebam até 8 ciclos de tratamento.
+Modificação da dose e reinício do tratamento
+O tratamento com Bortezomibe deve ser interrompido ao início de qualquer evidência de toxicidade não hematológica de Grau 3 ou hematológica de Grau 4, excluindo neuropatia. Após a remissão dos sintomas de toxicidade, o tratamento com Bortezomibe pode ser reiniciado com dose 25% menor (1,3 mg/m2/dose reduzida para 1,0 mg/m2/dose; 1,0 mg/m2/dose reduzida para 0,7 mg/m2/dose).
+A Tabela a seguir contém a recomendação para modificação da dose em pacientes que apresentarem dor neuropática e/ou neuropatia sensorial periférica relacionada ao Bortezomibe. Neuropatia autonômica severa resultando na interrupção ou descontinuação do tratamento foi reportada. Pacientes com neuropatia grave pré-existente devem ser tratados com Bortezomibe somente após avaliação cuidadosa do risco-benefício.
+Tabela 12: Recomendação para modificação da dose de Bortezomibe na presença de dor neuropática e/ou neuropatia periférica sensorial ou motora relacionada ao tratamento
+Gravidade dos sinais e sintomas de neuropatia periféricaa Modificação do esquema posológico
+Grau 1 (assintomática, perda dos reflexos tendinosos profundos ou parestesia) sem dor ou perda de atividade Nenhuma ação
+Grau 1 com dor ou Grau 2 (sintomas moderados, limitando as atividades instrumentais da vida diária (AVD)b) Reduzir a dose de Bortezomibe para 1,0 mg/m2ou alterar o esquema de tratamento para 1,3 mg/m2 uma vez por semana.
+Grau 2 com dor ou Grau 3 (sintomas graves, limitando as AVD de autocuidadoc) Interromper o tratamento com Bortezomibe até a remissão da toxicidade. Depois, reiniciar o tratamento com dose reduzida de Bortezomibe (0,7 mg/m2) uma vez por semana.
+Grau 4 (consequências que ameaçam a vida do paciente; indicado intervenção urgente) Descontinuar o tratamento com Bortezomibe.
+a Classificação baseada no NCI Common ToxicityCriteria CTCAE v 4.
+b AVD instrumentais: Refere-se a preparar refeições, comprar mantimentos ou roupas, usar o telefone, administrar o dinheiro etc.
+c AVD de autocuidados: refere-se a tomar banho, vestir e despir-se, alimentar-se, usar o banheiro, tomar medicamentos e não estar acamado.
+Obs.: A redução da dose de Bortezomibe, recomendada quando da ocorrência de dor neuropática e/ou neuropatia sensorial periférica relacionada ao tratamento, pode levar à redução da eficácia do tratamento.
+Terapia combinada
+Mieloma múltiplo não tratado previamente – Pacientes não elegíveis a transplante de células-tronco
+Dose recomendada em combinação com melfalana e prednisona
+O Bortezomibe para injeção é administrado em combinação com melfalana e prednisona, por 9 ciclos de 6 semanas de tratamento. Nos Ciclos 1 a 4, Bortezomibe é administrado 2 (duas) vezes por semana (Dias 1, 4, 8, 11, 22, 25, 29 e 32). Nos Ciclos 5 a 9, Bortezomibe é administrado uma vez por semana (Dias 1, 8, 22 e 29).
+Tabela 13: Regime de dose recomendada para Bortezomibe quando usado em combinação com melfalana e prednisona para pacientes sem tratamento anterior para mieloma múltiplo e não elegíveis a transplante de medula óssea
+Mel = melfalana, Pred = prednisona.
+Guia de manuseio de dose para terapia combinada com melfalana e prednisona
+Modificação de dose e reinício quando Bortezomibe é administrado em combinação com melfalana e prednisona. Antes de iniciar um novo ciclo de terapia:
+Contagem de plaquetas deve ser ≥ 70 x 109/L e a contagem absoluta de neutrófilos deve ser ≥ 1,0 x 109/L.
+Toxicidade não-hematológica deve ser resolvida até Grau 1 ou condição basal.
+Tabela 14: Modificação de dose durante os ciclos subsequentes.
+Toxicidade
+Modificação ou atraso na dose
+Toxicidade hematológica durante um ciclo:
+Caso seja observada no ciclo anterior neutropenia ou trombocitopenia Grau 4 prolongada ou trombocitopenia com sangramento
+Considerar redução de 25% da dose de melfalana no próximo ciclo.
+Caso a contagem de plaquetas ≤ 30 x 109/L ou contagem absoluta de neutrófilos ≤ 0,75 x 109/L observada no dia de dose de Bortezomibe (exceto Dia 1)
+Bortezomibe deve ser interrompido.
+Se muitas doses de Bortezomibe forem suspensas no mesmo ciclo (≥ 3 doses durante a administração de duas vezes por semana ou ≥ 2 doses durante a administração semanal)
+A dose de Bortezomibe deve ser reduzida para um nível abaixo da dose (de 1,3 mg/m2 para 1 mg/m2, ou de 1 mg/m2 para 0,7 mg/m2).
+Toxicidade não-hematologica ≥ Grau 3
+Terapia com Bortezomibe deve ser interrompida até que os sintomas de toxicidade tenham sido resolvidos até Grau 1 ou condição basal. Então, Bortezomibe pode ser reiniciado com uma redução de nível de dose (de 1,3 mg/m2 para 1 mg/m2, ou de 1 mg/m2 para 0,7 mg/m2). Para dor neuropática e/ou neuropatia periférica relacionadas a Bortezomibe, manter e/ou modificar Bortezomibe conforme Tabela 12.
+Para informação adicional relacionada à melfalana e prednisona, veja informações de bula do fabricante.
+Para os ajustes da dose de Bortezomibe, deverão ser seguidas as diretrizes de modificação da dose descritas em relação à monoterapia.
+Dose recomendada para pacientes que não receberam tratamento prévio e que são elegíveis a transplante de células-tronco hematopoiéticas
+Terapia combinada com dexametasona
+Bortezomibe é administrado por injeção intravenosa na dose recomendada de 1,3 mg/m2 com base na área de superfície corporal duas vezes por semana durante duas semanas nos Dias 1, 4, 8, e 11, seguido por um período de repouso de 10 dias nos Dias 12 a 21. Este período de 3 semanas é considerado um ciclo de tratamento. São administrados quatro ciclos de tratamento com Bortezomibe. Devem decorrer pelo menos 72 horas entre as doses consecutivas de Bortezomibe.
+A dexametasona é administrada por via oral na dose de 40 mg nos Dias 1, 2, 3, 4 e Dias 8, 9, 10, 11 do ciclo de tratamento com Bortezomibe.
+Terapia combinada com dexametasona e talidomida
+Bortezomibe é administrado através de injeção intravenosa na dose recomendada de 1,3 mg/m2 com base na área de superfície corporal duas vezes por semana durante duas semanas nos Dias 1, 4, 8, e 11, seguido por um período de repouso de 17 dias nos Dias 12 a 28. Este período de 4 semanas é considerado um ciclo de tratamento. São administrados quatro ciclos de tratamento com Bortezomibe.
+Recomenda-se que os pacientes com pelo menos resposta parcial recebam 2 ciclos adicionais. Devem decorrer pelo menos 72 horas entre as doses consecutivas de Bortezomibe.
+A dexametasona é administrada por via oral na dose de 40 mg nos Dias 1, 2, 3, 4 e Dias 8, 9, 10, 11 dos ciclos de tratamento com Bortezomibe.
+A talidomida é administrada por via oral na dose de 50 mg por dia nos Dias 1 a 14 e, se tolerado, a dose é aumentada para 100 mg nos dias 15 a 28, e posteriormente pode ser aumentada para 200 mg por dia.
+Tabela 15: Posologia para terapia combinada com Bortezomibe para pacientes com mieloma múltiplo sem tratamento prévio elegíveis a transplante de medula óssea
+Vc = Bortezomibe; Dx = dexametasona; T = talidomida.
+a A dose de talidomida é aumentada para 100 mg a partir da semana 3 do Ciclo 1 apenas se a dose de 50 mg for tolerada e para 200 mg do ciclo 2 em diante se a dose de 100 mg for tolerada.
+b Até 6 ciclos podem ser administrados aos pacientes que atingirem pelo menos uma resposta parcial após 4 ciclos.
+A talidomida é uma substância ativa teratogênica humana conhecida, que causa malformações severas de risco à vida. A talidomida é contraindicada durante a gestação e em mulheres férteis, exceto se todas as condições do programa de prevenção de gestações da talidomida forem atendidas. Os pacientes que recebem Bortezomibe em combinação com talidomida deverão aderir ao programa de prevenção de gestações da talidomida. Consulte a bula da talidomida para informações adicionais.
+Ajustes de dose para pacientes elegíveis a transplante
+Para ajustes de dose de Bortezomibe para neuropatia consulte a Tabela 1.
+Adicionalmente, quando Bortezomibe é administrado em combinação com outros medicamentos quimioterápicos, devem ser consideradas reduções de dose apropriadas para estes medicamentos no caso de toxicidades, de acordo com as recomendações nas bulas desses produtos.
+Populações especiais
+Pacientes com insuficiência renal
+A farmacocinética de Bortezomibe não é influenciada pela gravidade da insuficiência renal. Desta forma, não é necessário ajuste da dose de Bortezomibe em pacientes com insuficiência renal. Uma vez que a diálise pode reduzir a concentração de Bortezomibe, o medicamento deve ser administrado após o procedimento de diálise.
+Pacientes com insuficiência hepática
+Pacientes com insuficiência hepática leve não requerem ajuste de dose inicial e devem ser tratados de acordo com a posologia recomendada de Bortezomibe. Pacientes com insuficiência hepática moderada ou grave devem iniciar o tratamento com Bortezomibe utilizando uma dose reduzida de 0,7 mg/m2 por injeção durante o primeiro ciclo e subsequentes aumentos gradativos da dose para 1,0 mg/m2 ou reduções de dose para 0,5 mg/m2 podem ser considerados, com base na tolerância do paciente (veja Tabela 16).
+Tabela 16: Modificação da dose inicial recomendada para Bortezomibe em pacientes com insuficiência hepática
+Abreviações: TGOS = transaminase glutâmico oxoloacética sérica; AST = aspartato aminotransferase; ULN = acima do limite da faixa de normalidade.

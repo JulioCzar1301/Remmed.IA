@@ -1,0 +1,51 @@
+Regiocit, para o que é indicado e para o que serve?
+Regiocit é indicado como solução de reposição para anticoagulação regional com citrato (RCA) do circuito extracorpóreo em pacientes tratados com CRRT (Terapia de Substituição Renal Contínua), particularmente quando a anticoagulação sistêmica com heparina é contraindicada, por exemplo, em pacientes com riscos aumentados de hemorragia.
+
+
+Como o Regiocit funciona?
+Regiocit é utilizado em doentes em estado crítico quando o medicamento utilizado normalmente para evitar a coagulação de sangue (heparina) não é apropriado. O citrato efetua a anticoagulação através de associação ao cálcio no sangue.
+
+
+Quais as contraindicações do Regiocit?
+Regiocit é contraindicado em pacientes com:
+Hipersensibilidade conhecida ao medicamento;
+Insuficiência hepática grave;
+Débito de sangue gravemente diminuído nos músculos.
+Categoria “C” de risco na gravidez.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Regiocit?
+A técnica asséptica deve ser usada durante todo o manuseio e administração ao paciente.
+Retire o invólucro do saco imediatamente antes de usar.
+Use somente se o invólucro não estiver danificado, todas as vedações devem estar intactas e a solução é clara. Pressione a bolsa com firmeza para testar qualquer vazamento. Se vazamento for descoberto, descarte a solução imediatamente, pois a esterilidade não pode mais ser garantida.
+Siga as instruções abaixo ao conectar os sacos de solução para o uso correto das portas de acesso:
+Se o conector luer for utilizado, remova a tampa com um movimento de torcer e puxar e conecte a trava luer macho na linha de diálise ou de reposição ao conector luer fêmea na bolsa usando um movimento de empurrar e torcer. Certifique-se de que a conexão esteja totalmente encaixada e aperte-a (consulte a Figura I). O conector agora está aberto. Verifique se o fluido está fluindo livremente. Quando a linha de diálise ou de reposição é separada do conector luer, o conector fecha e a solução deixa de fluir. A porta luer é uma porta sem agulha e lavável.
+Se o conector de injeção (ou conector de ponta) for usado, remova a tampa de encaixe. Introduza o espigão através do septo de borracha (veja a Figura II). Verifique se o fluido está fluindo livremente.
+ Antes de adicionar uma substância ou medicamento, verifique se é solúvel e estável em Regiocit e se o pH é apropriado.
+Aditivos conhecidos ou determinados como incompatíveis não devem ser adicionados.
+As instruções de uso do medicamento a ser adicionado e outras literaturas relevantes devem ser consultadas.
+Após a adição, se houver descoloração e/ou a aparência de precipitados, complexos insolúveis, ou cristais, não use.
+Misture bem a solução quando os aditivos tiverem sido introduzidos. A introdução e mistura de aditivos deve sempre ser realizada antes de conectar a bolsa de solução ao circuito extracorpóreo.
+A solução é apenas para uso único.
+Descarte qualquer porção não usada.
+Não deve ser utilizado para infusão intravenosa direta.
+Apenas remover o envoltório para o uso.
+Regocit é uma solução de reposição renal.
+Regocit possui osmolaridade 244 mOsm/L e pH de 7,4.
+Deve ser usado apenas no modo de pré-diluição, com equipamento de reposição renal extracorpóreo adequado para a CRRT.
+A taxa em que o Regiocit é administrado depende da dose alvo de citrato e da taxa de fluxo de sangue prescrito. A prescrição de Regiocit deve levar em conta as taxas de débito do efluente e outros fluidos terapêuticos, os requisitos de remoção de fluido do doente, as entradas e saídas adicionais de fluido e o equilíbrio pretendido de eletrólitos e ácido-base.
+A dosagem, taxa de infusão e volume acumulado deve ser estabelecida apenas por um médico experiente em medicina de cuidados críticos e CRRT.
+A taxa de pré-filtração de infusão de Regiocit (baseada na concentração) é indexada à taxa de fluxo sanguíneo para atingir uma concentração esperada de citrato no sangue de 3 a 4 mmol/L de sangue. A taxa de débito para anticoagulação no circuito extracorporal deve ser titulada para uma concentração pós-filtro de cálcio ionizado no intervalo entre 0,25 e 0,35 mmol/L. A concentração sistémica de cálcio ionizado do paciente deve ser mantida no intervalo fisiológico normal por ajuste do suplemento de cálcio.
+O citrato também atua como uma solução tampão (devido à conversão para bicarbonato); a taxa de infusão de Regiocit deve ser considerada em relação à taxa na qual a administração do tampão ocorre a partir de outras fontes (por exemplo, dialisado e/ou fluido de reposição). O Regiocit deve ser utilizado em conjunto com uma solução de reposição/solução de diálise com uma concentração adequada de bicarbonato.
+A redução da dose pode ser necessária em pacientes com insuficiência hepática leve a moderada; recomendase a monitorização mais frequente do acúmulo de citrato. O Regiocit não deve ser administrado em pacientes com redução da perfusão hepática e muscular (por exemplo, condições como choque séptico e acidose láctica) devido ao metabolismo de citrato limitado.
+Uma infusão separada de cálcio é sempre necessária. Ajuste ou interrompa a infusão de cálcio de acordo com a prescrição do médico quando a anticoagulação do Regiocit for interrompida.
+O monitoramento do cálcio ionizado no sangue pós-filtração (iCa), iCa sanguíneo sistêmico e níveis de cálcio no sangue total em conjunto com outros parâmetros laboratoriais e clínicos são essenciais para orientar a dosagem adequada de Regiocit com base no nível desejado de anticoagulação.
+Os níveis plasmáticos de sódio, magnésio, potássio e fosfato devem ser monitorados regularmente e devem ser suplementados conforme necessário.
+O Regiocit pode ser aquecido a 37°C para aumentar o conforto do paciente. O aquecimento do Regiocit antes do uso deve ser feito apenas com calor seco (por exemplo, bloco de aquecimento, placa de aquecimento). A solução não deve ser aquecida em água ou em um forno de microondas devido ao potencial de lesão ou desconforto do paciente.
+População pediátrica
+Para recém-nascidos e bebês (0 aos 23 meses), Regiocit deve visar uma dose de 3 mmol de citrato por litro de débito de sangue em hemofiltração ou hemodiafiltração continua veno-venosa. Para crianças (2 a 11 anos), a dosagem deve ser adaptada ao peso do doente e à taxa de débito de sangue.
+Populações especiais
+Na população idosa não existe qualquer modificação específica da dosagem comparativamente com os adultos.
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

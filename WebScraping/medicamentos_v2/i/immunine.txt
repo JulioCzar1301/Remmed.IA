@@ -1,0 +1,73 @@
+Immunine, para o que é indicado e para o que serve?
+Immunine é indicado na terapia e profilaxia de episódios de sangramento decorrentes de deficiência congênita ou adquirida de fator IX (hemofilia B, hemofilia B com inibidor do fator IX, deficiência adquirida do fator IX devido ao desenvolvimento espontâneo do inibidor do fator IX).
+
+
+Como o Immunine funciona?
+Immunine é um concentrado de fator IX de coagulação. Ele substitui o fator IX ausente ou o que não funciona adequadamente na Hemofilia B. Hemofilia B é uma doença hereditária ligada ao sexo que causa um defeito na coagulação devido à redução dos níveis de fator IX. Isto leva a um sangramento grave em articulações, músculos e órgãos internos, espontaneamente ou como consequência de acidente ou trauma cirúrgico.
+A administração de Immunine corrige temporariamente a deficiência de fator IX e reduz a tendência de sangramento.
+O tempo médio estimado para início da ação terapêutica do medicamento é de 10 a 30 minutos.
+
+
+Quais as contraindicações do Immunine?
+Não utilizar Immunine em caso de:
+Hipersensibilidade (alérgico) ao fator IX de coagulação humano ou a qualquer um dos componentes de Immunine.
+Coagulopatia de consumo e/ou hiperfibrinólise:
+Coagulopatia de consumo (CID, coagulação intravascular disseminada) é uma doença que pode levar à morte, onde ocorre coagulação do sangue em grande quantidade com formação de muitos coágulos nos vasos sanguíneos. O que consequentemente leva ao consumo de fatores de coagulação de todo o corpo.
+Hiperfibrinólise está presente quando a coagulação é reduzida, porque uma importante substância de coagulação (fibrina) está degradada.
+Alergia conhecida a heparina ou história de trombocitopenia induzida pela heparina.
+Trombocitopenia induzida pela heparina é uma diminuição anormal no número de células sanguíneas envolvidas na formação de coágulo de sangue, que é causada pelo uso de heparina.
+Após tratamento apropriado dessas condições, Immunine só deve ser utilizado caso o sangramento represente perigo à vida.
+
+
+Como usar o Immunine?
+Immunine deve ser administrado lentamente por via intravenosa após preparação da solução com o diluente fornecido.
+Immunine não deve ser misturado com outro medicamento antes da administração. Isso pode prejudicar a eficácia e segurança do produto.
+Seguir as orientações do médico.
+O tratamento deve ser iniciado sob supervisão de um médico com experiência no tratamento de hemofilia.
+A taxa de administração depende do nível de conforto do paciente e não deve exceder 2 mL por minuto.
+Usar somente o conjunto de administração fechado. Se outro conjunto de administração for utilizado, Immunine pode colar na parte interna do conjunto de infusão, o que pode levar a uma dose incorreta.
+Caso você esteja recebendo outros medicamentos por acesso venoso, deve-se lavar este acesso com uma solução adequada, como por exemplo, solução salina fisiológica, antes e depois da administração de Immunine.
+Immunine deve ser reconstituído imediatamente antes da administração, e em seguida, ser utilizado de imediato (a solução não contém conservantes).
+A solução para injeção é clara ou ligeiramente leitosa (opalescente). Não utilizar soluções turvas ou que possuam partículas visíveis.
+Descartar apropriadamente o produto dissolvido não utilizado.
+Reconstituição do pó para preparar a solução para injetáveis
+A solução deve ser preparada sob condições limpas e estéreis.
+Aquecer o frasco fechado contendo o diluente (água para injetáveis) à temperatura ambiente (máxima de 37 °C).
+Remover as tampas plásticas protetoras dos frascos do concentrado e do diluente (fig. A) e desinfetar as tampas de borracha de ambos.
+Remover a cobertura protetora de uma extremidade da agulha de ponta dupla (agulha de transferência), contida na embalagem, exercendo um movimento de torcer e puxar (fig. B). Inserir a agulha exposta através da tampa de borracha do frasco de diluente (fig. B e C).
+Remover a cobertura protetora da outra extremidade da agulha de transferência, tendo o cuidado de não tocar na extremidade exposta.
+Inverter o frasco de diluente sobre o frasco do concentrado e inserir a extremidade livre da agulha de transferência para dentro do frasco do concentrado (fig. D). O diluente será aspirado para dentro do frasco de concentrado por vácuo.
+Após todo o diluente ser transferido, desconectar os dois frascos removendo a agulha do frasco do concentrado (fig. E). Agitar suavemente ou girar o frasco do concentrado para acelerar a dissolução.
+Ao se completar a reconstituição do concentrado, inserir a agulha de aeração, contida na embalagem (fig. F), e qualquer espuma que tenha se formado desaparecerá. Remover a agulha de aeração.
+Injeção / Infusão
+A solução deve ser preparada sob condições limpas e estéreis.
+Remover a cobertura de proteção da agulha de filtro contida na embalagem, girando a tampa, e colocar a agulha na seringa descartável estéril. Aspirar a solução para dentro da seringa (fig. G).
+Desconectar a agulha de filtro da seringa e, lentamente (máximo de 2 mL/min), injetar a solução por via intravenosa, usando um conjunto de infusão fechado (ou agulha descartável fechada).
+Quando administrado por infusão, utilizar um conjunto descartável de infusão rápida com um filtro apropriado.
+Posologia do Immunine
+A dosagem e duração do tratamento podem variar de acordo com a gravidade da deficiência de fator IX, da localização e extensão do sangramento e da condição clínica do paciente. Um controle cuidadoso da terapia de reposição é especialmente importante no caso de cirurgias de grande porte e de hemorragias que representem perigo à vida.
+Hemofilia B
+Para calcular os níveis plasmáticos de fator IX da forma especificada abaixo, pressupõe-se que uma UI de Immunine por kg de peso corpóreo aumente o nível plasmático de fator IX em aproximadamente 0,8%.
+Levando-se em consideração a atividade plasmática do fator IX antes da infusão, determina-se a dose requerida usando a seguinte fórmula:
+Dose de Immunine (em UI de FIX) = peso corpóreo (em kg) x aumento desejado de FIX (em %) x 1,2. São necessárias determinações regulares do nível plasmático de fator IX do paciente para monitorar o curso da terapia e calcular as doses de manutenção apropriadas.
+Hemorragias e Cirurgia
+A tabela seguinte indica quais os níveis plasmáticos de fator IX necessários para o controle de hemorragias ou para a profilaxia cirúrgica e qual o tempo necessário a ser mantido:
+Tipo de hemorragia ou de intervenção cirúrgica
+Nível plasmático de fator IX terapeuticamente necessário
+Período durante o qual é necessário manter o nível plasmático de fator IX
+De pequeno porte, por exemplo: hemorragias intra articulares
+30%
+Pelo menos 1 dia, dependendo da gravidade da hemorragia
+De grande porte, por exemplo: hemorragias intramusculares, hemorragias na cavidade oral e traumatismo craniano brando, extrações dentárias, intervenções cirúrgicas com baixo risco de hemorragia 30 – 50% 3 – 4 dias ou até a absorção da hemorragia tecidual ou da cicatrização adequada da ferida
+Representando perigo à vida, por exemplo: hemorragias gastrointestinais, intracranianas, intra-abdominais ou intratorácicas, fraturas, intervenções cirúrgicas de grande porte com elevado risco de hemorragia 50 – 75% Após 7 dias, pode-se abaixar os níveis de fator IX, contudo deve se continuar a terapia durante pelo menos outros 7 dias ou até a absorção da hemorragia ou da cicatrização adequada da ferida
+Em geral, administra-se Immunine a cada 24 horas, em correspondência com a meia-vida biológica do fator IX. Para profilaxia cirúrgica, a dose inicial deve ser administrada uma hora antes da intervenção cirúrgica. No caso de intervenções cirúrgicas de grande porte, deve-se manter intervalos de tratamento de 12 horas durante os primeiros dias de pós-operatório.
+Terapia de manutenção profilática
+Na terapia de manutenção profilática da hemofilia B grave, uma dose de 20 – 30 UI/kg de peso corpóreo, duas vezes por semana, mostrou-se ser eficaz. Os regimes de dosagem profilática devem, no entanto, ser determinados em conformidade com as necessidades individuais.
+Hemorragias com inibidor do fator IX
+A terapia de substituição com fator IX é, em geral, eficaz somente em pacientes com baixa capacidade de resposta com um título de inibidor inferior a dez Unidades Bethesda.
+Dado que a resposta ao Immunine depende do título do inibidor do paciente, os níveis de fator IX devem ser monitorados frequentemente e a dose deve ser ajustada de forma correspondente.
+Inibidores
+Pacientes devem ser monitorados quanto ao desenvolvimento de inibidores de fator IX. Se os níveis de atividade de fator IX plasmáticos esperados não forem atingidos ou se o sangramento não for controlado em uma dosagem apropriada, deve ser realizado teste para determinar se um inibidor de fator IX está presente.
+Em pacientes com altos níveis de inibidor, a terapia com fator IX pode não ser eficaz e outras opções terapêuticas devem ser consideradas. O manejo de tais pacientes deve ser direcionado por médicos com experiência no atendimento de pacientes com hemofilia.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

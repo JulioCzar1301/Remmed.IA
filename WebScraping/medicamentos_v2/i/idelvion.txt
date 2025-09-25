@@ -1,0 +1,49 @@
+Idelvion, para o que é indicado e para o que serve?
+O medicamento é de venda sob prescrição e de uso adulto e pediátrico (idade acima de 1 ano).
+Indicações terapêuticas
+Este medicamento é indicado para o tratamento e profilaxia de sangramento em pacientes com hemofilia B (deficiência congênita do fator IX), incluindo o controle e a prevenção de sangramento em ambientes cirúrgicos.
+
+
+Quais as contraindicações do Idelvion?
+Hipersensibilidade aos componentes da fórmula.
+
+
+Como usar o Idelvion?
+O medicamento deve ser administrado por via intravenosa (IV).
+A dose e a duração da terapia de reposição dependem da gravidade da deficiência do fator IX, da localização e da extensão do sangramento, da condição clínica e da resposta do paciente.
+O número de unidades de fator IX administradas é expresso em Unidades Internacionais (UI), que estão relacionadas com o padrão atual da OMS para produtos de fator IX. Uma Unidade Internacional (UI) de atividade do fator IX é equivalente à quantidade de fator IX em um mL de plasma humano normal. A atividade do fator IX no plasma é expressa tanto em porcentagem (relativa ao plasma humano normal) quanto em Unidades Internacionais (relativa a um Padrão Internacional para o fator IX no plasma).
+Tratamento sob demanda
+O cálculo da dose necessária de fator IX baseia-se na observação empírica de que se espera que 1 Unidade Internacional (UI) de fator IX por kg de peso corporal seja capaz de aumentar o nível circulante de fator IX em uma média de 1,3 UI/dL (1,3% do normal) em pacientes ≥ 12 anos de idade e de 1,0 UI/dL (1,0% do normal) em pacientes < 12 anos de idade.
+A dose necessária é determinada utilizando as seguintes fórmulas:
+Dose necessária (UI) = peso corporal (kg) x aumento desejado do fator IX (% do normal ou UI/dL) x {recíproca da recuperação observada (UI/kg por UI/dL)};
+Aumento esperado do fator IX (UI/dl ou % do normal) = Dose (UI) x Recuperação (UI/dL por UI/kg) / peso corporal (kg).
+A quantidade a ser administrada e a frequência de administração deverão ser sempre orientadas em relação à efetividade clínica em cada caso individualmente.
+Para a determinação da dose de manutenção adequada, deve-se considerar a meia-vida prolongada do produto.
+Pacientes < 12 anos de idade
+Para uma recuperação de 1 UI/dL por 1 UI/kg, a dose é calculada da seguinte forma:
+Dose (UI) = peso corporal (kg) x aumento desejado de fator IX (UI/dL) x 1 dL/kg.
+Pacientes ≥ 12 anos de idade
+Para uma recuperação de 1,3 UI/dL por 1 UI/kg, a dose é calculada da seguinte forma:
+Dose (UI) = peso corporal (kg) x aumento desejado de fator IX (UI/dL) x 0,77 dL/kg.
+A tabela a seguir pode ser utilizada para orientar a dose para controle e prevenção de episódios de sangramento e em cirurgia:
+Grau de hemorragia/ Tipo de procedimento cirúrgico Nível requerido de fator IX (%) (UI/dL) Frequência das doses (horas) / Duração da terapia (dias)
+Hemorragia
+Hemartrose leve ou moderada, sangramento muscular (exceto iliopsoas) ou sangramento oral 30 - 60 Uma única dose deve ser suficiente para a maioria dos sangramentos. Dose de manutenção após 48 - 72 horas se houver mais evidências de sangramento
+Grave
+Hemorragias causando risco à vida, sangramento muscular profundo incluindo iliopsoas 60 - 100 Repetir a cada 48 - 72 horas na primeira semana, e depois dose de manutenção semanal até o sangramento parar e a cicatrização ser alcançada
+Cirurgias de pequeno porte
+Incluindo extração de dente sem complicações 50 - 80 (nível inicial) Uma única dose pode ser suficiente para a maioria das cirurgias de pequeno porte. Se necessário, uma a dose de manutenção pode ser administrada após 48 - 72 horas até parar o sangramento e a cicatrização ser alcançada
+Cirurgias de grande porte
+-
+60 - 100 (nível inicial) Repetir a cada 48 - 72 horas na primeira semana, e depois dose de manutenção 1 - 2 vezes por semana até parar o sangramento e a cicatrização ser alcançada
+Profilaxia
+Na profilaxia de rotina, para prevenir sangramentos em pacientes com hemofilia B, os esquemas recomendados são 25 a 40 UI/kg uma vez por semana. Pacientes bem controlados neste regime podem ter o esquema alterado para 50 a 75 UI/kg a cada 14 dias. O esquema posológico deve ser ajustado com base na condição clínica e na resposta do paciente.
+Pacientes previamente não tratados
+A segurança e eficácia de Idelvion® em pacientes previamente não tratados ainda não foram estabelecidas.
+População pediátrica
+Para a profilaxia de rotina, a posologia recomendada para pacientes pediátricos é a mesma dos adultos.
+O esquema de administração deve ser ajustado com base na condição clínica e na resposta individual do paciente.
+Idosos
+A posologia e o modo de administração em pessoas idosas (> 65 anos) não foram determinados em estudos clínicos.
+Monitoramento de inibidores
+Monitore os pacientes em relação ao desenvolvimento de inibidores do fator IX.

@@ -1,0 +1,41 @@
+Sarclisa, para o que é indicado e para o que serve?
+Sarclisa é indicado para o tratamento de pacientes adultos com mieloma múltiplo (um tipo de câncer da medula óssea).
+Sarclisa é utilizado juntamente com pomalidomida e dexametasona por pacientes com mieloma múltiplo recidivado e refratário que receberam pelo menos duas terapias anteriores, incluindo lenalidomida e um inibidor de proteassoma, e demonstraram progressão da doença na última terapia.
+Sarclisa é também utilizado juntamente com carfilzomibe e dexametasona por pacientes adultos com mieloma múltiplo recidivado e/ou refratário que receberam pelo menos uma terapia anterior.
+
+
+Como o Sarclisa funciona?
+O Sarclisa é um medicamento anticâncer que contém a substância ativa isatuximabe. O isatuximabe é um anticorpo monoclonal (proteínas que reconhecem e se ligam às proteínas específicas do corpo) que se liga a um epítopo extracelular específico do receptor CD38 e desencadeia vários mecanismos que levam à morte de células tumorais que expressam CD38.
+
+
+Quais as contraindicações do Sarclisa?
+Este medicamento não deve ser utilizado em pacientes alérgicos ao isatuximabe ou a qualquer outro componente da formulação.
+
+
+Como usar o Sarclisa?
+A dose recomendada de Sarclisa é de 10 mg/kg de peso corpóreo administrada por infusão (gota a gota) em uma veia (intravenosa) em combinação com pomalidomida e dexametasona ou em combinação com carfilzomibe e dexametasona.
+Sarclisa é utilizado em ciclos de tratamento de 28 dias (4 semanas) juntamente com pomalidomida e dexametasona ou com carfilzomibe e dexametasona.
+No Ciclo 1: Sarclisa é administrado semanalmente nos dias 1, 8, 15 e 22.
+No Ciclo 2 e posteriores: Sarclisa é administrado a cada 2 semanas no dia 1 e 15.
+Pré-medicação
+A pré-medicação deve ser usada antes da infusão de Sarclisa com os seguintes medicamentos para reduzir o risco e a gravidade das reações à infusão (RIs):
+Dexametasona 40 mg via oral ou IV (ou 20 mg via oral ou IV em pacientes com idade ≥ 75 anos): quando administrado em combinação com Sarclisa e pomalidomida.
+Dexametasona 20 mg (IV nos dias de infusão de Sarclisa e/ou carfilzomibe, e via oral nos demais dias): quando administrado em combinação com Sarclisa e carfilzomibe.
+Paracetamol 650 mg a 1000 mg via oral (ou equivalente).
+Difenidramina 25 mg a 50 mg IV ou via oral (ou equivalente [por exemplo, cetirizina, prometazina, dexclorfeniramina]). A via intravenosa é preferida para pelo menos as 4 primeiras infusões.
+A dose acima recomendada de dexametasona (via oral ou IV) corresponde à dose total a ser administrada apenas uma vez antes da infusão, como parte da pré-medicação e como parte da terapia combinada, antes da administração de Sarclisa e pomalidomida e antes da administração de Sarclisa e carfilzomibe.
+Ordem recomendada de administração da pré-medicação:
+Dexametasona via oral
+Dexametasona via oral;
+Paracetamol via oral;
+Difenidramina (IV).
+Dexametasona via IV
+Paracetamol via oral;
+Difenidramina (IV);
+Dexametasona IV.
+Caso a dexametasona seja administrada via oral, está deverá ser usada antes das demais pré-medicações, enquanto se for via IV, deverá ser administrada logo antes de Sarclisa, porém nunca de modo concomitante.
+A dexametasona administrada antes da infusão de Sarclisa corresponde à terapia combinada proposta e, portanto, esta deve ser mantida mesmo na ausência de reações à infusão nas primeiras 4 administrações de Sarclisa.
+Os agentes de pré-medicação recomendados devem ser administrados 15 a 60 minutos antes do início de uma infusão de Sarclisa. Pacientes que não apresentam RI nas 4 primeiras administrações de Sarclisa podem ter sua necessidade de pré-medicação subsequente reconsiderada.
+Seu médico continuará o tratamento até a progressão da doença ou toxicidade inaceitável.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento de seu médico.

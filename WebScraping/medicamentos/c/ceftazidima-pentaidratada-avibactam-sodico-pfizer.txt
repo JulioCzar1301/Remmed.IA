@@ -1,0 +1,72 @@
+Ceftazidima Pentaidratada + Avibactam Sodico Pfizer, para o que é indicado e para o que serve?
+Ceftazidima Pentahidratada + Avibactam Sódico (substância ativa) está indicado em adultos para o tratamento das seguintes infecções:
+Infecção Intra-abdominal complicada (IIAc);
+Infecção de Trato Urinário complicada, incluindo Pielonefrite (ITUc);
+Pneumonia adquirida no hospital (PAH), incluindo pneumonia associada à ventilação mecânica (PAV).
+Deve-se levar em consideração as diretrizes oficiais sobre o uso apropriado de agentes antibacterianos.
+Para o tratamento da IIAc, usar em combinação com metronidazol.
+Para reduzir o desenvolvimento de bactérias resistentes e manter a efetividade do medicamento e de outros antibacterianos o Ceftazidima Pentahidratada + Avibactam Sódico deve ser usado somente para tratar infecções comprovadamente ou fortemente suspeitas de serem causadas por bactérias susceptíveis.
+
+
+Quais as contraindicações do Ceftazidima Pentaidratada + Avibactam Sodico Pfizer?
+Hipersensibilidade aos princípios ativos.
+Hipersensibilidade à classe de antibacterianos cefalosporínicos.
+Hipersensibilidade imediata e grave (por exemplo, choque anafilático) a qualquer outro tipo de agente antibacteriano β-lactâmico (por exemplo, penicilinas, monobactâmicos ou carbapenêmicos).
+
+
+Como usar o Ceftazidima Pentaidratada + Avibactam Sodico Pfizer?
+A posologia recomendada de Ceftazidima Pentahidratada + Avibactam Sódico é 1 frasco-ampola, em que cada frasco-ampola contém 2 g de ceftazidima e 0,5 g de avibactam, administrado por infusão intravenosa (IV) em um volume de 100 mL, numa velocidade constante ao longo de 120 minutos em pacientes ≥ 18 anos de idade. O tratamento é repetido a cada 8 horas.
+Para pacientes com insuficiência renal nos quais a CLCr ≤ 50 mL/min, veja as doses recomendadas na Tabela 9.
+Duração do tratamento
+Tabela 8 Resumo da duração do tratamento por indicação ou condição
+Indicação Duração do Tratamento
+Infecção Intra-Abdominal Complicada (IIAc) 5-14 dias
+Infecção do Trato Urinário Complicada (ITUc), incluindo Pielonefrite 5-10 dias1
+Pneumonia adquirida no hospital (PAH), incluindo pneumonia associada à ventilação mecânica (PAV) 7-14 dias
+1 A duração do tratamento inclui o tratamento intravenoso mais oral. O momento da troca do tratamento intravenoso com Ceftazidima Pentahidratada + Avibactam Sódico para o tratamento oral com outro antibiótico depende da situação clínica, mas normalmente ocorre depois de cerca de 5 dias (a duração mínima do tratamento com ceftazidimaavibactam nos estudos clínicos foi de 5 dias).
+Para Infecção do Trato Urinário complicada (ITUc), incluindo Pielonefrite, a duração total do tratamento poderia ser aumentada para 14 dias para os pacientes com bacteremia.
+A duração do tratamento deve ser orientada pela gravidade da infecção, patógeno(s), e evolução clínica e bacteriológica do paciente.
+Populações especiais
+Pacientes idosos
+Não é necessário ajuste de dose para os idosos (≥ 65 anos). O regime de dose deve ser ajustado se a insuficiência renal estiver presente.
+Pacientes com insuficiência renal
+O seguinte ajuste de dose é recomendado em pacientes com insuficiência renal.
+Ajustes de dose para Ceftazidima Pentahidratada + Avibactam Sódico em pacientes com depuração de creatinina estimada (CLCr) ≤ 50 mL/min são descritos na Tabela 9 abaixo. A única informação sobre a posologia de Ceftazidima Pentahidratada + Avibactam Sódico para pacientes que precisam de diálise está disponível na condição de hemodiálise intermitente. Para outros tipos de diálise, foi sugerido que a dose/frequência de ceftazidima avibactam deve seguir a bula local/orientações locais para administração de ceftazidima. Por exemplo, para uma dose de 500 mg de ceftazidima, a dose de ceftazidima-avibactam seria 500 mg ceftazidima/125 mg avibactam.
+Tabela 9 Dose Recomendada para Pacientes com Insuficiência Renal*
+CLCr Estimada (mL/min)a Regime de Dose Recomendado ceftazidima/avibactam Tempo de Infusão (horas) Frequência de Administração (horária)
+50-31 1.000 mg/250 mg 2 Cada 8 horas
+30-16 750 mg/187,5 mg 2 Cada 12 horas
+15 a 6 750 mg/187,5 mgb 2 Cada 24 horas
+<6 750 mg/187,5 mgb 2 Cada 48 horas
+a Depuração de Creatinina (CLCr) calculada usando a fórmula de Cockcroft-Gault.
+b Ambos, ceftazidima e avibactam são hemodialisáveis; portanto, Ceftazidima Pentahidratada + Avibactam Sódico deve ser administrado depois da hemodiálise, no dia da hemodiálise.
+* Recomendações da dose são baseadas no modelo PK.
+Nos pacientes com insuficiência renal, o monitoramento regular da depuração de creatinina estimada é aconselhado, pois em alguns pacientes, especialmente no início do curso de suas infecções, a depuração estimada de creatinina a partir da creatinina sérica muda rapidamente.
+Hemodiálise
+Ambos, ceftazidima e avibactam são hemodialisáveis; portanto, Ceftazidima Pentahidratada + Avibactam Sódico deve ser administrado após a hemodiálise, no dia da hemodiálise.
+Hemofiltração
+Existem dados insuficientes para fazer recomendações específicas sobre o ajuste de dose para pacientes em hemofiltração contínua veno-venosa.
+Diálise peritoneal
+Existem dados insuficientes para fazer recomendações específicas sobre o ajuste de dose para pacientes em diálise peritoneal.
+Pacientes com insuficiência hepática
+Nenhum ajuste de dose é considerado necessário em pacientes com insuficiência hepática. O monitoramento rigoroso para segurança e eficácia é aconselhado.
+Pacientes pediátricos
+A segurança e a eficácia em pacientes pediátricos (< 18 anos de idade) não foram estabelecidas.
+Reconstituição e compatibilidade
+O pó deve ser reconstituído com água para injeção e a solução resultante deve ser diluída imediatamente antes do uso. A solução reconstituída é uma solução amarela pálida livre de qualquer partícula.
+Técnicas padrão de assepsia devem ser utilizadas para preparação e administração de soluções:
+Introduzir a agulha da seringa na tampa do frasco-ampola e injetar 10 mL de água estéril para injeção.
+Retirar a agulha e agitar o frasco-ampola para obter uma solução clara.
+Não introduzir agulha para retirada de ar até que o produto se dissolva. Inserir uma agulha para retirada do ar na tampa do frasco-ampola para diminuir a pressão interna.
+Transferir todo o conteúdo (aproximadamente 12,0 mL) da solução resultante para uma bolsa de infusão, imediatamente. Doses menores podem ser obtidas pela transferência de um volume apropriado da solução resultante para uma bolsa de infusão, com base no conteúdo de ceftazidima e avibactam de 167,3 mg/mL e 41,8 mg/mL, respectivamente. Uma dose de 1.000 mg/250 mg ou 750 mg/187,5 mg é obtida com alíquotas de 6,0 mL ou 4,5 mL, respectivamente.
+Nota: para preservar a esterilidade do produto, é importante que a agulha para remoção de ar não seja inserida na tampa do frasco-ampola até que o produto esteja dissolvido.
+Os frascos-ampolas de Ceftazidima Pentahidratada + Avibactam Sódico devem ser reconstituídos com 10 mL de água estéril para injeções, seguidas por agitação até a dissolução do conteúdo.
+Uma bolsa de infusão pode conter qualquer um dos seguintes diluentes:
+Solução injetável de cloreto de sódio 9 mg/mL (0,9%);
+Solução injetável de glicose 50 mg/mL (5%);
+Solução injetável de cloreto de sódio 4,5 mg/mL e glicose 25 mg/mL (cloreto de sódio 0,45% e glicose 2,5%);
+Solução de Ringer lactato.
+Uma bolsa de infusão de 100 mL pode ser usada para preparar a infusão, com base nas necessidades de volume do paciente.
+O intervalo de tempo total entre o início da reconstituição e o término da preparação da infusão intravenosa não deve exceder 30 minutos.
+Cada frasco-ampola destina-se a uso único.
+Qualquer produto não utilizado ou material residual deve ser descartado de acordo com as exigências locais.

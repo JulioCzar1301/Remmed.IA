@@ -1,0 +1,59 @@
+Noripurum EV, para o que é indicado e para o que serve?
+Este medicamento é destinado ao tratamento de anemias causadas por deficiência (falta) de ferro no organismo.
+
+
+Como o Noripurum EV funciona?
+Este medicamento reabastece o organismo com ferro, que é um elemento indispensável para a formação da hemoglobina.
+
+
+Quais as contraindicações do Noripurum EV?
+Noripurum EV não deve ser utilizado:
+Por pacientes portadores de anemias que não sejam causadas por deficiência de ferro;
+Por pacientes em situações de sobrecarga férrica ou distúrbios da utilização de ferro;
+Por pacientes alérgicos a sacarato de hidróxido férrico, Noripurum EV ou a qualquer um dos seus componentes.
+
+
+Como usar o Noripurum EV?
+Noripurum EV deve ser administrado por via intravenosa e nunca por via intramuscular.
+Pode-se administrar a solução por infusão, por injeção endovenosa lenta ou diretamente na linha do dialisador.
+Instruções para abertura da ampola
+A ampola de Noripurum EV possui no local de ruptura uma microincisão, o que facilita sua abertura.
+A ampola apresenta em sua haste duas identificações coloridas:
+Um ponto azul, que é o ponto de ruptura, e um anel roxo acima dele para identificação do produto.
+Para a correta abertura da ampola siga as instruções a seguir:
+Segure a ampola com uma das mãos, deixando o ponto de ruptura azul voltado para fora. Deve-se ter cautela para não deixar o produto entrar em contato com a roupa, pois causa manchas (Fig.1).
+Quebre a ampola pressionando com o polegar da outra mão a parte superior da ampola e fazendo uma flexão para trás com o dedo indicador (Fig. 2).
+Posologia do Noripurum EV
+A posologia de Noripurum EV deverá ser determinada individualmente, conforme a necessidade total de ferro, levando-se em conta três fatores:
+Grau de deficiência de ferro (em mg), déficit total de ferro em mg;
+Peso do paciente em kg;
+Reserva necessária de ferro.
+Pode-se calcular a dose total (em mL) para um tratamento completo com Noripurum EV aplicando as seguintes fórmulas:
+Deficiência total de Fe (mg) = [peso (kg) x DHb (g/dl) x 2,4] + reservas de Fe (mg).
+Total em mL de Noripurum EV a ser aplicado = Deficiência total de Fe (mg)/20 mg/mL.
+Onde:
+DHb = diferença entre a hemoglobina ideal para o sexo e a idade do paciente e a hemoglobina encontrada no exame laboratorial do paciente (em g/dL).
+2,4 = 0,34% (porcentagem de ferro presente em cada molécula de hemoglobina) X 7% (volume percentual aproximado de sangue no organismo).
+Valores normais de hemoglobina (Hb) desejados e reservas de ferro para os seguintes pesos aproximados:
+- Valores médios desejados de hemoglobina Reservas de ferro desejadas
+< 35 kg de peso corporal 13,0 g/dL 15 mg/kg
+> 35 kg de peso corporal 15,0 g/dL 500 mg
+Se a dose total necessária exceder a dose única máxima permitida, a administração deve ser dividida. A dose total administrada não deve exceder a dose calculada.
+Posologia média recomendada
+Adultos e pacientes idosos
+5 – 10 mL de Noripurum EV (100 a 200 mg de ferro) uma a três vezes por semana, dependendo do nível de hemoglobina.
+Crianças
+Há uma quantidade moderada de dadosreferentes a crianças nas situações estudadas. Se houver necessidade clínica, recomenda-se não exceder a dose de 0,15 mL de Noripurum EV (3 mg de ferro) por kg de peso corporal, por mais que três vezes na semana, dependendo do nível de hemoglobina.
+Cálculo da posologia para reposição de ferro secundária à perda de sangue e para compensar a doação de sangue autóloga
+A dose de Noripurum EV requerida para compensar a deficiência de ferro é calculada de acordo com as seguintes fórmulas:
+Se a quantidade de sangue perdido for conhecida: a administração intravenosa de 200 mg de ferro (=10 mL de Noripurum EV) resulta em um aumento do nível de hemoglobina equivalente a uma unidade de sangue (=400 mL com índice 150 g/L de hemoglobina).
+Ferro a ser reposto [mg] = número de unidades de sangue perdido x 200 ou Quantidade de Noripurum EV necessária [mL] = número de unidades de sangue perdido x 10.
+Se o nível de hemoglobina for reduzido: aplicar a fórmula anterior considerando que a reserva de ferro não precisa ser restaurada.
+Ferro a ser reposto [mg] = peso corporal [kg] x 0,24 x (hemoglobina ideal – hemoglobina real) [g/L].
+Por exemplo: peso corporal de 60 kg e déficit de hemoglobina de 10 g/L → ferro a ser reposto → 150 mg ≅ 7,5 mL de Noripurum EV necessário.
+Dose única máxima tolerada
+Adultos e pacientes idosos
+Injeção: 10 mL de Noripurum EV (200 mg de ferro) administrados ao longo de no mínimo 10 minutos.
+Infusão: Quando a situação clínica exigiu, chegaram-se a administrar doses de até 500 mg. A dose única máxima tolerada é de 7 mg de ferro por kg de peso corporal administrada uma vez por semana, mas não excedendo 25 mL de Noripurum EV (500 mg de ferro) diluídos em 500 mL de solução fisiológica estéril, administrados ao longo de no mínimo 3,5 horas.
+Os tempos de infusão recomendados neste item devem ser estritamente seguidos até mesmo se o paciente não receber a dose única máxima tolerada.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

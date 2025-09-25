@@ -1,0 +1,71 @@
+Voriconazol Pfizer, para o que é indicado e para o que serve?
+O voriconazol IV (intravenoso – na veia) é indicado para o tratamento de aspergilose invasiva (infecção produzida por um fungo da espécie Aspergillus), infecções invasivas graves causadas por Candida, incluindo candidemia (presença de fungos da espécie Candida no sangue) e candidíase esofágica (infecção do esôfago por fungos da espécie Candida, inclusive por C. krusei) e por Scedosporium spp. e Fusarium spp. (outras espécies de fungos). O voriconazol IV deve ser administrado principalmente a pacientes com infecções progressivas e com risco de vida.
+
+
+Como o Voriconazol Pfizer funciona?
+O voriconazol IV é um medicamento antifúngico (medicação que combate fungos) usado para tratar uma ampla variedade de infecções fúngicas (por fungos). O voriconazol IV age eliminando ou interrompendo o crescimento desses fungos causadores das infecções. O mecanismo de ação do voriconazol se dá através da inibição de um processo dentro da célula do fungo na formação do ergosterol, um componente da membrana celular dos fungos.
+
+
+Quais as contraindicações do Voriconazol Pfizer?
+O voriconazol IV é contraindicado a pacientes com hipersensibilidade (reação alérgica grave) conhecida ao voriconazol ou a qualquer componente da fórmula.
+Informe ao seu médico se você já teve alguma reação alérgica a outros azólicos (medicamentos antifúngicos como fluconazol, itraconazol entre outros).
+É também contraindicada a coadministração de voriconazol IV com os medicamentos que contenham terfenadina, astemizol, cisaprida, pimozida, quinidina, ivabradina, carbamazepina, barbitúricos de longa ação (incluindo mas não limitado a: fenobarbital, mefobarbital), efavirenz, alcaloides do ergot (incluindo mas não limitado a: ergotamina, diidroergotamina), rifabutina, rifampicina, ritonavir, erva de São João, naloxegol, tolvaptan, venetoclax, lurasidona, fluconazol, fenitoína, anticoagulantes (varfarina, e outras cumarinas orais, incluindo mas não limitado a: femprocumona, acenocumariol), ivacaftor, imunossupressores (sirolimo, everolimo, ciclosporina e tacrolimo), opioides de ação longa (oxicodona), metadona, anti-inflamatórios não esteroidais (ibuprofeno e diclofenaco), omeprazol, contraceptivos orais (noretisterona/etinilestradiol), opioides de ação curta (alfentanila e fentanila), estatinas (ex: lovastatina), sulfonilureias (incluindo mas não limitado a: tolbutamida, glipizida, gliburida), alcaloides de vinca (incluindo mas não limitado a: vincristina e vinblastina), outros inibidores da protease do HIV (incluindo mas não limitado a: saquinavir, amprenavir e nelfinavir), outros inibidores não nucleosídicos da transcriptase reversa (incluindo mas não limitado a: delavirdina, nevirapina), cimetidina, digoxina, indinavir, antibióticos macrolídeos (erotromicina e azitromicina), ácido micofenólico, corticosteroides (prednisolna), ranitidina.
+Este medicamento é contraindicado para menores de 2 anos de idade.
+
+
+Como usar o Voriconazol Pfizer?
+O voriconazol IV sempre será preparado e administrado por um médico ou por um profissional de saúde especializado.
+As instruções para administração, reconstituição, diluição e infusão estão disponibilizadas na bula destinada aos Profissionais de Saúde, pois somente um médico ou um profissional de saúde especializado poderá preparar e administrar a medicação.
+Seu médico determinará a duração do tratamento e a quantidade de medicamento administrada por dia, e monitorará sua resposta e condições. Em geral, a duração do tratamento deve ser baseada na resposta clínica do paciente.
+Uso em Adultos
+As informações detalhadas das recomendações de dosagem são apresentadas na tabela a seguir:
+Infecção Dose de Ataque Dose de Manutenção
+Aspergilose invasiva 6 mg/kg a cada 12 horas (nas primeiras 24 horas) 4 mg/kg a cada 12 horas
+Infecções invasivas graves por Candida, inclusive candidemia 6 mg/kg a cada 12 horas (nas primeiras 24 horas) 3-4 mg/kg a cada 12 horas*
+Candidíase esofágica 6 mg/kg a cada 12 horas (nas primeiras 24 horas) Não recomendado (utilizar tratamento oral se possível)
+Scedosporioses e Fusarioses 6 mg/kg a cada 12 horas (nas primeiras 24 horas) 4 mg/kg a cada 12 horas
+*Em estudos clínicos, pacientes com candidemia (presença do fungo Candida no sangue) receberam como terapia inicial 3 mg/kg a cada 12 horas, enquanto pacientes com outras infecções profundas por Candida receberam 4 mg/kg como terapia de salvamento. Dose apropriada deve basear-se na gravidade e natureza da infecção.
+Ajuste de Dose
+Se os pacientes não tolerarem o tratamento de 4 mg/kg a cada 12 horas, reduzir a dose intravenosa de manutenção para o mínimo de 3 mg/kg a cada 12 horas.
+A fenitoína pode ser coadministrada com voriconazol IV, se a dose de manutenção do voriconazol for aumentada para 5 mg/kg por via intravenosa, a cada 12 horas.
+Quando voriconazol IV é coadministrado com doses ajustadas de efavirenz, a dose de manutenção de voriconazol deve ser aumentada para 400 mg a cada 12 horas.
+A duração do tratamento depende da resposta clínica e micológica (relativa a fungos) dos pacientes. A duração do tratamento com a formulação intravenosa não deve ser superior a 6 meses.
+Uso em Pacientes Idosos
+Não é necessário ajuste da dose em pacientes idosos.
+Uso em Pacientes com Insuficiência Renal (falência da função dos rins)
+Em pacientes com insuficiência renal (diminuição da função dos rins) moderada a grave (clearance de creatinina < 50 mL/min) deve ser administrada a formulação oral de voriconazol, exceto quando a avaliação de risco-benefício para o paciente justifique o uso da formulação intravenosa. As concentrações séricas (no sangue) de creatinina (exame que verifica a função dos rins) devem ser rigorosamente monitoradas nestes pacientes.
+Uso em Pacientes com Insuficiência Hepática (falência da função do fígado)
+Para pacientes com cirrose hepática (processo que leva a destruição gradual das células do fígado) de grau leve a moderado (classe A e B de Child-Pugh), em tratamento com voriconazol IV, recomenda-se o uso dos regimes de dose de ataque padrão, mas somente metade da dose de manutenção.
+O voriconazol IV não foi estudado em pacientes com cirrose hepática crônica grave (classe C de Child-Pugh).
+Uso em Crianças
+A segurança e a eficácia em pacientes pediátricos com idade inferior a 2 anos não foram estabelecidas. Portanto, voriconazol IV não está recomendado para crianças com menos de 2 anos de idade.
+Uso em Crianças (2 a < 12 anos) e Adolescentes (12 a 14 anos e < 50 kg)
+O regime de dose recomendado é o seguinte:
+--- Intravenosa
+Dose de ataque (nas primeiras 24 horas) 9 mg/kg a cada 12 horas
+Dose de manutenção (após as primeiras 24 horas) 8 mg/kg a cada 12 horas
+Nota: Baseado na análise de farmacocinética populacional em 112 pacientes pediátricos imunocomprometidos de 2 a <12 anos e 26 adolescentes imunocomprometidos de 12 a <17 anos.
+Não foi estudado o uso de voriconazol IV em pacientes pediátricos com idade de 2 a < 12 anos com insuficiência renal ou hepática.
+Uso em todos os outros Adolescentes (12 a 14 anos e ≥ 50 kg; 15 a 16 anos independente do peso corpóreo)
+O regime posológico de voriconazol IV deve ser o mesmo indicado para os adultos.
+Ajuste de Dose
+Em pacientes com resposta inadequada, a dose pode ser aumentada em intervalos de 1 mg/kg. Se os pacientes não conseguirem tolerar o tratamento, reduzir a dose em intervalos de 1 mg/kg.
+O voriconazol IV deve ser reconstituído e posteriormente diluído antes da administração. Recomenda-se que voriconazol IV, pó liofilizado para solução injetável, seja administrado a uma velocidade de infusão máxima equivalente a 3mg/kg por hora, durante 1 a 3 horas. A solução não deve ser administrada em “bolus” (direto na veia) ou injeção intramuscular. A solução reconstituída não utilizada deve ser descartada.
+Os medicamentos para administração parenteral devem ser inspecionados visualmente quanto à presença de micropartículas antes da administração. Se houver evidência de micropartículas nos líquidos reconstituídos, a solução deve ser descartada.
+Diluir essa solução imediatamente antes da administração.
+Este medicamento não deve ser misturado com outros medicamentos, exceto as soluções descritas a seguir:
+Cloreto de sódio 9 mg/mL (0,9%) para Infusão Intravenosa;
+Ringer lactato para infusão intravenosa;
+Glicose 5% e ringer lactato de sódio para infusão intravenosa;
+Glicose 5% e cloreto de sódio a 0,45% para Infusão Intravenosa;
+Glicose 5% para Infusão Intravenosa;
+Glicose 5% em 20 mEq de cloreto de potássio para Infusão Intravenosa;
+Cloreto de sódio 0,45% para Infusão Intravenosa;
+Glicose 5% e cloreto de sódio a 0,9% para Infusão Intravenosa.
+Medicação suplementar não deve ser adicionada (exceto as soluções citadas anteriormente) e não deve ser utilizada a mesma linha intravenosa para administração de outra medicação simultaneamente.
+O voriconazol IV não deve ser infundido concomitantemente com qualquer derivado sanguíneo ou qualquer infusão rápida de suplementação eletrolítica (eletrólitos que são componentes do sangue, como sódio e potássio).
+O voriconazol IV pode ser infundido simultaneamente com outras soluções eletrolíticas intravenosas (não concentradas), porém deve ser infundido através de linha separada.
+O voriconazol IV pode ser infundido simultaneamente com nutrição parenteral total (nutrição administrada diretamente na veia), porém deve ser infundido através de linha separada.
+O voriconazol IV não deve ser diluído com infusão intravenosa de bicarbonato de sódio a 4,2%.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

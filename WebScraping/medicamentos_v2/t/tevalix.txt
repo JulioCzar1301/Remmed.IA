@@ -1,0 +1,59 @@
+Tevalix, para o que é indicado e para o que serve?
+Linezolida está indicado no tratamento de infecções presumidas ou comprovadamente causadas por bactérias sensíveis.
+Entre estas infecções bacterianas se destacam as associadas com bacteremia concomitante, como por exemplo:
+Pneumonia adquirida em ambiente hospitalar (incluindo aquelas relacionadas à ventilação mecânica) ou comunitário;
+Infecções de pele e de partes moles complicadas (incluindo pé diabético sem osteomielite concomitante) e não complicadas;
+Infecções enterocócicas, incluindo aquelas causadas por cepas de Enterococcus faecium e Enterococcus faecalis resistentes à vancomicina.
+Linezolida é ativo somente contra bactérias Gram-positivas. Linezolida não tem atividade contra patógenos Gram-negativos. É exigida terapia Gram-negativa específica caso se confirme ou se suspeite de um patógeno Gram-negativo concomitante.
+
+
+Quais as contraindicações do Tevalix?
+Linezolida é contraindicado a pacientes que apresentam hipersensibilidade à Linezolida ou a qualquer um dos componentes da fórmula. Linezolida também é contraindicado a pacientes que estejam utilizando qualquer medicamento que seja um inibidor das monoaminoxidases A ou B (ex.: fenelzina, isocarboxazida) ou até duas semanas de uso de qualquer um destes medicamentos. A menos que os pacientes sejam monitorados quanto a um potencial aumento da pressão sanguínea, Linezolida não deve ser administrado em pacientes com hipertensão não controlada, feocromocitoma, tireotoxicose e/ou pacientes utilizando algum dos seguintes tipos de medicamentos: agentes simpatomiméticos de ação direta ou indireta (ex.: pseudoefedrina, fenilpropanolamina), agentes vasoconstritores (ex.: epinefrina, norepinefrina), agentes dopaminérgicos (ex.: dopamina, dobutamina).
+Linezolida não deve ser administrado em pacientes com síndrome do carcinoide e/ou pacientes utilizando algum dos seguintes medicamentos: inibidores de recaptação de serotonina, antidepressivos tricíclicos, agonistas do receptor de serotonina 5-HT1 (triptanos), meperidina ou buspirona, a menos que os sinais e/ou sintomas da síndrome serotoninérgica sejam cuidadosamente observados nos pacientes.
+
+
+Como usar o Tevalix?
+Linezolida pode ser utilizado tanto como tratamento inicial quanto para a substituição ou continuidade de outros tratamentos em infecções bacterianas. Os pacientes que iniciam o tratamento com a formulação parenteral podem passar a receber a formulação oral, quando clinicamente indicado. Nessas circunstâncias, não é necessário ajuste posológico, visto que a Linezolida possui uma biodisponibilidade de aproximadamente 100%.
+A dose recomendada de Linezolida deve ser administrada por via oral duas vezes ao dia para pacientes adultos e três vezes ao dia na faixa etária pediátrica.
+Duração e dosagens recomendadas
+Infecções*
+Dosagens e Vias de Administração
+Duração recomendada de tratamento
+Pacientes pediátricos† (do nascimento até 11 anos de idade)
+Adultos e Adolescentes (com 12 anos de idade ou acima)
+Infecções complicadas de pele e tecidos moles
+10 mg/kg oral ou IV a cada 8 horas
+600 mg oral ou IV a cada 12 horas
+10 -14 dias consecutivos
+Pneumonia adquirida na comunidade, incluindo bacteremia concomitante
+Pneumonia hospitalar
+Infecções enterocócicas resistentes a vancomicina, incluindo bacteremia concomitante
+10 mg/kg oral ou IV a cada 8 horas 600 mg oral ou IV a cada 12 horas
+14-28 dias consecutivos
+Infecções não complicadas de pele e tecidos moles
+< 5 anos: 10 mg/kg oral ou IV a cada 8 horas
+5-11 anos: 10 mg/kg oral ou IV a cada 12 horas 600 mg oral ou IV a cada 12 horas
+10 -14 dias consecutivos
+* De acordo com os patógenos designados.
+† Neonatos < 7 dias: A maioria dos neonatos pré-termo < 7 dias de idade (idade gestacional < 34 semanas) apresentam valores menores de depuração sistêmica da Linezolida e valores maiores de AUC que muitos neonatos a termo e lactentes com idades superiores. O tratamento para estes neonatos deve ser iniciado com uma dose de 10 mg/Kg a cada 12 horas. Deve-se considerar o uso de uma dose de 10 mg/Kg a cada 8 horas em neonatos com uma resposta clínica inadequada. Todos os pacientes neonatos devem receber 10 mg/Kg a cada 8 horas a partir dos 7 dias de vida.
+Pacientes idosos e pacientes do sexo feminino
+Não é necessário ajuste de dose.
+Pacientes com insuficiência renal
+Não é necessário ajuste posológico.
+Pacientes com insuficiência renal grave (p. ex.: CLCR < 30 mL/min)
+Não é necessário ajuste de dose. Devido ao significado clínico desconhecido de altas exposições (até 10 vezes) os dois metabólitos principais da Linezolida em pacientes com insuficiência renal grave, a Linezolida deve ser administrada com cautela nestes pacientes e somente quando os benefícios esperados superarem os riscos teóricos. Como aproximadamente 30% da dose de Linezolida é removida durante 3 horas de hemodiálise, a Linezolida deve ser administrada após a sessão de diálise em pacientes recebendo tal tratamento. Os principais metabólitos da Linezolida são significativamente removidos pela hemodiálise, mas as concentrações destes metabólitos ainda são consideravelmente altas após a diálise quando comparadas àquelas observadas em pacientes com função renal normal ou insuficiência renal de leve a moderada. Portanto, a Linezolida deve ser utilizada com especial cuidado em pacientes com insuficiência renal grave, submetidos a diálise e somente quando os benefícios previstos superarem o risco teórico. Não há dados sobre a experiência de Linezolida administrada a pacientes submetidos a diálise peritoneal ambulatorial continua (CAPD) ou tratamentos alternativos para falência renal (outros que a hemodiálise).
+Pacientes com insuficiência hepática
+Não é necessário ajuste de dose.
+No entanto, os dados clínicos disponíveis são limitados e, portanto, recomenda-se que Linezolida seja administrada em tais pacientes somente quando o benefício previsto superar o risco teórico.
+Exclusivo Comprimido
+Este medicamento não deve ser partido, aberto ou mastigado.
+Os comprimidos revestidos podem ser administrados com ou sem alimentos.
+Exclusivo Solução Injetável
+A solução para infusão deve ser administrada durante 30 a 120 minutos.
+Instruções para uso e manuseio
+Remova a embalagem de papel laminado quando estiver pronto para ser usado. Verifique se existe vazamento apertando a bolsa firmemente. Se houver qualquer vazamento, não utilize a bolsa, pois a esterilidade pode ter sido afetada. Toda solução não utilizada deve ser desprezada. Administre a solução para infusão intravenosa em um período de 30 a 120 minutos.
+Não utilize as bolsas de infusão intravenosa em conexões seriadas.
+Não introduza aditivos na solução. Se a infusão de Linezolida for realizada concomitantemente à administração de outro fármaco, cada fármaco deve ser administrado separadamente, de acordo com as doses recomendadas e a via de administração para cada produto. Não reconecte as bolsas parcialmente usadas. A solução para infusão é compatível com as seguintes soluções: dextrose a 5%, cloreto de sódio a 0,9%, Ringer-lactato para injeção (Solução de Hartmann para injeção).
+Incompatibilidade
+Não introduza aditivos na solução. Se a infusão de Linezolida for realizada concomitantemente à administração de outros fármacos, cada fármaco deve ser administrado separadamente, de acordo com as doses recomendadas e a via de administração para cada produto. Do mesmo modo, se for necessário usar o mesmo cateter intravenoso para a infusão sequencial de várias drogas, o cateter deve ser lavado antes e depois da administração da Linezolida, com pequeno volume de uma solução de infusão compatível.
+A solução para infusão é fisicamente incompatível com os seguintes compostos: anfotericina B, cloridrato de clorpromazina, diazepam, isetionato de pentamidina, lactobionato de eritromicina, fenitoína sódica e sulfametoxazol/trimetoprima e quimicamente incompatível com a ceftriaxona sódica.

@@ -1,0 +1,220 @@
+Voriconazol Farma Vision Importadora e Exportadora de Medicamentos, para o que é indicado e para o que serve?
+Voriconazol é um agente antifúngico triazólico de amplo espectro, e é indicado para tratamento de aspergilose invasiva; tratamento de infecções invasivas graves por Candida, incluindo candidemia e candidíase esofágica (incluindo C. krusei) e; tratamento de infecções fúngicas graves causadas por Scedosporium spp. e Fusarium spp.
+Voriconazol deve ser administrado principalmente a pacientes com infecções progressivas e passíveis de causar a morte.
+
+
+Quais as contraindicações do Voriconazol Farma Vision Importadora e Exportadora de Medicamentos?
+Voriconazol é contraindicado a pacientes com hipersensibilidade conhecida ao voriconazol ou a qualquer componente da fórmula.
+A coadministração de substratos do CYP3A4, tais como terfenadina, astemizol, cisaprida, pimozida ou quinidina com Voriconazol é contraindicada, uma vez que o aumento da concentração plasmática desses fármacos pode levar ao prolongamento do intervalo QTc e ocorrências raras de torsade de pointes.
+A coadministração de Voriconazol e sirolimo está contraindicada uma vez que voriconazol pode causar aumento significativo das concentrações plasmáticas de sirolimo em indivíduos sadios.
+A coadministração de Voriconazol com rifabutina, rifampicina, carbamazepina e barbitúricos de longa ação (ex.: fenobarbital) é contraindicada, uma vez que estes fármacos podem provocar decréscimo significativo das concentrações plasmáticas de voriconazol.
+A coadministração de doses padrão de Voriconazol com doses de efavirenz de 400 mg uma vez ao dia ou superior é contraindicada, porque o efavirenz reduz significativamente a concentração plasmática de voriconazol em indivíduos saudáveis nestas doses. O voriconazol também aumenta significativamente a concentração plasmática de efavirenz.
+A coadministração de Voriconazol e altas doses de ritonavir (400 mg e mais que duas vezes ao dia) está contraindicada uma vez que o ritonavir diminui significativamente a concentração plasmática de voriconazol nesta dose em indivíduos sadios.
+A coadministração de alcaloides do ergot (ergotamina, diidroergotamina), os quais são substratos de CYP3A4, é contraindicada, uma vez que o aumento das concentrações plasmáticas desses fármacos pode levar ao ergotismo.
+A coadministração de Voriconazol com Erva de São João é contraindicada.
+Este medicamento é contraindicado para menores de 2 anos.
+
+
+Como usar o Voriconazol Farma Vision Importadora e Exportadora de Medicamentos?
+Comprimido
+Voriconazol comprimidos revestidos deve ser administrado pelo menos uma hora antes ou uma hora após a refeição.
+Uso em Adultos
+A terapia com Voriconazol deve ser iniciada com o regime de dose de ataque intravenoso, para se obter no Dia 1, concentrações plasmáticas adequadas. O tratamento intravenoso deve continuar por pelo menos 7 dias antes da troca para a terapia oral. Uma vez que o paciente está clinicamente melhor e torna-se tolerante a medicação administrada por via oral, o comprimido de voriconazol pode ser utilizado. Devido à alta biodisponibilidade oral (96%), a troca entre a administração intravenosa e a oral é adequada, quando indicada clinicamente.
+Informações detalhadas das recomendações de dosagem são apresentadas na tabela a seguir:
+Infecção
+Dose de Manutençãoa
+Pacientes com 40 kg ou mais
+Pacientes com menos de 40 kg
+Aspergilose invasivab
+200 mg a cada 12 horas
+100 mg a cada 12 horas
+Infecções invasivas graves por Candida, inclusive candidemia
+200 mg a cada 12 horas
+100 mg a cada 12 horas
+Candidíase esofágica
+200 mg a cada 12 horas
+100 mg a cada 12 horas
+Scedosporioses e Fusarioses
+200 mg a cada 12 horas
+100 mg a cada 12 horas
+a. Em estudos com voluntários sadios, a dose oral de 200 mg a cada 12 horas resultou em uma exposição (AUCτ) similar à dose IV de 3 mg/kg a cada 12 horas, a dose oral de 300 mg a cada 12 horas resultou em uma exposição (AUCτ) similar à dose IV de 4 mg/kg a cada 12 horas.
+b. A duração mediana da terapia oral de voriconazol foi de 76 dias (variação 2 – 232 dias).
+Ajuste de Dose
+Caso a resposta do paciente seja inadequada, a dose de manutenção deve ser aumentada de 200 mg a cada 12 horas (similar à dose IV de 3 mg/kg a cada 12 horas) para 300 mg a cada 12 horas (similar à dose IV de 4 mg/kg a cada 12 horas), para administração oral. Para os pacientes pesando menos de 40 kg, a dose oral de manutenção pode ser aumentada de 100 mg para 150 mg a cada 12 horas.
+Se os pacientes não tolerarem o tratamento com altas doses (ex. 300 mg via oral a cada 12 horas), reduzir a dose oral de manutenção para intervalos de 50 mg até a dose mínima de 200 mg a cada 12 horas (ou 100 mg a cada 12 horas para pacientes adultos com peso inferior a 40 kg).
+A fenitoína pode ser coadministrada com Voriconazol se a dose de manutenção oral for aumentada de 200 mg para 400 mg, a cada 12 horas por via oral (de 100 mg para 200 mg, a cada 12 horas, em pacientes com menos de 40 kg).
+Quando Voriconazol é coadministrado com doses ajustadas de efavirenz, a dose de manutenção de Voriconazol deve ser aumentada para 400 mg a cada 12 horas.
+A duração do tratamento depende da resposta clínica e micológica dos pacientes.
+Uso em Pacientes Idosos
+Não é necessário ajuste de dose em pacientes idosos.
+Uso em Pacientes com Insuficiência Renal
+A farmacocinética do voriconazol administrado por via oral não é afetada pela insuficiência renal. Portanto, não é necessário ajustar a dose oral em pacientes com insuficiência renal de grau leve a grave.
+O voriconazol é hemodialisável com um clearance de 121 mL/min. Uma sessão de hemodiálise com a duração de 4 horas não remove uma quantidade de voriconazol suficiente que justifique um ajuste posológico.
+Uso em Pacientes com Insuficiência Hepática
+Não é necessário ajuste de dose em pacientes com comprometimento hepático agudo, manifestado por elevação da função hepática detectada por testes (TGP/ALT, TGO/AST). Recomenda-se a monitoração contínua dos testes da função hepática para verificar elevações posteriores.
+Para pacientes com cirrose hepática de grau leve a moderado (classe A e B de Child-Pugh), em tratamento com Voriconazol, recomenda-se o uso dos regimes de dose de ataque padrão, mas somente metade da dose de manutenção.
+Voriconazol não foi estudado em pacientes com cirrose hepática crônica grave (classe C de Child-Pugh).
+Voriconazol foi associado a elevações dos testes da função hepática e a sinais clínicos de lesão hepática, tal como icterícia, e deve apenas ser utilizado em pacientes com insuficiência hepática grave somente quando o benefício superar o risco potencial. Os pacientes com insuficiência hepática grave devem ser cuidadosamente monitorados quanto à toxicidade do fármaco.
+Uso em Crianças
+Uso em Crianças (2 a < 12 anos) e Adolescentes (12 a 14 anos e < 50 kg)
+O regime de dose recomendado é o seguinte:
+- Oral
+Dose de ataque (nas primeiras 24 horas)
+Não recomendado
+Dose de manutenção (após as primeiras 24 horas)
+9 mg/kg a cada 12 horas (dose máxima de 350 mg a cada 12 horas)
+Nota: Baseado na análise de farmacocinética populacional em 112 pacientes pediátricos imunocomprometidos de 2 a <12 anos e 26 adolescentes imunocomprometidos de 12 a <17 anos.
+Recomenda-se iniciar a terapia com o regime intravenoso e, o regime oral deve ser considerado somente após uma melhora clínica significante. Foi observado que uma dose intravenosa de 8 mg/kg fornecerá uma exposição ao Voriconazol aproximadamente 2 vezes maior que a dose oral de 9 mg/kg.
+A dose oral recomendada para crianças é baseada em estudos onde Voriconazol foi administrado na forma de pó para suspensão oral. Não foi investigado em pacientes pediátricos a bioequivalência entre o pó para suspensão oral e comprimidos.
+Considerando o limite assumido gastroentérico de tempo de trânsito em pacientes pediátricos, a absorção dos comprimidos pode ser diferente em pacientes pediátricos e adultos.
+A segurança e a eficácia em pacientes pediátricos menores de 2 anos não foi estabelecida. Portanto, Voriconazol não é recomendado para crianças com menos de 2 anos de idade. O uso em pacientes pediátricos de 2 a <12 anos com insuficiência hepática ou renal não foi estudado.
+Uso em todos os outros Adolescentes 12 a 14 anos e ≥ 50 kg; 15 a 16 anos independente do peso corpóreo)
+O regime posológico de Voriconazol deve ser o mesmo indicado para os adultos.
+Ajuste de Dose
+Em pacientes com resposta inadequada, a dose pode ser aumentada em intervalos de 1 mg/kg (ou intervalos de 50 mg se a dose oral máxima de 350 mg foi usada inicialmente). Se os pacientes não conseguirem tolerar o tratamento, reduzir a dose em intervalos de 1 mg/kg (ou em intervalos de 50 mg se a dose oral máxima de 350 mg foi usada inicialmente).
+Este medicamento não deve ser partido, aberto ou mastigado.
+Injetável
+Voriconazol pó liofilizado para solução injetável deve ser reconstituído e diluído antes da administração por infusão intravenosa. Não administrar por injeção em “bolus”.
+Recomenda-se que Voriconazol, pó liofilizado para solução injetável, seja administrado a uma taxa de no máximo 3 mg/kg por hora, durante 1 a 3 horas.
+Derivados Sanguíneos e Suplementação eletrolítica
+Voriconazol não deve ser infundido concomitantemente com qualquer derivado sanguíneo ou qualquer infusão rápida de suplementação eletrolítica, ainda que as duas infusões estejam correndo em linhas intravenosas separadas (ou cânulas). Os distúrbios eletrolíticos tais como hipocalemia, hipomagnesemia e hipocalcemia devem ser monitorados e corrigidos, se necessário, antes do início e durante o tratamento com Voriconazol.
+Solução eletrolítica intravenosa (não concentrada)
+Voriconazol pode ser infundido simultaneamente com outras soluções eletrolíticas intravenosas (não concentradas), porém deve ser infundido através de linha separada.
+Nutrição Parenteral Total (NPT)
+Voriconazol pode ser infundido simultaneamente com nutrição parenteral total, porém deve ser infundido através de linha separada. Se a NTP for infundida através de cateter de múltiplo lúmen, é necessário que a NPT seja administrada utilizando-se um canal diferente daquele utilizado para Voriconazol.
+Uso em Adultos
+A terapia com Voriconazol, por via intravenosa deve ser iniciada com o regime de dose de ataque especificado, para se obter no Dia 1, concentrações plasmáticas adequadas. O tratamento intravenoso deve continuar por pelo menos 7 dias antes da troca para a terapia oral. Uma vez que o paciente está clinicamente melhor e torna-se tolerante a medicação administrada por via oral, o comprimido de voriconazol pode ser utilizado. Devido à alta biodisponibilidade oral (96%), a troca entre a administração intravenosa e a oral é adequada, quando indicada clinicamente.
+Informações detalhadas das recomendações de dosagem são apresentadas na tabela a seguir:
+Infecção
+Dose de Ataque (nas primeiras 24 horas)
+Dose de Manutençãoa
+Aspergilose invasivab
+6 mg/kg a cada 12 horas
+4 mg/kg a cada 12 horas
+Infecções invasivas graves por Candida, inclusive candidemia
+6 mg/kg a cada 12 horas
+3-4 mg/kg a cada 12 horasc
+Candidíase esofágica
+6 mg/kg a cada 12 horas
+Não recomendado (utilizar tratamento oral se possível)
+Scedosporioses e Fusarioses
+6 mg/kg a cada 12 horas
+4 mg/kg a cada 12 horas
+a. Em estudos com voluntários sadios, a dose oral de 200 mg a cada 12 horas resultou em uma exposição (AUCτ) similar à dose IV de 3 mg/kg a cada 12 horas, a dose oral de 300 mg a cada 12 horas resultou em uma exposição (AUCτ) similar à dose IV de 4 mg/kg a cada 12 horas.
+b. Em um estudo clínico pivotal de aspergilose invasiva, a duração mediana do tratamento de voriconazol intravenoso foi de 10 dias (variação de 2 – 85 dias). A duração mediana da terapia oral de voriconazol foi de 76 dias (variação 2 – 232 dias).
+c. Em estudos clínicos, pacientes com candidemia receberam como terapia inicial 3 mg/kg a cada 12 horas, enquanto pacientes com outras infecções profundas por Candida receberam 4 mg/kg como terapia de salvamento. Dose apropriada deve basear-se na gravidade e natureza da infecção.
+Ajuste de Dose
+Se os pacientes não tolerarem o tratamento de 4 mg/kg a cada 12 horas, reduzir a dose intravenosa de manutenção para o mínimo de 3 mg/kg a cada 12 horas.
+A fenitoína pode ser coadministrada com voriconazol, se a dose de manutenção do Voriconazol for aumentada para 5 mg/kg por via intravenosa, a cada 12 horas.
+Quando Voriconazol é coadministrado com doses ajustadas de efavirenz, a dose de manutenção de Voriconazol deve ser aumentada para 400 mg a cada 12 horas.
+A duração do tratamento depende da resposta clínica e micológica dos pacientes. A duração do tratamento com a formulação intravenosa não deve ser superior a 6 meses.
+Uso em Pacientes Idosos
+Não é necessário ajuste da dose em pacientes idosos.
+Uso em Pacientes com Insuficiência Renal
+Em pacientes com insuficiência renal moderada a grave (clearance de creatinina < 50 mL/min) ocorre acúmulo do veículo utilizado na formulação intravenosa, SBECD (sulfobutil-éter β-ciclodextrina sódica). Nestes pacientes deve ser administrada a formulação oral de Voriconazol, exceto quando a avaliação de risco-benefício para o paciente justifique o uso da formulação intravenosa. As concentrações séricas de creatinina devem ser rigorosamente monitoradas nestes pacientes e se forem verificados aumentos, deve ser considerada a mudança para tratamento por via oral.
+O voriconazol é hemodialisável com um clearance de 121 mL/min. Uma sessão de hemodiálise com a duração de 4 horas não remove uma quantidade de voriconazol suficiente que justifique um ajuste posológico.
+O veículo intravenoso, SBECD, é hemodialisável com um clearance de 55 mL/min.
+Uso em Pacientes com Insuficiência Hepática
+Não é necessário ajuste de dose em pacientes com comprometimento hepático agudo, manifestado por elevação da função hepática detectada por testes (TGP/ALT, TGO/AST). Recomenda-se a monitoração contínua dos testes da função hepática para verificar elevações posteriores.
+Para pacientes com cirrose hepática de grau leve a moderado (classe A e B de Child-Pugh), em tratamento com Voriconazol, recomenda-se o uso dos regimes de dose de ataque padrão, mas somente metade da dose de manutenção.
+Voriconazol não foi estudado em pacientes com cirrose hepática crônica grave (classe C de Child-Pugh).
+Voriconazol foi associado a elevações dos testes da função hepática e a sinais clínicos de lesão hepática, tal como icterícia e deve apenas ser utilizado em pacientes com insuficiência hepática grave somente quando o benefício superar o risco potencial. Os pacientes com insuficiência hepática grave devem ser cuidadosamente monitorados quanto à toxicidade do fármaco.
+Uso em Crianças
+Uso em Crianças (2 a < 12 anos) e Adolescentes (12 a 14 anos e < 50 kg)
+O regime de dose recomendado é o seguinte:
+-
+Intravenosa
+Dose de ataque (nas primeiras 24 horas)
+9 mg/kg a cada 12 horas
+Dose de manutenção (após as primeiras 24 horas)
+8 mg/kg a cada 12 horas
+Nota: Baseado na análise de farmacocinética populacional em 112 pacientes pediátricos imunocomprometidos de 2 a <12 anos e 26 adolescentes imunocomprometidos de 12 a <17 anos.
+Recomenda-se iniciar a terapia com o regime intravenoso e, o regime oral deve ser considerado somente após uma melhora clínica significante. Foi observado que uma dose intravenosa de 8 mg/kg fornecerá uma exposição ao Voriconazol aproximadamente 2 vezes maior que a dose oral de 9 mg/kg.
+A segurança e a eficácia em pacientes pediátricos menores de 2 anos não foi estabelecida (vide item 3. Características Farmacológicas – Propriedades Farmacodinâmicas). Portanto, Voriconazol não é recomendado para crianças com menos de 2 anos de idade. O uso em pacientes pediátricos de 2 a <12 anos com insuficiência hepática ou renal não foi estudado.
+Uso em todos os outros Adolescentes (12 a 14 anos e ≥ 50 kg; 15 a 16 anos independente do peso corpóreo)
+O regime posológico de Voriconazol deve ser o mesmo indicado para os adultos.
+Ajuste de Dose
+Em pacientes com resposta inadequada, a dose pode ser aumentada em intervalos de 1 mg/kg (ou intervalos de 50 mg se a dose oral máxima de 350 mg foi usada inicialmente). Se os pacientes não conseguirem tolerar o tratamento, reduzir a dose em intervalos de 1 mg/kg (ou em intervalos de 50 mg se a dose oral máxima de 350 mg foi usada inicialmente).
+Instruções para Administração
+Voriconazol, pó liofilizado para solução injetável, é apresentado em frasco-ampola para uso único e qualquer solução não utilizada deve ser descartada. O conteúdo do frasco deve ser reconstituído com 19 mL de água para injetáveis, obtendo uma solução cristalina contendo 10 mg/mL de voriconazol e um volume extraível de 20 mL. Descarte o frasco-ampola de Voriconazol caso o vácuo não empurre o diluente para dentro do frasco. Antes da administração, o volume de solução reconstituída (vide tabela adiante) deve ser adicionado a um diluente de infusão compatível, recomendado a seguir, para produzir, quando apropriado, uma solução final de Voriconazol equivalente a 0,5-5 mg/mL de voriconazol.
+Volumes Requeridos da solução reconstituída de Voriconazol 10 mg/mL
+Peso Corporal (kg)
+Volume da Solução Reconstituída de Voriconazol (10 mg/mL) necessária para:
+Dose de 3 mg/kg (número de frascos-ampola)
+Dose de 4 mg/kg (número de frascos-ampola) Dose de 6 mg/kg (número de frascos-ampola) Dose de 8 mg/kg (número de frascos-ampola)
+Dose de 9 mg/kg (número de frascos-ampola)
+10
+- 4,0 mL (1) - 8,0 mL (1)
+9,0 mL (1)
+15 - 6,0 mL (1) - 12,0 mL (1)
+13,5 mL (1)
+20 - 8,0 mL (1) - 16,0 mL (1)
+18,0 mL (1)
+25 - 10,0 mL (1) - 20,0 mL (1)
+22,5 mL (2)
+30 9,0 mL (1) 12 mL (1) 18 mL (1) 24,0 mL (2)
+27,0 mL (2)
+35 10,5 mL (1) 14 mL (1) 21 mL (2) 28,0 mL (2)
+31,5 mL (2)
+40 12,0 mL (1) 16 mL (1) 24 mL (2) 32,0 mL (2)
+36,0 mL (2)
+45 13,5 mL (1) 18 mL (1) 27 mL (2) 36,0 mL (2)
+40,5 mL (3)
+50 15,0 mL (1) 20 mL (1) 30 mL (2) 40,0 mL (2)
+45,0 mL (3)
+55 16,5 mL (1) 22 mL (2) 33 mL (2) 44,0 mL (3)
+49,5 mL (3)
+60 18,0 mL (1) 24 mL (2) 36 mL (2) 48,0 mL (3)
+54,0 mL (3)
+65 19,5 mL (1) 26 mL (2)
+39 mL (2)
+52,0 mL (3)
+58,5 mL (3)
+70 21,0 mL (2) 28 mL (2)
+42 mL (3)
+- -
+75 22,5 mL (2) 30 mL (2)
+45 mL (3)
+- -
+80 24,0 mL (2) 32 mL (2)
+48 mL (3
+- -
+85 25,5 mL (2) 34 mL (2)
+51 mL (3)
+- -
+90 27,0 mL (2) 36 mL (2)
+54 mL (3)
+- -
+95 28,5 mL (2) 38 mL (2)
+57 mL (3)
+- -
+100 30,0 mL (2) 40 mL (2)
+60 mL (3)
+- -
+Voriconazol, pó liofilizado para solução injetável, após reconstituição e diluição, destina-se à administração por infusão intravenosa. Voriconazol não deve ser administrado como injeção em “bolus” ou injeção intramuscular.
+Recomenda-se que Voriconazol, pó liofilizado para solução injetável, seja administrado a uma velocidade de infusão máxima equivalente a 3 mg/kg por hora, durante 1 a 2 horas.
+Reconstituição
+Preparar a solução inicial de Voriconazol, pó liofilizado para solução injetável, adicionando 19 mL de água para injetáveis ao frasco com o pó com 200 mg e agitar até completa dissolução. Cada mL da solução reconstituída contém 10 mg de voriconazol.
+Os medicamentos para administração parenteral devem ser inspecionados visualmente quanto à presença de micropartículas antes da administração. Se houver evidência de micropartículas nos líquidos reconstituídos, a solução deve ser descartada.
+Diluir essa solução imediatamente antes da administração.
+Diluição
+A solução reconstituída é compatível e pode ser diluída com as seguintes soluções:
+Cloreto de sódio 9 mg/mL (0,9%) para Infusão Intravenosa;
+Ringer lactato para infusão intravenosa;
+Glicose 5% e ringer lactato de sódio para infusão intravenosa;
+Glicose 5% e cloreto de sódio a 0,45% para Infusão Intravenosa;
+Glicose 5% para Infusão Intravenosa;
+Glicose 5% em 20 mEq de cloreto de potássio para Infusão Intravenosa;
+Cloreto de sódio 0,45% para Infusão Intravenosa;
+Glicose 5% e cloreto de sódio a 0,9% para Infusão Intravenosa.
+A compatibilidade de voriconazol com outros diluentes que não os descritos acima, é desconhecida.
+Incompatibilidades
+Derivados sanguíneos e Suplementação eletrolítica
+Voriconazol não deve ser infundido simultaneamente com qualquer derivado sanguíneo ou qualquer infusão rápida de suplementação eletrolítica, ainda que as duas infusões estejam correndo em linhas separadas (ou cânulas). Distúrbios eletrolíticos tais como hipocalemia, hipomagnesemia e hipocalcemia devem ser corrigidas antes do início do tratamento com Voriconazol.
+Solução eletrolítica intravenosa (não concentrada)
+Voriconazol pode ser infundido simultaneamente com outras soluções eletrolíticas intravenosas (não concentradas), porém deve ser infundido através de linha separada.
+Nutrição Parenteral Total (NPT)
+Voriconazol pode ser infundido simultaneamente com nutrição parenteral total, porém deve ser infundido através de linha separada. Se a NTP for infundida através de cateter de múltiplo lúmen, é necessário que a NTP seja administrada utilizando-se um canal diferente daquele utilizado para o voriconazol.
+Voriconazol não deve ser diluído com infusão intravenosa de bicarbonato de sódio a 4,2%. A compatibilidade com outras concentrações é desconhecida.
+Este medicamento não deve ser misturado com outros medicamentos, exceto aqueles mencionados no item “Diluição”.
+Não adicionar medicação suplementar (exceto aquelas citadas no item “diluição”) ou utilizar a mesma linha intravenosa para administração de outra medicação simultaneamente.

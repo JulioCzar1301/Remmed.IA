@@ -1,0 +1,41 @@
+Mitocin, para o que é indicado e para o que serve?
+Mitocin é útil no tratamento do adenocarcinoma do estômago ou pâncreas, em combinações comprovadas com outros agentes quimioterápicos aprovados, e ainda como tratamento paliativo quando outras modalidades tenham falhado.
+Mitocin, como agente único, é indicado para o tratamento tópico do carcinoma superficial de células de transição da bexiga urinária (sem invasão além da lâmina própria).
+Mitocin não é recomendado como substituto de cirurgia e/ou radioterapia apropriadas.
+
+
+Como o Mitocin funciona?
+Mitocin (mitomicina e/ou mitomicina C) é um antibiótico isolado do caldo de Streptomyces caespitosus, que apresenta atividade antitumoral.
+
+
+Quais as contraindicações do Mitocin?
+Mitocin é contraindicado a pacientes que tenham demonstrado anteriormente hipersensibilidade ou reação idiossincrática à droga ou a qualquer outro componente de sua formulação. Também é contraindicado a pacientes com trombocitopenia, distúrbios de coagulação ou que apresentem tendência aumentada à hemorragia devida a outras causas.
+
+
+Como usar o Mitocin?
+Mitocin deve ser administrado com cuidado para se evitar o extravasamento do composto. Caso isso ocorrer, poderá resultar em celulite, ulceração e necrose.
+Reconstituição
+Para reconstituir o produto, adicionar 10 ml de água estéril para injeção ao frasco-ampola (5 mg) a fim de resultar em uma concentração de 0,5 mg/ml. Agitar para dissolver.
+Se Mitocin não se dissolver imediatamente, manter o produto à temperatura ambiente até a obtenção da solução. Devem-se considerar os procedimentos quanto à manipulação e ao descarte das drogas anticâncer. Já foram publicados vários guias sobre este assunto 1-7.
+Administração Intravenosa
+Após a recuperação hematológica completa de qualquer quimioterapia anterior, pode-se administrar 20 mg/m² intravenosamente em dose única mediante um cateter intravenoso, em intervalos de 6 a 8 semanas. Em virtude da mielodepressão cumulativa, os pacientes devem ser completamente reavaliados após cada ciclo de Mitocin e a dose deverá ser reduzida se o produto apresentar qualquer toxicidade. 
+Doses superiores a 20 mg/m2 não têm se mostrado mais eficazes, além do que são mais tóxicas que as doses menores.
+Não se deve administrar outra dose da droga até que a contagem de leucócitos retorne a 4.000/mm³ e de plaquetas a 100.000/mm³.
+Sugere-se o seguinte esquema como guia para ajuste da dose:
+NADIR após a dose anterior
+Porcentagem da dose anterior a ser administrada
+Leucócitos (/mm³) Plaquetas (/mm³)
+> 4.000
+> 100.000 100
+3.000 - 3.999
+75.000 - 99.999
+100
+2.000 - 2.999
+25.000 - 74.999
+70
+< 2.000
+< 25.000
+50
+Quando Mitocin for usado em combinação com outros agentes mielodepressivos, as doses deverão ser ajustadas de acordo. Se a doença continuar a progredir após 2 ciclos de tratamento, a droga deverá ser descontinuada, visto que as chances de resposta são mínimas.
+Administração Intravesical
+A dose intravesical recomendada é de 20 a 40 mg na concentração de 1 mg/ml de água estéril, por via intravesical, uma vez por semana durante oito semanas. Os pacientes devem abster-se de líquidos por 12 horas antes da terapia. O paciente é cateterizado, a bexiga é drenada e Mitocin é instilado. A solução deve ser mantida por 2 horas. O paciente deve alternar sua posição a cada 15 minutos para permitir uma área de contato máxima.

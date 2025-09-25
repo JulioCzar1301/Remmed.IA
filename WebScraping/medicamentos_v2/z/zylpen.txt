@@ -1,0 +1,104 @@
+Zylpen, para o que é indicado e para o que serve?
+Zylpen é indicado para o tratamento das seguintes infecções em adultos e crianças, causadas por uma única ou múltiplas bactérias sensíveis e como tratamento empírico antes da identificação do microrganismo causador:
+Infecções do trato respiratório inferior;
+Infecções urinárias, incluindo infecções complicadas;
+Infecções intra-abdominais;
+Infecções ginecológicas, incluindo infecções pós-parto;
+Infecções de pele e anexos;
+Meningite (inflamação das membranas do cérebro ou da medula espinhal);
+Septicemia (doença sistêmica causada pela propagação de microrganismos e suas toxinas através do sangue);
+Tratamento empírico, incluindo monoterapia inicial para infecções presumidamente bacterianas, em pacientes neutropênicos (com baixo número de neutrófilos no sangue);
+Infecções polimicrobianas (causadas por vários microrganismos) - devido ao seu amplo espectro de atividade bactericida contra bactérias gram-positivas e gram-negativas, aeróbias e anaeróbias, meropeném é eficaz para o tratamento de infecções polimicrobianas;
+Fibrose cística - meropeném intravenoso tem sido utilizado eficazmente em pacientes com fibrose cística e infecções crônicas do trato respiratório inferior, tanto como monoterapia, quanto em associação com outros agentes antibacterianos. O patógeno não tem sido sempre erradicado nestes tratamentos.
+Como o Zylpen funciona?
+O meropeném é um antibiótico carbapenêmico para uso parenteral (administrado por via injetável).
+O meropeném exerce sua ação bactericida através da interferência com a síntese da parede celular bacteriana. A facilidade com que penetra nas células bacterianas, seu alto nível de estabilidade a maioria das serinas betalactamases e sua notável afinidade pelas múltiplas proteínas ligantes de penicilina (PBPs) explicam a potente atividade bactericida de meropeném contra um amplo espectro de bactérias aeróbicas e anaeróbicas.
+
+
+Quais as contraindicações do Zylpen?
+Você não deve utilizar Zylpen se apresentar alergia ao meropeném ou carbonato de sódio anidro.
+Antes de iniciar o tratamento com Zylpen, informe seu médico se você tem reação alérgica a qualquer outro antibiótico, incluindo penicilinas, outros carbapenêmicos ou outros antibióticos beta-lactâmicos.
+
+
+Como usar o Zylpen?
+Adultos:
+A faixa de dosagem é de 1,5 g a 6,0 g diários, divididos em três administrações.
+Dose usual:
+500 mg a 1 g, por administração intravenosa a cada 8 horas, dependendo do tipo e da gravidade da infecção, da sensibilidade conhecida ou esperada do(s) patógeno(s) e das condições do paciente.
+Exceções: 
+Episódios de febre em pacientes neutropênicos – a dose deve ser de 1 g a cada 8 horas.
+Meningite/fibrose cística – a dose deve ser de 2 g a cada 8 horas.
+Quando tratar-se de infecções conhecidas ou suspeitas de serem causadas por Pseudomonas aeruginosa, recomenda-se doses de pelo menos 1 g a cada 8 horas para adultos (a dose máxima não deve ultrapassar 6 g por dia, divididos em 3 doses) e doses de pelo menos 20 mg/kg a cada 8 horas para crianças (a dose máxima não deve ultrapassar 120 mg/kg por dia, divididos em 3 doses).
+Testes regulares de suscetibilidade são recomendados no tratamento de infecções por Pseudomonas aeruginosa.
+Zylpen deve ser administrado como injeção intravenosa em bolus por aproximadamente 5 minutos ou por infusão intravenosa de aproximadamente 15 a 30 minutos. Há dados limitados sobre segurança disponíveis para apoiar a administração de bolus de 2g. 
+Adultos com doença renal:
+A dose deve ser reduzida em pacientes com clearance (depuração) de creatinina inferior a 51 mL/min, como esquematizado abaixo:
+Clearance de creatinina (mL/min) Dose (baseada na faixa de unidade de dose de 500 mg a 2,0 g a cada 8 horas) Frequência
+26 - 50 1 unidade de dose A cada 12 horas
+10 - 25 1/2 unidade de dose A cada 12 horas
+<10 1/2 unidade de dose A cada 24 horas
+Zylpen é eliminado através da hemodiálise e hemofiltração, caso seja necessário a continuidade do tratamento com Zylpen, recomenda-se que no final do procedimento de hemodiálise o tratamento efetivo seja reinstituído na dosagem adequada baseada no tipo e gravidade da infecção.
+Não existe experiência com diálise peritoneal.
+Adultos com doença hepática:
+Não é necessário ajuste de dose. 
+Idosos:
+Não é necessário ajuste de dose para idosos com função renal normal ou com valores de clearance de creatinina superiores a 50 mL/min.
+Crianças:
+Para crianças acima de 3 meses de idade e até 12 anos, a dose intravenosa é de 10 a 40 mg/kg a cada 8 horas, dependendo do tipo e da gravidade da infecção, da suscetibilidade conhecida ou esperada do(s) patógeno(s) e das condições do paciente. Em crianças com peso superior a 50 kg, deve ser utilizada a posologia para adultos.
+Exceções:
+Episódios de febre em pacientes neutropênicos – a dose deve ser de 20 mg/kg a cada 8 horas.
+Meningite/fibrose cística – a dose deve ser de 40 mg/kg a cada 8 horas.
+Zylpen deve ser administrado como injeção intravenosa em bolus por aproximadamente 5 minutos ou por infusão intravenosa de aproximadamente 15 a 30 minutos. Há dados limitados sobre segurança disponíveis para apoiar a administração de bolus de 40 mg/kg para crianças.
+Reconstituição e Compatibilidade:
+Preparo de Zylpen:
+Para injeção intravenosa em bolus Zylpen deve ser reconstituído em água estéril para injeção (10 mL para cada 500 mg), conforme tabela abaixo. Essa reconstituição fornece uma solução de concentração final de aproximadamente 50 mg/mL. As soluções reconstituídas são claras ou amarelo-pálidas.
+Frasco Conteúdo do diluente a ser adicionado
+500 mg 10 mL
+1g 20 mL
+Para infusão intravenosa, os frascos-ampolas de Zylpen podem ser diretamente reconstituídos com um fluido de infusão compatível e, posteriormente, a esta diluição pode ser adicionada a outra solução, também compatível, para infusão conforme necessário.
+Utilizar preferencialmente soluções de Zylpen recém-preparadas. Entretanto, as soluções reconstituídas de Zylpen mantêm potência satisfatória em temperatura de 15°C a 25°C ou sob refrigeração (4°C).
+Deve-se agitar a solução reconstituída antes do uso.
+Zylpen não deve ser misturado ou adicionado a soluções que contenham outros fármacos.
+As soluções de Zylpen não devem ser congeladas.
+Preparo de Zylpen Sistema Fechado:
+Zylpen Sistema Fechado deve ser diluído na solução de cloreto de sódio 0,9% contida na bolsa flexível somente para aplicação por infusão intravenosa, conforme descrito a seguir:
+Montagem do Sistema Fechado:
+Para abrir:
+Inicialmente, retirar a bolsa flexível, contendo a solução fisiológica, de seu envelope plástico. Pode ser observada alguma opacidade do plástico devido à absorção de umidade durante o processo de esterilização. Isto é normal e não afeta a qualidade ou segurança da solução. A opacidade irá diminuir gradualmente. Verificar se há vazamentos mínimos, comprimindo a bolsa com firmeza. Se for observado vazamento de solução, descartar a bolsa, pois a sua esterilidade pode estar comprometida;
+Nota: Após a abertura do envelope plástico protetor da bolsa, a solução deverá ser utilizada em 15 dias.
+Montagem:
+Remova o lacre do frasco-ampola de Zylpen que contém o pó para solução injetável. Desinfete a tampa;
+Retire a tampa cônica amarela do conector AR PLUS da bolsa flexível, com movimentos circulares para cima ou pressionando-a para trás com o polegar;
+Conecte o frasco-ampola de Zylpen perpendicularmente ao conector da bolsa. Certifique-se de que o frasco-ampola esteja completa e firmemente conectado à bolsa.
+Reconstituição do pó para solução injetável:
+Antes de quebrar o lacre, pressione a bolsa e certifique-se de que não há vazão de líquido para o frasco-ampola. Utilize somente se o frasco estiver seco. Quebre o lacre do conector AR PLUS, segurando a base do tubo e dobrando o conector ao meio.
+Segure a bolsa com o frasco-ampola para baixo. Pressione a bolsa, para transferir a solução fisiológica para o frasco-ampola, até que ele esteja com 50% da sua capacidade preenchida com a solução. Agite para reconstituir a droga na solução.
+Inverta a posição da bolsa. Aperte a bolsa para forçar a entrada do ar para dentro do frasco-ampola.
+Libere para drenar a solução reconstituída do frasco-ampola. Repita as etapas 5 e 6 até que toda a solução do frasco-ampola tenha sido transferida para a bolsa plástica flexível.
+Assegure-se de que o pó foi completamente dissolvido. Não remova o frasco-ampola.
+A solução resultante de Zylpen Sistema Fechado 1 g contida na bolsa terá a seguinte concentração:
+Zylpen Bolsa Concentração da solução
+1g 100 mL 10 mg/mL
+Preparo para administração:
+Suspender a bolsa pela alça de sustentação.
+Remover o protetor plástico do tubo de saída da solução no fundo da bolsa.
+Conectar o equipo de infusão de solução.
+Administrar o produto por um período de aproximadamente 30 minutos
+Após a reconstituição com a solução de cloreto de sódio 0,9% contida na bolsa flexível, Zylpen Sistema Fechado é estável conforme tabela de “Estabilidade de Zylpen Reconstituído” a seguir.
+Diluente
+Período de estabilidade (horas)
+(15°C a 25°C) (2°C a 8°C)
+Água para injeção 8 48
+Infusões (1-20 mg/mL) preparadas com:
+Soro glicosado 10% 2 8
+Soro glicosado 5% e Bicarbonato de Sódio 0,02% 2 18
+Soro glicosado 2,5% e Cloreto de Sódio 0,45% 2 24
+Soro glicosado 5% 3 18
+Cloreto de Sódio 0,9% 10 48
+Soro glicosado 5% e Cloreto de Sódio 0,2% 3 18
+Soro glicosado 5% e Cloreto de Sódio 0,18% 10 48
+Injeção de Ringer lactato 8 48
+Injeção de Bicarbonato de Sódio 5% 3 16
+Nota: Os medicamentos de uso parenteral devem ser inspecionados visualmente, antes da administração, não devendo ser utilizados se houver presença de partículas estranhas.
+O que devo fazer quando eu me esquecer de usar o Zylpen?
+O esquema de doses será estabelecido por seu médico, que irá monitorar a administração adequada nos períodos determinados.

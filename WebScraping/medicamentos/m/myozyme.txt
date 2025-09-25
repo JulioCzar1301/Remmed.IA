@@ -1,0 +1,40 @@
+Myozyme, para o que é indicado e para o que serve?
+Myozyme é indicado para o uso prolongado, como uma terapia de reposição enzimática para o tratamento de pacientes com diagnóstico confirmado da doença de Pompe (deficiência da alfa glicosidase ácida).
+
+
+Como o Myozyme funciona?
+Myozyme é um medicamento usado para tratar a doença de Pompe, causada pela pouca ou ausência de atividade da enzima alfa glicosidase ácida (GAA) no corpo. Esta enzima é necessária para que o seu organismo possa quebrar e eliminar um polissacarídeo (um tipo de açúcar) chamado glicogênio, dentro do lisossomo. A falta desta enzima faz com que o glicogênio se deposite e se acumule em seu organismo, nos músculos cardíacos e esqueléticos e nos tecidos hepáticos, podendo causar doenças cardíacas, fraqueza progressiva dos músculos do corpo e prejuízo na função respiratória.
+A alfa-alglicosidase é uma enzima sintética produzida por biotecnologia que repõe a enzima natural do seu corpo, a alfa glicosidase ácida (GAA), que quebra o glicogênio para que o mesmo seja eliminado.
+
+
+Quais as contraindicações do Myozyme?
+Não use Myozyme se tiver sofrido qualquer reação alérgica com risco de morte à alfa-alglicosidase ou a qualquer outro componente do medicamento. Os riscos e os benefícios da continuidade do seu tratamento, nesses casos, deverão ser cuidadosamente avaliados pelo seu médico.
+
+
+Como usar o Myozyme?
+A alfa-alglicosidase deverá ser reconstituído, diluído e aplicado por um profissional de saúde habilitado.
+Seu médico aplicará alfa-alglicosidase por via intravenosa em forma de infusão, em ambiente hospitalar apropriado, onde equipamentos de reanimação para controlar emergências estejam prontamente disponíveis.
+Seu médico não deverá misturar alfa-alglicosidase com outros medicamentos na mesma infusão.
+Reconstituição, diluição e administração
+Seu médico deverá usar técnicas assépticas e não usar agulhas com filtro durante a preparação.
+Seu médico determinará o número de frascos a serem reconstituídos, com base no peso individual do paciente e na dose recomendada de 20mg/kg.
+Peso do paciente (kg) x dose (mg/kg) = dose do paciente (em mg).
+Dose do paciente (em mg) dividida por 50mg/frasco = número de frascos a reconstituir. Se o número de frascos-ampola incluir fração, seu médico deverá arredondar para cima (para o número inteiro seguinte).
+Exemplo: peso do paciente (16 kg) x dose (20mg/kg) = dose do paciente (320 mg).
+320 mg divididos por 50mg/frasco = 6,4 frascos, portanto, sete frascos devem ser reconstituídos.
+Seu médico irá retirar o número de frascos do refrigerador e irá deixá-los atingir a temperatura ambiente antes da reconstituição (aproximadamente 30 minutos).
+Cada frasco de alfa-alglicosidase deve ser reconstituído por meio da injeção lenta de 10,3mL de água para injeção, USP, pela parede interna de cada frasco. Cada frasco produzirá 5mg/mL. A dose total extraível por frasco é 50mg por 10 mL. Evitar o impacto forçado da água para injeção no pó e evitar a formação de espuma. Isto é feito pela adição lenta, gota a gota, da água para injeção para baixo na parte interna do frasco, e não diretamente no pó liofilizado. O frasco deve ser inclinado e girado delicadamente. Não invertê-lo, agitá-lo ou girá-lo com força.
+Seu médico deverá realizar uma inspeção visual imediata nos frascos reconstituídos para verificar a existência de material particulado e descoloração. Se, na ocasião da inspeção imediata, forem observadas partículas opacas ou se a solução estiver descolorida, não usá-la. A solução reconstituída pode, ocasionalmente, conter algumas partículas de alfa-alglicosidase sob a forma de fios brancos delgados ou fibras translúcidas após inspeção inicial. Isso também pode ocorrer após a diluição para infusão. Essas partículas demonstraram conter alfa-alglicosidase e podem aparecer após a etapa inicial de reconstituição e aumentar ao longo do tempo. Estudos mostraram que essas partículas são removidas através de filtração em linha, sem ter efeito detectável na pureza ou na concentração.
+A alfa-alglicosidase deve ser diluído em solução de cloreto de sódio para injeção 0,9%, USP, imediatamente após reconstituição, até a concentração final de 0,5 a 4mg/mL de Myozyme.
+Seu médico deverá retirar lentamente a solução reconstituída de cada frasco. Evitar a formação de espuma na seringa.
+O ar da bolsa de infusão deverá ser retirado para minimizar a formação de partículas devido à sensibilidade de alfa-alglicosidase às interfaces de ar líquido.
+Seu médico deverá adicionar lenta e diretamente a solução reconstituída de alfa-alglicosidase na solução de cloreto de sódio. Não adicionar diretamente no ar que pode permanecer dentro da bolsa de infusão. Evitar a formação de espuma na bolsa de infusão.
+Inverter ou massagear delicadamente a bolsa de infusão para misturar. Não sacudir. A solução reconstituída e diluída deve ser protegida da luz, não sendo necessária a proteção no momento da infusão.
+A solução diluída deve ser filtrada durante a administração por meio de filtro de linha de 0,2m com baixa ligação de proteína plasmática, para remover quaisquer partículas visíveis.
+A alfa-alglicosidase não deve ser infundido com outros medicamentos na mesma via intravenosa.
+Posologia do Myozyme
+O regime de dosagem recomendado de alfa-alglicosidase é 20mg/kg de peso corporal administrados a cada duas semanas como infusão intravenosa. O volume total é determinado pelo peso corporal e deve ser administrado durante, aproximadamente, quatro horas.
+As infusões devem ser administradas de maneira escalonada. A taxa de infusão inicial deve ser de, no máximo, 1mg/kg/h. A taxa de infusão pode ser aumentada em 2mg/kg/h a cada 30 minutos, após a tolerância do paciente à infusão ter sido estabelecida, até a taxa máxima de 7mg/kg/h ser atingida. Os sinais vitais devem ser medidos no final de cada passo, antes de aumentar a taxa de infusão. Se o paciente estiver estável, alfa-alglicosidase pode ser administrado à taxa máxima de 7mg/kg/h até a infusão ser concluída. A taxa de infusão pode ser reduzida e/ou interrompida temporariamente em caso de reações de infusão.
+Seu médico saberá informar a duração do seu tratamento com alfa-alglicosidase.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

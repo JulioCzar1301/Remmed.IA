@@ -1,0 +1,35 @@
+Svir, para o que é indicado e para o que serve?
+O Svir® em combinação com outros medicamentos antirretrovirais, é indicado para o tratamento de pacientes infectados pelo vírus HIV.
+
+
+Como o Svir funciona?
+A protease do HIV é encarregada da clivagem específica das proteínas precursoras do vírus nas células infectadas, o que é um passo essencial na criação de partículas virais infecciosas completamente formadas. Estas proteínas precursoras virais contêm um sítio específico de clivagem que é reconhecido unicamente pelo HIV e pelas proteases virais intimamente relacionadas. Saquinavir tem sido designado como uma estrutura mimética do tipo peptídica de tais sítios de clivagem. Como resultado, saquinavir fixa-se intimamente dentro dos sítios ativos da protease do HIV-1 e HIV-2, comportando-se in vitro como um inibidor seletivo e reversível, com aproximadamente 50.000 vezes menos afinidade pelas proteases humanas.
+Diferentemente dos análogos nucleosídeos (por ex.: zidovudina), o saquinavir atua diretamente em seu alvo enzimático viral. O saquinavir não necessita de ativação metabólica, o que amplia sua potencial eficácia nas células em latência. Saquinavir é ativo em concentrações nanomolares em linhagens linfoblásticas e monocíticas e em culturas de linfócitos e monócitos infectados por linhagens laboratoriais ou isolados clínicos do HIV-1. Experimentos em cultura de células mostraram que o saquinavir produz um efeito antiviral aditivo contra o HIV-1 em combinação dupla ou tripla com diversos inibidores da transcriptase reversa (p. ex.: zidovudina, zalcitabina, didanosina, lamivudina, estavudina e nevirapina), sem aumento da citotoxicidade, além de um claro sinergismo quando em combinação dupla com lopinavir.
+
+
+Quais as contraindicações do Svir?
+Svir®(saquinavir) em associação com ritonavir não deve ser usado com:
+Flecainida e propafenona (pelo risco de arritmias cardíacas);
+Triazolam e midazolam (pelo risco de sedação prolongada);
+Sinvastatina e lovastatina (pelo risco de rabdomiólise);
+Rifampicina (pelo risco de toxicidade hepatocelular severa).
+Svir® em associação com ritonavir não deve ser administrado com os seguintes fármacos pelo risco de redução da concentração:
+Rifabutina, rifampicina e efavirenz.
+Svir® (saquinavir) é contraindicado em pacientes com hipersensibilidade ao saquinavir ou a quaisquer dos componentes contidos na cápsula, prolongamento do QT congênito, hipocalemia refratária, disfunção hepática severa ou hipomagnesemia. Svir® em associação com ritonavir, também não deve ser utilizado em pacientes com hipersensibilidade ao ritonavir ou a quaisquer dos componentes contidos na cápsula de ritonavir.
+Svir® (saquinavir) não deve ser administrado com os seguintes fármacos pelo risco de arritmias: amiodarona, astemizole, terfenadina, cisaprida e pimozida; pelo risco de toxicidade aguda por Ergot: diidroergotamina, ergonovina, ergotamina e metilergonovina. 
+Também é contraindicado com o uso de outros medicamentos que aumentam as concentrações plasmáticas de saquinavir e prolongam o intervalo QT; bloqueio atrioventricular completo (sem marcapasso ventricular implantado) ou em pacientes com alto risco de bloqueio AV completo; coadministração de saquinavir com substratos da CYP3A4 (ex: alfuzosina, atazanavir, bepridil, clorpromazina, cisaprida, claritromicina, clozapina, dapsona, disopiramida, dofetilida, eritromicina, halofantrina, haloperidol, lidocaína (sistêmica), lurasidona, pentamidina, fenotiazinas, quinidina, quinina, sertindol, sildenafila (quando usada para hipertensão arterial pulmonar) tacrolimo, tioridazina, trazodona, ziprasidona).
+Gravidez – Categoria de risco B
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+Você não deverá tomar o medicamento se for alérgico ao Svir® ou a qualquer um dos componentes da cápsula.
+
+
+Como usar o Svir?
+Svir® (saquinavir) administrado sem ritonavir:
+A dose recomendada de Svir® para adultos e crianças maiores de 16 anos são seis cápsulas de 200 mg três vezes ao dia e dentro de 2 horas após uma refeição.
+Svir® (saquinavir) administrado com ritonavir:
+A dose recomendada de Svir® em combinação com 100 miligramas de ritonavir são 5 cápsulas de 200 mg de Svir® duas vezes ao dia e dentro de 2 horas após uma refeição. O ritonavir deve ser ingerido ao mesmo tempo em que o Svir®. Seu médico poderá ajustar a dose de Svir® na terapia combinada com ritonavir e outros medicamentos.
+Svir® deve ser administrado por via oral e dentro de 2 horas após uma refeição. Se administrado após 2 horas das refeições, a concentração sérica atingida pode não ser eficaz.
+Durante o tratamento com Svir® e outros medicamentos anti-HIV é muito importante seguir os horários, as doses e a duração do tratamento, bem como todas as recomendações médicas.
+Caso você esqueça de tomar uma dose ou tome uma dose menor que a recomendada, a eficácia do tratamento pode estar comprometida. Você deve tomar a próxima dose o mais rápido possível, entretanto não duplique a dose e procure orientação médica.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.
+Este medicamento não pode ser partido ou mastigado.

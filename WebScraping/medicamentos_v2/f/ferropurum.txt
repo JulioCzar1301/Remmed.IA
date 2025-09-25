@@ -1,0 +1,110 @@
+Ferropurum, para o que é indicado e para o que serve?
+Ferropurum® é destinado ao tratamento de deficiência de ferro em pacientes anêmicos.
+
+
+Como o Ferropurum funciona?
+Ferropurum® age como antianêmico em casos de deficiência de ferro, reabastecendo o organismo com este elemento, indispensável para a formação da hemoglobina.
+
+
+Quais as contraindicações do Ferropurum?
+O produto não deve ser usado por pacientes alérgicos a medicamentos à base de ferro, bem como por aqueles que apresentem hipersensibilidade aos componentes da fórmula. Não deve ser utilizado por pacientes portadores de anemias que não sejam causadas por deficiência de ferro e nem em situações de sobrecarga férrica ou distúrbios da utilização de ferro.
+Deve-se ter cuidado especial na administração do produto em pacientes que sofrem de infecções crônicas, infecções agudas, alergia, asma, eczema, distúrbios hepáticos ou renais.
+No 1º trimestre de gravidez este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica. Informe imediatamente seu médico em caso de suspeita de gravidez.
+
+
+Como usar o Ferropurum?
+Cálculo da posologia
+A posologia de Ferropurum® deverá ser determinada individualmente, conforme a necessidade total de ferro, levando-se em conta três fatores:
+Grau de deficiência de ferro (em mg), déficit total de ferro em mg;
+Peso do paciente em kg;
+Reserva necessária de ferro.
+Pode-se encontrar a dose total (em mL) para um tratamento completo com Ferropurum® , utilizando-se as seguintes fórmulas:
+Deficiência total de Fe (mg) = [peso (kg) x DHb (g/dL) x 2,4] + reservas de Fe (mg).
+Total em mL de sacarato de hidróxido férrico a ser aplicado:
+Onde:
+DHb = diferença entre a hemoglobina ideal para o sexo e idade do paciente e a hemoglobina encontrada no exame laboratorial do paciente (em g/dL).
+2,4 = 0,34% (porcentagem de ferro presente em cada molécula de hemoglobina) x 7% (volume percentual aproximado de sangue no organismo).
+Valores desejados normais de hemoglobina (Hb) e reservas de ferro para os seguintes pesos aproximados:
+--- Valores médios desejados de hemoglobina
+Reservas de ferro desejadas
+< 35 kg de peso corporal
+13,0 g/dL
+15 mg/kg
+> 35 kg de peso corporal
+15,0 g/dL
+500 mg
+Para a determinação fácil e rápida do total de mL ou de ampolas com 5 mL necessárias, pode-se usar a seguinte tabela:
+Hemoglobina atual do paciente
+6,0 g/dL 7,5 g/dL 9,0 g/dL 10,5 g/dL
+Peso em kg
+mL Nº de ampolas com 5 mL mL Nº de ampolas com 5 mL mL Nº de ampolas com 5 mL mL
+Nº de ampolas com 5 mL
+5 8 1,5 7 1,5 6 1 5 1
+10 16 3 14 3 12 2,5 11 2
+15 24 5 21 4,5 19 3,5 16 3
+20 32 6,5 28 5,5 25 5 21 4
+25 40 8 35 7 31 6 26 5,5
+30 48 9,5 42 8,5 37 7,5 32 6,5
+35 63 12,5 57 11,5 50 10 44 9
+40 68 13,5 61 12 54 11 47 9,5
+45 74 15 66 13 57 11,5 49 10
+50 79 16 70 14 61 12 52 10,5
+55 84 17 75 15 65 13 55 11
+60 90 18 79 16 68 13,5 57 11,5
+65 95 19 84 16,5 72 14,5 60 12
+70 101 20 88 17,5 75 15 63 12,5
+75 106 21 93 18,5 79 16 66 13
+80 111 22,5 97 19,5 83 16,5 68 13,5
+85 117 23,5 102 20,5 86 17 71 14
+90 122 24,5 106 21,5 90 18 74 14,5
+Se a dose total necessária exceder a dose única máxima permitida, a administração deve ser dividida. A dose total administrada não deve exceder a dose calculada.
+Cálculo da posologia para reposição de ferro secundária à perda de sangue e para compensar a doação de sangue autóloga
+A dose de sacarato de hidróxido férrico requerida para compensar a deficiência de ferro é calculada seguindo as fórmulas:
+Se a quantidade de sangue perdido for conhecida: a administração intravenosa de 200 mg de ferro (=10 mL de sacarato de hidróxido férrico) resulta em um aumento do nível de hemoglobina que é equivalente a uma unidade de sangue (=400 mL com índice 150 g/L de Hemoglobina).
+Ferro a ser reposto [mg] = número de unidades de sangue perdido x 200 ou Quantidade de sacarato de hidróxido férrico necessária [mL] = número de unidades de sangue perdido x 10 .
+Se o nível de Hemoglobina for reduzido: usar a fórmula anterior considerando que a reserva de ferro não precisa ser restaurada.
+Ferro a ser reposto [mg] = peso corporal [kg] x 0,24 x (Hemoglobina ideal – Hemoglobina real) [g/L].
+Por exemplo: peso corporal de 60 kg e déficit de Hemoglobina de 10 g/L. Então, o ferro a ser reposto será de aproximadamente 150 mg, ou seja, 7,5 mL do medicamento Ferropurum® necessário.
+Posologia média recomendada
+Adultos e pacientes idosos
+5 – 10 mL de sacarato de hidróxido férrico (100 a 200 mg de ferro) uma a três vezes por semana, dependendo do nível de hemoglobina.
+Crianças
+Há dados limitados referentes a crianças nas situações estudadas. Se houver necessidade clínica, é recomendado não exceder a dose de 0,15 mL de sacarato de hidróxido férrico (3 mg de ferro) por kg de peso corporal, uma a três vezes por semana, dependendo do nível de hemoglobina.
+Dose única máxima tolerada
+Crianças
+0,35 mL de sacarato de hidróxido férrico/kg de peso corporal diluído em solução fisiológica estéril, infundido em no mínimo 3,5 horas, uma vez por semana.
+Adultos e pacientes idosos
+Injeção
+10 mL de sacarato de hidróxido férrico (200 mg de ferro) administrados em, no mínimo, 10 minutos.
+Infusão
+Quando a situação clínica exigiu, doses de até 500 mg foram administradas. A dose única máxima tolerada é de 7 mg de ferro por kg de peso corporal administrada uma vez por semana, mas não excedendo 25 mL de sacarato de hidróxido férrico (500 mg de ferro) diluídos em 500 mL de solução fisiológica estéril, administrados em no mínimo 3,5 horas.
+Uma incidência mais elevada de reações adversas (em particular, hipotensão), que pode ser também mais grave, é associada às doses mais elevadas. Consequentemente, os tempos de infusão recomendados nesse item devem ser estritamente seguidos até mesmo se o paciente não receber a dose única máxima tolerada.
+Cuidados na administração
+Sacarato de óxido férrico deve ser administrado exclusivamente em hospitais. 
+Uso intravenoso. Este medicamento deve ser administrado somente pela via recomendada para evitar riscos desnecessários. Esse medicamento deve ser aplicado somente por profissional da saúde qualificado.
+Ferropurum® nunca deverá ser aplicado no músculo.
+A solução não deve ser utilizada caso a ampola apresente sedimentos em seu interior. As ampolas devem ser visualmente inspecionadas quanto a sedimentos e danos antes de serem utilizadas. Somente aquelas livres de sedimento e que apresentem solução homogênea devem ser usadas.
+Uma vez aberta a ampola, a administração deve ser imediata.
+Ferropurum® deve ser diluído somente com solução de cloreto de sódio estéril 0,9% p/v. Não devem ser usadas outras soluções de diluição intravenosa ou medicamentos, uma vez que há potencial para precipitação e/ou interação. Não se conhece a compatibilidade com recipientes que não sejam de vidro, polietileno e PVC.
+Importante: ampola com ponto de corte. Veja instruções abaixo.
+Segure a ampola com o ponto de corte marcado no gargalo voltado para sua direção e quebre no sentido oposto.
+Ferropurum® deve ser administrado por via intravenosa e nunca por via intramuscular, pois em função de seu elevado pH, pode ocorrer necrose do tecido muscular. Pode-se administrar a solução por infusão gota a gota, por injeção intravenosa lenta ou diretamente na linha do dialisador.
+Ferropurum® não é adequado para dose total de infusão (TDI), em que a dose total de ferro necessária, correspondendo à deficiência total de ferro do paciente, é administrada em uma infusão completa.
+Antes da administração da primeira dose de Ferropurum® , deve-se administrar uma dose teste. Se alguma reação alérgica ou intolerância ocorrer durante a administração, a terapia deve ser imediatamente interrompida.
+Infusão intravenosa
+Ferropurum® deve preferencialmente ser administrado por infusão gota a gota, a fim de reduzir o risco de episódios hipotensivos e injeção paravenosa. O diluente deve ser exclusivamente soro fisiológico estéril, em uma diluição de 1 mL de sacarato de óxido férrico (20 mg de ferro) em 20 mL de solução de cloreto de sódio estéril 0,9% p/v [5 mL (100 mg de ferro) em 100 mL de solução de cloreto de sódio 0,9% p/v até 25 mL (500 mg de ferro) em, no máximo, 500 mL de solução de cloreto de sódio 0,9% p/v].
+A diluição deve ser feita imediatamente antes da infusão e a solução deve ser administrada como segue:
+Concentração de ferro
+100 mg 200 mg 300 mg 400 mg
+500 mg
+Velocidade mínima de infusão
+15 min 30 min 1,5 h 2,5 h
+3,5 h
+Para administração da dose única máxima tolerada de 7 mg de ferro/kg de peso corporal, o tempo de infusão de no mínimo três horas e meia deve ser respeitado, independentemente da dose total.
+Antes da administração da primeira dose de Ferropurum® em pacientes que estejam recebendo a medicação pela primeira vez, deve-se administrar uma dose teste durante 15 minutos, de 1 mL (20 mg de ferro) em adultos e crianças com mais de 14 Kg e metade da dose média recomendada (1,5 mg de ferro/Kg) em crianças com menos de 14 Kg. É muito importante a disponibilidade de suporte para reversão de uma eventual parada cardiorrespiratória. Se não ocorrer reações adversas, a porção restante da infusão poderá ser administrada na velocidade recomendada.
+Injeção intravenosa
+Ferropurum® pode ser administrado não diluído, por injeção intravenosa lenta a uma velocidade máxima de 1 mL por minuto (uma ampola com 5 mL, em 5 minutos), não excedendo a dose de 10 mL (200 mg de ferro) por injeção. Após a aplicação, estender o braço do paciente.
+Antes da administração da primeira dose de Ferropurum® em pacientes que estejam recebendo a medicação pela primeira vez, deve-se administrar uma dose teste durante 1 a 2 minutos, de 1 mL (20 mg de ferro) em adultos e crianças com mais de 14 Kg e metade da dose média recomendada (1,5 mg de ferro/Kg) em crianças com menos 14 Kg. É muito importante a disponibilidade de suporte para reversão de uma eventual parada cardiorrespiratória. Se não ocorrer reações adversas em um período de 15 minutos, a porção restante da infusão poderá ser administrada na velocidade recomendada. Deve-se ter cautela com o extravasamento paravenoso.
+Injeção direta no dialisador
+Ferropurum® pode ser administrado diretamente na linha do dialisador, seguindo as mesmas recomendações para injeção intravenosa ou infusão intravenosa.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

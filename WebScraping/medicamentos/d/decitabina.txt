@@ -1,0 +1,77 @@
+Decitabina, para o que é indicado e para o que serve?
+Decitabina é indicado para
+O tratamento de pacientes adultos com síndromes mielodisplásicas (SMD), tratados e não tratados previamente, SMD “de novo” e secundárias de todos os subtipos da classificação FAB (Franco-Americano-Britânica) e grupos Intermediário-1, Intermediário-2 e de Alto Risco do Sistema de Escore Prognóstico Internacional (IPSS);
+O tratamento de pacientes adultos com leucemia mieloide aguda (LMA) “de novo” ou secundária, recém diagnosticada, de acordo com a classificação da Organização Mundial de Saúde (OMS).
+ A eficácia de Decitabina não foi completamente demonstrada em pacientes com idade inferior a 65 anos.
+
+
+Quais as contraindicações do Decitabina?
+Decitabina é contraindicado em pacientes com hipersensibilidade conhecida à Decitabina ou a qualquer componente da fórmula e durante a lactação.
+
+
+Como usar o Decitabina?
+Decitabina deve ser administrado sob a supervisão de médicos com experiência no uso de agentes quimioterápicos.
+Devem ser adotados os procedimentos-padrões de manuseio de agentes antineoplásicos, bem como o uso de luvas protetoras para evitar o contato da solução com a pele.
+Decitabina é administrado por infusão intravenosa. Não é necessário cateter venoso central.
+Pré-medicação para a prevenção de náuseas e vômitos não é recomendada rotineiramente, mas pode ser administrada se necessário.
+Decitabina deve ser reconstituído assepticamente com 10 mL de água para injetáveis. Após a reconstituição, cada mL contém aproximadamente 5,0 mg de Decitabina em pH entre 6,7 e 7,3.
+Imediatamente após a reconstituição, a solução deve ser diluída com solução de cloreto de sódio a 0,9% injetável ou solução de glicose a 5% injetável até uma concentração final do fármaco de 0,1 a 1,0 mg/mL.
+Quando não usada dentro de 15 minutos após a reconstituição, a solução deve ser preparada usando fluidos de infusão frios (2°C a 8°C) e armazenada entre 2°C e 8°C por no máximo 4 horas até a administração.
+Qualquer produto não utilizado ou resíduo deve ser eliminado de acordo com os requerimentos locais.
+Decitabina não é um medicamento vesicante ou irritante. Se ocorrer extravasamento de Decitabina, os protocolos da Instituição para o manejo de medicamentos de administração intravenosa devem ser seguidos.
+Incompatibilidades
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos. Decitabina não deve ser infundido com outros medicamentos através do mesmo acesso intravenoso.
+Posologia
+Há dois esquemas posológicos recomendados para a administração de Decitabina: um esquema posológico de 5 dias para o tratamento da leucemia mieloide aguda e um esquema posológico de 3 dias ou 5 dias no tratamento das síndromes mielodisplásicas. Para cada esquema, recomenda-se que os pacientes sejam tratados por no mínimo 4 ciclos. Entretanto, a resposta pode levar mais do que 4 ciclos para ser obtida. Nos estudos Fase 3 em leucemia mieloide aguda, o tempo mediano para resposta (remissão completa [RC] ou remissão completa com recuperação incompleta das plaquetas [RCp]) foi de 4,3 meses.
+No estudo de Fase 2 em síndromes mielodisplásicas, com o esquema posológico de 5 dias, o tempo mediano para resposta (remissão completa + remissão parcial) foi 3,5 ciclos. No estudo de Fase 3 em síndromes mielodisplásicas, com esquema posológico de 3 dias, o tempo mediano para resposta foi de 3 ciclos de tratamento. O tratamento deve ser continuado enquanto o paciente apresentar resposta, se beneficiar do tratamento ou exibir doença estável, isto é, na ausência de progressão evidente.
+Se após 4 ciclos os valores hematológicos do paciente (por exemplo, contagem de plaquetas ou contagem absoluta de neutrófilos) não retornarem aos valores pré-tratamento ou se ocorrer progressão da doença (contagens crescentes de blastos periféricos ou piora na contagem de blastos medulares), o paciente pode ser considerado um não-respondedor e opções terapêuticas alternativas ao Decitabina devem ser consideradas.
+Esquema de Tratamento da Leucemia Mieloide Aguda
+Em um ciclo de tratamento, Decitabina é administrado na dose de 20 mg/m2 de superfície corporal, por infusão intravenosa durante uma hora, repetida diariamente durante 5 dias consecutivos (isto é, um total de 5 doses por ciclo de tratamento). A dose total diária não deve exceder 20 mg/m2 e a dose total por ciclo de tratamento não deve exceder 100 mg/m2. O ciclo deve ser repetido a cada 4 semanas, dependendo da resposta clínica do paciente e da toxicidade observada. Se uma dose for omitida, o tratamento deve ser retomado o mais rapidamente possível. Este esquema posológico pode ser administrado em ambiente ambulatorial.
+Esquema de Tratamento das Síndromes Mielodisplásicas
+Esquema posológico de 3 dias
+Em um único ciclo de tratamento, Decitabina deve ser administrado numa dose fixa de 15 mg/m2 de superfície corporal por infusão intravenosa, durante um período de 3 horas, a cada 8 horas, durante 3 dias consecutivos (ou seja, um total de 9 doses por ciclo de tratamento). Este ciclo é repetido aproximadamente a cada 6 semanas, dependendo da resposta clínica do paciente e da toxicidade observada. A dose total diária não deve ultrapassar 45 mg/m2 e a dose total por ciclo de tratamento não pode ultrapassar 135 mg/m2. Se uma dose for omitida, o tratamento deve ser retomado o mais rapidamente possível.
+Esquema de dose modificada de 5 dias para paciente ambulatorial
+A Decitabina pode ser administrada em uma posologia de 20 mg/m2 com infusão IV de 1 hora, diariamente por 5 dias consecutivos (ou seja, um total de 5 doses por ciclo). A quantidade total por curso é de 100 mg/m2. Não haverá escalonamento de dose para a Decitabina. Os ciclos serão administrados a cada 4 semanas. A dose total diária não deverá exceder 20 mg/m2 e a dose total por ciclo de tratamento não deve exceder 100 mg/m2.
+Em alguns casos, a resposta à Decitabina é somente observada após múltiplos cursos de tratamento. Portanto, para maximizar a possibilidade de resposta ao tratamento, recomenda-se que os pacientes sejam tratados por um mínimo de 4 ciclos. Entretanto, a remissão completa ou parcial pode levar mais de 4 ciclos. O tratamento pode ser continuado enquanto o paciente se beneficiar, isto é, na ausência evidente de progressão da doença ou de toxicidade intolerável.
+Antes de cada dose de Decitabina, o paciente poderá ser avaliado em relação a possíveis toxicidades que possam ter ocorrido após as doses anteriores e que são pelo menos possivelmente relacionadas, na opinião do médico.
+Todas as toxicidades estabelecidas previamente ou novas toxicidades observadas a qualquer momento podem ser gerenciadas conforme descrito a seguir. Se uma dose for omitida, o tratamento deve ser retomado o mais rapidamente possível.
+Manejo da mielossupressão e complicações associadas
+A mielossupressão e os eventos adversos relacionados à mielossupressão (trombocitopenia, anemia, neutropenia e neutropenia febril) são comuns tanto em pacientes em tratamento como não tratados com SMD e LMA.
+Complicações da mielossupressão incluem infecções e sangramentos. O tratamento deve ser modificado em pacientes com mielossupressão e complicações associadas, conforme descrito a seguir:
+Leucemia mieloide aguda
+O tratamento deve ser atrasado a critério médico se o paciente apresentar complicações associadas com a mielossupressão, tais como as descritas a seguir:
+Neutropenia febril (temperatura > 38,5ºC e contagem absoluta de neutrófilos <1000/ mcL);
+Infecção ativa de origem viral, bacteriana ou fúngica (isto é, exigindo anti-infecciosos intravenosos ou tratamento amplo de suporte);
+Hemorragia (gastrintestinal, genito-urinária, pulmonar, com plaquetas <25.000/mcL ou qualquer hemorragia do sistema nervoso central).
+O tratamento com Decitabina pode ser retomado assim que estas condições apresentarem melhora ou se estabilizarem com tratamento adequado (terapia anti-infecciosa, transfusões ou fatores de crescimento).
+A redução da dose não é recomendada.
+Síndrome mielodisplásica
+Esquema posológico de 5 dias
+A redução da dose não é recomendada nesta situação clínica para otimizar o benefício ao paciente. A dose deve ser atrasada da seguinte forma:
+Modificação da dose nos primeiros 3 ciclos:
+Durante os primeiros ciclos de tratamento, citopenias de Grau 3 e 4 são comuns e podem não representar progressão da SMD. As citopenias pré-tratamento podem não melhorar até após o Ciclo 3.
+Para os três primeiros ciclos, a fim de otimizar o benefício ao paciente na presença de neutropenia moderada (contagem absoluta de neutrófilos <1000/mcL), devem ser feitas todas as tentativas para manter o tratamento com a dose completa no intervalo padrão entre os ciclos. A profilaxia antimicrobiana concomitante, de acordo com as diretrizes institucionais, deve ser administrada até a recuperação dos granulócitos para um valor acima de 500/mcL. O médico deve considerar, também, a necessidade da administração precoce de fatores de crescimento
+durante este período, para a prevenção ou o tratamento de infecções em pacientes com SMD.
+De forma similar, para otimizar o benefício para o paciente na presença de trombocitopenia moderada (contagem de plaquetas <25.000/mcL), devem ser feitas todas as tentativas para manter o tratamento com a dose completa no intervalo padrão entre os ciclos e com a administração concomitante de transfusão de plaquetas no caso de eventos hemorrágicos.
+Modificação da dose após o Ciclo 3:
+A dose de Decitabina pode ser atrasada nos casos em que qualquer uma das seguintes toxicidades sejam consideradas ao menos possivelmente relacionadas ao tratamento:
+Complicações graves associadas à mielossupressão (infecções que não são resolvidas com tratamento anti-infeccioso adequado, sangramento não resolvido com tratamento adequado);
+Mielossupressão prolongada, definida como medula hipocelular (celularidade de 5% ou menos) sem evidência de progressão da doença por 6 semanas ou mais após o início do ciclo de tratamento.
+Se a recuperação (contagem absoluta de neutrófilos >1.000/mcL e plaquetas >50.000/mcL) necessitar de mais de 8 semanas, o tratamento deve ser descontinuado e o paciente deve ser avaliado quanto à progressão da doença (por aspirados de medula óssea) dentro de 7 dias após o término das 8 semanas. Para os pacientes que receberam tratamento por pelo menos 6 ciclos e que continuaram a obter benefícios da terapia, um atraso prolongado além de 8 semanas pode ser permitido, na ausência de progressão da doença, a critério do médico.
+Esquema posológico de 3 dias
+Modificação da dose nos primeiros 3 ciclos:
+Durante os primeiros ciclos de tratamento, citopenias de Graus 3 e 4 são comuns e podem não representar progressão da SMD. As citopenias pré-tratamento podem não melhorar até após o Ciclo 3.
+Para os três primeiros ciclos, a fim de otimizar o benefício na presença de neutropenia moderada (contagem absoluta de neutrófilos <1.000/mcL), devem ser feitas todas as tentativas para manter o tratamento com a dose completa no intervalo padrão entre os ciclos. A profilaxia antimicrobiana concomitante, de acordo com as diretrizes institucionais, pode ser administrada até a recuperação dos granulócitos para um valor acima de 500/mcL. O médico deve considerar também a necessidade da administração precoce de fatores de crescimento durante este período, para a prevenção ou o tratamento de infecções em pacientes com SMD.
+De forma semelhante, para otimizar o benefício para o paciente na presença de trombocitopenia moderada (contagem de plaquetas <25.000/mcL), devem ser feitas todas as tentativas para manter o tratamento com a dose completa no intervalo padrão entre os ciclos, com administração concomitante de transfusão de plaquetas no caso de eventos hemorrágicos.
+Modificação da dose após o Ciclo 3:
+Se a recuperação hematológica (contagem absoluta de neutrófilos >1.000/mcL e plaquetas >50.000/mcL) de um ciclo de tratamento anterior com Decitabina, com citopenia(s) persistente(s) sendo considerada(s) relacionada(s) à administração do medicamento, necessitar de mais de 6 semanas, então, o próximo ciclo de Decitabina deve ser atrasado e a dose reduzida pelo algoritmo a seguir. Toda redução da dose que ocorrer deve permanecer em efeito durante o tratamento, não devendo haver re-escalonamento da dose.
+Na recuperação exigindo mais de 6 semanas, mas menos de 8 semanas, a administração de Decitabina deve ser atrasada por até 2 semanas e a dose reduzida para 11 mg/m2 a cada 8 horas (33 mg/m2/dia, 99 mg/m2/ciclo) ao reiniciar o tratamento;
+Na recuperação exigindo mais de 8 semanas, mas menos de 10 semanas a dose de Decitabina deve ser atrasada por até mais duas semanas e reduzida para 11 mg/m2 a cada 8 horas (ou seja, 33 mg/m2/dia, 99 mg/m2/ciclo) ao reiniciar o tratamento e mantida nos ciclos subsequentes, conforme clinicamente indicado;
+Na recuperação exigindo mais de 10 semanas o tratamento deve ser descontinuado e os pacientes devem ser avaliados quanto à progressão da doença (por aspiração da medula óssea) dentro de 7 dias após o término das 10 semanas. Entretanto, para pacientes que foram tratados por pelo menos 6 ciclos e que continuam a se beneficiar do tratamento, um atraso prolongado além das 10 semanas pode ser permitido, na ausência de progressão, a critério do médico responsável pelo tratamento.
+Populações Especiais
+Pacientes pediátricos
+A segurança e eficácia em pacientes pediátricos não foram estabelecidas.
+Insuficiência hepática
+Não foram conduzidos estudos em pacientes com insuficiência hepática. A necessidade de ajuste de dose em pacientes com insuficiência hepática não foi avaliada. Se ocorrer piora da função hepática, os pacientes devem ser monitorados cuidadosamente.
+Insuficiência renal
+Não foram conduzidos estudos em pacientes com insuficiência renal. No entanto, os dados de estudos clínicos que incluíram pacientes com insuficiência leve a moderada não indicaram necessidade de ajustar a dose. Pacientes com insuficiência renal grave foram excluídos destes estudos.

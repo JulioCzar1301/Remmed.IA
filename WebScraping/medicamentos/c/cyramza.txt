@@ -1,0 +1,57 @@
+Cyramza, para o que é indicado e para o que serve?
+Câncer Gástrico
+Cyramza, em combinação com paclitaxel, é indicado para o tratamento de pacientes adultos com câncer gástrico ou da junção gastroesofágica (ligação do esôfago com estômago) avançado, que tenham apresentado progressão da doença após quimioterapia com platina ou fluoropirimidina.
+Cyramza, como agente isolado, é indicado para o tratamento de pacientes adultos com câncer gástrico ou da junção gastroesofágica avançado, que tenham apresentado progressão da doença após quimioterapia com platina ou fluoropirimidina, nos quais o tratamento com paclitaxel não é apropriado.
+Câncer de Pulmão de Não Pequenas Células
+Cyramza, em combinação com docetaxel, é indicado para o tratamento de pacientes adultos com câncer de pulmão de não pequenas células metastático ou localmente avançado que tenham apresentado progressão da doença, e que já tenham apresentado falha com quimioterapia prévia baseada em platina.
+Cyramza, em combinação com erlotinibe, é indicado para o tratamento de primeira linha de pacientes adultos com câncer de pulmão de não pequenas células metastático, cujos tumores apresentam mutações ativadoras do receptor do fator de crescimento epidérmico (EGFR) do tipo deleções do éxon 19 ou mutações de substituição do éxon 21 (L858R).
+Câncer Colorretal
+Cyramza, em combinação com FOLFIRI (irinotecano, ácido folínico e 5-fluoruracila), é indicado para o tratamento de pacientes adultos com câncer colorretal (segmento do intestino grosso e o reto) metastático que tenham apresentado progressão da doença após terapia prévia com bevacizumabe, oxaliplatina e fluoropirimidina.
+Câncer Hepático
+Cyramza, como agente isolado, é indicado no tratamento de pacientes com câncer hepático que tenham alfafetoproteína (AFP) ≥ 400 ng/mL, após terapia prévia com sorafenibe.
+
+
+Como o Cyramza funciona?
+Cyramza é um medicamento utilizado para tentar bloquear o crescimento das células do tumor, fazendo com que o tumor diminua ou pare de crescer.
+Baseado em dados in vitro e estudos não clínicos in vivo com um anticorpo substituto, espera-se o início de ação do medicamento dentro de horas após a aplicação; entretanto, a eficácia terapêutica é observada ao longo do tempo.
+
+
+Quais as contraindicações do Cyramza?
+Cyramza não deve ser usado em pacientes alérgicos ao ramucirumabe ou a qualquer um dos componentes da fórmula do medicamento.
+Cyramza não deve ser utilizado se existir evidência radiológica de que o câncer de pulmão tem uma cavidade ou se o câncer de pulmão estiver perto dos grandes vasos.
+
+
+Como usar o Cyramza?
+Preparar a solução de infusão utilizando técnica asséptica para garantir a esterilidade da solução preparada. Cada frasco é destinado a uso único. Inspecionar o conteúdo dos frascos quanto a material particulado e descoloração antes da diluição. Caso material particulado ou descolorações sejam identificados, descartar o frasco. Calcular a dose e o volume necessários de ramucirumabe para preparar a solução de infusão. Os frascos contêm 100 mg ou 500 mg como solução de 10 mg/mL de ramucirumabe. Diluir ramucirumabe conforme requerido para atingir um volume final de 250 mL. Utilizar somente a solução de cloreto de sódio (0,9%) estéril para injeção como diluente.
+No caso de uso de recipiente pré-preenchido de infusão intravenosa
+Baseado no volume calculado de ramucirumabe, remover o volume correspondente de solução de cloreto de sódio (0,9%) estéril para injeção do recipiente pré-preenchido de 250 mL de infusão intravenosa. Transferir assepticamente o volume calculado de ramucirumabe para o recipiente de infusão intravenosa. O volume final total no recipiente deve ser de 250 mL. O recipiente deve ser invertido lentamente para garantir a mistura adequada. Não congelar ou agitar a solução de infusão. Não diluir com outras soluções ou realizar a co-infusão com outros eletrólitos ou medicações.
+No caso de uso de recipiente vazio de infusão intravenosa
+transferir assepticamente o volume calculado de ramucirumabe para o recipiente vazio de infusão intravenosa. Adicionar uma quantidade suficiente de solução de cloreto de sódio (0,9%) estéril para injeção ao recipiente para atingir o volume total de 250 mL. O recipiente deve ser invertido lentamente para garantir a mistura adequada. Não congelar ou agitar a solução de infusão. Não diluir com outras soluções ou realizar a co-infusão com outros eletrólitos ou medicações.
+Os produtos parenterais devem ser inspecionados visualmente quanto ao material particulado antes da administração. Caso seja identificado material particulado, descartar a solução de infusão. Descartar qualquer porção não utilizada de ramucirumabe restante no frasco, tendo em vista que o produto não contém conservantes. Administrar via bomba de infusão. Uma linha de infusão separada deve ser utilizada para infusão e a linha deve ser lavada com solução de cloreto de sódio (0,9%) estéril para injeção ao final da infusão.
+Posologia do Cyramza
+Utilize somente solução de cloreto de sódio (0,9%) estéril para injeção como diluente. Não utilize dextrose como um diluente.
+Recomenda-se que o tratamento seja continuado até a progressão da doença subjacente ou até uma toxicidade inaceitável.
+Câncer Gástrico
+Ramucirumabe como agente isolado
+A dose recomendada de ramucirumabe como agente isolado é 8 mg/Kg a cada 2 semanas, administrada por infusão intravenosa durante aproximadamente 60 minutos (velocidade máxima de infusão de 25 mg/min).
+Ramucirumabe em combinação com paclitaxel
+A dose recomendada de ramucirumabe é 8 mg/Kg administrada por infusão intravenosa antes de paclitaxel, durante aproximadamente 60 minutos nos dias 1 e 15 de um ciclo de 28 dias. Administrar paclitaxel a 80 mg/m² por infusão intravenosa durante aproximadamente 60 minutos nos dias 1, 8 e 15 de um ciclo de 28 dias.
+Câncer de Pulmão de Não Pequenas Células
+Ramucirumabe em combinação com docetaxel
+A dose recomendada de ramucirumabe é 10 mg/Kg administrada por infusão intravenosa antes da infusão de docetaxel, durante aproximadamente 60 minutos no dia 1 de um ciclo de 21 dias. Administrar docetaxel 75 mg/m2 por infusão intravenosa durante aproximadamente 60 minutos no dia 1 de um ciclo de 21 dias (verificar a bula local de docetaxel para as instruções de pré-medicação e administração de dose).
+Ramucirumabe em combinação com erlotinibe
+A dose recomendada de ramucirumabe é 10 mg/Kg administrada por infusão intravenosa durante aproximadamente 60 minutos a cada duas semanas (verificar a bula local de erlotinibe para as instruções de administração). O status de mutação do EGFR deve ser determinado antes do início do tratamento com ramucirumabe e erolitinibe, usando um método de teste validado.
+Câncer Colorretal
+A dose recomendada de ramucirumabe é 8 mg/Kg administrada por infusão intravenosa antes da infusão de Folfiri, durante aproximadamente 60 minutos a cada duas semanas (para os componentes do Folfiri, verificar a bula local para as instruções de pré-medicação e administração de dose).
+Câncer Hepático
+A dose recomendada de ramucirumabe é 8 mg/Kg administrada por infusão intravenosa, durante aproximadamente 60 minutos a cada duas semanas.
+Pré-medicação
+Antes de cada infusão de Cyramza, pré-medicar todos os pacientes com um antagonista H1 de histamina (medicamento antialérgico) (por exemplo: difenidramina) via intravenosa.
+Caso o paciente apresente uma reação relacionada à infusão de grau leve ou moderada, também pré-medicar com dexametasona (ou equivalente) e paracetamol, antes de cada infusão de Cyramza.
+Ajustes de dose
+Reduzir a taxa de infusão de ramucirumabe em 50% para a duração da infusão e todas as infusões subsequentes, caso o paciente apresente reação relacionada à infusão de grau leve ou moderada.
+Monitorar a pressão arterial durante o tratamento com ramucirumabe e tratar conforme clinicamente indicado. Suspender temporariamente Cyramza no caso de hipertensão (aumento da pressão sanguínea) grave até que seja controlada por tratamento médico.
+Descontinuar permanentemente Cyramza em pacientes que sofrem da síndrome da leucoencefalopatia posterior reversível (SLPR).
+Monitorar o desenvolvimento ou agravamento de proteinúria (proteína na urina) durante a terapia com ramucirumabe. Descontinuar temporariamente a administração de Cyramza, caso o nível de proteína na urina seja ≥ 2 g/24 horas. Descontinuar permanentemente a terapia com Cyramza, caso o nível de proteína na urina seja > 3 g/24 horas ou no quadro de síndrome nefrótica (conjunto de sinais e sintomas decorrentes da perda excessiva de proteína pela urina).
+As reduções das doses de paclitaxel podem ser aplicadas com base no grau de toxicidade apresentada pelo paciente.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

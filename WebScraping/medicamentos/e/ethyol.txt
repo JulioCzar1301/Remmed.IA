@@ -1,0 +1,51 @@
+Ethyol, para o que é indicado e para o que serve?
+Quimioterapia
+Ethyol é indicado para proteção contra toxicidade hematológica induzida por agentes quimioterápicos que se ligam ao DNA (agentes alquilantes clássicos, como a ciclofosfamida, e não-clássicos, como a mitomicina-C e análogos da platina). É também indicado como proteção contra toxicidades não-hematológicas, agudas e cumulativas (nefro, neuro e ototoxicidade) associadas à terapia à base de platina; é indicado para proporcionar melhor adesão a esses tipos de tratamento quimioterápico.
+Ethyol é indicado para reduzir a neutropenia relacionada com o risco de infecção (por exemplo neutropenia febril) decorrente da associação de ciclofosfamida e cisplatina em pacientes com carcinoma de ovário avançado (FIGO estágios III ou IV). Ethyol é indicado para a proteção de pacientes com tumores sólidos avançados originários de células não-germinativas portadores de nefrotoxicidade cumulativa decorrente do tratamento à base de cisplatina, cuja dose varie de 60 a 120 mg/m2, associada à hidratação adequada.
+Radioterapia
+Ethyol é indicado em associação com o tratamento padrão de radioterapia fracionada para câncer de cabeça e pescoço na proteção contra a xerostomia aguda ou tardia.
+
+
+Como o Ethyol funciona?
+Ethyol é uma pró-droga desfosforilada pela fosfatase alcalina para o metabólito ativo WR-1065 (tiol livre), que é rapidamente depurado da corrente sanguínea.
+Estudos farmacocinéticos mostraram que menos de 10% da amifostina permanece no plasma 6 minutos após a administração, por ser a droga rapidamente eliminada da corrente sanguínea.
+A amifostina é metabolizada rapidamente no seu metabólito ativo WR-1065 (tiol livre). O WR-33278 (dissulfeto) é o metabólito inativo subsequente.
+Não se sabe se a amifostina atravessa a barreira placentária.
+Após uma infusão em 15 minutos de uma dose de 910 mg/m2 de superfície corpórea de Ethyol, a meia-vida é menor que 1 minuto, sendo que a meia-vida de eliminação é inferior a 10 minutos.
+Durante a infusão de 910 mg/m2 de superfície corpórea em 15 minutos, o pico de concentração plasmática da amifostina é de, aproximadamente, 200 µmol/litro, o volume de distribuição é de 7 litros e a depuração plasmática é de 2 litros/min. O pico de concentração plasmática do metabólito ativo WR-1065 durante os 15 minutos de infusão é de, aproximadamente, 35 µmol/litro. Dosagens do WR-1065 nas células da medula óssea de três pacientes, realizadas de 5 a 8 minutos após a infusão, foram de 82, 121 e 227 µmol/kg.
+O mecanismo dominante de depuração para o Ethyol  é o metabolismo e não a eliminação através das vias renal e gastrointestinal. Após a infusão intravenosa de 740mg/m2 de Ethyol  durante 15 minutos, a excreção renal da substância mãe e dos dois metabólitos conhecidos foi baixa durante a hora após administração da droga, com média de 1,05% (para a droga mãe), 1,38% (para o tiol) e 4,2% (para o dissulfeto) da dose administrada da droga mãe.
+
+
+Quais as contraindicações do Ethyol?
+Ethyol é contra-indicado para pacientes com hipersensibilidade ao aminotiol e seus compostos.
+Pacientes hipotensos ou em estado de desidratação não devem receber Ethyol.
+Uma vez que Ethyol é administrado concomitantemente com drogas teratogênicas e mutagênicas, não deve ser utilizado por mulheres grávidas ou em fase de lactação.
+Devido à falta de experiência com o seu uso em pacientes portadores de insuficiência hepática ou renal, em crianças ou em pacientes com idade superior a 70 anos, Ethyol está contra-indicado nesses grupos.
+
+
+Como usar o Ethyol?
+Antes da administração intravenosa, Ethyol deverá ser reconstituído em 9,7 mL de solução de cloreto de sódio estéril a 0,9%. A solução reconstituída (500 mg de amifostina/10 mL) é estável durante 6 horas em temperatura ambiente (entre 15 e 25°C) ou durante 24 horas sob refrigeração (entre 2 e 8°C).
+Do ponto de vista microbiológico, o produto deverá ser utilizado imediatamente.
+Recomenda-se que nenhum outro medicamento seja misturado ou administrado com a solução reconstituída de Ethyol. Antes da administração de qualquer outro agente, deve-se administrar solução fisiológica na via venosa utilizada.
+Atenção: Medicamentos parenterais devem ser inspecionados visualmente antes da administração para detecção de partículas e alterações da coloração sempre que a solução ou o frasco permitirem. Não administre caso a solução esteja opaca ou apresentando precipitações.
+Posologia do Ethyol
+Quimioterapia
+Após a reconstituição, a solução de Ethyol deve ser diluída até alcançar a concentração variável de 5 mg/mL a 40 mg/mL de amifostina, mantendo-se estável por até 6 horas quando armazenada em temperatura até 25ºC ou por até 24 horas quando armazenada sob refrigeração (entre 2 e 8ºC). Ainda não foi estabelecida a compatibilidade de Ethyol com outras soluções além da solução de cloreto de sódio a 0,9% para injeção ou solução de cloreto de sódio com conservante. Não é recomendado o uso de outras soluções.
+Em pacientes com carcinoma ovariano avançado recebendo um regime combinado de cisplatina e ciclofosfamida, a dose inicial recomendada de Ethyol é de 910 mg/m² de superfície corpórea, administrada uma vez por dia, por infusão intravenosa com duração de 15 minutos, iniciando-se 30 minutos antes da quimioterapia com agentes administrados por curta infusão.
+Caso Ethyol seja utilizado com a intenção de redução da nefrotoxicidade associada com a cisplatina, a dose inicial de Ethyol deverá ser correlacionada à dose e esquema da cisplatina. Para doses de cisplatina de 100 a 120 mg/m², a dose inicial recomendada de Ethyol é de 910 mg/m² administrada em infusão intravenosa com duração de 15 minutos, iniciando-se 30 minutos antes da quimioterapia. Se a dose administrada de cisplatina for menor do que 100 mg/m², mas maior ou igual a 60 mg/m², a dose inicial recomendada de Ethyol é de 740 mg/m², administrada em infusão intravenosa com duração de 15 minutos, iniciando-se 30 minutos antes da quimioterapia. A infusão durante 15 minutos para a dose de 740 a 910 mg/m² é supostamente melhor tolerada do que infusões com durações mais extensas. Tempos de infusão reduzidos adicionais não foram explorados sistematicamente.
+A infusão de Ethyol deverá ser interrompida, se a pressão sistólica cair significantemente em relação à basal, segundo os valores mostrados no quadro a seguir:
+Orientação para interrupção da infusão de amifostina mediante queda da pressão sistólica
+  Pressão sistólica basal (mmHg)
+Diminuição da pressão
+< 100 100-119 120-139 140-179
+≥ 180
+Sistólica durante a infusão de amifostina (mmHg)
+20 25 30 40
+50
+Se a pressão arterial retornar ao normal em 5 minutos e o paciente estiver assintomático, a infusão poderá ser reiniciada até que a dose total programada de Ethyol possa ser administrada. Se a dose total não puder ser administrada, a dose a ser utilizada nos próximos ciclos deverá ser reduzida em 20%, por exemplo, de 910 mg/m2 para 740 mg/m2.
+Radioterapia
+Reconstituir segundo descrição anterior com 9,7 mL de solução de cloreto de sódio a 0,9%.
+Para proteger contra a toxicidade associada à radioterapia, a dose recomendada de Ethyol é de 200 mg/m2, administrada diariamente em infusão de 3 minutos, iniciando de 15 a 30 minutos antes da terapia padrão de radiação fracionada.
+A pressão sanguínea deve ser medida antes e após a infusão.
+Ethyol deve ser usado somente sob supervisão de médicos com experiência em quimioterapia ou radioterapia.
+Atenção: o frasco-ampola e os materiais para infusão devem ser descartados de modo seguro em um recipiente adequado.

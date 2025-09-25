@@ -1,0 +1,55 @@
+Apoquel para Cães, para o que é indicado e para o que serve?
+Tratamento do prurido associado à dermatites alérgicas em cães. Tratamento das manifestações clínicas de dermatites atópicas em cães.
+
+
+Como o Apoquel para Cães funciona?
+Mecanismo de Ação
+O oclacitinib inibe a atividade de uma variedade de citocinas pruridogênicas e pró-inflamatórias, assim como de citocinas envolvidas em alergias e que dependem da atividade das enzimas JAK1 ou JAK3. Exerce pouco efeito nas citocinas envolvidas na hematopoiese e que são dependentes da enzima JAK2. O oclacitinib não é um corticosteroide ou um anti-histamínico.
+Farmacocinética
+Em cães, o maleato de oclacitinib é absorvido bem e rapidamente após administração oral, com tempo médio para atingir o pico de concentração plasmática (Tmax) de menos de 1 hora. Após a administração oral de 0,4 – 0,6 mg de oclacitinib por Kg para 24 cães, a concentração média (limite de confiança de 90% - LC) máxima (Cmax) foi 324 (281, 372) ng/ mL e a área média sob a curva de concentração plasmática – tempo, de 0 e extrapolada ao infinito (AUC 0-inf) foi 1890 (1690, 2110) ng-hr/mL. O estado prandial dos animais não afeta significantemente a taxa ou extensão da absorção. A biodisponibilidade absoluta do maleato de oclacitinib foi 89%.
+A ligação do oclacitinib às proteínas plasmáticas é baixa, com 66,3% - 69,7% de ligação em plasma canino fortificado com concentrações nominais variando de 10 – 1000 ng/mL. O volume de distribuição médio (95% LC) aparente em estado de equilíbrio foi 942 (870, 1014) mL/Kg de peso corporal.
+Nos cães, o oclacitinib é metabolizado em múltiplos metabólitos, e um metabólito oxidativo principal foi identificado no plasma e na urina. No geral, a principal rota de excreção é o metabolismo, com contribuições menores da eliminação renal e biliar. A inibição do citocromo canino P450 pelo oclacitinib é mínima com IC50 pelo menos 50 vezes maior do que os valores de Cmáx observados na dose de uso proposta.
+A excreção total média (95% LC) do oclacitinib do plasma foi baixa – 316 (237, 396) mL/h/kg de peso corporal (5,3 mL/min/Kg de peso corporal). Após administração IV e oral, o t1/2 terminal foi similar com valores médios de 3,5 (2,2, 4,7) e 4,1 (3,1, 5,2) horas, respectivamente.
+Eficácia
+Controle da Dermatite Atópica
+Um estudo duplo cego, controlado, de 112 dias, foi conduzido em 18 hospitais veterinários nos Estados Unidos. O estudo recrutou 299 cães de proprietários particulares, que apresentavam dermatite atópica. Os cães foram randomizados em dois grupos: tratados com Apoquel (152 cães: dose de 0,4-0,6 mg;kg, duas vezes ao dia por 14 dias, e depois uma vez ao dia) ou tratados com placebo (147 cães: comprimido placebo, administrados da mesma maneira). Durante o estudo, os cães não puderam ser tratados com outras drogas que pudessem afetar a avaliação da eficácia de Apoquel, como corticosteróides, anti-histamínicos, ou ciclosporina. O sucesso de tratamento do prurido de cada cão foi definido como uma diminuição de pelo menos 2 cm da linha inicial, em uma Escala Visual Análoga (Visual Analog Scale – VAS) de prurido, de 10 cm, avaliado pelo proprietário no dia 28 do estudo. O sucesso do tratamento de lesões de pele foi definido como uma diminuição de 50% do valor inicial do índice de extensão e severidade de dermatite atópica canina (Canine Atopic Dermatitis Extent and Severity Index – CADESI), avaliado pelo veterinário no dia 28 do estudo. A proporção estimada entre cães do grupo tratado com Apoquel, cujo tratamento foi considerado um sucesso com base na avaliação de prurido VAS pelo proprietário e com base no valor CADESI avaliado pelo veterinário foi maior e significantemente diferente do grupo tratado como placebo.
+Proporção Estimada de Cães com sucesso de tratamento, Dermatite Atópica
+Parâmetro de Eficácia Apoquel Placebo Valor-P
+Avaliação VAS – proprietário 0,66
+(n=131) 0,04
+(n=133) p<0,0001
+Avaliação CADESI - Veterinário 0,49
+(n=134) 0,04
+(n=134) p<0,0001
+Comparados ao grupo placebo, os valores médios das avaliações VAS realizadas pelos proprietários (nos dias 1, 2, 7, 14 e 28) e das avaliações CADESI feitas pelos veterinários (nos dias 14 e 28) foram menores (melhores) nos cães do grupo tratado com Apoquel. No dia 30, 86% (127/147) dos cães do grupo placebo e 15% (23/147) dos cães do grupo Apoquel saíram do estudo cego, devido à piora dos sinais clínicos, e tiveram a opção de entrar em um estudo não cego e receber o tratamento com Apoquel. Para os cães que continuaram o tratamento com Apoquel por além de um mês, a avaliação VAS do proprietário e a avaliação CADESI do veterinário continuaram a melhorar até o final do estudo no Dia 112.
+Controle do Prurido Associado à Dermatite Alérgica
+Um estudo duplo cego, controlado, de 30 dias, foi conduzido em 26 hospitais veterinários nos Estados Unidos. O estudo recrutou 436 cães de proprietários particulares, com históricos de dermatite alérgica atribuída a uma ou mais das condições a seguir: dermatite atópica, alergia a pulgas, alergia alimentar, alergia de contato e outras dermatites ou dermatites não especificadas. Os cães foram randomizados em dois grupos: tratados com Apoquel (216 cães: dose de 0,4-0,6 mg;kg, duas vezes ao dia) ou tratados com placebo (220 cães: comprimido placebo, administrados da mesma maneira). Durante o estudo, os cães não puderam ser tratados com outras drogas que pudessem afetar a avaliação do prurido ou inflamação dérmica, como corticosteróides, anti-histamínicos, ou ciclosporina. O sucesso de tratamento do prurido de cada cão foi definido como uma diminuição de pelo menos 2 cm em relação à linha inicial, em uma Escala Visual Análoga (Visual Analog Scale – VAS) de avaliação de prurido, de 10 cm, avaliado pelo proprietário, em pelo menos 5 dos 7 dias de avaliação. A proporção de cães com sucesso de tratamento foi maior e significantemente diferente no grupo tratado com Apoquel, em comparação com o grupo placebo.
+Avaliação VAS – proprietário, Sucesso de Tratamento, Dermatite Alérgica
+Parâmetro de Eficácia Apoquel (n=203) Placebo (n=204) Valor-P
+Proporção Estimada de Cães com Sucesso de Tratamento 0,67 0,29 p<0,0001
+Após uma semana de tratamento, 86,4% dos cães do grupo Apoquel, comparados com 42,5% dos cães do grupo placebo, haviam atingido uma redução de 2 cm na avaliação VAS de 10 cm realizada pelos proprietários. Em cada um dos 7 dias, a média das avaliações VAS foi menor nos cães tratados com Apoquel (vide Figura 1). Os veterinários usaram uma escala VAS de 10 cm para avaliar a dermatite de cada cão. Após uma semana de tratamento, a média das avaliações VAS realizados pelos veterinários, dos cães tratados com Apoquel, foi 2,2 cm menor (melhora de uma linha inicial de 6,2 cm) comparada à média da avaliação do grupo placebo, que foi 4,9 cm (de uma linha inicial de 6,2 cm). Para os cães que continuaram o tratamento com Apoquel por além de uma semana, os valores das avaliações VAS dos veterinários continuaram melhorando, até o final do estudo no Dia 30.
+Figura 1: Avaliações VAS realizadas pelos proprietários, por tratamento, Dias 0 – 7
+Resposta Vacinal
+Em um estudo de resposta vacinal, filhotes de cães de 16 semanas de idade, recebendo a dose de 1,8 mg/Kg de Oclacitinib (3X a dose máxima recomendada), duas vezes ao dia, por 84 dias, apresentaram uma resposta imune adequada (sorologia) à vacinação com vírus inativado da raiva, com vírus vivo modificado da cinomose canina e com vírus vivo modificado da parvovirose canina. Na vacinação com vírus vivo modificado da parainfluenza canina, 6 de 8 cães atingiram resposta sorológica adequada.
+
+
+Quais as contraindicações do Apoquel para Cães?
+Hipersensibilidade aos componentes da fórmula.
+
+
+Como usar o Apoquel para Cães?
+A dose inicial recomendada é de 0,4 a 0,6 mg/Kg de oclacitinib, administrado oralmente, duas vezes ao dia, por 14 dias.
+Para a terapia de manutenção (após os 14 dias iniciais), a mesma dose deve ser administrada (0,4 a 0,6 mg/kg), uma vez ao dia. A necessidade da terapia de manutenção de longa duração deve ser baseada numa avaliação de risco- benefício individual, realizada pelo médico veterinário responsável.
+Apoquel pode ser administrado junto com alimento, ou separadamente.
+Tabela de Dosagem
+Peso do Cão (Kg) Número de comprimidos a serem administrados
+Apoquel 3,6 mg Apoquel 5,4 mg Apoquel 16 mg
+3,0 – 4,4 ½ - -
+4,5 – 5,9 - ½ -
+6,0 – 8,9 1 - -
+9,0 – 13,4 - 1 -
+13,5 – 19,9 - - ½
+20,0 – 26,9 - 2 -
+27,0 – 39,9 - - 1
+40,0 – 54,9 - - 1 e ½
+55,0 – 80,0 - - 2

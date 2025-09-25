@@ -1,0 +1,460 @@
+Lenangio, para o que é indicado e para o que serve?
+Mieloma múltiplo
+Lenalidomida em terapia combinada, é indicado para o tratamento de pacientes com mieloma múltiplo que não receberam tratamento prévio e não são elegíveis a transplante.
+Lenalidomida, em combinação com bortezomibe e dexametasona, é indicado para o tratamento de pacientes com mieloma múltiplo que não receberam tratamento prévio.
+Lenalidomida em monoterapia é indicado para o tratamento de manutenção de pacientes com mieloma múltiplo recém-diagnosticado que foram submetidos a transplante autólogo de células-tronco.
+Lenalidomida, em combinação com dexametasona, é indicado para o tratamento de pacientes com mieloma múltiplo refratário/recidivado que receberam ao menos um esquema prévio de tratamento.
+Síndrome mielodisplásica
+Lenalidomida é indicado para o tratamento de pacientes com anemia dependente de transfusões decorrente de síndrome mielodisplásica de risco baixo ou intermediário-1, associada à anormalidade citogenética de deleção 5q, com ou sem anormalidades citogenéticas adicionais.
+Linfoma folicular ou linfoma de zona marginal
+Lenalidomida em combinação com rituximabe (anticorpo anti-CD20) é indicado para o tratamento de pacientes com linfoma folicular ou linfoma de zona marginal previamente tratados.
+Linfoma de células do manto
+Lenalidomida é indicado para o tratamento de pacientes com linfoma de células do manto refratário/recidivado.
+
+
+Como o Lenangio funciona?
+Lenangio® é um medicamento que pertence a um grupo de medicamentos imunomoduladores, os quais afetam o sistema de defesa do corpo. Ele altera o sistema imunológico do corpo e pode também alterar o desenvolvimento de vasos sanguíneos muito pequenos que ajudam no crescimento do tumor. Portanto, Lenangio® pode diminuir ou impedir o crescimento das células do câncer. Estudos mostraram que o lenalidomida pode recuperar a capacidade das células imunológicas de atacar e matar as células do tumor.
+A combinação de lenalidomida com rituximabe potencializa mecanismos de morte do tumor por meio do sistema imunológico. No linfoma de zona marginal, essa combinação resulta em uma diminuição do crescimento tumoral e aumento da morte de células do tumor, quando comparado ao uso separado dessas drogas.
+
+
+Quais as contraindicações do Lenangio?
+Gravidez.
+Mulheres em idade fértil, exceto quando todas as condições de prevenção da gravidez forem atendidas.
+Hipersensibilidade à Lenalidomida ou a qualquer um dos excipientes.
+Para informações sobre os medicamentos utilizados em combinação com Lenalidomida, consultar a bula do respectivo produto.
+Categoria X: Este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar grávidas durante o tratamento, a menos que todas as condições do Programa de Prevenção de Gravidez sejam cumpridas.
+
+
+Como usar o Lenangio?
+Lenalidomida deve ser administrado por via oral praticamente no mesmo horário todos os dias. As cápsulas de Lenalidomida devem ser ingeridas inteiras, preferencialmente com água, com ou sem alimentos.
+Se menos de 12 horas decorrerem desde uma dose esquecida, o paciente pode administrar a dose. Se mais de 12 horas decorrerem desde uma dose esquecida no horário normal, o paciente não deve administrar a dose, mas sim administrar a próxima dose no horário normal no dia seguinte. Não administrar 2 doses no mesmo horário.
+Este medicamento não deve ser partido, aberto ou mastigado.
+Adultos
+Mieloma múltiplo
+Mieloma múltiplo recém-disgnosticado
+Lenalidomida em combinação com dexametasona (Rd) para pacientes não elegíveis a transplante
+A dose inicial recomendada de Lenalidomida é 25 mg/dia via oral nos Dias 1-21, em ciclos de tratamento repetidos a cada 28 dias. A dose recomendada de dexametasona é 40 mg/dia via oral nos Dias 1, 8, 15 e 22 de ciclos de tratamento repetidos a cada 28 dias. Vide itens “Idosos” e “Uso em pacientes com função renal comprometida” para quaisquer ajustes de doses com base na idade do paciente ou insuficiência renal. Os pacientes podem continuar o tratamento com Lenalidomida e dexametasona até a progressão da doença ou intolerância ao mesmo.
+O tratamento da Lenalidomida em combinação com a dexametasona não deve ser iniciado se a contagem absoluta de neutrófilos (ANC) for < 1.000/mcL e a contagem de plaquetas < 50.000 mcL.
+A dose é mantida ou modificada com base nos achados clínicos e laboratoriais. As orientações para a modificação de dose em mieloma múltiplo recém-diagnosticado, como demonstrado a seguir, são recomendadas para o gerenciamento da neutropenia (ANC < 500/mcL), neutropenia de Grau 4 (ANC < 500/mcL) ou neutropenia febril (febre ≥ 38,5ºC e ANC < 1.000/mcL), trombocitopenia de Grau 4 (plaquetas < 25.000/mcL) ou outras toxicidades não hematológicas de Grau 3 ou 4 consideradas relacionadas à Lenalidomida.
+Ajuste de dose recomendado:
+Passos para redução da dose
+  Lenalidomida
+Dexametasona
+Dose inicial
+25 mg
+40 mg
+Nível da dose -1
+20 mg
+20 mg
+Nível da dose -2
+15 mg
+12 mg
+Nível da dose -3
+10 mg
+8 mg
+Nível da dose -4
+5 mg
+4 mg
+Nível da dose -5
+5 mg (a cada dois dias)
+NA
+aA redução de dose para ambos os produtos pode ser gerenciada independentemente.
+Trombocitopenia
+Quando as plaquetas
+Ação recomendada
+Diminuem para < 25.000/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma completo semanalmentea
+Retornam para ≥ 50.000/mcL
+Reiniciar lenalidomida em 5 mg a menos da dose anterior. Após a dose com 5 mg diários, reiniciar lenalidomida em 5 mg a cada dois dias
+aSe a toxicidade limitante da dose (DLT) ocorrer após o dia 15 de um ciclo, a dose da lenalidomida será interrompida pelo menos durante o restante do ciclo atual de 28 dias.
+Neutropenia
+Quando os neutrófilos
+Ação recomendadaa
+Diminuem para < 500/mcL ou neutropenia febril (febre ≥ 38,5°C e ANC ≥ 1.000/mcL)
+Interromper o tratamento com lenalidomida e acompanhar o hemograma completo semanalmente
+Retornam para ≥ 1.000/mcL
+Após a dose com 5 mg diários, reiniciar lenalidomida em 5 mg a cada dois dias
+aA critério do médico, se a neutropenia for a única toxicidade em qualquer nível de dose, adicionar fator estimulador de colônias de granulócitos (G-CSF) e manter o nível de dose de Lenalidomida.
+Se a dose de Lenalidomida tiver sido reduzida devido a toxicidades hematológicas dose limitantes (DLT), a dose de Lenalidomida pode ser novamente aumentada para o nível de dose seguinte mais elevado (até à dose inicial), de acordo com o critério do médico, se a terapia continuada com lenalidomida/dexametasona resultou na melhoria da função da medula óssea (sem DLT durante pelo menos 2 ciclos consecutivos e com uma ANC ≥ 1.500/mcL com uma contagem de plaquetas ≥ 100.000/mcL no início de um novo ciclo de tratamento com o nível de dose atual).
+Outras toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à Lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de Lenalidomida
+A interrupção ou descontinuação de Lenalidomida deve ser considerada em caso de erupção cutânea de Grau 2-3. A Lenalidomida deve ser descontinuada nos casos de angioedema, anafilaxia, erupção cutânea de Grau 4, erupção cutânea esfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS, e não deve ser reiniciada após a resolução destas reações.
+Lenalidomida em combinação com melfalano e prednisona seguida por tratamento de manutenção com Lenalidomida (MPR+R) em pacientes não elegíveis a transplante
+A dose inicial recomendada é 0,18 mg/kg de melfalano via oral nos Dias 1-4 dos ciclos repetidos de 28 dias; 2 mg/kg de prednisona via oral nos Dias 1-4 dos ciclos repetidos de 28 dias; e 10 mg/dia de Lenalidomida via oral nos Dias 1- 21 dos ciclos repetidos de 28 dias por até 9 ciclos. Vide itens “Idosos” e “Uso em pacientes com função renal comprometida” para quaisquer ajustes de doses com base na idade do paciente ou insuficiência renal. Os pacientes que concluíram 9 ciclos ou que não conseguiram concluir a terapia combinada em decorrência da intolerância são tratados com 10 mg de Lenalidomida via oral nos Dias 1-21 dos ciclos repetidos de 28 dias, administrados até a progressão da doença.
+O tratamento com Lenalidomida em combinação com melfalano e prednisona não deve ser iniciado se a contagem absoluta de neutrófilos (ANC) for < 1500/mcL, e/ou a contagem de plaquetas < 75.000/mcL (ou < 30.000/mcL quando ≥ 50% de células nucleadas da medula óssea são células plasmáticas).
+Ajuste de dose recomendado
+A administração é continuada ou modificada com base nos achados clínicos e laboratoriais. As diretrizes de modificação de dose para o mieloma múltiplo recém-diagnosticado, conforme resumido abaixo, são recomendadas para o gerenciamento da neutropenia (neutrófilos < 500/mcL), neutropenia de Grau 4 (ANC < 500/mcL) ou neutropenia febril (febre ≥ 38,5ºC e ANC < 1000/mcL), trombocitopenia (Grau 4) ou outras toxicidades não hematológicas de Grau 3 ou 4 consideradas relacionadas à Lenalidomida.
+Passos para redução da dose
+  Lenalidomida Melfalano
+Prednisona
+Dose inicial
+10 mgª 0,18 mg/kg
+2 mg/kg
+Nível da dose -1
+15 mg (a cada dois dias) 0,14 mg/kg
+1 mg/kg
+Nível da dose -2
+5 mg 0,10 mg/kg
+0,5 mg/kg
+Nível da dose -3
+5 mg (a cada dois dias) NA
+0,25 mg/kg
+Trombocitopenia
+Quando as plaquetas
+Ação recomendada
+Reduzem para < 30.000/mcL
+Interromper o tratamento com lenalidomida e
+acompanhar o hemograma completo semanalmente
+Retornam para ≥ 30.000/mcL
+Reiniciar lenalidomida e melfalano no nível de dose -1
+Para cada redução subsequente abaixo de < 30.000/mcL
+Interromper o tratamento com lenalidomida
+Retornam para ≥ 30.000/mcL
+Reiniciar lenalidomida no próximo nível de dose menor -2 ou -3 para o regime de dose indicado. Não administrar dose abaixo do menor nível de dose de lenalidomida no regime de dose indicado
+Neutropenia
+Quando os neutrófilos
+Ação recomendadaa
+Reduzem para < 500/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma completo semanalmente
+Retornam para ≥ 500/mcL
+Reiniciar lenalidomida e melfalano no nível de dose -1
+Para cada redução subsequente abaixo de < 500/mcL
+Interromper o tratamento com lenalidomida
+Retornam para ≥ 500/mcL
+Reiniciar lenalidomida no próximo nível de dose menor -2 ou -3 para o regime de dose indicado. Não administrar dose abaixo do menor nível de dose de lenalidomida no regime de dose indicado
+aA critério do médico, se a neutropenia for a única toxicidade em qualquer nível de dose, adicionar fator estimulador de colônias de granulócitos (G-CSF) e manter o nível de dose de Lenalidomida.
+Outras toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à Lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de Lenalidomida
+A interrupção ou descontinuação de Lenalidomida deve ser considerada para erupção cutânea de Grau 2-3. A Lenalidomida deve ser descontinuada nos casos de angioedema, anafilaxia, erupção cutânea de Grau 4, erupção cutânea esfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS, e não deve ser reiniciada após a resolução destas reações.
+Lenalidomida em combinação com bortezomibe e dexametasona (RVd) sem intenção de transplante imediato
+A dose inicial recomendada de Lenalidomida é 25 mg, via oral, uma vez ao dia, nos Dias 1-14, por até oito ciclos de 3 semanas. A dose recomendada de bortezomibe é 1,3 mg/m2, nos Dias 1, 4, 8 e 11, por até oito ciclos de 3 semanas. A dose recomendada de dexametasona é 20 mg, via oral, uma vez ao dia, nos Dias 1, 2, 4, 5, 8, 9, 11 e 12, por até oito ciclos de 3 semanas.
+Os pacientes devem completar até oito ciclos de 21 dias (24 semanas) do tratamento inicial com RVd. Após a terapia inicial, continuar Lenalidomida 25 mg, via oral, uma vez ao dia, nos Dias 1-21 de ciclos repetidos de 28 dias, em combinação com dexametasona. A dose recomendada de dexametasona é 40 mg, via oral, uma vez ao dia, nos Dias 1, 8, 15 e 22 de ciclos repetidos de 28 dias. A terapia pode continuar até haver progressão da doença ou intolerância.
+A administração é continuada ou modificada com base em achados clínicos e laboratoriais. As diretrizes de modificação da dose para Lenalidomida para pacientes com mieloma múltiplo recém-diagnosticado recomendam tratar neutropenia Grau 4 (ANC < 500/mcL) ou neutropenia febril (febre ≥ 38,3ºC e ANC < 1.000/mcL), trombocitopenia Grau 4 (plaquetas < 25.000/mcL) ou outras toxicidades não hematológicas Grau 3 ou 4, consideradas relacionadas à Lenalidomida.
+Para ajustes de dose devido à toxicidade com bortezomibe ou dexametasona, consultar as informações de bula dos respectivos produto.
+Ajuste de dose recomendado
+Trombocitopenia
+Quando as plaquetas
+Ação Recomendada
+Reduzem para < 30.000/mcL
+Interromper o tratamento com Lenalidomida e acompanhar o hemograma completo semanalmente
+Retornam para > 50.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior
+Para cada redução subsequente abaixo de < 30.000/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 50.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior. Após a dose de 5 mg, reiniciar Lenalidomida com 2,5 mg. Não administrar doses abaixo de 2,5 mg uma vez ao dia
+Neutropenia
+Quando os neutrófilos
+Ação Recomendadaa
+Reduzem para < 500/mcL ou neutropenia febril (febre ≥ 38,5ºC e ANC < 1.000/mcL)
+Interromper o tratamento com Lenalidomida e acompanhar o hemograma completo semanalmente
+Retornam para ≥ 1.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior
+Para cada redução subsequente abaixo de < 500/mcL ou neutropenia febril
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 1.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior. Após a dose de 5 mg, reiniciar Lenalidomida com 2,5 mg. Não administrar doses abaixo de 2,5 mg uma vez ao dia
+a Se ocorreu neutropenia, adicionar o fator estimulador de colônias de granulócitos (G-CSF) aos ciclos subsequentes de quimioterapia.
+Outras toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à Lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de Lenalidomida
+A interrupção ou descontinuação de Lenalidomida deve ser considerada para erupção cutânea de Grau 2-3. A Lenalidomida deve ser descontinuada nos casos de angioedema, anafilaxia, erupção cutânea de Grau 4, erupção cutânea esfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS, e não deve ser reiniciada após a resolução destas reações.
+Lenalidomida em combinação com bortezomibe e dexametasona (RVd) com intenção de transplante (terapia inicial)
+A dose inicial recomendada de Lenalidomida é 25 mg, via oral, uma vez ao dia, nos Dias 1-21, por até seis ciclos de 28 dias. A dose recomendada de bortezomibe é 1,3 mg/m2, nos Dias 1, 4, 8 e 11, por até seis ciclos de 28 dias. A dose recomendada de dexametasona é 40 mg, via oral, uma vez ao dia, nos Dias 1 a 4 e 9 a 12, por até seis ciclos de 28 dias. Os pacientes devem completar até seis ciclos de 28 dias (24 semanas) do tratamento inicial com RVd.
+Esquema Alternativo
+A dose inicial recomendada de Lenalidomida é 25 mg, via oral, uma vez ao dia, nos Dias 1-14, por até oito ciclos de 21 dias. A dose recomendada de bortezomibe é 1,3 mg/m2, nos Dias 1, 4, 8 e 11, por até oito ciclos de 3 semanas. A dose recomendada de dexametasona é 20 mg, via oral, uma vez ao dia, nos Dias 1, 2, 4, 5, 8, 9, 11 e 12, por até oito ciclos de 3 semanas. Os pacientes devem completar até oito ciclos de 21 dias (24 semanas) do tratamento inicial com RVd.
+Para os pacientes que prosseguem para o transplante autólogo de células-tronco, deve ocorrer a mobilização hematopoiética das células tronco no período de 4 ciclos da terapia inicial.
+O tratamento com Lenalidomida em combinação com bortezomibe e dexametasona não deve ser iniciado se ANC < 1.000/mcL e o número de plaquetas < 50.000/mcL.
+A administração é continuada ou modificada com base em achados clínicos e laboratoriais. As diretrizes de modificação da dose para Lenalidomida para pacientes com mieloma múltiplo recém-diagnosticado recomendam tratar neutropenia Grau 4 (ANC < 500/mcL) ou neutropenia febril (febre ≥ 38,3ºC e ANC < 1.000/mcL), trombocitopenia Grau 4 (plaquetas < 25.000/mcL) ou outras toxicidades não hematológicas Grau 3 ou 4, consideradas relacionadas à Lenalidomida.
+Para ajustes de dose devido à toxicidade com bortezomibe ou dexametasona, consultar as informações de prescrição do produto.
+Ajuste de dose recomendado
+Trombocitopenia
+Quando as plaquetas
+Ação Recomendada
+Reduzem para < 30.000/mcL
+Interromper o tratamento com Lenalidomida e acompanhar o hemograma completo semanalmente
+Retornam para > 50.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior
+Para cada redução subsequente abaixo de < 30.000/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 50.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior. Após a dose de 5 mg, reiniciar Lenalidomida com 2,5 mg. Não administrar doses abaixo de 2,5 mg uma vez ao dia
+Neutropenia
+Quando os neutrófilos
+Ação Recomendadaa
+Reduzem para < 500/mcL ou neutropenia febril (febre ≥ 38,5ºC e ANC < 1.000/mcL)
+Interromper o tratamento com Lenalidomida e acompanhar o hemograma completo semanalmente
+Retornam para ≥ 1.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior
+Para cada redução subsequente abaixo de < 500/mcL ou neutropenia febril
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 1.000/mcL
+Reiniciar Lenalidomida com 5 mg a menos do que na dose anterior. Após a dose de 5 mg, reiniciar Lenalidomida com 2,5 mg. Não administrar doses abaixo de 2,5 mg uma vez ao dia
+aSe ocorreu neutropenia, adicionar o fator estimulador de colônias de granulócitos (G-CSF) aos ciclos subsequentes de quimioterapia.
+Outras toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à Lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de Lenalidomida
+A interrupção ou descontinuação de Lenalidomida deve ser considerada para erupção cutânea de Grau 2-3. A Lenalidomida deve ser descontinuada nos casos de angioedema, anafilaxia, erupção cutânea de Grau 4, erupção cutânea esfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS, e não deve ser reiniciada após a resolução destas reações.
+Tratamento de manutenção com Lenalidomida após transplante autólogo de células-tronco
+Após o transplante autólogo de células-tronco, iniciar o tratamento de manutenção com Lenalidomida assim que houver recuperação hematológica adequada (aproximadamente 3 a 6 meses, ANC ≥ 1000/μL e/ou contagens de plaquetas ≥ 75.000/μL), a critério do médico.
+A dose inicial recomendada de Lenalidomida é 10 mg/dia de forma contínua (Dias 1-28 dos ciclos repetidos de 28 dias), administrados até a progressão da doença ou intolerância. Após 3 ciclos de tratamento de manutenção (84 dias), a dose pode ser aumentada para 15 mg/dia se for tolerada.
+Ajuste de dose recomendado
+Trombocitopenia
+Quando as plaquetas
+Ação recomendada a
+Reduzem para < 30.000/mcL
+Interromper o tratamento com Lenalidomida e monitorar semanalmente a contagem de células sanguíneas
+Retornam para ≥ 30.000/mcL
+Reiniciar a Lenalidomida com 5 mg abaixo da dose anterior
+Para cada redução subsequente abaixo de < 30.000/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 30.000/mcL
+Reiniciar a Lenalidomida com 5 mg abaixo da dose anterior
+Se a dose diária for de 5 mg, para cada redução subsequente abaixo de < 30.000/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 30.000/mcL
+Reiniciar a Lenalidomida com 5 mg nos Dias 1 a 21 de um ciclo de 28 dias. Não administrar doses abaixo de 5 mg nos Dias 1 a 21 de um ciclo de 28 dias
+a Após 3 ciclos de manutenção com Lenalidomida, a dose pode ser aumentada para 15 mg/dia, se tolerado.
+Neutropenia
+Quando os neutrófilos
+Ação recomendada a, b
+Reduzem para < 500/mcL
+Interromper o tratamento com Lenalidomida e monitorar semanalmente a contagem de células sanguíneas
+Retornam para ≥ 500/mcL
+Reiniciar a Lenalidomida com 5 mg abaixo da dose anterior
+Para cada redução subsequente abaixo de < 500/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 500/mcL
+Reiniciar a Lenalidomida com 5 mg abaixo da dose anterior
+Se a dose diária for de 5 mg, para cada redução subsequente abaixo de < 500/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 500/mcL
+Reiniciar a Lenalidomida com 5 mg nos Dias 1 a 21 de um ciclo de 28 dias. Não administrar doses abaixo de 5 mg nos Dias 1 a 21 de um ciclo de 28 dias
+a A critério do médico, se a neutropenia for a única toxicidade em qualquer nível de dose, adicione um fator de estimulação de colônias de granulócitos (G-CSF) e mantenha o nível de dose da Lenalidomida.
+b Após 3 ciclos de manutenção com Lenalidomida, a dose pode ser aumentada para 15 mg/dia, se tolerado.
+Outras toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à Lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de Lenalidomida
+A interrupção ou descontinuação de Lenalidomida deve ser considerada para erupção cutânea de Grau 2-3. A Lenalidomida deve ser descontinuada nos casos de angioedema, anafilaxia, erupção cutânea de Grau 4, erupção cutânea esfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS, e não deve ser reiniciada após a resolução destas reações.
+Mieloma múltiplo refratário/recidivado
+Dose recomendada
+A dose inicial recomendada de Lenalidomida é 25 mg/dia via oral nos Dias 1-21, em ciclos de tratamento a cada 28 dias para mieloma múltiplo. A dose recomendada de dexametasona é 40 mg/dia nos Dias 1-4, 9-12 e 17-20 de cada ciclo de 28 dias durante os primeiros 4 ciclos de terapia, e depois 40 mg/dia via oral nos Dias 1-4 a cada 28 dias. O tratamento deve ser continuado até a progressão da doença ou toxicidade inaceitável.
+A administração é continuada ou modificada com base nos achados clínicos e laboratoriais [vide item “Uso em pacientes com função renal comprometida” para os ajustes da dose inicial de Lenalidomida, recomendados para pacientes com comprometimento renal (Clcr < 60 mL/min)].
+Ajuste de dose recomendado
+Os ajustes de dose, conforme resumidos a seguir, são recomendados para gerenciar a neutropenia ou trombocitopenia de Grau 3 ou 4, ou outra toxicidade de Grau 3 ou 4 considerada relacionada com a Lenalidomida.
+Etapas para a redução da dose
+Dose inicial
+25 mg
+Nível posológico -1
+15 mg
+Nível posológico -2
+10 mg
+Nível posológico -3
+5 mg
+Trombocitopenia
+Quando as plaquetas
+Ação recomendada
+Reduzem pela primeira vez para < 30.000/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 30.000/mcL
+Reiniciar Lenalidomida no nível de dose -1
+Para cada redução subsequente abaixo de < 30.000/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 30.000/mcL
+Reiniciar a Lenalidomida no nível posológico imediatamente abaixo (nível posológico -2 ou -3), uma vez ao dia. Não administrar doses abaixo de 5 mg, uma vez ao dia
+Neutropenia
+Quando os neutrófilos
+Ação recomendada
+Reduzem pela primeira vez para < 500/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 500/mcL, quando a neutropenia é a única toxicidade observada
+Interromper o tratamento com Lenalidomida Retornam para ≥ 500/mcL, quando a neutropenia é a única toxicidade observada Reiniciar Lenalidomida com a dose inicial, uma vez ao dia
+Retornam para ≥ 500/mcL, quando são observadas toxicidades hematológicas dependentes da dose que não a neutropenia
+Reiniciar Lenalidomida no nível de dose -1, uma vez ao dia
+Para cada redução subsequente abaixo de < 500/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 500/mcL
+Reiniciar a Lenalidomida no nível posológico imediatamente abaixo (nível posológico -1, -2 ou - 3), uma vez ao dia. Não administrar doses abaixo de 5 mg, uma vez ao dia
+No caso de neutropenia, deve-se considerar a utilização de fatores de crescimento no gerenciamento do paciente.
+Outras toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à Lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de Lenalidomida
+A interrupção ou descontinuação de Lenalidomida deve ser considerada para erupção cutânea de Grau 2-3. A Lenalidomida deve ser descontinuada nos casos de angioedema, anafilaxia, erupção cutânea de Grau 4, erupção cutânea esfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS, e não deve ser reiniciada após a resolução destas reações.
+Síndrome mielodisplásica
+Dose recomendada
+A dose inicial recomendada de Lenalidomida é 10 mg administrados via oral uma vez ao dia nos Dias 1-21, repetidos em ciclos de tratamento a cada 28 dias.
+A administração é continuada ou modificada com base nos achados clínicos e laboratoriais
+Vide item “Uso em pacientes com função renal comprometida” para os ajustes da dose inicial de Lenalidomida, recomendados para pacientes com comprometimento renal (Clcr < 60 mL/min).
+Ajuste de dose recomendado
+Trombocitopenia
+Os pacientes que recebem inicialmente 10 mg e que apresentam trombocitopenia devem ter sua administração ajustada como se segue:
+Se trombocitopenia se desenvolver dentro de 4 semanas do início do tratamento com 10 mg
+Se o valor basal ≥ 100.000/mcL
+Quando as plaquetas
+Ação recomendada
+Reduzem para < 50.000/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 50.000/mcL
+Reiniciar Lenalidomida em 5 mg uma vez ao dia continuamente em ciclos repetidos de 28 dias
+Se o valor basal < 100.000/mcL
+Quando as plaquetas
+Ação recomendada
+Reduzem para 50% do valor basal
+Interromper o tratamento com Lenalidomida
+Se o valor basal é ≥ 60.000/mcL e retorna para ≥ 50.000/mcL
+Reiniciar Lenalidomida em 5 mg uma vez ao dia continuamente em ciclos repetidos de 28 dias
+Se o valor basal é < 60.000/mcL e retorna para ≥ 30.000/mcL
+Reiniciar Lenalidomida em 5 mg uma vez ao dia continuamente em ciclos repetidos de 28 dias
+Se trombocitopenia se desenvolver após 4 semanas do início do tratamento com 10 mg
+Quando as plaquetas
+Ação recomendada
+< 30.000/mcL ou < 50.000/mcL com transfusão de plaquetas
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 30.000/mcL (sem insuficiência hemostática)
+Reiniciar Lenalidomida em 5 mg uma vez ao dia continuamente em ciclos repetidos de 28 dias
+Pacientes que apresentam trombocitopenia com 5 mg diários devem ter sua administração ajustada como se segue:
+Se trombocitopenia se desenvolver durante o tratamento com 5 mg diários
+Quando as plaquetas
+Ação recomendada
+< 30.000/mcL ou < 50.000/mcL com transfusão de plaquetas
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 30.000/mcL (sem distúrbios hemostáticos)
+Reiniciar Lenalidomida em 5 mg a cada dois dias em ciclos repetidos de 28 dias
+Neutropenia
+Os pacientes que recebem inicialmente 10 mg e que apresentam neutropenia devem ter sua dose ajustada como se segue:
+Se neutropenia se desenvolver dentro de 4 semanas do início do tratamento com 10 mg
+Se ANC basal ≥ 1.000/mcL
+Quando os neutrófilos
+Ação recomendada
+Reduzem para < 750/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 1.000/mcL
+Reiniciar Lenalidomida em 5 mg uma vez ao dia continuamente em ciclos repetidos de 28 dias
+Se ANC basal < 1.000/mcL
+Quando os neutrófilos
+Ação recomendada
+Reduzem para < 500/mcL
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 500/mcL
+Reiniciar Lenalidomida em 5 mg uma vez ao dia continuamente em ciclos repetidos de 28 dias
+Se neutropenia se desenvolver após 4 semanas do início do tratamento com 10 mg
+Quando os neutrófilos
+Ação recomendada
+< 500/mcL por ≥ 7 dias ou < 500/mcL associado com febre (≥ 38,5°C)
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 500/mcL
+Reiniciar Lenalidomida em 5 mg uma vez ao dia continuamente em ciclos repetidos de 28 dias
+Pacientes que apresentam neutropenia com 5 mg diários devem ter sua administração ajustada como se segue:
+Se neutropenia se desenvolver durante o tratamento com 5 mg diários
+Quando os neutrófilos
+Ação recomendada
+< 500/mcL por ≥ 7 dias ou < 500/mcL associado com febre (≥ 38,5°C)
+Interromper o tratamento com Lenalidomida
+Retornam para ≥ 500/mcL
+Reiniciar Lenalidomida em 5 mg a cada dois dias continuamente em ciclos repetidos de 28 dias
+Outras toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à Lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de Lenalidomida
+A interrupção ou descontinuação de Lenalidomida deve ser considerada nos casos de erupção cutânea de Grau 2-3. A Lenalidomida deve ser descontinuada nos casos de angioedema, anafilaxia, erupção cutânea de Grau 4, erupção cutânea esfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS e não deve ser reiniciada após a resolução destas reações.
+Linfoma folicular ou linfoma de zona marginal
+Dose recomendada
+A dose inicial recomendada de lenalidomida é de 20 mg via oral uma vez ao dia nos Dias 1-21 de ciclos repetidos de 28 dias por até 12 ciclos de tratamento. A dose inicial recomendada de rituximabe é 375 mg/m2 via intravenosa (IV) a cada semana no Ciclo 1 (Dias 1, 8, 15 e 22) e Dia 1 de cada ciclo de 28 dias nos Ciclos 2 a 5.
+O tratamento com lenalidomida não deverá ser iniciado caso a contagem absoluta de neutrófilos (ANC) seja < 1.000/mcL e número de plaquetas < 50.000/mcL, salvo se secundários à infiltração da medula óssea pelo linfoma.
+A administração é continuada ou modificada com base nos achados clínicos e laboratoriais [vide item “Uso em pacientes com função renal comprometida” para os ajustes da dose inicial de lenalidomida, recomendados para pacientes com comprometimento renal (CLcr < 60 mL/min)].
+Para ajustes de dose devido à toxicidade com rituximabe, consultar as informações de bula do produto.
+Ajustes de dose recomendado
+Os ajustes de dose, conforme resumido a seguir, são recomendados para gerenciar neutropenia ou trombocitopenia de Grau 3 ou 4, ou outra toxicidade de Grau 3 ou 4 considerada relacionada à lenalidomida.
+Trombocitopenia
+Quando as plaquetas
+Ação Recomendada
+Reduzem para < 50.000 células/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma semanalmente
+Retornam para ≥ 50.000 células/mcL
+Reiniciar lenalidomida na dose de 15 mg uma vez ao dia (Dias 1-21 do ciclo de 28 dias)
+Para cada redução subsequente abaixo de 50.000 células/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma semanalmente
+Retornam para ≥ 50.000 células/mcL
+Reiniciar lenalidomida uma vez ao dia na dose de 5 mg a menos do que a dose anterior. Caso a dose inicial do paciente tenha sido de 20 mg, não administrar abaixo de 5 mg ao dia. Caso a dose inicial do paciente tenha sido de 10 mg, não administrar abaixo de 5 mg em dias alternados
+Quando ANC
+Ação recomendadaa
+Reduz para < 1.000 células/mcL por no mínimo 7 dias ou Reduz para < 1.000 células/mcL com febre associada (temperatura corporal ≥ 38,5°C) ou Reduz para < 500 células/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma semanalmente
+Retorna para ≥ 1.000 células/mcL
+Reiniciar lenalidomida na dose de 15 mg (Dias 1-21 do ciclo de 28 dias)
+Para cada redução subsequente abaixo de 1.000 células/mcLpor no mínimo 7 dias ou redução para <
+1.000 células/mcL com febre associada (≥ 38,5°C) ou redução para < 500 células/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma semanalmente
+Retorna para ≥ 1.000 células/mcL
+Reiniciar lenalidomida com 5 mg a menos do que a dose anterior. Caso a dose inicial do paciente tenha sido de 20 mg, não administrar abaixo de 5 mg ao dia. Caso a dose inicial do paciente tenha sido de 10 mg, não administrar abaixo de 5 mg em dias alternados
+a A critério do médico, se a neutropenia for a única toxicidade em qualquer nível de dose, adicione um fator de estimulação de colônias de granulócitos (G-CSF).
+Outras Toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de lenalidomida
+A interrupção ou descontinuação de lenalidomida deve ser considerada para erupção cutânea de Grau 2-3. A lenalidomida deve ser descontinuada para angioedema, erupção cutânea de Grau 4, erupção cutânea exfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS e não deve ser reiniciada após a resolução destas reações.
+Linfoma de Células do Manto Recidivante ou Refratário
+Dose recomendada
+A dose inicial recomendada de lenalidomida é 25 mg administrados via oral uma vez ao dia nos Dias 1-21, repetidos em ciclos de tratamento a cada 28 dias. O tratamento deve ser continuado até a progressão da doença ou toxicidade inaceitável.
+A administração é continuada ou modificada com base nos achados clínicos e laboratoriais [vide item “Uso em pacientes com função renal comprometida” para os ajustes da dose inicial de lenalidomida, recomendados para pacientes com comprometimento renal (CLcr < 60 mL/min)].
+Ajustes de dose recomendado
+Os ajustes de dose, conforme resumido a seguir, são recomendados para gerenciar neutropenia ou trombocitopenia de Grau 3 ou 4, ou outra toxicidade de Grau 3 ou 4 considerada relacionada à lenalidomida.
+Trombocitopenia
+Quando as plaquetas
+Ação recomendada
+Reduzem para < 50.000 células/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma no mínimo a cada 7 dias
+Retornam para ≥ 60.000 células/mcL
+Reiniciar lenalidomida em 20 mg uma vez ao dia (Dias 1-21 do ciclo de 28 dias)
+Para cada redução subsequente abaixo de 50.000 células/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma no mínimo a cada 7 dias
+Retornam para ≥ 60.000 células/mcL
+Reiniciar lenalidomida uma vez ao dia (Dias 1-21 do ciclo de 28 dias) com 5 mg a menos do que a dose anterior. Após a dose de 5 mg diários, reiniciar lenalidomida em 5 mg a cada dois dias.
+Reduz para < 1.000 células/mcL por no mínimo 7 dias ou Reduz para < 1.000 células/mcL com febre associada (temperatura corporal ≥ 38,5°C) ou Reduz para < 500 células/mcL
+Interromper o tratamento com lenalidomida e acompanhar o hemograma no mínimo a cada 7 dias
+Retorna para ≥ 1.000 células/mcL
+Reiniciar lenalidomida em 20 mg
+Para cada redução subsequente abaixo de 1.000
+células/mcLpor no mínimo 7 dias ou redução para < 1.000 células/mcL com febre associada (≥ 38,5°C) ou
+redução para < 500 células/mcL
+Interromper o tratamento com lenalidomida
+Retorna para ≥ 1.000 células/mcL
+Reiniciar lenalidomida com 5 mg a menos do que a dose anterior. Após a dose diária de 5 mg, reiniciar lenalidomida em 5 mg a cada dois dias
+Outras Toxicidades de Grau 3/4
+Para outras toxicidades de Grau 3/4 consideradas relacionadas à lenalidomida, interromper o tratamento e reiniciar no próximo nível de dose menor quando a toxicidade se resolver para ≤ Grau 2, a critério do médico.
+Descontinuação de lenalidomida
+A interrupção ou descontinuação de lenalidomida deve ser considerada para erupção cutânea de Grau 2-3. A lenalidomida deve ser descontinuada para angioedema, erupção cutânea de Grau 4, erupção cutânea exfoliativa ou bolhosa, ou no caso de suspeita de SSJ, NET ou DRESS e não deve ser reiniciada após a resolução destas reações.
+Pacientes pediátricos
+Não há dados disponíveis que suportam a utilização em pacientes com idade inferior a 18. Por questões de segurança, Lenalidomida não deve ser utilizado em crianças e adolescentes.
+Idosos
+Nenhum ajuste de dose é necessário para Lenalidomida.
+Uma vez que os pacientes idosos são mais propensos a apresentar função renal reduzida e Lenalidomida é eliminada pelos rins, recomenda-se cuidado na escolha da dose.
+Para pacientes com mieloma múltiplo recém-diagnosticado, a proporção risco/benefício dos idosos (> 75 anos) deve ser avaliada com cuidado. Para pacientes com ≥ 75 anos de idade, a dose inicial de dexametasona é 20 mg/dia nos Dias 1, 8, 15 e 22 de cada ciclo de tratamento de 28 dias.
+Uso em pacientes com função renal comprometida
+A Lenalidomida é eliminada principalmente na forma inalterada pelos rins, portanto, recomenda-se cuidado na escolha da dose e o monitoramento da função renal é aconselhável. Nenhum ajuste de dose é necessário para os pacientes com Clcr ≥ 60 mL/min. Os ajustes de dose de Lenalidomida a seguir são recomendados no início da terapia para pacientes com Clcr < 60 mL/min.
+Função renal (Clcr)
+Dose inicial
+Dose inicial
+Dose inicial
+Função renal normal / comprometimento renal leve (≥ 60 mL/min)
+25 mg. A cada 24 horas
+20 mg. A cada 24 horas
+10 mg. A cada 24 horas
+Comprometimento renal moderado (30 < Clcr < 60 mL/min)
+10 mga. A cada 24 horas
+10 mgb. A cada 24 horas
+5 mg. A cada 24 horas
+Comprometimento renal grave (Clcr < 30 mL/min, sem necessidade de diálise
+15 mg. A cada 48 horas
+Não há dado disponível
+5 mg. A cada 48 horas
+Nefropatia em estágio terminal (Clcr < 30 mL/min, com necessidade de diálise)
+5 mg. Uma vez ao dia. Nos dias de diálise, a dose deve ser administrada após a diálise
+Não há dado disponível
+5 mg. 3 vezes por semana após cada diálise Nos dias de diálise, a dose deve ser administrada após a diálise
+Clcr = depuração da creatinina.
+aA dose pode ser escalonada para 15 mg a cada 24 horas após 2 ciclos se o paciente não estiver respondendo ao tratamento e estiver tolerando ao medicamento.
+bA dose pode ser escalonada para 15 mg a cada 24 horas após 2 ciclos se o paciente estiver tolerando o tratamento.
+Após o início da terapia com lenalidomida, a modificação subsequente da dose de lenalidomida deve ser baseada na tolerância individual do paciente ao tratamento, conforme descrito.
+Uso em pacientes com função hepática comprometida
+Não foram conduzidos estudos em pacientes com comprometimento hepático. Lenalidomida não é conhecida por ser metabolizada pelo fígado; a eliminação de Lenalidomida não alterada ocorre predominantemente pela via renal.

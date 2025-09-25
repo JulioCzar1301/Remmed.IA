@@ -1,0 +1,97 @@
+Elspar, para o que é indicado e para o que serve?
+Elspar® é indicado para o tratamento de pacientes com leucemia linfocítica aguda. Este agente é principalmente útil em combinação com outros agentes quimioterápicos para a indução de remissões da enfermidade em pacientes pediátricos. Elspar® não deve ser usado como único agente de indução, a não ser que a terapia combinada seja considerada inapropriada. Elspar® não é recomendado para tratamento de manutenção.
+
+
+Quais as contraindicações do Elspar?
+Elspar® é contra-indicado para pacientes com pancreatite ou histórico de pancreatite. Têm sido relatados casos de pancreatite hemorrágica aguda, algumas vezes fatais, após o uso de asparaginase. A asparaginase também é contra-indicada para pacientes que tiveram reações anafiláticas prévias ao medicamento.
+
+
+Como usar o Elspar?
+Dessensibilização
+Deve ser realizada antes da administração da primeira dose de Elspar® no início do tratamento em reatores positivos e em casos de repetição de tratamento de qualquer paciente cujo tratamento é julgado necessário, após cuidadosa avaliação do aumento de risco de reações de hipersensibilidade. A dessensibilização rápida do paciente pode ser tentada com a administração intravenosa de Elspar® em quantidades aumentadas progressivamente, sendo que as devidas precauções devem ser tomadas para tratar uma reação alérgica aguda, caso ocorra. Um esquema relatado começa com um total de 1 Ul por via IV, dobrando-se a dose a cada 10 minutos, desde que não tenha havido nenhuma reação, até que a quantidade total acumulada se iguale às doses planejadas para aquele dia.
+Para conveniência, a seguinte tabela é incluída para calcular o número de doses necessárias para se atingir a dose total diária do paciente.
+Injeção número
+Dose de Elspar® em U.I.
+Dose total acumulada
+1
+1 1
+2
+2 3
+3
+4 7
+4
+8 15
+5
+16 31
+6 32
+63
+7 64
+127
+8 128
+255
+9 256
+511
+10 512
+1.023
+11 1.024
+2.047
+12 2.048
+4.095
+13 4.096
+8.191
+14 8.192
+16.383
+15 16.384
+32.767
+16 32.768
+65.535
+17 65.536
+131.071
+18 131.072
+262.143
+Por exemplo: Um paciente pesando 20 kg deve receber 200 UI/kg (dose total 4.000 UI) e tomar as injeções 1 a 12 durante a dessensibilização.
+Como um componente de esquemas de indução por agentes múltiplos selecionados, Elspar® pode ser administrado por via intravenosa ou intramuscular. Quando administrada por via intravenosa, essa enzima deve ser dada por um período não menor do que trinta minutos em via colateral de soro fisiológico já em uso ou de glicose 5%. Elspar® apresenta pouca tendência para flebite quando administrado por via intravenosa. Reações anafiláticas requerem o uso imediato de epinefrina, oxigênio e esteróides por via intravenosa. Quando Elspar® for administrado por via intramuscular, o volume máximo em cada local da injeção deve ser de 2 ml. Se o volume necessário for maior do que 2 mL, deverá então ser injetado em dois locais diferentes. Interações desfavoráveis de Elspar® têm ocorrido com alguns agentes antitumorais. Portanto, recomenda-se que Elspar® seja usado em esquemas de associação somente por médicos familiarizados com os benefícios e riscos de um dado esquema de tratamento. Durante o período da sua inibição da síntese protéica e da duplicação celular, Elspar® pode interferir com a ação de medicamentos, tais como o metotrexato, que requerem duplicação celular para seus efeitos letais. Elspar® pode ainda interferir na detoxificação enzimática de outras drogas, principalmente no fígado.
+Esse medicamento pode ter propriedades tóxicas e deve ser manuseado e administrado com cuidado. Deve ser administrado por via intramuscular ou via intravenosa. A inalação de pós ou vapores e o contato com a pele e as mucosas, especialmente a dos olhos, devem ser evitados. Equipamento de proteção apropriado deve ser utilizado sempre que Elspar® for manuseado.
+Os medicamentos para uso parenteral devem ser inspecionados visualmente quanto a partículas em suspensão e descoloração antes da administração, sempre que a solução e o frasco permitirem. Quando reconstituído, Elspar® deve ser uma solução límpida e incolor. Se estiver turva, descarte-a.
+Para Uso Intravenoso
+Reconstituir com água estéril para injeção ou com cloreto de sódio para injeção. O volume recomendado para reconstituição é de 5 mL para ampolas de 10.000 UI. Não há inativação da enzima com agitação comum do frasco. A solução pode ser usada para administração intravenosa direta em um prazo de 8 horas após sua preparação. Para a administração por infusão, as soluções devem ser diluídas em soluções isotônicas, cloreto de sódio ou glicose a 5%. Estas soluções também devem ser infundidas em um prazo de 8 horas e somente se estiverem límpidas. Ocasionalmente, pode surgir um número muito pequeno de partículas fibrosas gelatinosas. A filtração por meio de um filtro de 5 micra durante a administração removerá as partículas sem resultar em perda de potência. Alguma perda de potência foi observada com o uso de filtro de 0,2 micra.
+Para Uso Intramuscular
+Quando Elspar® for administrado por via intramuscular, de acordo com o programa citado no esquema de indução, a reconstituição é realizada acrescentando-se 2 mL de cloreto de sódio injetável a uma ampola de 10.000 UI. A solução resultante deve ser usada em um prazo de 8 horas e deve ser límpida.
+Manuseios especiais
+A L-asparaginase pode ser irritante aos olhos, à pele e ao trato respiratório superior. Foi também demonstrado ser embriotóxico e teratogênico por via intravenosa em estudos animais. Em razão das propriedades tóxicas potenciais do medicamento, precauções apropriadas, incluindo o uso de equipamento de segurança apropriado, são recomendadas para a preparação e para a administração de Elspar® . A inalação de pós ou vapores e o contato com a pele e as mucosas, especialmente a dos olhos, devem ser evitados. O Instituto Nacional de Saúde atualmente recomenda que a preparação de medicamentos antineoplásicos injetáveis deve ser feita em uma cabine de fluxo laminar de segurança biológica Classe II.
+Pessoas que preparam medicamentos dessa classe devem vestir roupas químico-resistentes, luvas impermeáveis, óculos de segurança, avental fechado na frente com punhos sanfonados e proteção para os pés. Roupas adicionais devem ser utilizadas com base na tarefa a ser realizada (por exemplo, mangas de proteção, aventais, luvas de proteção, roupas descartáveis) para evitar exposição da pele e inalação de vapores e pós. Técnicas apropriadas devem ser utilizadas para remover as roupas potencialmente contaminadas.
+Várias outras diretrizes para manuseio e descarte adequados de medicações antineoplásicas têm sido publicadas e devem ser consideradas.
+Medidas para contatos acidentais
+Caso um contato acidental com os olhos ocorra, deve ser realizada imediatamente a irrigação abundante por no mínimo 15 minutos com água, solução oftálmica balanceada ou solução salina normal, seguida prontamente por uma consulta oftálmica. Caso um contato acidental com a pele ocorra, a parte afetada deve ser lavada imediatamente com água e sabão. Deve-se procurar avaliação médica. Se inalado, sair da área de exposição e procurar avaliação médica.
+Posologia do Elspar
+Esquemas Recomendados de Indução
+Quando em uso de agentes quimioterápicos combinados para obter remissões em pacientes com leucemia linfocítica aguda, procuram-se esquemas terapêuticos que ofereçam maior possibilidade de sucesso e que também evitem toxicidade cumulativa excessiva ou interações negativas entre os medicamentos. Um dos seguintes esquemas de combinação incluindo o Elspar® é recomendado para leucemia linfocítica aguda na infância.
+Nos esquemas abaixo, o Dia 1 é considerado o 1º dia de tratamento.
+Esquema 1
+Prednisona
+40 mg/metro quadrado de superfície corpórea (m2 ), por dia, por via oral, divididos em 3 doses durante 15 dias, seguidas por diminuição progressiva das doses, como segue: 20 mg/m2 durante 2 dias, 10 mg/m2 durante 2 dias, 5 mg/m2 durante 2 dias, 2,5 mg/m2 durante 2 dias e então descontinuação total.
+Sulfato de vincristina
+2 mg/m2 por via intravenosa, 1 vez por semana, nos dias 1, 8 e 15 do período de tratamento. A máxima dose única não deve exceder 2,0 mg.
+Asparaginase
+1.000 Ul/kg/dia por via intravenosa, durante 10 dias sucessivos, começando no dia 22 do período de tratamento.
+Esquema 2
+Prednisona
+40 mg/m2 , por dia, via oral, divididos em 3 doses durante 28 dias (a dose total diária deve ser próxima a 2,5 mg), sendo descontinuada gradativamente por um período de 14 dias.
+Sulfato de vincristina
+1,5 mg/m2 por via intravenosa, 1 vez por semana por 4 doses, nos dias 1, 8, 15 e 22 do período de tratamento. A dose única máxima não deve exceder 2,0 mg.
+Asparaginase
+6.000 U.I./m2 , por via intramuscular, nos dias 4, 7, 10, 13, 16, 19, 22, 25 e 28 do período de tratamento.
+Quando se obtém a remissão por qualquer dos esquemas acima, deve-se instituir o tratamento de manutenção apropriado. Elspar® não deve ser usado como parte do esquema de manutenção. Os esquemas acima não afastam a necessidade de tratamento especial, visando à prevenção de leucemia do sistema nervoso central.
+Deve-se notar que Elspar® tem sido usado em outros esquemas de combinação, que não aqueles recomendados acima. É importante lembrar que quando Elspar® é administrado por via intravenosa simultânea ou imediatamente antes da aplicação de vincristina e prednisona, pode haver aumento de toxicidade. Os médicos, usando um dado esquema, devem estar minuciosamente familiarizados com seus benefícios e riscos. Não existem informações clínicas suficientes para recomendar o uso de esquemas de combinação em adultos. Há relato de maior toxicidade por asparaginase em adultos do que em crianças.
+O uso de Elspar® como único agente de indução deve ser feito somente em uma situação pouco comum, quando o esquema combinado é inapropriado em razão de toxicidade ou outros fatores especificamente relacionados com determinado paciente ou em casos de refratariedade a outro tratamento. Quando Elspar® for usado como único agente de indução, tanto em crianças como em adultos, a posologia recomendada é de 200 UI/kg/dia por via intravenosa, durante 28 dias. Quando foram obtidas remissões completas com esse esquema, elas foram de curta duração: 1 a 3 meses. Elspar® tem sido usado como único agente de indução em outros esquemas. Os médicos que usarem um dado esquema terapêutico devem estar totalmente familiarizados com seus benefícios e seus riscos. Pacientes submetidos a tratamento de indução devem ser cuidadosamente monitorados e o esquema terapêutico ajustado de acordo com a resposta e a toxicidade. Tais ajustes devem sempre envolver diminuição das doses de um ou mais agentes ou mesmo a suspensão, dependendo do grau de toxicidade. Os pacientes que já receberam uma série de Elspar® , se novamente tratados, têm maior risco de reações de hipersensibilidade. Portanto, a repetição do tratamento somente deve ser instituída quando o benefício for bem avaliado em relação ao aumento de risco.
+Teste intradérmico
+Em razão da ocorrência de reações alérgicas, o teste intradérmico deve ser realizado antes da administração inicial de Elspar® e quando Elspar® é dado após o intervalo de uma semana ou mais entre as doses. A solução para o teste intradérmico pode ser preparada como segue: reconstitua o conteúdo de uma ampola de 10.000 Ul com 5 mL de diluente. Retire dessa solução (2000 UI/mL) 0,1 mL e coloque em outra ampola que contenha 9,9 mL de diluente, tendo portanto uma solução para teste intradérmico de aproximadamente 20,0 Ul/mL. Use 0,1 mL desta solução (mais ou menos 2,0 Ul) para o teste intradérmico. O local do teste deve ser observado pelo menos por uma hora até o aparecimento de pápula ou eritema, sendo que qualquer um dos dois indica uma reação positiva. Uma reação alérgica, mesmo a uma dose de teste intradérmico, pode ocorrer raramente em certos indivíduos sensibilizados. O teste intradérmico negativo não afasta a possibilidade de desenvolvimento de reações alérgicas.
+Dose Máxima
+A dose máxima recomendada para o uso seguro do Elspar® ainda não foi formalmente estabelecida nas experiências clínicas com humanos. Na experiência pós-comercialização, um relatório publicado descreve um caso de hepatotoxicidade severa não fatal em um paciente adulto com diabetes melittus que recebeu 1.000 UI/kg (80.000 unidades) por dia de Elspar® por 8 dias em combinação com a vincristina e a prednisona. Nos estudos pré-clínicos, a DL50 intravenosa aguda do Elspar® nos camundongos foi de cerca de 500.000 UI/kg e nos coelhos foi de cerca de 22.000 UI/kg.
+Vias de Administração
+Elspar® deve ser administrado por via intramuscular ou via intravenosa.
+Equivalência em peso entre o composto químico da apresentação farmacêutica com a su bstância terapeuticamente ativa.
+Asparaginase
+10.000 UI/frasco
+Manitol
+80 mg/frasco

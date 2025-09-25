@@ -1,0 +1,42 @@
+Unianf, para o que é indicado e para o que serve?
+Unianf, uso endovenoso, é indicado no tratamento de pacientes com infecções fúngicas progressivas potencialmente graves:
+Aspergilose; blastomicose, candidíase disseminada; coccidiodomicose; criptococose; endocardite fúngica; endoftalmite candidiásica; infecções intra-abdominais, incluindo peritonites relacionadas e não relacionadas com o processo de diálise; leishmaniose mucocutânea, embora não seja uma droga de tratamento primário;, meningite criptocócica; meningite fúngica de outras origens; mucormicose (ficomicose); septicemia fúngica; esporotricose disseminada; infecções fúngicas das vias urinárias; meningoencefalite amebiana primária; paracoccidioidomicose. Este fármaco não deve ser usado no tratamento de infecções fúngicas não invasivas.
+O Unianf não tem efeito contra bactérias, rickettsias e vírus.
+O produto pode ser administrado em pacientes imunocomprometidos com febre persistente e que não tiveram sucesso na resposta à terapia antibacteriana apropriada.
+
+
+Quais as contraindicações do Unianf?
+Unianf é contraindicado na insuficiência renal e em pacientes que tenham demonstrado hipersensibilidade à anfotericina B ou a algum outro componente da formulação, a menos que, na opinião do médico, a condição que requer o tratamento envolva risco de morte e seja sensível somente à terapia com anfotericina B.
+
+
+Como usar o Unianf?
+O pó estéril e liofilizado é apresentado em frascos contendo 50 mg de anfotericina B, adicionado de desoxicolato de sódio. O conteúdo do frasco deve ser dissolvido, com agitação, em 10 mL de diluente, água para injetáveis, obtendo-se uma solução de 5 mg/mL. Para uma solução com concentração final de 0,1 mg/mL deve adicionar 490 mL de solução aquosa de glicose 5%.
+Atenção: soluções de cloreto de sódio ou conservantes não devem ser usadas porque causam precipitação do produto. Antes da aplicação da anfotericina B deve-se evitar lavar o cateter com solução fisiológica. Para tal recomendamos que, neste caso, seja utilizada solução glicosada a 5%.
+As soluções que apresentem algum precipitado ou materiais estranhos devem ser rejeitadas. O medicamento deve ser protegido da luz durante a administração.
+Estabilidade de produto reconstituído
+Após a reconstituição, as soluções concentradas (5 mg/mL) em água para injetáveis, mantém sua potência durante 24 horas em temperatura ambiente e protegidas da luz, ou por uma semana em refrigerador. As soluções diluídas para infusão endovenosa (0,1 mg/mL ou menos) em glicose a 5% injetável devem ser utilizadas imediatamente após efetuada a diluição.
+Informação adicional
+A preparação reconstituída é uma suspensão coloidal. Portanto, os filtros de membrana na linha de infusão endovenosa poderão extrair quantidades de medicamento clinicamente significativas. Em caso de se intercalarem filtros de membrana na linha, o diâmetro médio do poro deverá ser de 1 micra ou maior.
+Posologia do Unianf
+Unianf deve ser administrado por infusão endovenosa lenta, aplicando durante um período de aproximadamente 2 a 6 horas, observando-se as precauções usuais para a terapêutica endovenosa. A concentração recomendada para infusão é de 0,1 mg/mL (1 mg/10mL).
+A tolerância dos pacientes ao Unianf é muito variada e a dose deve ser ajustada às necessidades individuais de cada paciente (p. ex.: local e intensidade da infecção, agente etiológico, etc.). Normalmente, a terapia é iniciada com uma dose diária de 0,25 mg/kg de peso corpóreo administrada por um período entre 2 a 6 horas.
+Apesar de não estar comprovado o prognóstico de intolerância, pode ser preferível aplicar uma dose-teste inicial (1 mg em 20 mL de solução glicosada a 5%), administrada endovenosamente por 20 a 30 minutos.
+A temperatura do paciente, pulso, respiração e pressão arterial devem ser anotados a cada 30 minutos durante 2 a 4 horas. Um paciente com uma infecção fúngica grave rapidamente progressiva, com boa função cardiopulmonar e que tolere a doseteste, sem uma reação grave, pode receber 0,3 mg/kg de anfotericina B endovenosamente por um período de 2 a 6 horas.
+Uma segunda dose menor, i. e., 5 a 10 mg, é recomendada para os pacientes com disfunção cardiopulmonar ou para os que apresentaram reação grave à dose-teste. As doses podem ser gradualmente aumentadas em 5 a 10 mg/dia para uma dose diária final de 0,5 a 1,0 mg/kg.
+Atualmente os dados disponíveis são insuficientes para definir a dose total e a duração do tratamento necessária para a erradicação de micoses específicas (p.ex.: mucormicose). A dose ideal é desconhecida. A dose diária total pode chegar até 1,0 mg/kg de peso corpóreo ou até 1,5 mg/kg quando administrada em dias alternados, em infecções causadas por patógenos menos sensíveis.
+Cuidado: em nenhuma circunstância a dose total diária deverá exceder a 1,5 mg/kg. Uma superdose de anfotericina B pode resultar em parada cardiorrespiratória.
+Candidíase
+Em infecções disseminadas e/ou graves por Candida, as doses usuais de anfotericina B variam de 0,4 a 0,6 mg/kg/dia por 4 semanas ou mais. Doses de até 1mg/kg/dia podem ser necessárias dependendo da gravidade da infecção. O tratamento persiste até que se observe claramente uma melhora clínica, podendo haver necessidade de se administrar doses cumulativas totais de até 2 a 4g em adultos. Doses menores (0,3 mg/kg/dia) podem ser empregadas em circunstâncias especiais, por exemplo, em caso de esofagite (causada por Candida) resistente à terapia local, ou quando a anfotericina B é usada em associação com outros agentes antifúngicos.
+Criptococose
+A terapia da criptococose com anfotericina B em pacientes não imunodeprimidos normalmente requer doses de 0,3mg/kg/dia por períodos de aproximadamente 4-6 semanas ou até que as culturas semanais deem resultados negativo durante 1 mês. Em pacientes imunodeprimidos e/ou naqueles com meningite, a anfotericina B pode ser administrada em associação com outros agentes antigúngicos por 6 semanas. Doses diárias maiores de anfotericina B podem ser necessárias em pacientes gravemente enfermos ou em pacientes em tratamento com anfotericina B isolada. Em pacientes com meningite criptococócica e com Síndrome da Imunodeficiência Adquirida (SIDA), podem ser necessárias doses maiores (0,7 – 0,8/kg/dia) e o tratamento pode se estender por 12 semanas. Em pacientes que desenvolveram a Síndrome da Imunodeficiência Adquirida (SIDA), cujas culturas dão resultado negativo após um ciclo padrão de tratamento, pode-se considerar uma terapia crônica supressora, por exemplo, de 1 mg/kg/semana.
+Coccidiodomicose
+Em coccidiodomicose primária que requer tratamento, administra-se anfotericina B em doses de 1,0 até um máximo de 1,5 mg/kg/dia, com doses acumuladas de 0,5 a 2,5 g em adultos, dependendo da gravidade e do local da infecção. Na meningite coccidiodoidal, podem ser necessárias administrações sistêmicas e intratecal, de acordo com as referências padrões (por exemplo: Stevens, D. A. – capítulo 244 do Principles and Practice of Infectious Diseases, 3 ed., Mandell, Douglas, Bennett, Churchill Livingstone, New York, 1990).
+Blastomicose
+Em pacientes gravemente enfermos devido à blastomicose, recomenda-se doses de 0,3 a 1 mg/kg/dia do produto, com dose acumulada de 1,5 a 2,5 g em adultos.
+Histoplasmose
+Em casos de histoplasmose pulmonar crônica ou disseminada, recomenda-se geralmente doses aproximadas de 0,5 a 1 mg/kg/dia, com doses acumuladas de 2 a 2,5 g em adultos.
+Aspergilose
+A aspergilose tem sido tratada com anfotericina via E. V. por um período de até 11 meses. Doses de 0,5 a 1 mg/kg/dia ou mais e doses acumuladas de 2 a 4 g em adultos podem ser necessárias em casos de infecções graves (por exemplo, pneumonia ou fungemia).
+A duração do tratamento para micoses graves pode ser de até 6 a 12 semanas ou mais.
+Mucormicose rinocerebral
+Esta doença fulminante geralmente ocorre em associação com cetoacidose diabética. É imperativo que a rápida recuperação do controle diabético seja realizada para que o tratamento com anfotericina B seja bem sucedido. Uma vez que a mucormicose rinocerebral geralmente segue um curso rapidamente fatal, a conduto terapêutica deve ser necessariamente mais agressiva do que aquela usada em micoses mais indolentes e as doses de anfotericina B variam de 0,7 a 1,5 mg/kg por dia.

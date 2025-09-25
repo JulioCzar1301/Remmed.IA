@@ -1,0 +1,73 @@
+Wilfactin, para o que é indicado e para o que serve?
+Hemofilia A ou Deficiência Adquirida de Fator VIII
+Fator VIII de Coagulação + Fator de Von Willebrand é indicado para a prevenção e controle de hemorragias em pacientes com deficiência de fator VIII, devido a hemofilia A ou deficiência adquirida do fator VIII.
+Doença de von Willebrand
+Fator VIII de Coagulação + Fator de Von Willebrand, também é indicado para o tratamento cirúrgico e/ou procedimento invasivo em pacientes com Doeça de von Willebrand (VWD), em quem a desmopressina (DDAVP*) é ineficaz ou contra-indicada.
+Não existe evidencia suficiente procedente de ensaios clínicos em pacientes com Doença de von Willebrand severa (Tipo 3) submetidos à cirurgia maior.
+
+
+Quais as contraindicações do Wilfactin?
+Utilizar com precaução em pacientes com reações alérgicas conhecidas aos componentes da preparação.
+
+
+Como usar o Wilfactin?
+Administrar lentamente, a uma taxa não superior a 10 mL/minuto. A administração rápida de um concentrado de fator VIII pode resultar em reações vasomotoras.
+Fator VIII de Coagulação + Fator de Von Willebranddeve ser administrado por via intravenosa dentro de trés horas apés a reconstituição, para evitar o efeito potencial- mente patogênico de qualquer contaminação involuntária provocada por bactérias que ocorrem durante a reconstituição.
+Administrar à temperatura ambiente, não refrigerar após reconstituição, e descartar qualquer conteúdo não utilizado em recipiente de descarte seguro e adequado.
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+Não reutilizar os conjuntos de administração.
+Preparação da Solução
+Aqueça o frasco e a seringa a uma temperatura não superior a 30°C.
+Encaixe o embolo da seringa de plastico contendo solvente.
+Remova o filtro de sua embalagem. Retire a tampa cinzenta entre a ponta da seringa e, em seguida, encaixe a seringa no filtro.
+Remova o adaptador de frasco da embalagem. Encaixe o adaptador de frasco na seringa montada no filtro.
+Retire o plastico da tampa flip-top do frasco concentrado e limpe a borracha exposta como anti-séptico fornecido.
+Coloque o conjunto seringa/filtro/adaptador sobre a parte superior do frasco concentrado e fure a tampa com a agulha do adaptador. 
+Transfira toda a Aguapara injetáveis para o frasco de concentrado, pressionando o embolo da seringa.
+Agite suavemente o frasco até que todo o concentrado se dissolva. Tal como acontece com outras soluções parenterais, nado use a solução se não for devidamente dissolvida ou partículas ainda sejam visíveis. 
+Cuidadosamente separe o conjunto seringa/filtro e frasco para liberar o vácuo. 
+Inverta o frasco para concentrar e elaborar a solução através do filtro dentro da seringa. 
+Prepare o local da injeção, separe o filtro separado do adaptador de frasco da seringa. Injetar a solução por via intravenosa, utilizando a agulha borboleta fornecida ou uma agulha estéril.
+Hemofilia A
+Os requisitos de dosagem e frequência de administração são calculados com base na resposta inicialmente esperada de 2% do FVIII:C normal, por aumento de FVIII:C UI/kg de peso corporal administrado. O aumento in vivo do Fator VIII no plasma pode ser calculado multiplicando a dose de Fator VIII por quilo de peso corporal (FVIII:C Ul/kg) de 2%. Assim, administrada uma dose de 50 UI/kg de Fator VIII, espera-se aumento no nível de circulação do fator VIII de 100% do normal (100 UI/dL). 
+As seguintes formulas e exemplos ilustram estes príncipios:
+Exemplo: Administrando Fator VIII 2100 Ul a um adulto de 70 kg =
+
+Exemplo: Uma criança de 15 kg com nível de FVIII a 0%. Para aumento de 100% na concentração de Fator VIII plas-matico normal, a dose necessária é a seguinte:
+As dosagens a seguir são apresentadas como orientação geral, como mostrado na Tabela 1. Deve-se ressaltar que a dose de Fator VIII de Coagulação + Fator de Von Willebrand necessario para a hemostasia deve ser individualizada de acordo com as necessidades do paciente, a gravidade da deficiência, da gravidade da hemorragia, a presença de inibidores de FVIII e do nível desejado. A adequação do tratamento deve ser julgada pelos efeitos clínicos e da situação e, assim, a dosagem pode variar em casos individuais.
+Tabela 1: Diretrizes da dosagem para o tratamento de hemofilia A
+Evento Hemorragico
+Dosagem (FVIII:C Ul/kg Peso Corporal)
+Hemorragia leve
+Contusões;
+Cortes ou arranhões;
+Hemorragia conjunta não complicada.
+Os níveis de FVII:C devem ser levados a 30% do normal (15 FVIII UI/kg duas vezes ao dia), até que a hemorragia pare e a cura seja alcançada (1-2 dias)
+Hemorragia moderada
+Sangramentos no nariz, boca e gengiva;
+Extragdes dentais;
+Hematutria.
+Os níveis de FVIII:C devem ser levados a 50% (25 FVIII UI/kg duas vezes ao dia). O tratamento deve continuar até que a cura seja alcançada (2-7 dias, em média)
+Hemorragia grave
+Hemorragia comum;
+Hemorragia muscular;
+Trauma grave;
+Hematiria;
+Sangramento intracraniano intraperitoneal.
+Os níveis de FVIII:C devem ser levados entre 80-100% durante pelo menos 3-5 dias (40-50 FVIII UI/kg duas vezes ao dia). Após este período de tratamento, os níveis de FVIII devem ser mantidos em 50% (25 FVIII UI/kg duas vezes ao dia) até que a cura seja alcançada. Hemorragias graves podem requer tratamento por até 10 dias
+Cirurgia
+Antes da cirurgia, os níveis de FVIII:C devem ser levados a 80-100% do normal (40-50 FVII UI/kg). Para os 7-10 dias seguintes, ou até a cura, o paciente deve ser mantido com 60-100% dos níveis de FVIII (25-50 FVIII UI/kg duas vezes ao dia)
+A dosagem e frequência de administração são calculadas com base em uma resposta esperada inicial de 2% de FVII:C, por aumento de FVII:C Ul/kg de peso corporal(ou seja, 2% por Ul/kg) e uma meia-vida média de FVIII:C, de 12 horas. Se os estudos de dosagem determinaram que um paciente em particular apresente uma resposta menor que 0 esperado, a dose deve ser ajustada em conformidade. Impossibilidade de atingir os níveis plasmáticos de FVIII:C ou nivel para controlar a hemorragia apés uma dose calculada de forma adequada pode ser um indicativo do desenvolvimento de um inibidor (um anticorpo de FVII:C). Sua presença deve ser documentada e o nível de inibidor quantificado por procedimentos laboratoriais adequados. O tratamento com Fator VIII, nesses casos, deve ser individualizado.
+Os níveis de fator VII no plasma devem ser monitorados periodicamente para avaliar a resposta de cada paciente para o regime de dosagem.
+Doengade von Willebrand
+Tabela 2 fornece orientações de dosagem para pacientes pediátricos e adultos com Doença de von Willebrand.
+A quantidade de VWF:RCo e Fator VIII contido em cada frasco de Fator VIII de Coagulação + Fator de Von Willebrand esta indicada no rótulo do frasco. A proporção de VWF:RCo de Fator VIII em Fator VIII de Coagulação + Fator de Von Willebrand varia de acordo com o lote, por isso a dosagem deve ser reavaliada sempre que lote utilizado for alterado.
+Tabela 2: Orientações de dosagem para a profilaxia durante a cirurgia e procedimentos invasivos da Doença de von Wille- brand (Exceto Tipo 3 indivíduos sujeitos a grande cirurgia)
+Profilaxia para hemorragiacirtrgica ou procedimentos invasivos
+Dosagem (VWF:RCo UI/kg peso corporeo)
+Adulto
+Dosagem pré-operatória: 60 VWF:RCo Ul/kg de peso corporal. Infusões subsequentes: 40 a 60 VWF:RCo Ul/kg de peso corporal em intervalos de 8 - 12 horas caso sejam clinicamente necessárias. A dose pode ser reduzida depois do terceiro dia pós-operatório. Continuar o tratamento até a cura completa
+Procedimento menor: VWF atividade de 40% - 50% durante | a 3 dias pós-operatório
+Procedimento menor: VWF atividade de 40% - 50% por 3 a 7 dias pós-operatório
+Pediatrico
+Dosagem inicial: 75 VWF:RCo UI/kg peso corporal. Infusões subsequentes: 50 a 75 VWF:RCo UlI/kg peso corporal de 8 a 12 horas em intervalos clinicamente necessários. A dose pode ser reduzida depois do terceiro dia pós-operatório. Continuar o tratamento até a cura completa

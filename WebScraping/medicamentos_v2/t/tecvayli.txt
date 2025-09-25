@@ -1,0 +1,42 @@
+Tecvayli, para o que é indicado e para o que serve?
+TecvayliTM é indicado para o tratamento de pacientes adultos com um tipo de câncer hematológico denominado mieloma múltiplo.
+É usado nos casos recidivados ou refratários nos quais os pacientes receberam pelo menos três terapias anteriores, incluindo um inibidor de proteassoma, um agente imunomodulador e um anticorpo monoclonal anti-CD38.
+
+
+Como o Tecvayli funciona?
+O teclistamabe é um anticorpo, que é um tipo de proteína, que foi desenhado para reconhecer e atacar alvos específicos do corpo.
+O teclistamabe possui dois alvos:
+Receptor CD3, expresso na superfície de células T, e;
+Antígeno de maturação de células B (BCMA), que é expresso na superfície de células da linhagem B de mieloma múltiplo malignas, bem como células B em estágio avançado e células plasmáticas.
+TecvayliTM funciona ligando-se a essas moléculas de modo a mediar a ativação e subsequente lise das células que expressam BCMA e consequentemente a doença é combatida.
+
+
+Quais as contraindicações do Tecvayli?
+Tecvayli™ é contraindicado em pacientes com hipersensibilidade conhecida ao teclistamabe ou a qualquer um dos componentes na formulação.
+
+
+Como usar o Tecvayli?
+O seu médico irá determinar a sua dose de TecvayliTM e a duração do tratamento. A dose de TecvayliTM dependerá do seu peso corporal.
+A dose recomendada de TecvayliTM é:
+Tabela 1: cronograma de administração das doses de TecvayliTM
+Cronograma de dose Dia Dose
+Cronograma de dose para escalonamento Dia 1 Dose para escalonamento 1 0,06 mg/kg
+Dia 4a Dose para escalonamento 2 0,3 mg/kg
+Dia 7b Primeira dose de tratamento 1,5 mg/kg
+Cronograma de dose semanal Uma semana após a primeira dose de tratamento e então semanalmente Doses de tratamento subsequentes 1,5 mg/kg semanalmente
+a Dose para escalonamento 2 pode ser administrada entre 2 a 4 dias após a dose para escalonamento 1 e pode ser administrada em até 7 dias após a dose para escalonamento 1 para permitir resolução de reações adversas.
+b A primeira dose de tratamento pode ser administrada entre 2 a 4 dias após a dose para escalonamento 2 e pode ser administrada em até 7 dias após a dose para escalonamento 2 para permitir resolução de reações adversas.
+Posologia recomendada
+A posologia recomendada de TecvayliTM consiste em uma dose de 1,5 mg/kg de peso corporal real administrada uma vez por semana após a conclusão do cronograma de doses para escalonamento (veja a tabela 1). O TecvayliTM deve ser administrado até a progressão da doença ou toxicidade inaceitável.
+TecvayliTM será administrado por um médico ou enfermeiro como uma injeção sob a sua pele (injeção subcutânea) na área da barriga ou coxa.
+Medicamentos administrados durante o tratamento com TecvayliTM
+Antes de cada dose do cronograma de doses para escalonamento de TecvayliTM os medicamentos a seguir podem ser administrados para reduzir o risco de síndrome de liberação de citocinas.
+Corticosteroide (dexametasona oral ou intravenosa, 16 mg).
+Anti-histamínico (difenidramina oral ou intravenosa, 50 mg, ou equivalente).
+Antipiréticos (acetaminofeno oral ou intravenoso, 650 mg a 1000 mg, ou equivalente).
+A administração de medicamentos pré-tratamento pode ser necessária antes da administração das doses subsequentes de TecvayliTM nos seguintes pacientes:
+Pacientes que repetem as doses dentro do cronograma de escalonamento de doses de TecvayliTM após um atraso de dose. 
+Pacientes que apresentaram SLC após a dose anterior de TecvayliTM.
+Você pode receber a recomendação de hospitalização por 48 horas após as doses dentro do cronograma de doses para escalonamento de TecvayliTM (dose para escalonamento 1, dose para escalonamento 2 e primeira dose de tratamento).
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

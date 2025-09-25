@@ -1,0 +1,279 @@
+Stelara, para o que é indicado e para o que serve?
+Stelara® 45 mg/0,5 mL, 90 mg/1,0 mL e 130 mg/26 mL
+Doença de Crohn
+Stelara® é indicado para o tratamento de pacientes adultos com Doença de Crohn ativa de moderada a grave, que tiveram uma resposta inadequada, perda de resposta ou que foram intolerantes à terapia convencional ou ao anti-TNF-alfa ou que tem contraindicações médicas para tais terapias.
+Colite Ulcerativa
+Stelara® é indicado para o tratamento de pacientes adultos com Colite Ulcerativa ativa moderada a grave, que tiveram uma resposta inadequada, perda de resposta ou que foram intolerantes à terapia convencional ou à terapia com medicamentos biológicos ou que tem contraindicações para tais terapias.
+Exclusivo Stelara 45 mg/0,5 mL e 90 mg/1,0 mL
+Psoríase em Placa
+Adultos
+Stelara® é indicado no tratamento da psoríase em placa, moderada a grave, em adultos que não responderam, ou que têm uma contraindicação, ou que são intolerantes a outras terapêuticas sistêmicas, incluindo ciclosporina, metotrexato e radiação ultravioleta A associada à administração de psoraleno (PUVA).
+População pediátrica
+Stelara® é indicado para o tratamento da psoríase em placa, moderada a grave, em crianças maiores de 6 anos e adolescentes, que estão inadequadamente controlados por, ou que são intolerantes a outras terapias sistêmicas ou fototerapia.
+Artrite Psoriásica
+Stelara®, isolado ou em combinação com metotrexato, é indicado para o tratamento da artrite psoriásica ativa em pacientes adultos, quando a resposta ao tratamento com drogas antirreumáticas modificadoras da doença (DMARD) foi inadequada.
+
+
+Como o Stelara funciona?
+Stelara® é um anticorpo monoclonal IgG1kappa completamente humano que se liga com alta afinidade e especificidade à subunidade proteica p40 das citocinas humanas: interleucina (IL)-12 e IL-23.
+Stelara® inibe a bioatividade da IL-12 e da IL-23 humanas impedindo que essas citocinas se liguem ao receptor proteico IL-12Rbeta1 expresso na superfície das células do sistema imunológico.
+Stelara® não se liga a IL-12 nem a IL-23 pré-ligadas aos receptores de superfície celular IL-12Rbeta1. Assim, não é provável que Stelara® contribua para a citotoxicidade mediada por complemento ou anticorpo da célula que tem o receptor.
+A IL-12 e IL-23 são citocinas heterodiméricas secretadas pelas células apresentadoras de antígeno ativadas, como macrófagos e células dendríticas. A IL-12 estimula as células “natural killer” (NK) e conduz a diferenciação das células T CD4+ para o fenótipo de células auxiliares T1 (Th1) e estimula a produção de gamainterferona (IFNγ). A IL-23 induz a via da célula auxiliar T17 (Th17) e promove a secreção de IL-17A, IL-21 e IL-22. Os níveis de IL-12 e IL-23 são elevados na pele e no sangue de pacientes com psoríase, e a IL12/23p40 sérica faz a distinção entre pacientes com artrite psoriásica e indivíduos sadios, implicando a IL-12 e IL-23 na fisiopatologia de doenças inflamatórias psoriásicas.
+Polimorfismos genéticos nos genes da IL-23A, IL-23R e IL-12B conferem susceptibilidade a estas doenças. Adicionalmente a IL-12 e a IL-23 são altamente expressas na pele psoriásica lesionada e a indução de INFγ mediada pela IL-12 está correlacionada com a atividade da doença psoriásica.
+Células T responsivas para IL-23 foram encontradas na êntese em um modelo de artrite inflamatória de camundongo, onde a IL-23 dirige a inflamação da êntese.
+Além disso, há evidência pré-clínica implicando a IL-23 e vias descendentes na erosão óssea e destruição óssea através do aumento do ligante do receptor ativador do fator nuclear-kappa B (RANKL), a qual ativa os osteoclastos.
+Em pacientes com doença de Crohn, IL-12 e IL-23 estão elevadas nos intestinos e gânglios linfáticos.
+Isto é acompanhado por aumentos séricos dos níveis de IFNγ e IL-17A, sugerindo que a IL-12 e IL23 promovem a ativação do Th1 e Th17 na doença de Crohn. Tanto a IL-12 quanto a IL-23 também podem estimular a produção de TNF-alfa por células T, resultando na inflamação intestinal crônica e lesão das células epiteliais. Associações significativas foram encontradas entre a doença de Crohn e polimorfismos genéticos nos genes IL23R e IL12B, sugerindo um potencial papel causal para a IL12/23 de sinalização na doença. Isto é suportado pelos dados pré-clínicos que demonstram que a sinalização IL-12/23 é necessária para a lesão intestinal nos modelos de rato para doença inflamatória intestinal.
+Através da ligação às subunidades p40 compartilhadas da IL-12 e IL-23, Stelara® exerce seus efeitos clínicos na psoríase, artrite psoriásica, doença de Crohn e na colite ulcerativa pela interrupção das cascatas das citocinas associadas às Th1 e Th17, que são fundamentais para a patologia destas doenças.
+
+
+Quais as contraindicações do Stelara?
+O uso de Stelara® não é indicado para pessoas com hipersensibilidade grave ao ustequinumabe ou a qualquer um dos excipientes do produto.
+
+
+Como usar o Stelara?
+Stelara® 45 mg/0,5 mL e 90 mg/1,0 mL
+Stelara® deve ser utilizado sob supervisão e orientação médica. Em pacientes pediátricos, é recomendado que Stelara® seja administrado por um profissional da saúde. Stelara® pode ser aplicado por você ou seu cuidador, se o seu médico considerar apropriado, após treinamento adequado na técnica de administração subcutânea e descarte. Durante o tratamento recomenda-se o acompanhamento médico, conforme necessário.
+Os pacientes devem ser instruídos a injetar a quantidade prescrita de Stelara® de acordo com as instruções fornecidas no folheto informativo do paciente. A tampa da agulha na seringa preenchida contém borracha natural seca (um derivado de látex), que pode causar reações alérgicas em indivíduos sensíveis ao látex.
+Instruções para o uso da seringa preenchida
+Para reduzir o risco de perfurações acidentais com a agulha, cada seringa preenchida é equipada com um dispositivo de proteção da agulha que é ativado automaticamente para cobrir a agulha após a liberação completa do conteúdo da seringa.
+Não agite a seringa preenchida de Stelara® em nenhum momento. A agitação vigorosa e prolongada pode danificar o produto. Não use o produto, caso tenha sido agitado vigorosamente.
+Preparação para o uso da seringa preenchida
+Retirar a seringa de Stelara® da geladeira.
+Verifique na embalagem se a dose está correta de acordo com a sua prescrição médica.
+Verificação da data de validade de Stelara®.
+Abra a embalagem e retire a seringa preenchida. Verifique o prazo de validade na seringa preenchida e no cartucho. Não use o medicamento se o prazo de validade estiver vencido.
+Preparação de materiais necessários para a aplicação.
+Prepare o material que será necessário para a aplicação. Incluindo compressa com álcool, bola de algodão ou gaze e recipiente para o descarte de seringas.
+Verificação da solução do interior da seringa. Mantenha a seringa preenchida com a agulha coberta apontando para cima. Certifique-se de que a seringa não está danificada. Também se certifique de que a solução ou o líquido em seu interior é límpido a ligeiramente opalescente e incolor a levemente amarelado. não use se o produto estiver congelado, com coloração diferente da original, turvo ou se contiver partículas grandes.
+Não remova a tampa da agulha da seringa preenchida.
+Não puxe o êmbolo da seringa para trás em nenhum momento.
+Escolha e Preparação do Local de Aplicação
+Escolha do local de aplicação*.
+Os locais recomendados para a aplicação da injeção são a parte superior da coxa e na barriga, mas cerca de 5 cm abaixo do umbigo.
+Se possível, evite as áreas envolvidas com psoríase. Se for aplicado por outra pessoa, a parte superior do braço também pode ser utilizada.
+Preparação do local da injeção.
+Lave bem as mãos com sabão e água morna. Passe uma compressa com álcool no local da injeção. Não toque nesta área novamente antes de aplicar a injeção.
+Aplicação do medicamento
+Remoção da tampa da agulha.
+Quando você estiver pronto (a) para injetar, segure o corpo da seringa preenchida com uma mão e com a outra retire a tampa da agulha. Jogue a tampa no lixo. Pode haver uma pequena bolha de ar na seringa, mas não é necessário removê-la.
+Pode haver, também, uma gota de líquido na ponta da agulha, mas isto é normal. Não toque na agulha. Não deixe que a agulha toque em nada.
+
+Nota: a tampa da agulha não deve ser removida até você estar pronto para aplicar a dose. Não use a seringa se ela cair sem a tampa da agulha. Se você deixar a seringa cair sem a tampa da agulha, contate seu médico.
+Aplicação da injeção.
+Gentilmente, segure uma prega de pele entre o dedão e o indicador. Não aperte.
+Introduza a agulha da seringa na prega de pele.
+Mantendo a prega de pele entre os dedos, empurre o êmbolo com o polegar até o final, lentamente e de forma uniforme, para injetar o produto.
+Quando o êmbolo atingir o final do corpo da seringa e todo o medicamento tiver sido injetado, solte a prega de pele e remova gentilmente a agulha. Após o término da injeção, o dispositivo de proteção da agulha irá automaticamente se estender sobre a agulha e travar à medida que você soltar o êmbolo.
+Após a aplicação da injeção
+Descarte da seringa vazia. 
+Descarte imediatamente a seringa vazia em um recipiente apropriado. Para a sua segurança e a segurança de outras pessoas, agulhas e seringas nunca devem ser reutilizadas.
+Use uma bola de algodão ou gaze. 
+Pode haver uma pequena quantidade de sangue ou de líquido no local da injeção, o que é normal. Você pode pressionar uma bola de algodão ou uma gaze sobre o local da injeção e manter pressionado por 10 segundos. Não esfregue o local da injeção. Se necessário, pode-se colocar um curativo adesivo pequeno sobre o local da injeção.
+Instruções para o uso do frasco-ampola
+Os pacientes deverão ser instruídos a injetar a quantidade total de Stelara® do frasco-ampola, de acordo com as orientações a seguir:
+Não agite o frasco-ampola de Stelara® em nenhum momento. A agitação vigorosa e prolongada pode danificar o produto. Não use o produto, caso tenha sido agitado vigorosamente. Stelara® não deve ser misturado com outros líquidos para injeção.
+Verificação do frasco-ampola e preparação dos materiais necessários para aplicação
+Retirar o frasco-ampola da geladeira. 
+Verifique na embalagem se a dose está correta de acordo com a prescrição médica. Se a dose é de 90 mg, você poderá administrar ou 2 frascos de 45 mg. Se você for aplicar 2 frascos-ampola de 45 mg para a dose de 90 mg, será necessário aplicar 2 injeções, sendo 1 injeção após a outra.
+Verificação da data de validade de Stelara®. 
+Abra a embalagem e remova o frasco-ampola. Verifique o prazo de validade no frasco-ampola e no cartucho. Não use o medicamento se o prazo de validade estiver vencido.
+Verificação da solução do interior do frasco. 
+Verifique se o frasco-ampola não está danificado e se a solução ou o líquido em seu interior é límpido a ligeiramente opalescente e incolor a levemente amarelado. Não use se o produto estiver congelado, com coloração diferente da original, turvo ou se contiver partículas grandes.
+Preparação de materiais necessários para a aplicação. 
+Prepare o material que será necessário para a aplicação, incluindo compressa com álcool, bola de algodão ou gaze e recipiente para o descarte de seringas.
+Escolha e Preparação do Local de Aplicação
+Escolha do local de aplicação*. 
+Os locais recomendados para a aplicação da injeção são a parte superior da coxa e na barriga, mas cerca de 5 cm abaixo do umbigo. Se possível, evite as áreas envolvidas com psoríase. Se for aplicado por outra pessoa, a parte superior do braço também pode ser utilizada.
+Preparação do local de aplicação.
+Lave bem as mãos com sabão e água morna. Passe uma compressa com álcool no local da injeção. Não toque nesta área novamente antes de aplicar a injeção.
+Preparação da dose
+Remova a tampa da parte superior do frasco-ampola, mas não remova a tampa de borracha.
+Limpe a tampa de borracha com uma compressa com álcool.
+Remova a tampa da agulha da seringa. Não toque na agulha. Não deixe a agulha tocar em nada.
+Coloque o frasco-ampola sobre uma superfície plana e introduza a agulha da seringa na tampa de borracha.
+Vire o frasco-ampola e a seringa de cabeça para baixo.
+
+Para pacientes adultos e pediátricos (crianças e adolescentes) com 6 anos ou mais, que pesem 60 kg ou mais, puxe o êmbolo da seringa para enchê-la com a quantidade de líquido prescrita (0,5 mL ou 1,0 mL).
+Para crianças e adolescentes com 6 anos de idade ou mais que pesam menos de 60 kg, a quantidade de líquido prescrita pelo profissional da saúde pode ser inferior a 0,5 mL.
+É importante que a agulha esteja sempre dentro do líquido para evitar a formação de bolhas no interior da seringa.
+Remova a agulha do frasco-ampola.
+Mantenha a seringa e a agulha apontadas para cima para checar se há bolhas de ar no seu interior. Se houver bolhas de ar, bata gentilmente na lateral da seringa até que as bolhas de ar se desloquem para a parte superior da seringa e pressione o êmbolo até que todo o ar (mas não o líquido) seja removido. Não deite a seringa e não deixe a agulha tocar em nada.
+Aplicação do medicamento
+Gentilmente, segure uma prega de pele entre o polegar e o indicador. Não aperte.
+Introduza a agulha da seringa na prega de pele.
+Empurre o êmbolo com o polegar até o final para injetar todo o líquido. Empurre lentamente e de forma uniforme, mantendo a pele levemente beliscada.
+
+Após o êmbolo for empurrado até o final, retire a agulha e solte a pele.
+Descarte da seringa vazia e do frasco-ampola.
+Descarte qualquer porção não utilizada de Stelara®. Descarte imediatamente a seringa vazia em um recipiente apropriado. Os frascos-ampola podem ser descartados em lixeiras normais. Para a sua segurança e a de outras pessoas, frascos- ampola, agulhas e seringas nunca devem ser reutilizados.
+Descarte de recipiente de materiais cortantes de acordo com as regulações locais.
+Use uma bola de algodão ou gaze.
+Pode haver uma pequena quantidade de sangue ou líquido no local da injeção, o que é normal. Você pode pressionar uma bola de algodão ou gaze sobre o local da injeção e manter pressionado por 10 segundos. Não esfregue o local da injeção. Se necessário, pode-se colocar um curativo adesivo pequeno sobre o local da injeção.
+Para a dose de 90 mg utilizando dois frascos de 45 mg será necessário aplicar uma segunda injeção logo após a primeira injeção. Use uma nova agulha e seringa. Escolha um local diferente para a aplicação da segunda injeção.
+Incompatibilidades
+Como não há estudos de compatibilidade, este medicamento não deve ser misturado a outros medicamentos.
+Dosagem
+Psoríase em placa - Adultos
+Para o tratamento da psoríase em placa Stelara® é administrado por injeção subcutânea. A dose recomendada de Stelara® é 45 mg administrada nas Semanas 0 e 4 e, depois, a cada 12 semanas. A interrupção do tratamento deve ser considerada em pacientes que não apresentem qualquer resposta ao tratamento até as 28 semanas. Alternativamente, a dose de 90 mg pode ser usada em pacientes com peso corpóreo maior que 100 kg, nos mesmos intervalos de tempo.
+Ajuste de dose
+Para pacientes que respondem inadequadamente a 45 mg a cada 12 semanas, pode-se considerar a possibilidade de tratamento com 90 mg a cada 12 semanas. Para pacientes que responderam inadequadamente à posologia de 90 mg a cada 12 semanas, uma dose de 90 mg a cada 8 semanas pode ser considerada.
+Retratamento
+O retratamento com um esquema posológico nas Semanas 0 e 4 após interrupção da terapia mostrou ser seguro e eficaz.
+Artrite psoriásica - Adultos
+A dose recomendada de Stelara® é 45 mg, administrada nas Semanas 0 e 4 e, depois, a cada 12 semanas. Alternativamente, a dose de 90 mg pode ser usada em pacientes com peso corpóreo maior que 100 kg.
+Doença de Crohn e colite ulcerativa
+No regime de tratamento, a primeira dose de Stelara® é administrada por via intravenosa. Para a posologia do regime de dosagem intravenosa, vide bula de Stelara® 130 mg solução injetável.
+A primeira administração subcutânea de 90 mg de Stelara® deve ocorrer na Semana 8 após a dose intravenosa. Depois disso, recomenda-se a administração a cada 12 semanas.
+Os pacientes que não apresentarem resposta adequada nas 8 semanas após a primeira dose subcutânea, podem receber uma segunda dose subcutânea.
+Os pacientes que perderem a resposta na dosagem a cada 12 semanas podem se beneficiar de um aumento na frequência de dosagem a cada 8 semanas.
+Os pacientes podem ser administrados posteriormente a cada 8 semanas ou a cada 12 semanas de acordo com o julgamento clínico.
+Deve-se considerar a interrupção do tratamento em pacientes que não apresentarem evidência de benefício terapêutico 16 semanas após a dose de indução IV ou 16 semanas após a mudança para a dose de manutenção a cada 8 semanas.
+Imunomoduladores e/ou corticosteroides podem ser continuados durante o tratamento com Stelara®.
+Em pacientes que responderam ao tratamento com Stelara®, os corticosteroides podem ser reduzidos ou descontinuados de acordo com o padrão de tratamento.
+Para a doença de Crohn, se o tratamento for interrompido, a retomada do tratamento com a dose subcutânea a cada 8 semanas é segura e eficaz.
+Para a posologia e modo de usar por via intravenosa, vide bula de Stelara® 130 mg solução injetável.
+Psoríase em placa – População pediátrica, 6 anos ou mais
+Para o tratamento de psoríase em placa, Stelara® deve ser administrado por via subcutânea. A dose recomendada de Stelara® é baseada no peso corporal como demonstrado abaixo (Tabela 1). Stelara® deve ser administrado nas Semanas 0 e 4 e depois a cada 12 semanas.
+Tabela 1: Dose Recomendada de Stelara® para psoríase pediátrica
+Peso
+Dose Recomendada
+Forma Farmacêutica
+< 60 kg
+0,75 mg/kg*
+Frasco
+≥ 60 a ≤ 100 kg
+45 mg
+Seringa preenchida, frasco
+> 100 kg
+90 mg
+Seringa preenchida, frasco
+*Para calcular o volume de injeção (mL) para pacientes <60 kg, use a seguinte fórmula: peso corporal (kg) × 0,0083 (mL/kg). O volume calculado deve ser arredondado para o valor mais próximo de 0,01 mL e administrado com uma seringa graduada de 1 mL. Um frasco de 45 mg está disponível para pacientes pediátricos que precisam receber menos do que a dose total de 45 mg.
+Tabela 1b: Volume da injeção de Stelara® para pacientes com psoríase pediátrica que tenham < 60 kg
+Peso corporal no momento da administração (kg)
+Dose (mg)
+Volume da injeção (mL)
+15 11,3
+0,12
+16 12,0
+0,13
+17 12,8
+0,14
+18 13,5
+0,15
+19 14,3
+0,16
+20 15,0
+0,17
+21 15,8
+0,17
+22 16,5
+0,18
+23 17,3
+0,19
+24 18,0
+0,20
+25 18,8
+0,21
+26 19,5
+0,22
+27 20,3
+0,22
+28 21,0
+0,23
+29 21,8
+0,24
+30 22,5
+0,25
+31 23,3
+0,26
+32 24,0
+0,27
+33 24,8
+0,27
+34 25,5
+0,28
+35 26,3
+0,29
+36 27,0
+0,30
+37 27,8
+0,31
+38 28,5
+0,32
+39 29,3
+0,32
+40 30,0
+0,33
+41 30,8
+0,34
+42 31,5
+0,35
+43 32,3
+0,36
+44 33,0
+0,37
+45 33,8
+0,37
+46 34,5
+0,38
+47 35,3
+0,39
+48 36,0
+0,40
+49 36,8
+0,41
+50 37,5
+0,42
+51 38,3
+0,42
+52 39,0
+0,43
+53 39,8
+0,44
+54 40,5
+0,45
+55 41,3
+0,46
+56 42,0
+0,46
+57 42,8
+0,47
+58 43
+0,48
+59 44,3
+0,49
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento de seu médico.
+Stelara® 130 mg/26 mL
+Administração por infusão intravenosa
+Stelara® 130 mg frasco-ampola injetável deve ser utilizado apenas para infusão IV. A infusão intravenosa de Stelara® deve ser administrada por profissionais de saúde qualificados.
+Instruções para a diluição de Stelara® 130 mg para infusão IV (Doença de Crohn e colite ulcerativa)
+A solução de Stelara® 130 mg deve ser diluída e preparada para infusão intravenosa por um profissional de saúde, utilizando técnica asséptica.
+Calcular a dose e o número de frascos de Stelara® necessários com base no peso corpóreo do paciente. Cada 26 mL do frasco-ampola de Stelara® contém 130 mg de ustequinumabe.
+Retirar e em seguida descartar um volume da solução de 0,9% p/v de cloreto de sódio da bolsa de infusão de 250 mL, igual ao volume de Stelara® a ser adicionado (descartar 26 mL de cloreto de sódio para cada frasco-ampola de Stelara® necessário, para 2 frascos descartar 52 mL, para 3 frascos descartar 78 mL, para 4 frascos descartar 104 mL).
+Retirar 26 mL de Stelara® de cada frasco-ampola necessário e adicioná-lo à bolsa de infusão de 250 mL. O volume final na bolsa de infusão deve ser de 250 mL. Misture delicadamente.
+Inspecionar visualmente a solução diluída antes da administração. Não a utilize se observar partículas opacas, descoloração ou partículas estranhas.
+Administrar a solução diluída ao longo de um período de pelo menos uma hora. Uma vez diluída, a solução para infusão pode ser armazenada por até quatro horas antes da infusão.
+Utilizar apenas um equipo de infusão com um filtro em linha estéril, não pirogênico, de baixa ligação às proteínas (tamanho de poro de 0,2 micrômetros).
+Não infundir Stelara® concomitantemente a outros agentes pelo mesmo equipo de infusão intravenosa.
+Cada frasco-ampola é para uso único e qualquer medicamento não utilizado deve ser descartado de maneira adequada.
+Dosagem
+Doença de Crohn e Colite Ulcerativa
+A solução para infusão de Stelara® é destinada para o uso sob a orientação e supervisão de médicos com experiência no diagnóstico e tratamento da Doença de Crohn e colite ulcerativa. Este só deve ser utilizado para a dose de indução intravenosa.
+O tratamento com Stelara® deve ser iniciado com uma única dose intravenosa com base no peso corporal. A solução de infusão deve ser composta pelo número de frascos de Stelara® 130 mg como especificado na Tabela 1.
+Tabela 1: Dose inicial intravenosa de Stelara®:
+Peso corpóreo do paciente no momento da aplicação
+Dose Recomendada(a)
+Número de frasco-ampola de 130 mg de Stelara®
+≤ 55 kg
+260 mg 2
+> 55 kg a ≤ 85 kg
+390 mg 3
+> 85 kg
+520 mg 4
+(a)Aproximadamente 6 mg/kg.
+O tratamento de manutenção subcutânea, deve ser iniciado 8 semanas após a administração da dose de indução intravenosa. Para a posologia do regime subsequente de dosagem subcutânea, vide a bula de Stelara® solução injetável em seringa pré-preenchida (uso subcutâneo).
+Imunomoduladores e/ou corticosteroides podem ser continuados durante o tratamento com Stelara®. Em pacientes que responderam ao tratamento com Stelara®, os corticosteroides podem ser reduzidos ou descontinuados de acordo com o padrão de tratamento.
+Para a doença de Crohn, se o tratamento for interrompido, a retomada do tratamento com a dose subcutânea a cada 8 semanas é segura e eficaz.
+Para a posologia e modo de usar via subcutânea, verificar a bula do medicamento com as apresentações subcutâneas.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento de seu médico.

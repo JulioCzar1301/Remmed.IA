@@ -1,0 +1,42 @@
+Zaltrap, para o que é indicado e para o que serve?
+Zaltrap, em combinação com 5-fluoruracila, leucovorina, irinotecano (FOLFIRI), é indicado para pacientes com câncer colorretal (câncer do colo e do reto, que são partes do intestino) com metástase (CCRM), resistentes a ou que tenham progredido após um esquema contendo oxaliplatina.
+
+
+Como o Zaltrap funciona?
+Zaltrap através de seu princípio ativo, o aflibercepte, bloqueia a formação de novos vasos sanguíneos que suprem os tumores com oxigênio e nutrientes, inibindo, consequentemente o crescimento tumoral.
+
+
+Quais as contraindicações do Zaltrap?
+Zaltrap é contraindicado a pacientes com hipersensibilidade (alergia ou intolerância) severa conhecida ao aflibercepte ou a qualquer um dos excipientes.
+Para contraindicações relacionadas ao irinotecano, ao 5-FU e à leucovorina (ácido folínico), consulte as informações atualizadas dos produtos nas respectivas bulas.
+
+
+Como usar o Zaltrap?
+Por ser um medicamento que deverá ser manipulado e administrado exclusivamente por profissionais especializados, as orientações para manipulação, diluição, preparo da infusão intravenosa, administração e descarte do medicamento, bem como o detalhamento da posologia para os diferentes focos e períodos de tratamento estão contidos no texto de bula destinado aos profissionais de saúde. Em caso de dúvidas, consulte o seu médico.
+A dose recomendada de Zaltrap, administrada por infusão intravenosa durante 1 hora é de 4 mg/kg de peso corporal, seguido pelo regime Folfiri.
+O regime Folfiri usado no estudo foi infusão intravenosa de irinotecano 180 mg/m2 por 90 minutos e infusão IV de 400 mg/m2 de leucovorina (ácido folínico) (dl racêmico) por 2 horas ao mesmo tempo no dia 1 e usando linha Y, seguido por bolus de 400mg/m2 de 5-fluoruracila (5-FU), seguido por infusão IV contínua de 2.400 mg/m2 de 5-FU por 46 horas.
+Os ciclos de tratamento são repetidos a cada 2 semanas. O tratamento deve ser continuado até que ocorra progressão da doença ou toxicidade inaceitável.
+Não administrar a solução concentrada não diluída.
+A administração deve ser somente por infusão intravenosa. Não administrar como injeção intravenosa (IV) ou em bolus.
+Não se destina a injeção intravítrea.
+Compatibilidades e Incompatibilidades
+Aflibercepte é compatível com:
+Conjuntos para infusão constituídos de cloreto de polivinila (PVC) contendo bis(2-etil-hexil) ftalato (DEHP), PVC livre de DEHP contendo trioctil trimelitato (TOTM), PVC revestido com polietileno, poliuretano ou polipropileno.
+Bolsas para infusão constituídas de PVC contendo DEHP ou poliolefina.
+Filtros constituídos de polietersulfona.
+Os filtros à base de fluoreto de polivinilideno (PVDF) ou nylon não devem ser utilizados.
+Na ausência de estudos de compatibilidade, este produto não deve ser misturado a outros produtos ou diluentes exceto aqueles descritos no item “Preparação da solução para infusão”.
+Populações especiais
+Crianças
+A segurança e a eficácia em pacientes pediátricos não foram estabelecidas. Em um estudo de dose escalada, de segurança e tolerabilidade, 21 pacientes com idade entre 2 a 21 anos (idade média de 12,9) com tumores sólidos, receberam Zaltrap em doses que variaram de 2 a 3 mg/kg, IV, a cada duas semanas. A farmacocinética de aflibercepte livre foi avaliada em 8 destes pacientes (com idade entre 5 e 17 anos). A dose máxima tolerada no estudo foi de 2,5 mg/kg, inferior à dose conhecida ser segura e eficaz em adultos com CCRM.
+Idosos
+Não são necessários ajustes de dose de Zaltrap para pacientes idosos.
+Insuficiência hepática (redução da função do fígado)
+Não foram conduzidos estudos formais com Zaltrap em pacientes com insuficiência hepática.
+Baseado nos dados clínicos, a exposição de aflibercepte em pacientes com insuficiência do fígado leve e moderada foi semelhante àquela observada em pacientes com função normal do fígado. Os dados clínicos sugerem que nenhuma alteração na dose de aflibercepte é necessária em pacientes com insuficiência leve a moderada do fígado. Não há dados sobre a administração de aflibercepte em pacientes com insuficiência severa do fígado.
+Insuficiência renal (redução da função dos rins)
+Não foram conduzidos estudos formais com Zaltrap em pacientes com insuficiência renal.
+Baseado nos dados clínicos, a exposição de aflibercepte em pacientes com insuficiência dos rins leve, moderada e severa foi semelhante àquela observada em pacientes com função normal dos rins. Os dados clínicos sugerem que nenhuma alteração na dose inicial de aflibercepte é necessária em pacientes com insuficiência dos rinsleve a moderada. Há dados muito limitados do uso em pacientes com insuficiência severa dos rins; estes pacientes devem ser tratados com cautela.
+Não há estudos dos efeitos de Zaltrap administrado por vias não recomendadas. Portanto, por segurança e para garantir a eficácia deste medicamento, a administração deve ser somente por infusão intravenosa, conforme recomendado pelo médico.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento de seu médico.

@@ -1,0 +1,63 @@
+Maviret, para o que é indicado e para o que serve?
+Maviret® (glecaprevir/pibrentasvir) é destinado ao tratamento da infecção crônica (longo prazo) pelo vírus da hepatite C (HCV) genótipos 1, 2, 3, 4, 5 ou 6 em pacientes sem cirrose e com cirrose compensada.
+
+
+Como o Maviret funciona?
+Maviret® (glecaprevir/pibrentasvir) apresenta-se em comprimido único contendo as substâncias ativas glecaprevir e pibrentasvir, dois agentes antivirais de ação direta, inibidores de proteínas, que atuam em múltiplas etapas do ciclo de vida do vírus da hepatite C (HCV). Desta forma, Maviret® (glecaprevir/pibrentasvir) impede a multiplicação do vírus e infecção de novas células, permitindo que a infecção seja permanentemente eliminada do organismo.
+
+
+Quais as contraindicações do Maviret?
+Maviret® (glecaprevir/pibrentasvir) é contraindicado para pacientes:
+Com deficiência grave do funcionamento do fígado (insuficiência hepática grave também conhecida como Child-Pugh C);
+Que fazem uso dos medicamentos atazanavir (utilizado para o tratamento de infecção por HIV) e rifampicina (utilizado para o tratamento de infecções diversas).
+
+
+Como usar o Maviret?
+As tabelas abaixo (Tabelas 1 e 2) apresentam a duração de tratamento recomendada de Maviret® (glecaprevir/pibrentasvir) para pacientes adultos e pediátricos acima de 12 anos, infectados apenas com HCV e para aqueles que apresentam infecção por HIV-1/HCV GT 1 a 4, com comprometimento compensado do fígado (com ou sem cirrose), com ou sem doença dos rins (incluindo aqueles que estão em diálise).
+Tabela 1. Duração de tratamento recomendada para pacientes que nunca foram tratados anteriormente
+População de pacientes
+Duração de tratamento recomendada
+Sem cirrose
+Com cirrose (Child-Pugh A)
+Genótipos 1, 2, 3, 4, 5, 6
+8 semanas
+Incluindo pacientes coinfectados com HIV e HCV genótipos 1 a 4
+Tabela 2. Duração de tratamento recomendada para pacientes previamente tratados
+População de pacientes
+Duração de tratamento recomendada
+Sem cirrose
+Com cirrose (Child-Pugh A)
+Genótipos 1, 2, 4, 5 e 6
+Previamente tratados com PR e/ou R e/ou SOFa
+8 semanas 12 semanas
+Genótipo 1
+Previamente tratados com inibidores de NS3/4Ab
+12 semanas
+Genótipo 1
+Previamente tratados com inibidores de NS5Ac
+16 semanas
+Genótipo 3
+Previamente tratados com PR e/ou R e/ou SOFa
+Incluindo pacientes coinfectados com HIV e HCV genótipos 1, 2 e 4
+a. Pacientes previamente tratados com regimes contendo (peg)interferon, ribavirina e / ou sofosbuvir (PR, SOF + PR, SOF + R), mas sem experiência de tratamento prévio com um inibidor de protease NS3/4A de HCV ou inibidor de NS5A de HCV.
+b. Pacientes previamente tratados com regimes contendo SMV + SOF ou SMV + PR ou BOC + PR ou TPV + PR.
+c. Pacientes previamente tratados com regimes contendo DCV + SOF, DCV + PR ou LDV + SOF.
+PR = (peg)interferon + ribavirina; SOF = sofosbuvir; R = ribavirina; SMV = simeprevir; TPV = telaprevir; BOC = boceprevir; DCV = daclatasvir; LDV = ledipasvir.
+Dose de Maviret® (glecaprevir/pibrentasvir) recomendada para adultos e pacientes pediátricos acima de 12 anos
+Maviret® (glecaprevir/pibrentasvir) é um comprimido de dose fixa de glecaprevir e pibrentasvir.
+A dose oral recomendada de Maviret® (glecaprevir/pibrentasvir) é de 3 comprimidos (300 mg glecaprevir / 120 mg pibrentasvir) por dia, ao mesmo tempo, administrados com alimentação.
+A duração do tratamento para adultos e pacientes pediátricos acima de 12 anos está descrita nas tabelas 1 e 2 acima.
+Pacientes com insuficiência renal (deficiência no funcionamento dos rins)
+Nenhum ajuste de dose de Maviret® (glecaprevir/pibrentasvir) é necessário para pacientes com qualquer grau de insuficiência renal, incluindo pacientes em diálise.
+Pacientes com insuficiência hepática (deficiência no funcionamento do fígado)
+Nenhum ajuste de dose de Maviret® (glecaprevir/pibrentasvir) é necessário em pacientes com insuficiência hepática leve (Child-Pugh A). Maviret® (glecaprevir/pibrentasvir) não é recomendado para pacientes com insuficiência hepática moderada (Child-Pugh B) e é contraindicado para pacientes com insuficiência hepática severa (Child-Pugh C).
+Uso por idosos
+Nenhum ajuste de dose de Maviret® (glecaprevir/pibrentasvir) é necessário para pacientes idosos.
+População pediátrica
+Nenhum ajuste de dose de Maviret® (glecaprevir/pibrentasvir) é necessário em adolescentes a partir de 12 anos. A exposição de glecaprevir e pibrentasvir em adolescentes foi comparável àquela dos estudos de fase 2/3 em adultos. A farmacocinética de glecaprevir e pibrentasvir não foi estabelecida em crianças menores de 12 anos.
+Pacientes com transplante de fígado ou rim
+Maviret® (glecaprevir/pibrentasvir) pode ser utilizado por 12 semanas em pacientes com transplante de fígado ou rim. Um tratamento com duração de 16 semanas deve ser considerado para pacientes transplantados para os quais um tratamento por 16 semanas para pacientes não transplantados é atualmente indicado.
+Pacientes com coinfecção por HCV genótipos 1 a 4 e HIV-1
+A duração de tratamento deve seguir a recomendação das tabelas 1 e 2 acima. Consulte seu médico para recomendações adicionais sobre o uso e dose de agentes antirretrovirais para HIV.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.
+Este medicamento não deve ser partido, aberto ou mastigado.

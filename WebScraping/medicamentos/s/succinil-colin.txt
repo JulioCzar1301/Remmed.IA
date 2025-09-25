@@ -1,0 +1,35 @@
+Succinil Colin, para o que é indicado e para o que serve?
+Succinil Colin apresenta como componente ativo o cloreto de suxametônio, o qual atua como relaxante muscular de ação ultrarrápida para administração endovenosa. É indicado como adjuvante da anestesia geral, para facilitar a intubação traqueal e proporcionar relaxamento do músculo esquelético durante a cirurgia ou ventilação mecânica.
+
+
+Como o Succinil Colin funciona?
+Succinil Colin produz paralisia do músculo esquelético pelo bloqueio da transmissão em determinados neurônios (células que compõem o sistema nervoso).
+
+
+Quais as contraindicações do Succinil Colin?
+Este medicamento é contraindicado para pacientes com história pessoal ou familiar de hipertermia maligna (doença muscular hereditária latente, potencialmente grave, caracterizada por resposta hipermetabólica após exposição a este medicamento), miopatias (doenças musculares) da musculatura esquelética e conhecida hipersensibilidade aos componentes da fórmula. Também é contraindicado em casos de queimaduras graves, doença neuromuscular degenerativa ou distrófica (doença que altera a composição do tecido neuromuscular e resulta na perda de características originais), paraplegia (perda da capacidade de realizar movimentos devido à ausência de força muscular das pernas), doença na medula espinhal ou trauma múltiplo, uma vez que o suxametônio pode provocar uma hipercalemia (aumento na concentração de potássio no sangue) severa que pode resultar em parada cardíaca. O risco da hipercalemia nesses pacientes aumenta com o tempo e depende da extensão e localização da patologia e atinge seu pico em 7 a 10 dias após ocorrer a patologia. O tempo exato para início e a duração do período de risco não são conhecidos.
+
+
+Como usar o Succinil Colin?
+Preparar uma solução inicial, adicionando-se ao frasco ampola 2 mL a 10 mL de diluente, obtendo-se uma concentração de:
+Cloreto de suxametônio Concentração após reconstituição em 2 mL Concentração após reconstituição em 10 mL
+100 mg 50 mg/mL 10 mg/mL
+500 mg 250 mg/mL 50 mg/mL
+A seguir, as soluções diluídas podem ser preparadas de modo que a concentração final seja de 1 a 2 mg/mL.
+Compatibilidade e diluentes
+O suxametônio é ácido (pH 3,5) e não deve ser misturado com soluções alcalinas tenho um pH maior que 8,5 (por exemplo, soluções barbitúricas). Soluções diluídas contendo 1 a 2 mg/mL podem ser preparadas pela adição de 1 g de suxametônio em 500 mL ou 1.000 mL de solução estéril, por exemplo, dextrose 5% ou cloreto de sódio 0,9%. Soluções diluídas de suxametônio devem ser usadas dentro de 24 horas após a sua preparação. Técnicas assépticas devem ser usadas na preparação da diluição. As soluções de suxametônio devem ser preparadas para o uso de um único paciente. A porção não utilizada da solução diluída de suxametônio deve ser descartada.
+Posologia do Succinil Colin
+A posologia do suxametônio deve ser individualizada e determinada pelo médico, após cuidadosa avaliação do paciente.
+Adultos
+Procedimentos cirúrgicos curtos
+A dose média necessária para produzir o bloqueio neuromuscular e para facilitar a intubação traqueal é de 0,6 mg de suxametônio por kg de peso administrado por via endovenosa. A dose ótima varia de indivíduo para indivíduo, e pode ser de 0,3 a 1,1 mg/kg para adultos. Após administração de doses nesse intervalo, o bloqueio se desenvolve em cerca de 1 minuto; o bloqueio máximo persiste por 2 minutos e a recuperação ocorre dentro de 4 a 6 minutos. Doses muito maiores podem resultar em bloqueios mais prolongados. Uma dose teste de 5 ou 10 mg pode ser usada para determinar a sensibilidade do paciente e o tempo de recuperação individual. 
+Procedimentos cirúrgicos prolongados
+A dose de suxametônio administrada por infusão depende da duração do procedimento e do relaxamento muscular necessário. A dose média para um adulto varia entre 2,5 mg e 4,3 mg por minuto.
+As soluções contendo de 1 a 2 mg/mL de suxametônio têm sido usadas comumente para infusão contínua. A solução mais diluída (1 mg/mL) é, provavelmente, a preferida pela facilidade do controle da velocidade de administração e, por isso, do relaxamento. Esta solução i.v. contendo 1 mg/mL pode ser administrada a uma velocidade de 0,5 mg (0,5 mL) a 10 mg (10 mL) por minuto, para obter o grau de relaxamento necessário. A quantidade necessária por minuto irá depender da resposta individual e do grau de relaxamento necessário.
+Deve-se evitar a sobrecarga da circulação com o uso de grande volume de fluidos. É recomendado que a função neuromuscular seja cuidadosamente monitorada com um estimulante do nervo periférico durante o uso do suxametônio por infusão com o intuito de evitar a overdose, detectar o desenvolvimento de bloqueio de fase II, acompanhar o grau de recuperação e avaliar os efeitos dos agentes de reversão. Injeções i.v. intermitentes do suxametônio podem também ser usadas para produzir o relaxamento muscular em procedimentos prolongados.
+Uma injeção i.v. de 0,3 mg/kg a 1,1 mg/kg pode ser aplicada inicialmente, seguida, em intervalos apropriados, de outras injeções de 0,04 mg/kg a 0,07 mg/kg para manter o grau de relaxamento adequado.
+Crianças
+Para intubação traqueal de emergência ou em casos em que a imediata garantia das vias respiratórias for necessária, a dose i.v. do suxametônio é de 2 mg/kg para crianças pequenas; para crianças maiores e adolescentes a dose é de 1 mg/kg. Raramente a administração de bolus i.v. de suxametônio em crianças pode resultar em arritmia ventricular maligna e parada cardíaca por rabdomiólise com hipercalemia. Nesses casos, deve-se suspeitar de uma miopatia subjacente. A administração de bolus i.v. em crianças pode resultar em bradicardia profunda ou, raramente, assistolia. Administração de suxametônio por infusão intravenosa contínua não é considerado seguro em neonatos e crianças devido ao risco de hipertermia maligna.
+Uso intramuscular
+Se necessário, o suxametônio pode ser administrado por via intramuscular quando um vaso adequado estiver inacessível. Uma dose de até 3 a 4 mg/kg pode ser dada, mas não mais do que 150 mg da dose total deve ser administrada por essa via. O início da ação do suxametônio administrado por via intramuscular é normalmente observado em cerca de 2 a 3 minutos.
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

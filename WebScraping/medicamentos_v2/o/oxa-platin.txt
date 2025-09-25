@@ -1,0 +1,52 @@
+Oxa Platin, para o que é indicado e para o que serve?
+Tratamento do câncer colorretal metastático em associação às fluoropirimidinas. Oxaliplatina em combinação com 5- FU/FA e bevacizumabe é indicado para tratamento de primeira linha do câncer colorretal metastático. Oxaliplatina está indicado em combinação com fluorouracil e ácido folínico (leucovorin) (5-FU/FA) para o tratamento adjuvante de câncer colorretal em pacientes que sofreram ressecção completa do tumor primário, reduzindo o risco de recidiva tumoral.
+Não fica indicado para os pacientes em estágio II sem características de alto risco. Oxaliplatina em combinação com epirrubicina e 5-fluorouracil, ou em combinação com epirrubicina e capecitabina, é indicado para o tratamento de pacientes com câncer gástrico ou câncer da junção gastroesofágica, localmente avançado (inoperável) ou metastático, não tratado previamente.
+Oxaliplatina em combinação com leucovorin, irinotecano e 5-fluorouracil é indicado para tratamento de primeira linha de tratamento de pacientes com adenocarcinoma de pâncreas metastático.
+
+
+Quais as contraindicações do Oxa Platin?
+O uso de Oxaliplatina é contraindicado nos pacientes:
+Que estejam amamentando;
+Com histórico de hipersensibilidade à oxaliplatina e a outros derivados de platina;
+Com mielossupressão (neutrófilos < 2 x 109/L e/ou contagem de plaquetas < 100 x 109/L) antes do primeiro ciclo de tratamento;
+Neuropatia sensorial periférica com insuficiência funcional antes do primeiro ciclo de tratamento.
+Este medicamento é contraindicado para uso por pacientes pediátricos.
+
+
+Como usar o Oxa Platin?
+Somente deve ser administrado em adultos.
+A dose recomendada de Oxaliplatina para câncer de cólon no cenário adjuvante é de 85 mg/m2 intravenosamente repetido a cada 2 semanas em associação com fluoropirimidinas por 12 ciclos (6 meses).
+A dose recomendada de Oxaliplatina para o tratamento do câncer colorretal metastático/avançado é de 85 mg/m2 intravenosamente repetido a cada 2 semanas até progressão da doença ou toxicidade inaceitável.
+A dose recomendada de Oxaliplatina para o tratamento do câncer gástrico ou câncer gastroesofágico, localmente avançado ou metastático, não tratado previamente, é 130 mg/m2 intravenosamente, repetido a cada 3 semanas, em associação com epirrubicina e 5-fluorouracil, ou em associação com epirrubicina e capecitabina. O tratamento é administrado por um máximo de 8 ciclos, até progressão da doença ou toxicidade inaceitável.
+A dose recomendada de Oxaliplatina para o tratamento de adenocarcinoma de pâncreas metastático é de oxaliplatina 85 mg/m2 em infusão intravenosa por 2 horas, seguido imediatamente de leucovorin (400 mg/m2 em infusão intravenosa por 2 horas), com a adição após 30 minutos de irinotecano (180 mg/m2 em infusão intravenosa por 90 minutos através de um conector Y) e seguido imediatamente de 5-fluorouracil (400 mg/m2 em bolus seguido de 2.400 mg/m2 em infusão contínua por 46 horas) em ciclos de 2 semanas, por 6 meses.
+A dose administrada deve ser ajustada de acordo com a tolerabilidade de cada paciente.
+Oxaliplatina deve ser sempre administrado antes das fluoropirimidinas (5-FU).
+Oxaliplatina em combinação com leucovorin, irinotecano e 5-fluorouracil somente deve ser administrado para pacientes menores que 76 anos, com performance status ECOG (Eastern Cooperative Oncology Group) 0 ou 1, que não apresentam isquemia cardíaca e que possuem nível de bilirrubina normal ou quase normal.
+Oxaliplatina é administrado por infusão intravenosa (IV).
+Populações especiais
+Pacientes idosos
+Não foi observado aumento de toxicidade severa quando Oxaliplatina foi utilizado como agente único ou em associação com 5- fluorouracil (5-FU), em pacientes com idade superior a 65 anos. Consequentemente, não é necessário um ajuste na dose específico para pacientes idosos.
+Pacientes com insuficiência renal
+Em pacientes com câncer gastrointestinal com variados níveis de insuficiência renal, tratados com Oxaliplatina (infusão intravenosa de duas horas, a cada duas semanas, por um máximo de 12 ciclos) em associação com 5-FU/FA (FOLFOX4), Oxaliplatina demonstrou impacto clínico mínimo na função renal, conforme avaliado através do “clearance” médio de creatinina.
+Os resultados de segurança foram similares entre os grupos de pacientes. Entretanto, a duração da exposição foi mais curta para pacientes com insuficiência renal. A exposição mediana foi de 4, 6 e 3 ciclos para pacientes com insuficiência renal leve, moderada e severa, respectivamente. Em pacientes com função renal normal, a exposição mediana foi de 9 ciclos. Mais pacientes descontinuaram o tratamento devido a eventos adversos em grupos com insuficiência renal. A dose inicial de Oxaliplatina já foi reduzida para 65 mg/m2 para pacientes com insuficiência renal severa.
+Em pacientes com função renal normal ou insuficiência renal leve a moderada, a dose recomendada de Oxaliplatina é 85 mg/m2. Em pacientes com insuficiência renal severa, a dose inicial recomendada deve ser reduzida para 65 mg/m2.
+Pacientes com insuficiência hepática
+Um estudo de fase I com Oxaliplatina em monoterapia por infusão IV durante 2 horas a cada 3 semanas, incluiu pacientes adultos com câncer com diferentes graus de insuficiência hepática (nenhuma severa). A dose inicial de Oxaliplatina foi baseada no grau da disfunção hepática, e foi então aumentada até 130 mg/m2 para qualquer grau de insuficiência hepática (nenhuma severa). De maneira geral, a gravidade e os tipos de toxicidade observados foram toxicidades esperadas com o uso de Oxaliplatina. Não foi observada correlação entre o aumento da toxicidade total e a piora da função hepática. Não houve diferenças nas frequências dos eventos entre os diferentes grupos de tratamentos baseados no grau de insuficiência hepática.
+Durante o desenvolvimento clínico, não foram realizados ajustes de dose específicos para pacientes com testes da função hepática anormais.
+Instruções para administração
+Assim como com outros agentes citotóxicos, deve-se ter cautela ao manusear e preparar as soluções de oxaliplatina.
+O manuseio de agentes citotóxicos por profissionais de saúde capacitados requer todas as precauções para garantir a proteção do manipulador e das pessoas que o cercam.
+A preparação de soluções injetáveis de agentes citotóxicos deve ser realizada por pessoas especializadas e treinadas, com conhecimento do medicamento utilizado, em condições de garantir a proteção do ambiente e em particular a proteção do manipulador. É necessária uma área reservada para a preparação. É proibido fumar, comer ou beber nesta área. As pessoas devem estar com os equipamentos de segurança para manuseio apropriados, avental de manga longa, máscara de proteção, touca, óculos de proteção, luvas estéreis descartáveis, revestimento de proteção para a área de trabalho e sacos e contêineres para coleta dos resíduos.
+Os excrementos e vômitos devem ser manuseados com cuidado.
+Mulheres grávidas devem ser prevenidas a evitar o manuseio de agentes citotóxicos.
+Qualquer frasco quebrado deve ser tratado com as mesmas precauções e deve ser considerado como resíduo contaminado. O resíduo contaminado deve ser incinerado em contêineres rígidos adequadamente rotulados.
+Caso o concentrado de oxaliplatina, ou a solução para infusão entrar em contato com a pele ou membrana mucosas, lave imediatamente e cuidadosamente com água.
+Oxaliplatina deve ser sempre administrado antes das fluoropirimidinas (5-FU).
+Oxaliplatina deve ser utilizado por via intravenosa (IV).
+A administração de Oxaliplatina não requer hiper-hidratação.
+Oxaliplatina diluído em 250 a 500 mL de solução de glicose a 5% (para que a concentração não seja inferior a 0,2 mg/mL) deve ser infundido por veia periférica ou linha central venosa ao mesmo tempo que a infusão intravenosa de ácido folínico em solução de glicose 5%, durante 2 a 6 horas, utilizando uma linha em Y colocada imediatamente antes do local da infusão. Estes dois medicamentos não devem ser combinados na mesma bolsa de infusão. O ácido folínico (leucovorin) não deve conter trometamol como excipiente e deve apenas ser diluído utilizando solução isotônica de glicose 5%, nunca em soluções alcalinas ou soluções que contenham cloreto de sódio ou cloreto.
+Faça uma inspeção visual antes da infusão. Apenas soluções límpidas sem partículas devem ser utilizadas.
+A infusão de Oxaliplatina deve sempre preceder a de 5-FU.
+No caso de extravasamento, a administração deve ser interrompida imediatamente.
+Quando utilizado em combinação com 5-FU/FA e bevacizumabe, Oxaliplatina deve ser administrado após o bevacizumabe, mas antes da administração de 5-FU.
+Não há estudos dos efeitos de Oxaliplatina administrado por vias não recomendadas. Portanto, por segurança e para garantir a eficácia deste medicamento, a administração deve ser somente por via intravenosa.

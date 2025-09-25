@@ -1,0 +1,44 @@
+Coledue R, para o que é indicado e para o que serve?
+Coledue R é indicado como terapia adjuvante à dieta, em pacientes considerados como de alto ou muito alto risco cardiovascular quando a resposta à dieta e aos exercícios é inadequada em pacientes adultos com hipercolesterolemia primária (familiar heterozigótica ou não-familiar), isto é aumento do colesterol no sangue, ou com dislipidemia mista, isto é aumento do colesterol e triglicérides no sangue. Em pacientes adultos com hipercolesterolemia Coledue R é indicado para redução do LDL-colesterol, colesterol total e triglicérides elevados, diminuição de ApoB, não HDL-C, das razões LDL-C/HDL-C, não HDL-C/HDL-C, ApoB/Apo A-I, C-total/HDL-C e aumento de HDL-C.
+
+
+Como o Coledue R funciona?
+Coledue Rtem como princípios ativos rosuvastatina cálcica e ezetimiba.
+Rosuvastatina
+É um inibidor de HMG-CoA redutase. O principal local de ação da rosuvastatina é o fígado, o órgão alvo na redução do colesterol. A rosuvastatina aumenta a captação e a destruição do LDL e inibe a síntese de VLDL, reduzindo, desta forma, o número total de partículas de VLDL e LDL, que são as formas “ruins” de colesterol.
+Ezetimiba
+Inibe seletivamente a absorção intestinal do colesterol. A ezetimiba fixa-se na mucosa do intestino delgado e inibe a absorção de colesterol, diminuindo o aporte de colesterol intestinal para o fígado.
+
+
+Quais as contraindicações do Coledue R?
+Coledue R é contraindicado:
+Em pacientes com alergia a qualquer um dos componentes da fórmula do medicamento.
+Em pacientes com doença hepática (no fígado).
+Durante a gravidez e amamentação e em mulheres com potencial para engravidar que não usam medidas anticoncepcionais apropriadas.
+Em pacientes com doença renal grave (depuração da creatinina <30mL/min).
+Em pacientes com doença muscular (ex.: miopatia).
+Categoria de risco na gravidez X: Este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar grávidas durante o tratamento.
+
+
+Como usar o Coledue R?
+Você deverá manter a dieta pobre em gorduras durante o tratamento com Coledue R.
+A cápsula dura de Coledue R deve ser ingerida inteira, com um copo de água, por via oral. Devem ser tomados, com ou sem alimento, uma vez ao dia, a qualquer hora do dia, devendo, no entanto, tomar o medicamento no mesmo horário todos os dias.
+Posologia do Coledue R
+Seu médico deverá avaliar os critérios adequados para indicação e posologia do tratamento com Coledue R.
+Em geral, Coledue R deve ser iniciado utilizando-se a dose de 10mg/5mg ou de 10mg/10mg, uma vez por dia, com ou sem a ingestão de alimentos, e caso não ocorra a resposta adequada após 4 semanas, a dose poderá ser ajustada. A terapia deve ser individualizada, podendo ser aumentada até a dose máxima diária de 10mg/20mg, de acordo com os níveis lipídicos desejados, o objetivo recomendado da terapia e a resposta do paciente. A dose máxima diária de Coledue R não deve ser excedida.
+Para pacientes com hipercolesterolemia grave ou aqueles pacientes que necessitam atingir metas agressivas de redução de LDL-C, pode-se considerar uma dose inicial de 10mg/20mg por dia.
+Populações especiais
+Idosos
+Utiliza-se a faixa de dose habitual.
+Pacientes com insuficiência renal
+A faixa de dose habitual se aplica a pacientes com insuficiência renal de leve a moderada. Coledue R é contraindicado para pacientes com insuficiência renal grave (TFGe < 30 mL/min/1,73 m2).
+Pacientes com insuficiência hepática
+Não é necessário ajuste posológico para pacientes com insuficiência hepática leve. O tratamento com Coledue R não é recomendado para pacientes com insuficiência hepática moderada ou grave. Foi observado aumento da exposição sistêmica à rosuvastatina em pacientes com insuficiência hepática grave, portanto, o uso de doses superiores a 10mg/10mg em pacientes com doenças hepáticas deve ser cuidadosamente considerado.
+Raça
+Não há dados específicos relativos ao uso de Coledue R em população asiática. Com base nas orientações para uso de estatinas isoladas nessa população, recomenda-se o uso da terapia combinada sempre com a menor dose inicial (10mg/5mg) e aumentando-se progressivamente se necessário, de acordo com resposta e a tolerabilidade do paciente. Com base em estudos com a rosuvastatina isolada, tem sido observada uma concentração plasmática aumentada de rosuvastatina em descendentes asiáticos. O aumento da exposição sistêmica deve ser levado em consideração no tratamento de pacientes descendentes asiáticos cuja hipercolesterolemia não é adequadamente controlada com doses diárias de até 20mg.
+Terapia concomitante
+A rosuvastatina é um substrato de várias proteínas transportadoras (ex.: OATP1B1 e BCRP). O risco de miopatia (transtorno da função muscular), incluindo rabdomiólise (doença que afeta os músculos e acarreta perda de tecido muscular) é maior quando a rosuvastatina é administrado concomitantemente com certos medicamentos que podem aumentar a concentração plasmática da rosuvastatina devido às interações com essas proteínas transportadoras, por exemplo, ciclosporina e alguns inibidores de protease, incluindo combinações de ritonavir com atazanavir, lopinavir e/ou tipranavir. Sempre que possível, medicamentos alternativos devem ser considerados e, se necessário, considerar a interrupção temporária da terapia com Coledue R. Em situações em que a coadministração destes medicamentos com Coledue R é inevitável, o benefício e o risco do tratamento concomitante e ajustes da posologia de Coledue R devem ser cuidadosamente considerados.
+A coadministração de rosuvastatina com ciclosporina não resultou em alterações significativas na concentração plasmática da ciclosporina. O uso concomitante da ciclosporina pode aumentar o risco de miopatia/rabdomiólise. Se for necessária a coadministração com Coledue R, a dose de rosuvastatina deve ser limitada a 5 mg e de ezetimiba a 10 mg, uma vez ao dia.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.
+Este medicamento não deve ser partido, aberto ou mastigado.

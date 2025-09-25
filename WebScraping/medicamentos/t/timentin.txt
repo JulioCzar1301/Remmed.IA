@@ -1,0 +1,78 @@
+Timentin, para o que é indicado e para o que serve?
+Timentin é um antibiótico indicado para o tratamento de infecções graves.
+Timentin é indicado no tratamento de infecções causadas por cepas de microrganismos sensíveis, nas seguintes condições:
+Septicemia
+Incluindo bacteremia, causada por cepas de espécies de Klebsiella* produtoras de beta-lactamase, E. coli*, Staphylococcus aureus* e Pseudomonas aeruginosa* (e outras espécies de Pseudomonas*).
+Infecções das vias aéreas inferiores
+Causadas por cepas de Staphylococcus aureus, Hemophilus influenzae* e Klebsiella spp* produtoras de beta-lactamase.
+Infecções dos ossos e articulações
+Ccausadas por cepas de Staphylococcus aureus produtoras de beta-lactamase.
+Infecções de pele e tecidos moles
+Ccausadas por cepas de Staphylococcus aureus, Klebsiella spp* e Escherichia coli*, produtoras de beta-lactamases.
+Infecções do trato urinário (complicadas e não-complicadas)
+Causadas por cepas produtoras de beta-lactamase de Escherichia coli, Klebsiella spp, Pseudomonas aeruginosa* (e outras espécies de Pseudomonas*), Citrobacter spp*, Enterobacter cloacae*, Serratia marcescens* e Staphylococcus aureus*.
+Infecções ginecológicas
+Endometrite causada por cepas produtoras de beta-lactamase de B. melaninogenicus*, Enterobacter spp (incluindo E. cloacae*), Eschericha coli, Klebsiella pneumoniae*, Staphylococcus aureus e Staphylococcus epidermidis.
+*A eficácia para este microrganismo, neste sistema orgânico, foi estudada em menos de 10 infecções.
+Enquanto Timentin é indicado apenas para as condições listadas acima, as infecções causadas por microrganismos sensíveis à ticarcilina também são sensíveis ao tratamento com Timentin, devido à presença de ticarcilina em sua composição. Por esse motivo, infecções mistas causadas por microrganismos sensíveis à ticarcilina e microrganismos produtores de beta-lactamase sensíveis ao Timentin não requerem tratamento concomitante com outro antibiótico.
+Testes apropriados de cultura e sensibilidade devem ser realizados antes do tratamento, a fim de isolar e identificar os microrganismos que estão causando a infecção e para determinar sua sensibilidade ao Timentin. Devido ao seu amplo espectro de ação contra bactérias gram-positivas e gram-negativas, Timentin é particularmente útil no tratamento de infecções mistas e para a terapia preventiva anterior à identificação dos microrganismos causadores da infecção.
+Timentin demonstrou ser eficaz como terapia isolada no tratamento de algumas infecções graves, nas quais normalmente é utilizada uma combinação de antibióticos. A terapia com Timentin pode ser iniciada antes que os resultados de tais testes sejam conhecidos desde que existam razões para supor que a infecção pode envolver quaisquer dos microrganismos produtores de beta-lactamase listados acima; entretanto, uma vez que os resultados sejam conhecidos, a terapia adequada deve ser ajustada.
+In vitro, demonstrou-se o sinergismo entre Timentin e aminoglicosídeos contra certas cepas multirresistentes de Pseudomonas aeruginosa. A terapia combinada foi bem-sucedida, especialmente em pacientes com sistema imunológico deficiente. Ambas as drogas devem ser usadas em doses terapêuticas. Assim que os resultados dos testes de cultura e sensibilidade estiverem disponíveis, a terapia antimicrobiana deve ser ajustada.
+Como o Timentin funciona?
+A ticarcilina é um antibiótico semi-sintético com atividade bactericida de amplo espectro contra muitas bactérias gram-positivas e gram-negativas aeróbicas e anaeróbicas. A ticarcilina é derivada do núcleo básico da penicilina, o ácido 6-amino-penicilânico. No entanto, a ticarcilina é suscetível à degradação por beta-lactamases e, portanto, o espectro da atividade normalmente não inclui os organismos que produzem essas enzimas.
+O ácido clavulânico é produzido pela fermentação do Streptomyces clavuligerus. O ácido clavulânico é um beta-lactâmico estruturalmente relacionado às penicilinas, e possui a capacidade de desativar uma ampla variedade de enzimas beta-lactamases comumente produzidas por microorganismos resistentes às penicilinas e cefalosporinas. Em particular, ele apresenta uma ótima atividade contra beta-lactamases mediadas por plasmídeos clinicamente importantes e freqüentemente responsáveis pela resistência medicamentosa transferida às penicilinas e cefalosporinas.
+A formulação da ticarcilina com ácido clavulânico no Timentin protege a ticarcilina contra a degradação pelas enzimas beta-lactamases e amplia, efetivamente, o espectro antibiótico da ticarcilina para incluir diversas bactérias normalmente resistentes à ticarcilina e a outros antibióticos beta-lactâmicos. Portanto, Timentin possui as distintas propriedades de um antibiótico de amplo espectro e de um inibidor da beta-lactamases.
+
+
+Quais as contraindicações do Timentin?
+Timentin é contra-indicado para pacientes com história de reações de hipersensibilidade a antibióticos beta-lactâmicos (ex.: penicilinas e cefalosporinas).
+
+
+Como usar o Timentin?
+Timentin deve ser administrado por infusão intravenosa (30 min).
+Posologia do Timentin
+Adultos
+A dose usualmente recomendada para infecções sistêmicas e do trato urinário para adultos pesando em torno de 60 kg é de 3,1g de Timentin a cada 4-6 horas.
+Para infecções ginecológicas, Timentin deve ser administrado como se segue:
+Infecções moderadas:
+200mg/kg/dia em doses divididas a cada 6 horas.
+Infecções graves:
+300mg/kg/dia em doses divididas a cada 4 horas.
+Para pacientes pesando menos que 60 kg, a dose recomendada é de 200-300 mg/kg/dia, baseado no conteúdo de ticarcilina, administrado em doses divididas a cada 4 a 6 horas.
+Para pacientes com insuficiência renal, as doses devem ser baseadas no clearance de creatinina, conforme indicado a seguir:
+Clearance de creatinina (mL/min)
+Dose de Timentin
+> 60
+3,1g a cada 4 horas
+30-60
+2,0g a cada 4 horas
+10-30
+2,0g a cada 8 horas
+< 10
+2,0g a cada 12 horas
+< 10 e com disfunção hepática
+2,0g a cada 24 horas
+Pacientes em diálise peritoneal
+3,1g a cada 12 horas
+Pacientes em hemodiálise
+2,0g a cada 12 horas, com 3,1g a cada diálise, como complemento
+Para calcular o clearance de creatinina a partir do valor de creatinina sérica, utiliza-se a seguinte fórmula:
+Este cálculo é para adultos do sexo masculino. Para o sexo feminino, considera-se 15% a menos.
+A vida média da ticarcilina em pacientes com insuficiência renal é de aproximadamente de 13 (treze) horas.
+A dose para cada paciente deve sempre levar em consideração a gravidade e o local da infecção, a sensibilidade do microrganismo infectante, o estado geral do paciente e uma avaliação dos seus mecanismos de defesa.
+A duração do tratamento está na dependência da gravidade da infecção. Em geral, Timentin deve ser utilizado por, pelo menos, 2 dias após o desaparecimento dos sinais e sintomas de infecção. A duração usual tem sido de 10 a 14 dias, entretanto, em infecções graves ou de difícil controle, pode ser necessário um tratamento mais prolongado.
+Nos casos de infecção crônica do trato urinário, é necessária freqüente análise bacteriológica e avaliação clínica, devendo estas avaliações serem mantidas por alguns meses após o término do tratamento; infecções persistentes podem necessitar tratamento por algumas semanas e doses menores que as indicadas não devem ser usadas.
+Em certas infecções envolvendo formação de abscessos, a drenagem cirúrgica adequada deve ser recomendada, concomitante com a terapia antimicrobiana.
+Crianças (acima de 12 anos)
+A dose usual de Timentin recomendada para crianças é de 80 mg/kg de peso corporal, administrado a cada 6-8 horas.
+Para crianças com insuficiência renal, a dose deve ser reduzida da mesma forma que para os adultos.
+Administração intravenosa
+O frasco de 3,1g deve ser reconstituído acrescentando-se aproximadamente 13 mL de água estéril para injeção USP. Agitar bem. Quando dissolvida, a concentração de ticarcilina será de aproximadamente 200 mg/mL e a do ácido clavulânico de 6,7mg/mL. Proporcionalmente, cada 5,0 mL da dose de 3,1g, reconstituída em 13 mL de diluente, conterá 1g de ticarcilina e 33,5 mg de ácido clavulânico.
+Infusão intravenosa
+A droga dissolvida deve ser diluída até o volume desejado usando-se solução de glicose 5% USP, solução de cloreto de sódio USP ou solução de Ringer lactato USP, para uma concentração entre 10 mg/mL a 100 mg/mL. A solução reconstituída pode então ser administrada dentro de um período de 30 minutos, por infusão direta ou através de um equipo para infusão. Se este método for usado, é aconselhável descontinuar temporariamente a administração de quaisquer outras soluções durante a infusão de Timentin.
+Quando Timentin é administrado em combinação com outro antimicrobiano, tal como um aminoglicosídeo, cada droga deve ser administrada separadamente, de acordo com a dose recomendada e com as vias de administração para cada droga.
+Após a reconstituição e antes da administração, Timentin, tal como outras drogas parenterais, deve ser inspecionado visualmente no que se refere a presença de partículas. Caso isto ocorra, a solução deve ser descartada.
+Nota: Timentin não é compatível com bicarbonato de sódio.
+As soluções não utilizadas devem ser descartadas após os períodos de tempo listados acima.
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interromper o tratamento sem o conhecimento do seu médico.

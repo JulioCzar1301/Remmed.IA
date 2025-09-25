@@ -1,0 +1,55 @@
+Hemofol, para o que é indicado e para o que serve?
+A heparina é um anticoagulante utilizado para prevenir a formação de coágulos de sangue (trombos) que podem se formar no circuito do aparelho de hemodiálise.
+Os trombos, quando são formados, podem se desprender do local e serem levados através da circulação sanguínea e causar o que chamamos de embolia, ou seja, uma obstrução do fluxo de sangue no local onde o coágulo foi levado. A embolia pode ocorrer em pacientes com insuficiência renal e que estão em programa de hemodiálise, e é por isso que é indicado o uso de heparina.
+
+
+Como o Hemofol funciona?
+A heparina é um agente natural, encontrado em tecido animal, com ação anticoagulante, uma vez que age inibindo a formação do coágulo a partir da inativação dos fatores de coagulação presentes no sangue.
+A administração intravenosa apresenta efeito imediato enquanto a administração subcutânea produz efeito mais prolongado, com inicio de ação entre 20-30 minutos e concentração sanguínea máxima após 2-4 horas.
+
+
+Quais as contraindicações do Hemofol?
+A heparina não deve ser utilizada em pacientes que apresentam hipersensibilidade à heparina, trombocitopenia (redução do número de plaquetas no sangue) severa, endocardite bacteriana subaguda (infecção que ocorre na válvula cardíaca ou no tecido do coração), suspeita de hemorragia intracraniana, hemorragia ativa incontrolável (exceto quando associada à coagulação intravascular disseminada), hemofilia, retinopatia (doenças degenerativas não inflamatórias da retina do olho), quando não houver condições para realização de teste de coagulação (avalia o tempo que o sangue demora a coagular. Esse exame permitirá ajustar a dose e monitorar os efeitos da heparina) em intervalos adequados (esta contraindicação refere-se a dose total de heparina, geralmente não há necessidade de monitorar parâmetros de coagulação em pacientes que recebem baixa dose de heparina) e nas desordens que implicam em danos ao sistema vascular (ex. úlcera gastrintestinal, hipertensão diastólica maior que 105 mm Hg).
+Também é contraindicado nas diáteses hemorrágicas (sangramento espontâneo sem causa aparente ou sangramento mais intenso devido a um traumatismo local), cirurgias de medula espinhal (aumento do risco de hemorragias secundárias), aborto iminente, coagulopatias graves (doenças de coagulação), na insuficiência hepática (insuficiência do fígado) e renal (rim) grave, em presença de tumores malignos com permeabilidade capilar elevada do aparelho digestivo e, algumas púrpuras vasculares. Pacientes com histórico de trombocitopenia induzida por heparina e trombose.
+Gestantes, lactantes ou neonatos não devem utilizar a apresentação de heparina contendo álcool benzílico. É recomendável o uso de heparina isenta de conservantes.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica.
+
+
+Como usar o Hemofol?
+Hemofol® (heparina sódica) - SC
+O Hemofol® 5.000 UI/0,25 mL solução injetável para administração subcutânea profunda deve ser injetado no tecido subcutâneo (abaixo da pele) da região abdominal por meio de agulha fina. Para prevenir o desenvolvimento de hematoma, cada injeção deve ser administrada em um local diferente.
+Hemofol® (heparina sódica) - IV
+Quando a heparina for adicionada a uma solução de infusão, a bolsa ou frasco contendo a solução deve ser vertido por pelo menos seis vezes. Este procedimento assegura a homogeneização adequada da heparina na solução.
+As soluções mais adequadas para preparar uma solução de infusão são:
+Glicose a 5% e a 10%, e a solução de Ringer. Se possível, não misturar Hemofol® (heparina sódica) com outros medicamentos.
+Vias de administração
+Hemofol® IV e Hemofol® SC devem ser administrados por via intravenosa em injeções diretas ou em infusão por via subcutânea, respectivamente. Durante procedimentos dialíticos, a medicação deve ser administrada na linha arterial do circuito de diálise.
+Posologia do Hemofol
+A posologia do produto deve ser individualizada e sempre ajustada às circunstâncias especiais de cada caso (tipo de evolução da patologia, peso corpóreo e idade do paciente, efeitos secundários, etc.). Especial atenção deve ser dada à dose pois, com uma posologia muito baixa, o processo trombótico pode continuar a progredir com o risco de uma embolia mortal. A posologia deve ser estabelecida baseando-se nos resultados das provas de coagulação (tempo de trombina, tempo parcial de tromboplastina, tempo parcial de tromboplastina ativada) que permitem também determinar a hora da próxima dose de heparina, quando esta for administrada por via intravenosa e de forma repetida, ou segundo um esquema posológico. A experiência clínica demonstrou que a posologia de heparina pode variar, segundo as indicações. Em pacientes com insuficiência renal, hepática ou da coagulação, o tratamento com a heparina deve ser instituído levando-se em consideração as provas de coagulação.
+A heparina é administrada por vias parenterais em dois níveis de dose. O primeiro - esquema de doses plenas - utiliza de 24000 a 32000 UI em 24 horas, administradas preferencialmente por infusão intravenosa contínua, mas podendo ser utilizada injeção intravenosa intermitente. O segundo - esquema de minidoses - utiliza de 10.000 a 15.000 UI, por dia, por via subcutânea profunda. Usam-se doses plenas em tratamento de doenças tromboembólicas instaladas (como embolia pulmonar, oclusão arterial periférica aguda) e em profilaxia de sua recorrência. Minidoses servem para prevenção primária de trombose venosa.
+Para a prevenção de trombos nos circuitos dialíticos, a dose recomendada é de 150 UI/kg, administradas na linha arterial do circuito dialítico.
+Via Intravenosa
+Tratamento da trombose e embolia
+Na trombose venosa, na embolia pulmonar e no infarto do miocárdio as doses usuais variam de acordo com o tipo de administração:
+Infusão (método de eleição)
+Injeção de uma dose inicial de 5.000 - 10.000 UI e, em seguida, infusão de 20.000 a 30.000 UI/dia.
+Injeções intravenosas repetidas
+A dose diária habitual é de 40.000 - 50.000 UI, divididas em quatro a seis injeções. Estas diretrizes posológicas têm somente caráter de orientação. Na embolia pulmonar, com choque simultâneo, deve-se aumentar a dose diária do primeiro dia de tratamento (por exemplo, infusão de 40.000 a 50.000 UI) em função dos resultados das provas laboratoriais.
+Controlando o tratamento (de quatro a seis horas após a injeção IV) mediante exames laboratoriais (tempo de trombina, tempo parcial de tromboplastina, tempo parcial de tromboplastina ativada) a posologia pode ser ajustada segundo as necessidades individuais. A duração do tratamento depende da resposta do paciente à medicação. Geralmente, o tratamento com heparina é continuado até a estabilização ou a regressão do processo tromboembólico. A inibição posterior da coagulação com anticoagulantes orais (p. ex. femprocumona) pode ser continuada (os primeiros dias com heparina) durante várias semanas ou meses.
+Após uma trombólise, por exemplo, produzida pela estreptoquinase, a heparina sódica deve ser administrada sob forma de infusão de 20.000 UI/dia. É indispensável que o tratamento deva ser acompanhado através da realização de exames laboratoriais.
+Hemofol®, quando usado para prevenção de trombos no circuito de diálise, deve ser administrado na dose de 150 UI/kg, na linha arterial do circuito, no início da sessão. O objetivo é manter níveis de TTPa entre 1,5 e 2 vezes o valor normal. Habitualmente, a dose recomendada é suficiente para a anticoagulação eficaz durante o tempo da sessão de hemodiálise (4 horas). Incrementos nesta dose devem ser realizados para que os níveis de TTPa se situem dentro da faixa ideal.
+Profilaxia das enfermidades tromboembólicas
+Este procedimento está indicado em casos em que se suspeite ou haja um risco elevado de trombose ou embolia pulmonar. Devem ser empregadas as mesmas doses que as indicadas para o tratamento. Devido ao risco de hemorragias pós-operatórias, a heparina sódica somente deve ser administrada após dois ou quatro dias de uma intervenção cirúrgica.
+Via Subcutânea
+A profilaxia pela heparina em doses baixas
+Deve ser instituída antes da cirurgia, o que não vem a elevar sensivelmente o risco de hemorragia, durante ou após o ato cirúrgico. Duas horas antes da intervenção cirúrgica, administrar por via subcutânea uma ampola de Hemofol® 5.000 UI/0,25 mL. Em seguida, repetir a administração desta dose a intervalos de 8 a 12 horas durante 7 a 10 dias. Não são necessários controles de laboratório durante o tratamento profilático.
+Ajuste de dose
+Não é necessário reajuste de dosagem na insuficiência renal, entretanto, em pacientes com insuficiência renal, hepática ou da coagulação, o tratamento com a heparina deve ser instituído levando-se em consideração as provas de coagulação. Não requer reajustes durante a hemodiálise ou diálise peritoneal.
+Uso pediátrico
+A dose de heparina em crianças pode diferir dos adultos devido a diferenças fisiológicas e patológicas dependentes da idade na hemostasia que influenciam a atividade da heparina. Dessa forma, é recomendado que a dose seja individualizada e ajustada às condições específicas de cada paciente (tipo de evolução da patologia, peso corpóreo e idade do paciente, efeitos secundários, etc.).
+Muitos pacientes pediátricos que necessitam de terapia com heparina apresentam concentrações plasmáticas significativamente diminuídas de antitrombina que refletem fatores fisiológicos, congênitos e / ou etiologias adquiridas. A posologia deve ser estabelecida baseando-se nos resultados das provas de coagulação (tempo de trombina, tempo parcial de tromboplastina, tempo parcial de tromboplastina ativada) que permitem também determinar a hora da próxima dose de heparina, quando esta for administrada por via intravenosa e de forma repetida, ou segundo um esquema posológico.
+Ressalta-se que uma das apresentações do produto contém álcool benzílico como conservante, podendo causar toxicidade fatal a recém-nascidos, em concentrações maiores de 100 mg/kg/dia (síndrome de gasping), sendo recomendável o uso de heparina isenta de conservantes nestes pacientes.
+Uso em Idosos
+É recomendável que a dose de heparina seja reduzida e monitorada em idosos.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

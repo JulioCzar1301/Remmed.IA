@@ -1,0 +1,52 @@
+Arifenicol, para o que é indicado e para o que serve?
+Infecções por Haemophilus influenzae, principalmente tipo B: meningites, septicemia, otites, pneumonias, epiglotites, artrites, osteomielites, etc.
+Febre tifóide e salmoneloses invasivas (inclusive osteomielite e sepsis).
+Abscessos cerebrais por Bacteroides fragilis e outros microrganismos sensíveis.
+Meningites bacterianas causadas por Streptococcus ou Meningococcus, em pacientes alérgicos à penicilina.
+Ricketsioses.
+Infecções por Pseudomonas pseudomallei.
+Infecções intra-abdominais (principalmente por microrganismos anaeróbicos).
+Outras indicações: actinomicose, antrax, brucelose, granuloma inguinal, treponematoses, peste, sinusites, otite crônica supurativa.
+Entretanto, o cloranfenicol deve ser reservado para infecções graves, nas quais outros antibióticos menos tóxicos são ineficazes ou contraindicados. O cloranfenicol não é indicado para uso profilático de infecções.
+
+
+Como o Arifenicol funciona?
+O cloranfenicol foi isolado de culturas de Streptomyces venezuelae em 1947, o cloranfenicol atualmente é produzido sinteticamente. Age, principalmente, como bacteriostático, interferindo na síntese proteica bacteriana. Seu espectro de ação é bastante próximo ao das tetraciclinas e inclui bactérias gram-positivas e gram-negativas, ricketsias e clamídias. As principais indicações de uso são em infecções causadas por Haemophilus influenzae, Salmonella typhi e Bacteroides fragilis.
+O cloranfenicol inibe a síntese proteica nas bactérias e, em menor grau, nas células eucarióticas. O fármaco penetra rápido nas células bacterianas, provavelmente por difusão facilitada. O cloranfenicol atua primariamente através de sua ligação reversível com a subunidade ribossômica 50S (próximo ao local de ação dos antibióticos macrolídeos e da clindamicina, que ele inibe competitivamente). Embora a ligação do tRNA ao local de reconhecimento do códon na subunidade 30S do ribossoma não seja atingida, o fármaco parece impedir a ligação da extremidade contendo aminoácido do aminoacil tRNA ao local aceptor na subunidade ribossômica 50S. A interação entre a peptidiltransferase e seu substrato aminoácido não pode ocorrer, havendo inibição da formação de ligação peptídica.
+O cloranfenicol também pode inibir a síntese de proteína mitocondrial nas células de mamíferos, talvez pelo fato de os ribossomas mitocondriais assemelharem-se mais aos ribossomas bacterianos (ambos são 70S) do que aos ribossomas citoplasmáticos de 80S das células de mamíferos. A peptidiltransferase dos ribossomas mitocondriais, mas não dos ribossomas citoplasmáticos, é sensível à ação inibitória do cloranfenicol. As células eritropoiéticas dos mamíferos parecem ser particularmente sensíveis ao fármaco.
+
+
+Quais as contraindicações do Arifenicol?
+Arifenicol® é contraindicado em pacientes alérgicos ao cloranfenicol ou derivados, portadores de depressão medular, discrasias sanguíneas, ou insuficiência hepática.
+Em recém-nascidos e prematuros, a concentração sérica deve ser monitorizada. Não deve ser usado em grávidas próximo ao término do trabalho de parto, pelo risco de síndrome cinzenta no recém-nascido. Pacientes utilizando medicamentos antineoplásicos ou radioterapia devem evitar o uso de cloranfenicol, sob risco de depressão medular.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Arifenicol?
+Arifenicol® deve ser administrado por via intravenosa.
+A injeção intravenosa deve ser lenta, nunca em menos de 1 minuto.
+Conservação depois de aberto
+O frasco-ampola de Arifenicol® não deve ser aberto.
+Arifenicol®, após a reconstituição, deve ser utilizado imediatamente.
+Posologia do Arifenicol
+A administração deve ser feita por via intravenosa, dividida em 4 doses diárias a intervalos de 6 horas.
+Adultos
+50 mg de cloranfenicol base por quilo de peso por dia. A dose máxima para adultos é de 4 g/dia.
+Em infecções graves, assim como em meningites, a dose pode chegar a 100 mg/kg/dia.
+Crianças
+50 mg (base) por quilo de peso por dia; em prematuros e recém-nascidos com menos de 2 semanas de vida a dose é de 25 mg (base) por quilo de peso por dia.
+A concentração sérica deve ser mantida entre 10 a 25 microgramas por mL.
+Reconstituição
+O profissional da saúde, antes da reconstituição do medicamento, deve verificar a aparência do pó no interior do frasco-ampola, buscando identificar alguma partícula que possa interferir na integridade e na qualidade do medicamento.
+Para a reconstituição da solução do frasco-ampola de Arifenicol®, são necessários 5 mL de água para injetáveis. Para a completa homogeneização da solução, recomenda-se agitar o frasco-ampola vigorosamente antes de retirar a dose a ser injetada.
+Com a finalidade de evitar o aparecimento de partículas de borracha após a inserção de agulha no frasco-ampola, proceder da seguinte forma:
+Encaixar uma agulha de injeção de no máximo 0,8 mm de calibre;
+Encher a seringa com o diluente apropriado;
+Segurar a seringa verticalmente à borracha;
+Perfurar a tampa dentro da área marcada, deixando o frasco-ampola firmemente na posição vertical;
+É recomendado não perfurar mais de 4 vezes a área demarcada (ISO 7864).
+Veja abaixo o procedimento:
+Após a reconstituição, o profissional da saúde deverá inspecionar cuidadosamente, antes de sua utilização, se a solução no interior do frasco-ampola está fluida, livre de fragmentos ou de alguma substância que possa comprometer a eficácia e a segurança do medicamento. O profissional não deverá utilizar o produto ao verificar qualquer alteração que possa prejudicar a saúde do paciente.
+Para evitar problemas de contaminação, deve-se tomar cuidado durante a reconstituição para assegurar assepsia.
+Arifenicol® é um pó liófilo produzido na planta farmoquímica e envasado diretamente.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

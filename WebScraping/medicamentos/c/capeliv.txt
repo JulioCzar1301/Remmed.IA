@@ -1,0 +1,171 @@
+Capeliv, para o que é indicado e para o que serve?
+Capecitabina é indicado para:
+Câncer de mama
+Capecitabina em combinação com docetaxel é indicado para o tratamento de pacientes com câncer de mama metastático, após falha da quimioterapia citotóxica com antraciclina.
+Capecitabina em monoterapia é indicado para o tratamento de pacientes com câncer de mama metastático resistente a regimes de quimioterapia com paclitaxel e antraciclina ou resistente a paclitaxel para pacientes em que a terapia adicional com antraciclina não seria indicada, como pacientes que receberam doses cumulativas de 400 mg/m2 de doxorrubicina ou equivalente. Definese resistência como progressão da doença na vigência do tratamento, com ou sem resposta inicial, ou recorrência em até 6 meses do término do tratamento adjuvante com antraciclina ou regimes que contenham antraciclina.
+Câncer colorretal
+Capecitabina é indicado para o tratamento adjuvante de pacientes com câncer colorretal Dukes C (estágio III), submetidos à ressecção completa do tumor primário, nos casos em que haja preferência para terapia com fluoropirimidinas. Capecitabina demonstrou não inferioridade ao 5-FU/LV [5- fluoruracila mais Leucovorin® (ácido folínico)] no que se refere à sobrevida livre de doença. Embora nem Capecitabina nem a quimioterapia combinada prolonguem a sobrevida global, a quimioterapia combinada tem demonstrado uma melhor sobrevida livre de doença, se comparada ao 2 5-FU/LV. O médico deve considerar esses resultados ao prescrever Capecitabina em monoterapia no tratamento adjuvante do câncer colorretal Dukes C.
+Capecitabina é indicado como tratamento de primeira linha de pacientes com câncer colorretal metastático, nos casos em que haja preferência para terapia com fluoropirimidinas. A quimioterapia combinada tem demonstrado benefício na sobrevida se comparado à monoterapia com 5-FU/LV. A comparação entre Capecitabina em combinação com oxaliplatina e 5-FU/LV em combinação com oxaliplatina para assegurar segurança ou a manutenção da vantagem de sobrevida não foi adequadamente estudada.
+Capecitabina combinado com oxaliplatina ou combinado com oxilaplatina e bevacizumabe é indicado para tratamento de primeira linha de câncer colorretal metastático. Capecitabina também pode ser combinado com oxaliplatina para o tratamento de segunda linha do câncer colorretal metastático em pacientes previamente tratados com irinotecano em combinação com um regime de fluoropirimidina como terapia de primeira linha.
+Câncer gástrico
+Capecitabina é indicado como tratamento de primeira linha para pacientes com câncer gástrico em estágio avançado, desde que associado com compostos de platina, como a cisplatina ou oxaliplatina.
+
+
+Quais as contraindicações do Capeliv?
+Capecitabina está contraindicado a pacientes com hipersensibilidade conhecida à Capecitabina ou a quaisquer excipientes da fórmula do produto.
+Capecitabina está contraindicado a pacientes que apresentam história de reações graves e inesperadas à terapia com fluoropirimidinas ou com hipersensibilidade conhecida à fluorouracila.
+Capecitabina é contraindicado em pacientes com conhecida ausência completa de atividade enzimática da DPD (diidropirimidina desidrogenase).
+Capecitabina não deve ser administrado concomitantemente com sorivudina ou com seus análogos quimicamente relacionados, como a brivudina.
+Este medicamento é contraindicado para uso por pacientes com insuficiência renal grave (depuração de creatinina inferior a 30 mL/min).
+Se existirem contraindicações para qualquer um dos agentes em combinação, o agente não deve ser utilizado.
+
+
+Como usar o Capeliv?
+Os comprimidos devem ser ingeridos, por via oral, pela manhã e à noite, até 30 minutos após as refeições. Ingerir os comprimidos com água.
+Este medicamento não deve ser partido, aberto ou mastigado.
+Doses recomendadas
+Monoterapia
+Câncer de mama e colorretal
+A dose recomendada para monoterapia de Capecitabina é 1.250 mg/m2, duas vezes ao dia (pela manhã e à noite; equivalente a dose diária total de 2.500 mg/m2) durante 14 dias, seguidos por sete dias de descanso.
+Terapia combinada
+Câncer de mama
+Em combinação com docetaxel, a dose recomendada de Capecitabina é de 1.250 mg/m2, duas vezes ao dia (pela manhã e à noite; equivalente a dose total diária de 2.500 mg/m2) durante 14 dias, seguidos de sete dias de descanso, associado ao docetaxel, 75 mg/m2, por infusão intravenosa durante uma hora, a cada três semanas. A pré-medicação, de acordo com a bula de docetaxel, deve ser iniciada antes da administração de docetaxel para os pacientes que o estiverem recebendo em combinação com Capecitabina.
+Câncer colorretal e gástrico
+No tratamento combinado, a dose inicial recomendada de Capecitabina é de 800 a 1.000 mg/m2 administrada duas vezes ao dia durante duas semanas, seguida de um período de sete dias de descanso, ou 625 mg/m2 duas vezes ao dia quando administrada continuamente. A inclusão de agentes biológicos em um esquema de combinação não tem efeito sobre a dose inicial de Capecitabina. O tratamento adjuvante em pacientes com câncer colorretal estágio III é recomendado por um período total de 6 meses.
+Pré-medicação para manter controlada a hidratação e antiemese, como descrito na bula da cisplatina e oxaliplatina, deve ser iniciada antes da administração de cisplatina para os pacientes que forem submetidos ao tratamento de Capecitabina em combinação com cisplatina ou oxaliplatina.
+Cálculo de dose
+Capecitabina é administrado de acordo com a superfície corpórea. As tabelas a seguir mostram exemplos de cálculos da dose recomendada e da dose reduzida, para uma dose inicial de 1.250 mg/m2 ou 1.000 mg/m2 .
+Tabela 5. Cálculo da dose de Capecitabina, de acordo com a superfície corpórea, para uma dose inicial de 1.250 mg/m2 de Capecitabina
+-
+  Dose de 1.250 mg/m2 (duas vezes ao dia)
+Dose completa 1.250 mg/m2 Número de comprimidos de 150 mg e/ ou 500 mg por administração (cada administração pela manhã ou à noite) Dose reduzida (75%)
+950 mg/m2
+Dose reduzida (50%)
+625 mg/m2
+Superfície corpórea (m2)
+Dose por administração (mg) 150 mg 500 mg Dose por administração (mg)
+Dose por administração (mg)
+≤ 1,26
+1.500 - 3 1.150
+800
+1,27 – 1,38
+1.650 1 3 1.300
+800
+1,39 – 1,52
+1.800 2 3 1.450
+950
+1,53 – 1,66
+2.000 - 4 1.500
+1.000
+1,67 – 1,78
+2.150 1 4 1.650
+1.000
+1,79 – 1,92
+2.300 2 4 1.800
+1.150
+1,93 – 2,06
+2.500 - 5 1.950
+1.300
+2,07 – 2,18
+2.650 1 5 2.000
+1.300
+≥ 2,19
+2.800 2 5 2.150
+1.450
+Tabela 6. Cálculo da dose padrão e dose reduzida de Capecitabina, de acordo com a superfície corpórea, para uma dose inicial de 1.000 mg/m2 de Capecitabina
+-
+Nível de dosagem 1.000 mg/m2 (duas vezes ao dia)
+Dose completa 1.000 mg/m2
+Número de comprimidos de 150 mg e/ou 500 mg por administração (cada administração pela manhã ou à noite) Dose reduzida (75%)
+750 mg/m
+Dose reduzida (50%)
+500 mg/m2
+Superfície corpórea (m2 )
+Dose por administração (mg) 150 mg 500 mg Dose por administração (mg)
+Dose por administração (mg)
+≤1,26
+1.150 1 2 800
+600
+1,27 – 1,38
+1.300 2 2 1.000
+600
+1,39 – 1,52
+1.450 3 2 1.000
+750
+1,53 – 1,66
+1.600 4 2 1.200
+800
+1,67 – 1,78
+1.750 5 2 1.300
+800
+1,79 – 1,92
+1.800 2 3 1.400
+900
+1,93 – 2,06
+2.000 - 4 1.500
+1.000
+2,07 – 2,18
+2.150 - 4 1.600
+1.050
+≥ 2,19
+2.300 2 4 1.750
+1.100
+Ajustes na dose durante o tratamento
+Geral
+A toxicidade causada pela administração de Capecitabina pode ser controlada por tratamento sintomático e/ou modificação da dose de Capecitabina (interrupção do tratamento ou redução da dose). Depois de reduzida, a dose não deve ser aumentada posteriormente.
+No caso de toxicidades em que o médico considere que é improvável um agravamento ou risco de vida, o tratamento pode ser mantido com a mesma dose, sem redução ou interrupção.
+Não são recomendadas modificações de dose para eventos adversos grau 1. A terapia com Capecitabina deve ser interrompida se ocorrer reação adversa ao medicamento (RAM) grau 2 ou 3. Depois de solucionada a RAM ou que a sua intensidade for reduzida para grau 1, a terapia com Capecitabina pode ser reiniciada com dose total ou conforme ajuste de dose descrito na Tabela 7. Em caso de RAM grau 4, a terapia deve ser descontinuada ou interrompida até que a RAM tenha sido solucionada ou diminuída para grau 1, quando a terapia deve ser reiniciada com 50% da dose original. Os pacientes tratados com Capecitabina devem ser informados sobre a necessidade de interromper o tratamento imediatamente se ocorrer toxicidade grave ou moderada. As doses de Capecitabina não recebidas devido à toxicidade não são substituídas.
+Hematologia
+Os pacientes com contagem basal de neutrófilos < 1,5 x 109 /L e/ou com contagem de plaquetas < 100 x 109 /L não devem ser tratados com Capecitabina. Caso avaliações laboratoriais não programadas durante um ciclo de tratamento mostrem toxicidade hematológica de grau 3 ou 4, o tratamento com Capecitabina deve ser interrompido.
+A tabela a seguir mostra as modificações de doses recomendadas após toxicidade relacionada a Capecitabina.
+Tabela 7. Recomendação de redução de dose para Capecitabina
+Toxicidade graus conforme o NCIC*
+Alteração de dose durante um ciclo de tratamento
+Ajuste de dose para o ciclo seguinte (% da dose inicial)
+Grau 1
+Manter a dose
+Manter a dose
+Grau 2
+1ª ocorrência
+Interrompa até resolução para grau 0 – 1
+100%
+2ª ocorrência
+75%
+3ª ocorrência
+50%
+4ª ocorrência
+Interrompa o tratamento definitivamente
+Não se aplica
+Grau 3
+1ª ocorrência
+Interrompa até resolução para grau 0 – 1
+75%
+2ª ocorrência
+50%
+3ª ocorrência
+Interrompa o tratamento definitivamente
+Não se aplica
+Grau 4
+1ª ocorrência
+Interrompa o tratamento definitivamente Ou Se o médico julgar ser do melhor interesse do paciente continuar, interrompa até a resolução para grau 0-1
+50%
+2ª ocorrência
+Interrompa o tratamento definitivamente
+Não se aplica
+* De acordo com “National Cancer Institute of Canada Clinical Trial Group (NCIC CTG) Common Toxicity Criteria” (versão 1) ou “Common Terminology Criteria for Adverse Events” (CTCAE) do Cancer Therapy Evaluation Program, US National Cancer Institute versão 3.0. 
+Terapia combinada
+Ao usar Capecitabina em combinação com outros medicamentos, as modificações de dose de Capecitabina devido à toxicidade devem ser efetuadas de acordo com a Tabela 7 e de acordo com a respectiva bula dos outros agentes.
+No início do ciclo de tratamento, caso seja indicado o adiamento do tratamento tanto para Capecitabina como para outras medicações, a administração de todos os agentes deve ser postergada até que os requisitos para o reinício da administração de todos os fármacos sejam atendidos.
+Durante um ciclo de tratamento em que as toxicidades não sejam consideradas pelo médico como relacionadas ao Capecitabina, deve-se continuar o tratamento com Capecitabina e a dose do outro agente deve ser ajustada de acordo com a bula do produto.
+Caso haja necessidade da descontinuação permanente do outro agente, o tratamento com Capecitabina pode ser recomeçado quando os requisitos para o reinício forem atendidos.
+Esta recomendação aplica-se a todas as indicações e todas as populações especiais.
+Instruções especiais de doses
+Uso pediátrico
+A segurança e a eficácia de Capecitabina em crianças e adolescentes (<18 anos) não foram estabelecidas.
+Uso geriátrico
+Para a monoterapia de Capecitabina não são necessários ajustes da dose inicial. Entre os pacientes com câncer colorretal, com idades entre 60 e 79 anos que recebiam Capecitabina em monoterapia no âmbito da doença metastática, a incidência de toxicidade gastrintestinal foi semelhante à da população geral. Em pacientes geriátricos, com 80 anos ou mais, uma porcentagem maior apresentou reações adversas gastrintestinais reversíveis, grau 3 ou 4, como diarreia, náuseas e vômitos. Quando Capecitabina foi usado em combinação com outros agentes antineoplásicos, pacientes geriátricos (≥ 65 anos), comparados com pacientes mais jovens, tiveram mais reações adversas de grau 3 ou 4 e reações adversas que levaram à descontinuação do tratamento. Recomenda-se o monitoramento cuidadoso dos pacientes geriátricos.
+Em combinação com docetaxel, foi observada incidência aumentada de reações adversas grau 3 ou 4 relacionados ao tratamento e de reações adversas graves também relacionados ao tratamento que levaram à descontinuação em pacientes com 60 anos de idade ou mais, comparada com os pacientes com menos de 60 anos de idade. Para pacientes com 60 anos de idade ou mais, tratados com a combinação Capecitabina mais docetaxel, recomenda-se a redução da dose inicial de Capecitabina para 75% (950 mg/m2 duas vezes ao dia).
+Insuficiência renal
+Em pacientes com insuficiência renal moderada [depuração de creatinina 30 – 50 mL/min (Cockroft e Gault)], na avaliação basal, recomenda-se reduzir a dose para 75% para uma dose inicial de 1.250 mg/m2. Em pacientes com insuficiência renal leve (depuração de creatinina 51 – 80 mL/min), não se recomendam ajustes da dose inicial. Recomenda-se monitoramento cuidadoso e interrupção rápida do tratamento caso o paciente desenvolva uma reação adversa de grau 2, 3 ou 4, com subsequente ajuste de dose, como definido na Tabela 7. Caso a depuração de creatinina calculada diminua durante o tratamento para um valor abaixo de 30 mL/min, Capecitabina deve ser descontinuado. A recomendação de ajuste de dose para pacientes com insuficiência renal moderada se aplica tanto à monoterapia quanto ao uso em combinação. 
+Insuficiência hepática
+Em pacientes com disfunção hepática leve a moderada devida a metástases hepáticas, nenhum ajuste da dose inicial é necessário. Porém, esses pacientes devem ser cuidadosamente monitorados. Não foram estudados pacientes com insuficiência hepática grave.

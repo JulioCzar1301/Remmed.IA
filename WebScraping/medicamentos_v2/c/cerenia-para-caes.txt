@@ -1,0 +1,86 @@
+Cerenia para Cães, para o que é indicado e para o que serve?
+Cerenia® (citrato de maropitant) Comprimidos é indicado para prevenção do vômito agudo e do vômito induzido pelo enjôo de movimento em cães.
+
+
+Como o Cerenia para Cães funciona?
+O maropitant é um antagonista dos receptores da neurocinina 1 (NK1 ) que bloqueia a ação farmacológica da substância P no SNC. Maropitant é a denominação comum para uma quinuclidina substituída. Sua fórmula empírica é C32H40N2 O C6 H8 O7 H2 O e seu peso molecular é 678,81. Seu nome químico é citrato monoidratado (2S,3S)-2-benzidril-N-(5-tertbutil-2-metoxibenzil) amina-3 quinuclidina. Cada comprimido oval cor de pêssego é ranhurado e contém 16, 24, 60 ou 160 mg de maropitant, na forma de citrato de maropitant por comprimido.
+A estrutura química do citrato de maropitant é:
+Farmacologia clínica
+Farmacocinética
+A caracterização farmacocinética associada com o maropitant após administração oral (VO) ou subcutânea (SC) em cães adultos da raça beagle é apresentada na tabela abaixo.
+Parâmetros farmacocinéticos em cães beagle (média ±DP ou variação)
+--- SC a 1 mg/kg (n=6) VO a 2 mg/kg (n=8) VO a 8 mg/kg (n=8)
+AUC0-inf (hr*ng/mL) 860±137 561±322 7840±5600
+Cmáx (ng/mL) 92±34 81±32 776±604
+T1/2 (h) 8,84 (6,07-17,7) 4,03 (2,48-7,09) 5,46 (3,39-7,65)
+Tmáx (hr) 0,75±1,11 1,9±0,5 1,7±0,7
+A biodisponibilidade absoluta do maropitant foi muito mais alta após a injeção SC (91% a 1 mg/kg) do que após a administração VO (24% a 2 mg/kg). A biodisponibilidade oral pode estar subestimada devido à presença de cinética não-linear e à T1/2 mais longa resultante observada após administração intravenosa (IV). Embora o metabolismo hepático de primeira passagem tenha contribuído para a biodisponibilidade relativamente baixa após a dose oral, o estado prandial não afeta de modo significativo a extensão da biodisponibilidade oral. Pode-se esperar uma exposição à droga maior do que proporcional à dose com um aumento na dose.
+O clearance sistêmico do maropitant após administração IV foi de 970, 995 e 533 mL/h/kg em doses de 1, 2 e 8 mg/kg, respectivamente. Uma relação de acúmulo de 1,5 foi observada após administração única diária de maropitant por cinco dias consecutivos a 1 (SC) ou 2 mg/kg (VO). A recuperação urinária do maropitant e seu principal metabólito foi mínima (<1% cada um). O metabolismo hepático do maropitant envolve duas isoenzimas do citocromo P-450: CYP2D15 e CYP3A12. Com base em dados cinéticos in vitro das enzimas, acredita-se que a cinética não linear esteja parcialmente associada com a saturação da enzima de baixa capacidade (CYP2D15). No entanto, à medida que as doses aumentam (20-50 mg/kg VO), a proporcionalidade da dose é restabelecida. Com base na cinética enzimática in vitro, o envolvimento de uma enzima de alta capacidade (CYP3A12) pode contribuir com este retorno à linearidade da dose. A ligação às proteínas plasmáticas do maropitant foi alta (99,5%).
+Farmacodinâmica
+O vômito é um processo complexo, coordenado centralmente pelo centro do vômito, constituído de diversos núcleos do tronco cerebral (área postrema, núcleo do trato solitário e núcleo motor dorsal do vago) que recebem e integram estímulos sensoriais de fontes centrais e periféricas, bem como estímulos químicos da circulação e do líquido cefalorraquidiano. O maropitant é um antagonista dos receptores da neurocinina 1 (NK1 ), que atua inibindo a ligação da substância P, neuropeptídeo da família das taquicininas.
+A substância P é encontrada em concentrações significativas nos núcleos que constituem o centro do vômito, sendo considerada o neurotransmissor-chave envolvido no vômito.1 Ao inibir a ligação da substância P no centro do vômito, o maropitant proporciona uma eficácia de amplo espectro contra causas neurológicas (centrais) e humorais (periféricas) do vômito. Estudos em modelo in vivo em cães demonstraram que o maropitant tem eficácia antiemética contra emetizantes de ação central e periférica, incluindo a apomorfina e o xarope de ipecacuanha.
+1 Diemunsch P, Grelot L. Potential of substance P antagonists as antiemetics. [Review] [60 refs]. Drugs. 2000;60:533-46.
+Eficácia
+Prevenção do vômito agudo
+Em estudos de laboratório, Cerenia® Comprimidos, administrado na dose mínima de 2 mg/kg PC, reduziu significativamente o número de eventos eméticos associados com estímulos neurológicos (centrais) e humorais (periféricos) estabelecidos. Após administração de xarope de ipecacuanha (estímulos eméticos periféricos), o vômito foi observado em 33% (4 de 12) dos cães beagle tratados com Cerenia® Comprimidos e em 83% (10 de 12) dos cães tratados com placebo. Após administração de apomorfina (estímulos eméticos centrais), o vômito foi observado em 33% (4 de 12) dos cães beagle tratados com Cerenia® Comprimidos e em 100% (12 de 12) dos cães tratados com placebo.
+Em um estudo com 275 pacientes caninos apresentados a hospitais veterinários com histórico de vômito agudo, os cães receberam inicialmente uma injeção de Cerenia® ou placebo no Dia 0. Após a dose inicial, os cães foram tratados com Cerenia® Comprimidos na dose mínima de 2 mg/kg por via oral ou Solução Injetável a 1 mg/kg por via subcutânea ou placebo, uma vez diariamente a critério do veterinário. Dos 199 cães incluídos na análise de eficácia, 27 de 54 cães (50%) no grupo de placebo apresentaram vômito em algum momento durante o estudo, e 31 de 145 cães (21,4%) no grupo tratado apresentaram vômito durante o período de estudo.
+Porcentagem de vômito para cada dia de estudo, com base em tratamento e via de administração:
+Dia Tratamento Via N° de pacientes N° que vomitaram % que vomitaram
+Dia 0 Placebo (54) SC 54 15 28%
+Cerenia® (145) SC 145 (143*) 14 10%
+Dia 1 Placebo (45) VO 22 3 14%
+SC 23 16 70%
+Cerenia® (108) VO 67 2 3%
+SC 41 16 39%
+Dia 2 Placebo (16) VO 7 2 29%
+SC 9 6 67%
+Cerenia® (37) VO 24 0 0%
+SC 13 8 62%
+Dia 3 Placebo (6) VO 2 0 0%
+SC 4 1 25%
+Cerenia® (21) VO 14 0 0%
+SC 7 5 71%
+Dia 4 Placebo (2) VO 1 0 0%
+SC 1 1 100%
+Cerenia® (7) SC 5 0 0%
+VO 2 1 50%
+Dia 5 Cerenia® (1) SC 1 0 0%
+*Dois cães que receberam Cerenia® não foram observados no Dia 0. Seu status de vômito é desconhecido. Foi usado 143 no denominador para % de vômito.
+Prevenção do vômito induzido por enjôo de movimento
+Em um estudo com pacientes caninos levados numa viagem de carro de uma hora e tratados com Cerenia® Comprimidos na dose mínima de 8 mg/kg PC ou comprimidos de placebo duas horas antes da viagem, 67 de 122 (55%) dos cães vomitaram durante a viagem quando tratados com placebo, enquanto 8 de 122 (7%) vomitaram durante a viagem após tratamento com Cerenia®. A probabilidade de um cão, neste estudo, inclinado a sofrer de enjôo de movimento, Não vomitar durante uma viagem foi de 93% se tratado com Cerenia® e de 48% se tratado com placebo.
+
+
+Quais as contraindicações do Cerenia para Cães?
+Hipersensibilidade aos componentes da fórmula.
+
+
+Como usar o Cerenia para Cães?
+Para prevenção do vômito agudo
+Cerenia® Comprimidos deve ser administrado oralmente na dose mínima de 2 mg/kg (0,9 mg/lb) de peso corporal, uma vez ao dia, por até 5 dias.
+Prevenção do vômito agudo Dose mínima de 2 mg/kg PC:
+Peso Corporal do cão N° de comprimidos
+Quilos 16 mg 24 mg 60 mg
+1,0 – 4,0 1/2 --- ---
+4,1 – 8,0 1 --- ---
+8,1 – 12,0 --- 1 ---
+12,1 – 24,0 --- 2 ---
+24,1– 30,0 --- --- 1
+30,1 – 60,0 --- --- 2
+Para prevenção do vômito induzido por enjôo de movimento
+Cerenia® Comprimidos deve ser administrado oralmente, na dose mínima de 8 mg/kg (3,6 mg/lb) de peso corporal, duas horas antes da viagem, por até dois dias consecutivos. Os cães devem fazer jejum de uma hora antes da administração de Cerenia®.
+Prevenção do vômito induzido por enjôo de movimento Dose mínima de 8 mg/kg PC
+Peso Corporal do cão N° de comprimidos
+Quilos 16 mg 24 mg 60 mg 160 mg
+1 1/2 --- --- ---
+1,1 – 1,5 --- 1/2 --- ---
+1,6 – 2,0 1 --- --- ---
+2,1 – 3,0 --- 1 --- ---
+3,1 – 4,0 2 --- --- ---
+4,1 – 6,0 --- 2 --- ---
+6,1 – 7,5 --- --- 1 ---
+7,6 – 10,0 --- --- --- 1/2
+10,1 – 15,0 --- --- 2 ---
+15,1 – 20,0 --- --- --- 1
+20,1 – 30,0 --- --- --- 1 1/2
+30,1 – 40,0 --- --- --- 2
+40,1 – 60,0 --- --- --- 3

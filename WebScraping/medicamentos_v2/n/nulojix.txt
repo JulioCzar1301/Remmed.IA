@@ -1,0 +1,38 @@
+Nulojix, para o que é indicado e para o que serve?
+Nulojix contém a substância ativa belatacepte que pertence a um grupo de medicamentos chamados imunossupressores, os quais são medicamentos que reduzem a atividade do sistema imune, a defesa natural do organismo. Ele é usado em adultos para evitar que o sistema imune ataque seu rim transplantado e cause rejeição do transplante. É usado em combinação com outros medicamentos imunossupressores, incluindo um antagonista do receptor da interleucina-2 (IL-2), ácido micofenólico e corticosteróides.
+
+
+Como o Nulojix funciona?
+No seu organismo, o belatacepte se liga aos receptores CD80 e CD86 das células apresentadoras de antígenos. Estas células são importantes para o seu sistema imunológico. Como resultado, belatacepte bloqueia a co-estimulação das células T mediadas pela ligação com CD28, inibindo a ativação destas células.
+As células T ativadas são as mediadoras predominantes da resposta imunológica “contra” o rim transplantado. Belatacepte, uma forma modificada de CTLA4-Ig, liga-se ao CD80 e CD86 com mais força do que a molécula precursora CTLA4-Ig da qual ele é derivado. Esta força intensificada fornece um nível de imunossupressão que é necessário para evitar a falência e a perda de função do aloenxerto, quando desencadeadas pelo sistema imunológico.
+Em modelos primatas de transplante renal e de ilhotas pancreáticas, belatacepte como droga única ou em combinação com outras terapias-padrão anti-rejeição prolongou significativamente a sobrevida do enxerto em comparação com placebo e inibiu a produção de anticorpos anti-doador. 
+In vitro, belatacepte bloqueia a proliferação de células T e a produção de vários mediadores de inflamação, como as citocinas interleucina-2, interferon-γ, interleucina-4 e TNFα. A inibição das respostas das células T ao antígeno alogênico (que vêm do rim transplantado) é fundamental para a prevenção da rejeição do enxerto após o transplante de um órgão sólido.
+
+
+Quais as contraindicações do Nulojix?
+Não use Nulojix: 
+Se você não foi, ou não sabe se foi, exposto ao vírus Epstein-Barr (EBV).
+Se você é alérgico (hipersensível) ao belatacepte ou a qualquer dos outros ingredientes de Nulojix.
+
+
+Como usar o Nulojix?
+Nulojix será administrado a você por um profissional de saúde.
+Ele será administrado por infusão (como um "gotejamento") em uma de suas veias ao longo de um período de aproximadamente 30 minutos.
+A dose recomendada é baseada no seu peso corporal (em kg) e será calculada por um profissional de saúde. A dose e a freqüência de tratamento estão especificadas na Tabela 1.
+Tabela 1: Dosagem de Nulojix para Receptores de Transplante Renal:
+Dose na Fase Inicial
+Dose
+Dia do transplante, antes da implantação (Dia 1)
+10 mg/kg
+Dia 5, Dia 14 e Dia 28 (4 semanas após o transplante)
+10 mg/kg
+Fim da Semana 8 e Semana 12 após o transplante
+10 mg/kg
+Dose na Fase de Manutenção
+Dose
+A cada 4 semanas (± 3 dias), começando no fim da Semana 16 após o transplante
+5 mg/kg
+Risco de uso por via de administração não recomendada
+Não há estudos dos efeitos de Nulojix pó liofilizado para infusão IV administrado por vias não recomendadas. Portanto, por segurança e para eficácia desta apresentação, a administração deve ser somente pela via intravenosa.
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

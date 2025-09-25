@@ -1,0 +1,37 @@
+Celsentri, para o que é indicado e para o que serve?
+Celsentri® (maraviroque), em combinação com outros medicamentos antirretrovirais (medicamentos utilizados para o tratamento da AIDS), é indicado para pacientes adultos vivendo somente com o HIV-1 CCR5-trópico (tipo de HIV que usa o CCR5 como porta para entrar nas células) previamente tratados
+
+
+Como o Celsentri funciona?
+Celsentri® impede a entrada do HIV-1 nas células do sangue (células T CD4 – tipo de células de defesa) que são atacadas pelo HIV. Celsentri® age bloqueando o correceptor CCR5 (uma das portas de entrada do HIV nas células sadias), presente nas células do sangue. O HIV utiliza este receptor para entrar nas células. Celsentri® reduz a quantidade do HIV no organismo e melhora o sistema imunológico (sistema de defesa do organismo). É necessário testar amostras de sangue, antes do uso, para verificar se Celsentri® está indicado para seu tratamento.
+
+
+Quais as contraindicações do Celsentri?
+Celsentri® é contraindicado a pacientes com hipersensibilidade (reação alérgica) ao maraviroque ou a qualquer componente da fórmula.
+
+
+Como usar o Celsentri?
+Celsentri® deve ser utilizado por via oral, com ou sem alimentos.
+O tratamento com Celsentri® deve ser iniciado por um médico com experiência na condução do tratamento da infecção por HIV.
+Os seguintes pontos devem ser considerados ao iniciar o tratamento com Celsentri®:
+O teste de tropismo (usando um teste com validação e sensibilidade apropriadas), o teste de resistência (mede a resistência do vírus aos antirretrovirais) e o histórico do paciente devem direcionar o uso de Celsentri®;
+O uso de Celsentri® não é recomendado a pacientes com HIV-1 CXCR4-trópico (tipo de HIV que usa o CXCR4 como porta para entrar nas células) ou com tropismo duplo/misto (tipo de HIV que usa tanto o CCR5 quanto o CXCR4 como portas para entrar nas células), uma vez que sua eficácia neste grupo de pacientes não foi demonstrada nos estudos clínicos;
+Mudanças no tropismo podem ocorrer ao longo da infecção pelo HIV, portanto recomenda-se que a terapia com Celsentri® seja iniciada em curto espaço de tempo após a determinação do tropismo;
+Não há estudos demonstrando o efeito de Celsentri® na progressão clínica da infecção por HIV-1.
+Adultos
+Como Celsentri® é substrato do citocromo P 3A4 (CYP3A4) e da Glicoproteína P (Gp-P), espera-se que seja afetado por medicamentos que inibam ou induzam estas vias. A dose padrão recomendada de Celsentri® é de 150mg, 300mg ou 600mg a cada 12 horas, dependendo das interações com a terapia antirretroviral e outros medicamentos administrados concomitantemente.
+Crianças
+A segurança e a eficácia de Celsentri® em pacientes pediátricos não foram estabelecidas, portanto, o uso em crianças não é recomendado.
+Idosos
+Existe experiência limitada em pacientes acima de 65 anos de idade, portanto, deve-se ter cautela quando administrar Celsentri® em pacientes idosos.
+Insuficiência Renal
+O intervalo de dose de Celsentri® deve ser modificado em pacientes com insuficiência renal – diminuição da função dos rins. Celsentri® deve ser usado com precaução em pacientes com insuficiência renal grave, que estão recebendo inibidores potentes da CYP3A4. 
+Insuficiência Hepática
+Celsentri® deve ser utilizado com cautela em pacientes com insuficiência hepática.
+Raça
+Não é necessário ajuste de dose relacionado à raça.
+Sexo
+Não é necessário ajuste da dose relacionado ao sexo.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.
+Este medicamento não deve ser partido ou mastigado.

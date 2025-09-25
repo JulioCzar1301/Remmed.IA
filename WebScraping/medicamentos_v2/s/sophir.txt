@@ -1,0 +1,80 @@
+Sophir, para o que é indicado e para o que serve?
+Sophir (sofosbuvir) é um medicamento de prescrição utilizado com outros medicamentos antivirais para tratar a infecção por Hepatite C crônica (que dura um longo tempo) em adultos.
+Sophir (sofosbuvir) não deve ser utilizado sozinho. Deve ser utilizado com ribavirina ou em combinação com alfapeguinterferona para o tratamento da infecção pela Hepatite C crônica.
+A eficácia de sofosbuvir foi estudada em pacientes com infecção pelo vírus da Hepatite C (HCV) genótipos 1, 2 ou 3, incluindo aqueles infectados concomitantemente com HIV-1 e HCV. O tipo e a duração do tratamento dependem do genótipo do vírus e também da população de pacientes. As respostas de tratamento variam com base no hospedeiro e fatores do vírus.
+
+
+Como o Sophir funciona?
+O Sophir (sofosbuvir) é um agente antiviral de ação direta contra o vírus da Hepatite C. O Sophir (sofosbuvir) é um inibidor da polimerase NS5B do vírus da hepatite C, uma enzima essencial para a replicação do vírus. O Sophir (sofosbuvir) pode ser incorporado ao RNA do vírus da Hepatite C e agir inibindo a replicação do vírus.
+
+
+Quais as contraindicações do Sophir?
+Quando Sophir (sofosbuvir) é utilizado em combinação com a ribavirina ou a alfapeguinterferona/ribavirina, as contraindicações que são aplicáveis a estes medicamentos são também aplicáveis ao tratamento combinado.
+Veja a bula dos medicamentos ribavirina e alfapeguinterferona para verificar as contraindicações destes medicamentos.
+O tratamento com Sophir (sofosbuvir) em combinação com ribavirina ou alfapeguinterferona/ribavirina é contraindicado em mulheres grávidas ou que podem ficar grávidas e para homens que pretendem engravidar suas parceiras. O tratamento com Sophir (sofosbuvir) em combinação com ribavirina ou alfapeguinterferona/ribavirina pode causar problemas graves ao feto, e o risco ao feto é maior do que qualquer possível benefício ao paciente.
+
+
+Como usar o Sophir?
+Exame prévio para iniciar a terapia
+Todos os pacientes devem fazer exames para evidência de infecção pelo VHB anterior ou atual através da dosagem de antígeno de superfície da hepatite B (HBsAg) e anti-HBc antes de iniciar o tratamento com Sophir (sofosbuvir).
+A dose recomendada de Sophir (sofosbuvir) é de um comprimido de 400 mg, por via oral, uma vez ao dia, com ou sem alimentos. Tome um comprimido por dia.
+Sophir (sofosbuvir) deve ser utilizado em combinação com a ribavirina ou em combinação com a alfapeguinterferona, para o tratamento da hepatite C crônica (HCC) em adultos. O regime recomendado e a duração do tratamento da terapia combinada de Sophir (sofosbuvir) estão apresentados nas Tabelas 2 e 3.
+Tabela 2. Regimes Recomendados e Duração do Tratamento para a Terapia Combinada com Sophir (sofosbuvir) em Pacientes com Monoinfecção por HCV
+Monoinfecção por HCV
+Tratamento anterior Tratamento
+Duração
+Pacientes com HCC genótipo 1
+Virgens de Tratamento Sofosbuvir + alfapeguinterferonaa
++ ribavirinab
+12 semanas
+Pacientes com HCC genótipo 2
+Virgens de Tratamento e Experimentados Sofosbuvir + ribavirinab
+12 semanas
+Pacientes com HCC genótipo 3
+Virgens de Tratamento e Experimentados Sofosbuvir + ribavirinab
+24 semanas
+a. Ver as informações de prescrição da alfapeguinterferona para a recomendação de dosagem para pacientes com HCC genótipo 1.
+b. A dose de ribavirina se baseia no peso (<75 kg = 1000 mg e ≥75 kg = 1200 mg). A dose diária de ribavirina é administrada por via oral, em duas doses divididas, com alimentos. Os pacientes com insuficiência renal (CrCl ≤ 50 mL/min) necessitam de uma redução de dose da ribavirina; verificar as informações de prescrição da ribavirina.
+Tabela 3. Regimes Recomendados e Duração do Tratamento para a Terapia Combinada com sofosbuvir em Pacientes com Coinfecção por HCV/HIV-1
+Coinfecção por HCV/HIV-1
+Tratamento anterior Tratamento
+Duração
+Pacientes com HCC genótipo 1
+Virgens de Tratamento Sophir (sofosbuvir) + ribavirinaa
+24 semanas
+Pacientes com HCC genótipo 2
+Virgens de Tratamento Sofosbuvir + ribavirinaa
+12 semanas
+Experimentados
+Sofosbuvir + ribavirinaa
+24 semanas
+Pacientes com HCC genótipo
+3
+Virgens de Tratamento e Experimentados Sofosbuvir + ribavirinaa
+24 semanas
+a. A dose de ribavirina se baseia no peso (<75 kg = 1000 mg e ≥75 kg = 1200 mg). A dose diária de ribavirina é administrada por via oral, em duas doses divididas, com alimentos. Os pacientes com insuficiência renal (CrCl ≤ 50 mL/min) necessitam de uma redução de dose da ribavirina; verificar as informações de prescrição da ribavirina.
+Modificações da Dose
+A redução da dose do Sophir (sofosbuvir) não é recomendada.
+Genótipo 1
+Se o paciente apresenta uma reação adversa séria potencialmente relacionada à alfapeguinterferona e/ou à ribavirina, a dose de alfapeguinterferona e/ou ribavirina deve ser reduzida ou descontinuada. Ver as informações de prescrição da alfapeguinterferona e da ribavirina para obter informações adicionais de como reduzir e/ou descontinuar a dose de alfapeguinterferona e/ou ribavirina.
+Genótipo 2 e 3
+Se o paciente apresenta uma reação adversa séria potencialmente relacionada à ribavirina, a dose da ribavirina deve ser modificada ou descontinuada, se adequado, até que a reação adversa passe ou diminua de gravidade. A Tabela 4 fornece as diretrizes para as modificações e descontinuação da dose com base na concentração de hemoglobina e na condição cardíaca do paciente.
+Tabela 4. Diretriz para a Modificação de Dose da Ribavirina para a Administração Concomitante com Sophir (sofosbuvir)
+Valores Laboratoriais
+Reduzir a Dose de Ribavirina para 600
+mg/diaa se:
+Descontinuar a Ribavirina se: b
+Hemoglobina em pacientes sem doença cardíaca
+<10 g/dL
+<8,5 g/dL
+Hemoglobina em pacientes com histórico de doença cardíaca estável
+Diminuição de ≥ 2g/dL na hemoglobina durante qualquer uma das 4 semanas do período de tratamento
+<12 g/dL apesar de 4 semanas com a dose reduzida
+a. A dose diária de ribavirina é administrada por via oral em duas doses divididas juntamente com alimentos.
+b. Uma vez que a ribavirina tenha sido suspensa devido a alguma anormalidade laboratorial ou manifestação clínica, pode-se realizar uma tentativa de reiniciar a ribavirina a 600 mg ao dia e posteriormente aumentar a dose para 800 mg ao dia. No entanto, não se recomenda que a ribavirina seja elevada para a dose indicada originalmente (1000 mg a 1200 mg ao dia).
+Descontinuação da Administração
+Se os outros agentes utilizados em combinação com o Sophir (sofosbuvir) são descontinuados de forma permanente, o Sophir (sofosbuvir) também deve ser descontinuado.
+Insuficiência Renal Grave e Estágio Final de Doença Renal
+Não se pode dar nenhuma recomendação de dose de Sophir (sofosbuvir) para os pacientes com insuficiência renal grave (Taxa de Filtração Glomerular estimada (eGFR) <30 mL/min/1,73m²) ou com estágio final de doença renal (EFDR) devido às altas exposições do metabólito predominante do Sophir (sofosbuvir).
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.
+Este medicamento não deve ser partido ou mastigado.

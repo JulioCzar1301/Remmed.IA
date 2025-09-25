@@ -1,0 +1,83 @@
+BeneFix, para o que é indicado e para o que serve?
+BeneFix® (alfanonacogue) está indicado para o controle e prevenção de episódios hemorrágicos e para prevenção de atividades rotineiras e cirúrgicas de pacientes com hemofilia B (deficiência congênita [adquirida antes do nascimento] de fator IX ou doença de Christmas), incluindo controle e prevenção de sangramento em procedimentos cirúrgicos.
+
+
+Como o BeneFix funciona?
+BeneFix® contém alfanonacogue, que é o fator IX de coagulação recombinante (isto é, produzido por engenharia genética e isento de plasma humano) antihemorrágico, que participa do processo de coagulação do sangue.
+Como a atividade do fator IX está ausente ou bastante reduzida em pacientes com hemofilia B, pode ser necessário instituir terapia de reposição desse fator para controlar e prevenir sangramentos.
+Com a administração de BeneFix®, os níveis e atividade do fator IX no sangue aumentam, possibilitando a correção temporária do defeito de coagulação e resultando em controle da hemorragia ou sangramento.
+
+
+Quais as contraindicações do BeneFix?
+BeneFix® é contraindicado em pacientes com história conhecida de hipersensibilidade (reação alérgica) a qualquer componente da fórmula ou a proteínas de hamster.
+
+
+Como usar o BeneFix?
+O tratamento deve ser iniciado sob supervisão de um médico com experiência no tratamento da hemofilia B.
+O tratamento com todos os produtos com fator IX, inclusive o BeneFix®, requer ajuste de dose individualizado.
+A dose e a duração do tratamento com todos os produtos com fator IX dependem da gravidade da deficiência desse fator, da localização e extensão da hemorragia e da condição clínica do paciente.
+Para garantir que o nível de atividade pretendido do fator IX seja atingido, aconselha-se um monitoramento detalhado utilizando o teste laboratorial da atividade do fator IX, particularmente em intervenções cirúrgicas.
+O número de unidades de fator IX administrado é expresso em Unidades Internacionais (UI), em conformidade com o padrão atual da OMS para produtos com fator IX. Isso significa que uma Unidade Internacional (UI) de atividade do fator IX equivale à quantidade de fator IX em um mL de plasma humano normal.
+A farmacocinética deve ser avaliada regularmente em todos os pacientes e a dose deve ser devidamente ajustada.
+O texto para o cálculo da dose encontra-se abaixo:
+Pacientes > 15 anos
+Em pacientes > 15 anos, em média, uma UI de BeneFix® por quilograma de peso corporal aumentou a atividade de fator IX circulante em 0,8 ± 0,2 (intervalo de 0,4 a 1,4) UI/dL. O método de estimativa da dose é ilustrado no exemplo a seguir.
+Se você estima um aumento médio de 0,8 UI/dL de fator IX por UI/kg administrado por peso corporal, então:
+*Recíproco da recuperação observada (IU/kg por IU/dL).
+Pacientes < 15 anos
+Em pacientes <15 anos, em média, uma UI de BeneFix® por quilograma de peso corporal aumentou a atividade de fator IX circulante em 0,7 + 0,3 (intervalo 0,2 a 2,1 UI/dL e mediana de 0,6 UI/dL por UI/kg). O método de estimativa da dose é ilustrado no exemplo a seguir.
+Se você estima um aumento médio de 0,7 UI/dL de fator IX por UI/kg administrado por peso corporal, então:
+*Recíproco da recuperação observada (IU/kg por IU/dL).
+Posologia para Episódios de Sangramento e Cirurgia
+No caso dos eventos hemorrágicos mencionados na tabela a seguir, a atividade do fator IX não deve ficar abaixo do nível de atividade plasmática fornecido (em % do valor normal ou em UI/dL) no período correspondente.
+Tabela 1: Guia de dose para o controle e prevenção de episódios de sangramento e cirurgia
+Tipo de Hemorragia Atividade do Fator IX Circulante Necessário (em % ou UI/dL) Intervalo Posológico (horas) Duração do Tratamento (dias)
+Menor
+Hemartroses (sangramentos articulares) não-complicadas, músculo superficial ou tecido mole 20-30 12-24 1-2
+Moderada
+Intramuscular ou em tecido mole com dissecção, membranas mucosas, extrações de dente ou hematúria (sangramento urinário) 25-50 12-24 Tratar até cessar a hemorragia e começar a cicatrização; cerca de 2 a 7 dias
+Maior
+Faringe, retrofaringe, retroperitônio, sistema nervoso central, cirurgia 50-100 12-24 7-10
+Adaptado de: Roberts and Eberst.
+Posologia para Tratamento Profilático
+Em um estudo clínico de profilaxia secundária de rotina, a dose média para pacientes adultos previamente tratados foi de 40 UI/kg (intervalo de 13 a 78 UI/kg) em intervalos de 3 ou 4 dias. Em pacientes mais jovens, pode ser necessário utilizar intervalos posológicos mais curtos ou doses mais altas.
+População idosa
+Os estudos clínicos do BeneFix® não incluíram números suficientes de indivíduos acima de 65 anos ou mais para determinar se eles respondem de maneira diferente dos indivíduos mais jovens. Assim como com todos os pacientes recebendo o BeneFix®, a seleção de dose para um paciente idoso deve ser individualizada.
+Reconstituição
+Lave sempre as mãos antes de realizar os seguintes procedimentos. Uma técnica asséptica (ou seja, limpa e livre de germes) deve ser utilizada durante todo o procedimento de reconstituição. Todos os componentes utilizados na reconstituição e administração deste medicamento devem ser utilizados o mais rapidamente possível após a abertura de seus recipientes esterilizados para minimizar a exposição desnecessária à atmosfera.
+BeneFix® é administrado por infusão intravenosa (IV) após reconstituição com o diluente fornecido (cloreto de sódio 0,234%) na seringa preenchida.
+Permita que o frasco-ampola de BeneFix® liofilizado e a seringa preenchida de diluente atinjam a temperatura ambiente.
+Remova a tampa plástica tipo flip-top do frasco-ampola de BeneFix® para expor a porção central da tampa de borracha.
+Limpe a parte superior do frasco com o lenço umedecido com álcool fornecido, ou utilize outra solução antiséptica e deixe secar. Após a limpeza, não toque na tampa de borracha com a mão nem permita que ela toque em qualquer superfície.
+Retire a tampa da embalagem plástica transparente do adaptador do frasco. Não remova o adaptador da embalagem.
+Coloque o frasco numa superfície plana. Enquanto segura a embalagem com o adaptador, posicione o adaptador do frasco-ampola sobre o frasco-ampola. Pressione firmemente a embalagem até que o adaptador se encaixe na parte superior do frasco, com o grampo do adaptador penetrando na tampa de borracha do frasco. Deixe a embalagem do adaptador no lugar.
+Segure a haste do êmbolo como mostrado na figura. Evite o contato com o cabo da haste do êmbolo. Conecte a extremidade rosqueada da haste do êmbolo ao êmbolo da seringa de diluente, empurrando e girando firmemente.
+Remova a tampa de plástico inviolável da ponta da seringa preenchida de diluente, dobrando a tampa para cima e para baixo para quebrar a perfuração. Não toque no interior da tampa ou na ponta da seringa. Coloque a tampa do seu lado em uma superfície limpa em um local onde seria menos provável de se tornar ambientalmente contaminado.
+Remova a embalagem para distanciá-la do adaptador e a descarte.
+Coloque o frasco numa superfície plana. Conecte a seringa preenchida de diluente ao adaptador do frasco, inserindo a ponta na abertura do adaptador enquanto pressiona e gira firmemente a seringa no sentido horário até que a conexão esteja segura.
+Lentamente pressione a haste do êmbolo para injetar todo o diluente no frasco de BeneFix®.
+Sem retirar a seringa, gire suavemente o conteúdo do frasco até o pó estar dissolvido.
+Inspecione a solução final antes da administração para assegurar que não há partículas. A solução deve aparecer límpida e incolor.
+Nota: Se você usar mais de um frasco de BeneFix® por perfusão, reconstituir cada frasco seguindo as instruções anteriores.
+Assegure que a haste do êmbolo da seringa ainda esteja totalmente pressionada e inverta o frasco. Tire lentamente a solução para a seringa.
+Nota: Se você preparou mais de um frasco de BeneFix®, retire a seringa preenchida de diluente do adaptador do frasco, deixando o adaptador do frasco ligado ao frasco. Rapidamente anexe uma seringa com bico luer-lock grande e aspire de volta o conteúdo reconstituído segundo as instruções acima. Repita este procedimento com cada frasco por vez. Não desconecte as seringas preenchidas de diluente ou seringa com bico luer-lock grande até que esteja pronto para conectar a seringa com bico luer-lock grande ao próximo adaptador do frasco.
+Retire a seringa do adaptador do frasco, puxando e girando-a no sentido anti-horário. Descarte o frasco com o adaptador conectado.
+Nota: Se a solução não for utilizada de imediato, a tampa da seringa deve ser cuidadosamente recolocada. Não toque na ponta da seringa ou na parte interna da tampa.
+Manipulação
+Reconstitua o pó liofilizado de BeneFix® para injeção com o diluente fornecido (cloreto de sódio 0,234%) na seringa preenchida. Uma vez que o diluente foi injetado no frasco, gire gentilmente o frasco até dissolver completamente o pó. Após a reconstituição, a solução é aspirada de volta para a seringa e aplicada via infusão. A solução deve ser límpida e incolor.
+A solução deve ser descartada se houver partículas visíveis ou descoloração. O produto não contém conservante e a solução reconstituída deve ser utilizada dentro de 3 horas após a reconstituição.
+A solução reconstituída pode ser armazenada em temperatura ambiente até a administração e deve ser administrada em até 3 horas após a reconstituição.
+Administração
+BeneFix® é administrado por via intravenosa após a reconstituição do pó liofilizado para solução injetável com o diluente fornecido. A administração do produto deve durar vários minutos. A velocidade de administração deve ser determinada pelo nível de conforto do paciente.
+Conectar a seringa à extremidade do bico luer do equipo de infusão fornecido.
+Aplicar um torniquete e preparar o local da injeção limpando bem a pele com o lenço umedecido com álcool fornecido no kit.
+Realizar punção venosa. Inserir a agulha do equipo de infusão na veia e retirar o torniquete. O produto BeneFix® reconstituído deve ser administrado por via intravenosa durante vários minutos. A taxa de administração deve ser determinada pelo nível de conforto do paciente.
+BeneFix® reconstituído não deve ser administrado por equipo de infusão ou recipiente com outros medicamentos.
+Após a conclusão do tratamento com BeneFix®, remova o conjunto de infusão e descarte. Dispor de toda a solução não utilizada, frasco(s) vazio(s), as agulhas e seringas usadas em um recipiente adequado para descarte de resíduos que possam ferir outros se não manipulados e descartados devidamente.
+A segurança e eficácia da administração por infusão contínua não foram estabelecidas.
+BeneFix® deve ser administrado utilizando o conjunto fornecido no kit, o diluente na seringa preenchida fornecida ou uma seringa de plástico descartável, única e estéril. Além disso, a solução deve ser retirada do frasco utilizando o adaptador de frasco.
+Após a reconstituição, o produto deve ser utilizado em um prazo máximo de 3 horas. A solução reconstituída pode ser armazenada em temperatura ambiente até a administração.
+Nota: É importante limitar a quantidade de sangue que retorna ao equipo de infusão. Não deve entrar sangue na seringa. Se ocorrer aglutinação de eritrócitos (células vermelhas) no equipo ou na seringa, desprezar todo o material (equipo, seringa e solução de BeneFix®) e reiniciar a administração com uma nova embalagem.
+Se alguma reação suspeita de hipersensibilidade for percebida e parecer estar relacionada à administração do BeneFix®, a taxa de infusão deve ser diminuída ou a infusão deve ser interrompida.
+Não há estudos dos efeitos de BeneFix® administrado por vias não recomendadas. Portanto, para segurança e eficácia desta apresentação, a administração deve ser somente pela via intravenosa.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

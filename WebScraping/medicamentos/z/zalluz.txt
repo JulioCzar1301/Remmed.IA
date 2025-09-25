@@ -1,0 +1,61 @@
+Zalluz, para o que é indicado e para o que serve?
+Temozolomida é indicado no tratamento de pacientes com:
+Glioblastoma multiforme recém-diagnosticado concomitantemente à radioterapia e em adjuvância posterior.
+Glioma maligno, tal como glioblastoma multiforme ou astrocitoma anaplásico, recidivante ou progressivo após terapia padrão.
+Temozolomida também é indicado no tratamento de pacientes com melanoma maligno metastático em estágio avançado.
+O número necessário para tratar (NNT) para a Temozolomida é de 25 em 6 meses, 6,7 em 12 meses, 5,3 em 18 meses e 5,9 em 24 meses. A redução de risco absoluto (RRA) para sobrevivência, comparando a Temozolomida vs não usar quimioterapia foi de 1,05 (95% IC 0,98-1,03) em 6 meses, 1,32 (95% IC 1,15, 1.53) em 12 meses, 1,98 (95% IC 1,53, 2,56) em 18 mesese 2,84 (95% IC 1,93, 4,17) em 24 meses.
+
+
+Quais as contraindicações do Zalluz?
+Este medicamento é contraindicado para uso por pacientes com histórico de hipersensibilidade a seus componentes, bem como a pacientes com histórico de hipersensibilidade à dacarbazina (DTIC), uma vez que ambas as drogas são metabolizadas em MTIC.
+Este medicamento é contraindicado para uso por mulheres grávidas e lactantes.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica. Informe imediatamente seu médico em caso de suspeita de gravidez.
+
+
+Como usar o Zalluz?
+A Temozolomida deve ser prescrito por médicos com experiência no tratamento oncológico de tumores cerebrais.
+Pacientes adultos com glioblastoma multiforme recém-diagnosticado
+A Temozolomida é administrado em combinação com radioterapia focal (fase concomitante) seguida por até 6 ciclos de Temozolomida em monoterapia. A dose mínima diária é de 75 mg/m2 e a dose máxima pode chegar a 200 mg/m2 de superfície corporal.
+Fase concomitante
+Para o tratamento de glioblastoma multiforme recém-diagnosticado, Temozolomida deve ser administrado por via oral na dose de 75 mg/m2 ao dia por 6 semanas (42 dias), concomitantemente à radioterapia (60 Gy administrados em 30 frações) seguida de administração adjuvante de Temozolomida por 6 ciclos. Não é recomendada a redução da dose; entretanto, uma interrupção na administração poderá ocorrer baseando-se na tolerabilidade do paciente.
+O tratamento concomitante com Temozolomida poderá ser continuado durante os 42 dias até 49 dias, caso todas as seguintes condições sejam preenchidas:
+Contagem absoluta de neutrófilos ≥ 1,5 x 109 /L ; contagem de plaquetas ≥ 100 x 109 /L; toxicidade não-hematológica pelos Critérios Comuns de Toxicidade [CTC] ≤ Grau 1 (exceto para alopecia, náusea e vômitos). Durante o tratamento, um hemograma completo deverá ser realizado semanalmente. O tratamento com Temozolomida deverá ser interrompido ou descontinuado durante a Fase Concomitante de acordo com os critérios de toxicidade hematológicos e não-hematológicos descritos na Tabela 1.
+Tabela 1: Interrupção ou descontinuação da administração de Temozolomida durante tratamento concomitante de Temozolomida com radioterapia:
+Toxicidade Interrupção da Temozolomida(a) Descontinuação da Temozolomida
+Contagem absoluta de neutrófilos ≥ 0,5 e < 1,5 x 109/L < 0,5 x 109/L
+Contagem de plaquetas ≥ 10 e < 100 x 109 /L <10x109/L
+Toxicidade não-hematológica CTC (exceto para alopecia, náusea e vômito) Grau 2 CTC Grau 3 e 4 CTC
+(a) O tratamento concomitante com Temozolomida poderá ser continuado quando todas as seguintes condições forem preenchidas: contagem absoluta de neutrófilos ≥ 1,5 x 109/L e contagem de plaquetas ≥ 100 x 109/L, toxicidade não-hematológica pelos Critérios Comuns de Toxicidade (CTC) ≤ Grau 1 (exceto para alopecia, náusea e vômitos).
+CTC = Critério de Toxicidade Comum.
+Fase adjuvante
+Quatro semanas após completar a Fase Temozolomida + radioterapia, Temozolomida deve ser administrado por 6 ciclos adicionais em tratamento adjuvante. A dosagem no Ciclo 1 (adjuvante) é de 150 mg/m2 uma vez ao dia por 5 dias, seguidos por 23 dias sem tratamento. No início do Ciclo 2 a dose deve ser aumentada para 200 mg/m2 , se toxicidade não-hematológica pelos Critérios Comuns de Toxicidade para o Ciclo 1 for Grau ≤ 2 (exceto para alopecia, náusea e vômito), contagem absoluta de neutrófilos (CAN) for ≥ 1,5 X 109 /L e contagem de plaquetas for ≥ 100 X 109 /L. Se a dose não for aumentada no Ciclo 2, o aumento poderá ser realizado nos ciclos subsequentes. A dose permanece em 200 mg/m2 por dia nos primeiros 5 dias de cada ciclo subsequente, exceto se ocorrer toxicidade. Redução da dose durante a fase adjuvante poderá ser adotada conforme as Tabelas 2 e 3. Durante o tratamento, um hemograma completo deverá ser realizado no dia 22 (21 dias após a primeira dose de Temozolomida ). A dose de Temozolomida poderá ser reduzida ou descontinuada conforme a Tabela 3.
+Tabela 2: Níveis de dosagem de Temozolomida para o tratamento adjuvante:
+Nível da dose Dose (mg/m2/dia) Comentário
+-1 100 Redução para toxicidade prévia
+0 150 Dose durante o Ciclo 1
+1 200 Dose durante os Ciclos 2-6 na ausência de toxicidade
+Tabela 3: Redução ou descontinuação da dose de Temozolomida durante o tratamento adjuvante
+Toxicidade Redução de Temozolomida por 1 nível de dose(a) Descontinuar Temozolomida
+Contagem absoluta de neutrófilos < 1 x 109/L (b)
+Contagem de plaquetas < 50 x 109/L (b)
+Toxicidade não-hematológica CTC (exceto para alopecia, náusea e vômito) Grau 3 CTC Grau 4 CTC(b)
+(a) Os níveis da dose de Temozolomida estão listados na Tabela 2.
+(b) Temozolomida deverá ser descontinuado, se for necessária a redução da dose para < 100 mg/m2 ou caso ocorra toxicidade não-hematológica Grau 3 (exceto alopecia, náusea e vômito) após a redução da dose.
+CTC = Critério de Toxicidade Comum.
+Pacientes adultos com glioma maligno recorrente ou progressivo ou melanoma maligno
+Em pacientes não tratados anteriormente com quimioterapia, Temozolomida deve ser administrado na dose de 200 mg/m2 , uma vez ao dia, durante 5 dias, em ciclos de 28 dias. Para os pacientes anteriormente tratados com quimioterapia, a dose inicial é de 150 mg/m2 uma vez ao dia, que é aumentada no segundo ciclo para 200 mg/m2 diariamente, contanto que a contagem absoluta de neutrófilos (CAN) seja ≥ 1,5 x 109 /L e de plaquetas ≥ 100 x 109 /L no dia 1 do ciclo seguinte. A modificação de dose para Temozolomida deverá ser baseada na toxicidade conforme o nível mais baixo de CAN ou da contagem de plaquetas.
+Pacientes pediátricos com glioma recorrente ou progressivo
+Em pacientes com idade ≥ 3 anos, Temozolomida deve ser administrado na dose de 200 mg/m2 , uma vez ao dia, durante 5 dias, em ciclos de 28 dias. Os pacientes pediátricos anteriormente tratados com quimioterapia devem receber uma dose inicial de 150 mg/m2 , uma vez por dia, durante 5 dias, aumentando até 200 mg/m2 , uma vez ao dia, nos 5 dias no ciclo seguinte, se não for observada toxicidade hematológica.
+As cápsulas de Temozolomida podem ser ingeridas independentemente da alimentação; entretanto, a administração uma hora antes da refeição pode auxiliar na redução de náuseas. Um antiemético pode ser administrado antes ou depois de Temozolomida.
+Duração do tratamento
+O tratamento pode continuar até que ocorra progressão da doença por, no máximo, 2 anos.
+Conduta em caso de esquecimento
+O paciente deve ser instruído a dose esquecida assim que se lembrar, durante o mesmo dia, não devendo tomar dose dupla em um mesmo dia.
+Temozolomida Cápsulas: Este medicamento não deve ser partido, aberto ou mastigado.
+Se ocorrer vômito após a dose administrada, não se deve administrar uma segunda dose no mesmo dia.
+Temozolomida Pó Liofilizado para Solução Injetável
+Cada frasco de Temozolomida Pó Liofilizado para Solução Injetável contém pó liofilizado de Temozolomida. Quando reconstituído com 41 mL de água estéril para injeção, a solução resultante terá 2,5 mg/mL de Temozolomida. Os frascos devem ser cuidadosamente girados e não agitados. Eles devem ser inspecionados e qualquer frasco contendo partículas visíveis não deve ser usado. O produto reconstituído deve ser usado dentro de 14 horas, incluindo o tempo da infusão.
+Utilizando técnica asséptica, retirar 40 mL de cada frasco para alcançar a dose total e transferir para uma bolsa vazia (PVC ou poliolefinas) de infusão de 250 mL. Temozolomida Pó Liofilizado para Solução Injetável deve ser infundido por via intravenosa utilizando uma bomba, por um período de 90 minutos.
+Temozolomida Pó Liofilizado para Solução Injetável deve ser administrado somente por infusão intravenosa. Lave as linhas antes e após cada infusão com Temozolomida.
+Temozolomida Pó Liofilizado para Solução Injetável pode ser administrado na mesma linha de infusão intravenosa com injeção de cloreto de sódio a 0,9%. Temozolomida Pó Liofilizado para Solução Injetável é incompatível com soluções de dextrose.
+Como não existem informações sobre a compatibilidade de Temozolomida Pó Liofilizado para Solução Injetável com outras substâncias ou aditivos de uso intravenoso, outros medicamentos não devem ser infundidos simultaneamente na mesma linha de infusão intravenosa.

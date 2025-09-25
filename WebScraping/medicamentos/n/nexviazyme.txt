@@ -1,0 +1,71 @@
+Nexviazyme, para o que é indicado e para o que serve?
+Nexviazyme é indicado para terapia de reposição enzimática de uso prolongado, para o tratamento de pacientes com diagnóstico confirmado da doença de Pompe (deficiência da alfa-glicosidase ácida).
+
+
+Como o Nexviazyme funciona?
+As pessoas com a doença de Pompe têm níveis baixos de uma enzima denominada alfa-glicosidase ácida. Esta enzima ajuda o organismo a controlar os níveis de glicogênio (um tipo de carboidrato). O glicogênio fornece energia ao corpo, mas na doença de Pompe os níveis de glicogênio podem atingir valores muito altos.
+Nexviazyme contém uma enzima recombinante chamada alfa-avalglicosidase – esta pode substituir a enzima natural que está deficiente na doença de Pompe.
+
+
+Quais as contraindicações do Nexviazyme?
+Não use Nexviazyme se você teve qualquer reação alérgica (hipersensibilidade) com risco de vida à alfa-avalglicosidase ou a qualquer outro componente do medicamento e se essas reações ocorreram novamente após pausa e readministração do medicamento.
+
+
+Como usar o Nexviazyme?
+Nexviazyme é administrado através de soro em uma veia (por infusão intravenosa).
+Nexviazyme será administrado a você sob a supervisão de um profissional de saúde que tem experiência no tratamento da doença de Pompe.
+Os frascos são de uso único. Qualquer produto não utilizado deve ser descartado.
+Reconstituição, diluição e administração
+Seu médico deverá usar técnica asséptica durante a preparação.
+Seu médico determinará o número de frascos a serem reconstituídos com base no peso individual do paciente e na dose recomendada de 20 mg/kg ou 40 mg/kg.
+Peso do paciente (kg) x dose (mg/kg) = dose do paciente (em mg). Dose do paciente (em mg) dividida por 100 mg/frasco = número de frascos para reconstituir. Se o número de frascos incluir uma fração, arredondar até o próximo número inteiro.
+Exemplo: Peso do paciente (16 kg) x dose (20 mg/kg) = dose do paciente (320 mg). 320 mg divididos por 100 mg/frasco = 3,2 frascos; portanto, 4 frascos devem ser reconstituídos.
+Exemplo: Peso do paciente (16 kg) x dose (40 mg/kg) = dose do paciente (640 mg).
+640 mg divididos por 100 mg/frasco = 6,4 frascos; portanto, 7 frascos devem ser reconstituídos.
+Seu médico removerá o número necessário de frascos necessários para a infusão do refrigerador e reservará por, aproximadamente, 30 minutos, para permitir que eles atinjam a temperatura ambiente.
+Seu médico irá reconstituir cada frasco injetando lentamente 10,0 mL de água para injeção estéril em cada frasco. Cada frasco renderá 100 mg/10 mL (10 mg/mL). Evite um impacto violento da água para injeção sobre o pó e evite a formação de espuma na solução. Isso é realizado pela adição lenta da água para injeção pelo interior do frasco e não diretamente no pó liofilizado. Incline e misture cada frasco suavemente. Não inverta, gire ou agite o frasco. Evite qualquer introdução de ar na bolsa de infusão durante a diluição do produto.
+Seu médico deverá realizar uma inspeção visual imediata do frasco reconstituído para material particulado e descoloração. Se após inspeção imediata forem observadas partículas ou se a solução estiver descolorida, não utilize. Deixar que a solução se dissolva.
+A solução reconstituída deve ser diluída em dextrose 5% em água para uma concentração final de 0,5 mg/mL a 4 mg/mL. Consulte a Tabela 1 para o volume de infusão total recomendado com base no peso do paciente.
+Seu médico deverá retirar lentamente o volume de solução reconstituída de cada frasco (calculado de acordo com o peso do paciente).
+Seu médico deverá adicionar a solução reconstituída lentamente e diretamente na solução de dextrose 5%. Evite espumas ou agitação da bolsa de infusão. Evite a introdução de ar na bolsa de infusão.
+Inverta suavemente ou massageie a bolsa de infusão para misturar. Não agite.
+Recomenda-se o uso de um filtro de 0,2 μm de baixa ligação a proteína em linha para administrar o Nexviazyme. Depois que a infusão estiver completa, lave a linha intravenosa com bolsa de dextrose 5% em água.
+Não infundir o Nexviazyme na mesma linha intravenosa com outros produtos.
+Tabela 1 - Volumes de infusão intravenosa previstos para administração de Nexviazyme de acordo com o peso do paciente na Dose de 20 e 40 mg/kg (de peso corporal real):
+Faixa de Peso do Paciente (kg) Volume total de infusão para 20 mg/kg (mL) Volume total de infusão para 40 mg/kg (mL)
+1,25 a 5 50 50
+5,1 a 10 50 100
+10,1 a 20 100 200
+20,1 a 30 150 300
+30,1 a 35 200 400
+35,1 a 50 250 500
+50,1 a 60 300 600
+60,1 a 100 500 1000
+100,1 a 120 600 1200
+120,1 a 140 700 1400
+140,1 a 160 800 1600
+160,1 a 180 900 1800
+180,1 a 200 1000 2000
+Modo de administração
+A infusão deve ser administrada incrementalmente conforme determinado pela resposta e conforto. A taxa de infusão inicial recomendada é de 1 mg/kg/hora. Se não houver sinais de reações associadas à infusão (RIs), aumente gradualmente a taxa de infusão a cada 30 minutos.
+Tabela 2 - Cronograma recomendado de taxa de infusão:
+Dose recomendada Taxa de Infusão (mg/kg/hora) Duração aproximada (horas)
+Etapa 1 Etapa 2 Etapa 3 Etapa 4
+Processo de 4 etapas 20 mg/kg 1 3 5 7 4 a 5
+40 mg/kg 1 3 5 7 7
+Nota: No processo de 4 etapas para pacientes com dose recomendada de 20 mg/kg com peso corporal de 1,25 a 5 kg, a taxa máxima de infusão é de 4,8 mg/kg/hora.
+Dose recomendada Taxa de Infusão (mg/kg/hora) Duração aproximada (horas)
+Etapa 1 Etapa 2 Etapa 3 Etapa 4 Etapa 5
+Processo de 5 etapas 40 mg/kg 1 3 6 8 10 5
+Nota: No processo de 5 etapas para pacientes com dose recomendada de 40 mg/kg com peso corporal de 1,25 a 5 kg, a taxa máxima de infusão é de 9,6 mg/kg/hora.
+Sinais vitais devem ser obtidos a cada passo, antes de aumentar a taxa de infusão. Os pacientes podem ser pré-tratados com anti-histamínicos, antipiréticos e/ou corticosteroides para prevenir ou reduzir as reações alérgicas.
+No caso de anafilaxia (reação alérgica de forte intensidade) ou reação de hipersensibilidade grave ou reações associadas à infusão graves (RIs), seu médico deverá interromper imediatamente a administração de Nexviazyme e iniciar o tratamento médico adequado. No caso de reações leves a moderadas de hipersensibilidade ou RIs, a taxa de infusão pode ser diminuída ou temporariamente interrompida e/ou tratamento médico adequado iniciado.
+Os sintomas podem persistir apesar da parada temporária da infusão; portanto, o médico responsável pelo tratamento deve esperar, pelo menos, 30 minutos para que os sintomas das reações se resolvam antes de decidir parar a infusão pelo restante do dia. Se os sintomas diminuírem, retome a taxa de infusão por 30 minutos pela metade da taxa, ou menos, da taxa em que as reações ocorreram, seguido por um aumento na taxa de infusão em 50% por 15 a 30 minutos. Se os sintomas não se repetirem, aumente a taxa de infusão para a taxa em que as reações ocorreram e considere continuar a aumentar a taxa de forma gradual até que a taxa máxima seja alcançada.
+Infusão Domiciliar
+Seu médico responsável pelo tratamento pode considerar a infusão domiciliar de Nexviazyme se você está tolerando bem suas infusões. A decisão de passar o paciente para infusão em casa deve ser tomada após avaliação e recomendação pelo médico responsável pelo tratamento. Se você apresentar um evento adverso durante uma infusão de Nexviazyme, seu membro da equipe de infusão domiciliar pode parar a infusão e iniciar o tratamento médico adequado.
+Posologia do Nexviazyme
+A dose que você recebe tem como base seu peso corporal e será dada a você uma vez em semanas alternadas (uma vez a cada 2 semanas).
+Pacientes com doença de Pompe de início tardio (LOPD)
+A dose recomendada de Nexviazyme é 20 mg/kg de peso corporal.
+Pacientes com doença de Pompe de início infantil (IOPD)
+A dose recomendada de Nexviazyme é 40 mg/kg de peso corporal.

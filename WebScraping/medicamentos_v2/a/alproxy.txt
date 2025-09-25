@@ -1,0 +1,109 @@
+Alproxy, para o que é indicado e para o que serve?
+Alproxy é indicado:
+Em recém-nascidos com defeitos cardíacos congênitos e defeitos cardíacos acompanhados de cianose, para manter a patência temporária do desvio entre a circulação sanguínea pulmonar e a sistêmica (ducto arterioso de Botalli). A terapia com este produto medicinal possibilita preencher o intervalo de tempo antes que uma cirurgia inevitável possa ser realizada para salvar a vida do paciente.
+Defeitos cardíacos congênitos:
+Malformações com circulação sanguínea limitada dos pulmões, tais como atresia pulmonar, estenose pulmonar, tetralogia de Fallot.
+Malformações com circulação sanguínea sistêmica limitada, tais como coartação aórtica, interrupção do arco aórtico com estenose da válvula ou atresia do coração esquerdo.
+Transposição dos grandes vasos, com ou sem outros defeitos.
+No sentido de uma medida emergencial, como terapia adicional de insuficiência cardíaca crônica grave em candidatos a transplante cardíaco, que se tornaram extremamente sintomáticos e instáveis, apesar da medicação usual (inibidores de ECA, bloqueador do receptor da angiotensina, beta-bloqueadores, diuréticos).
+Nesses pacientes, a administração de Alproxy produz melhora cardiovascular significativa, redução de NTproBNP (um marcador da probabilidade de sobrevida) e um aumento da probabilidade de sobrevida de transplante cardíaco em condições estáveis.
+
+
+Como o Alproxy funciona?
+Alproxy causa uma vasodilatação (aumento do calibre dos vasos sanguíneos) da musculatura lisa do ducto arterioso e reabre os ductos fechados dos recém-nascidos que apresentam malformação cardíaca para que haja uma perfeita circulação do fluxo sanguíneo.
+
+
+Quais as contraindicações do Alproxy?
+Manutenção da patência do ducto arterioso de Botalli em recém-nascidos:
+Em casos de síndrome da angústia respiratória;
+Em casos de pressão arterial fortemente reduzida;
+Em casos de ducto arterioso de Botalli que permanece espontaneamente aberto.
+Em candidatos a transplante cardíaco com insuficiência cardíaca crônica grave:
+Pacientes com formas insuficientemente tratadas de arritmias cardíacas e distúrbio circulatório no músculo cardíaco;
+Pacientes com infarto do miocárdio ou AVC em até 6 meses antes do início da terapia;
+Pacientes com suspeita clínica ou radiológica de acúmulo de fluido nos pulmões (edema pulmonar) ou sinais de acúmulo incipiente de fluido (congestão de uma seção pulmonar) presentes e em casos de distúrbios graves de ventilação pulmonar como resultado de constrição crônica da passagem respiratória;
+Pacientes com sinais de lesão hepática aguda (parâmetros hepáticos elevados) ou lesão hepática grave conhecida;
+Caso se espere a ocorrência de complicações sanguíneas (úlceras gástricas ou duodenais recentes, politraumas);
+Durante a amamentação (consulte a seção gravidez e lactação).
+Este medicamento é contraindicado em casos de hipersensibilidade (alergia) a quaisquer dos componentes.
+
+
+Como usar o Alproxy?
+Alproxy pode ser administrado apenas por médicos experientes ou equipe médica que trabalhe sob a supervisão de médicos experientes.
+Dose
+Manutenção da potência do ducto arterioso de botalli
+Inicialmente 0,05 – 0,1 µg de PGE1/Kg/min.
+Após alcançar o efeito, o que em bebês com função pulmonar comprometida significa melhora do suprimento de oxigênio e em bebês com fluxo sanguíneo sistêmico comprometido significa melhora da pressão arterial sistêmica e do pH sanguíneo, a velocidade de infusão deve ser reduzida na menor dose ainda eficaz. Isso pode ser alcançado por redução da dose para 0,01 – 0,025 microgramas/Kg/min.
+Recomenda-se a administração prematura para evitar o fechamento do ducto arterioso de Botalli, uma vez que a nova abertura – se ocorrer – pode ser alcançada somente com uma dose mais alta (> 0,1 micrograma/Kg/min).
+A dose pode ser aumentada até no máximo 0,4 microgramas/Kg/min., casos nos quais o efeito terapêutico foi insuficiente após a administração de 0,05 – 0,1 micrograma/Kg/min. No entanto, velocidades de infusão mais altas levam a efeitos mais pronunciados apenas em casos raros, ainda que frequentemente envolvam efeitos colaterais sérios.
+Em geral, pode-se esperar a ocorrência de abertura do ducto arterioso de Botalli em crianças cianóticas em 30 minutos até 3 horas após o tratamento inicial com PGE1, ao passo que se pode perceber o aumento da pressão parcial de oxigênio (pressão parcial de oxigênio dissolvido no sangue) de 20 – 30 mmHg, em média.
+Insuficiência cardíaca crônica grave em candidatos a transplante cardíaco
+O tratamento com Alproxy é iniciado pelo médico e pode ser realizado subsequentemente em casa, com a ajuda de uma enfermeira ambulatorial e após treinamento apropriado. A terapia com infusão crônica ambulatorial com Alproxy deve ser monitorada semanalmente durante o primeiro mês e, depois disso, em intervalos mensais em um centro de insuficiência cardíaca. Este tipo de uso crônico de Alproxy requer um alto grau de envolvimento do paciente, como a preparação asséptica das soluções para infusão, a autoadministração consciente da infusão, a manipulação cuidadosa do cateter. É especialmente importante que a dose determinada pelo médico seja obedecida. Se o efeito terapêutico for insuficiente ou se o uso de Alproxy estiver relacionado a efeitos adversos, o médico responsável pelo tratamento deve ser consultado imediatamente. Não se deve realizar a descontinuação abrupta ou uma redução maior de Alproxy, uma vez que mesmo interrupções curtas da infusão contínua podem causar agravamento rápido dos seus sintomas. O ajuste da velocidade de infusão de Alproxy é permitido apenas em situações de risco à vida (por exemplo, inconsciência, colapso etc.) e somente sob solicitação de um médico.
+Com base em um estudo clínico recente são recomendadas uma dose inicial menor e uma dose de manutenção de 2,5 nanogramas/Kg/min. Devido a esta dose baixa, não é permitido efetuar reduções adicionais da dose no caso de efeitos colaterais; se ocorrerem efeitos colaterais, as infusões devem ser descontinuadas.
+Se os efeitos colaterais não cessarem em até 24 horas (especialmente no caso de pressão arterial baixa), podese pressupor que esses efeitos colaterais não estejam relacionados à dose; deve-se considerar a progressão da doença. Nesses casos, o tratamento deve continuar após o médico ponderar cuidadosamente os riscos e benefícios.
+Por princípio, é possível realizar ajustes da dose caso você não responda a essa dose inicial baixa. Em estudos clínicos, a dose máxima tolerada foi determinada em 5 – 40 nanogramas/Kg/min. Uma indicação importante é a hipertensão pulmonar reduzida de forma insuficiente. O aumento significativo do risco de efeitos colaterais deve ser ponderado pelo médico em relação ao possível benefício terapêutico.
+Ao aumentar a dose, a dose eficaz e tolerável deve ser determinada para cada paciente individual, utilizando um cateter no coração direito por 24-72 horas. Antes de iniciar o tratamento e antes de cada aumento da dose, um check-up cardiovascular completo (frequência cardíaca, pressão arterial periférica, pressão pulmonar, pressão venosa central, pressão capilar pulmonar parcial) deve ser realizado com um cateter cardíaco direito, utilizando termodiluição e determinação dos valores laboratoriais, principalmente valores renais (creatinina). Um aumento no índice cardíaco de pelo menos 20% é considerado um parâmetro hemodinâmico de sucesso.
+Pacientes com função renal comprometida
+Alproxy deve ser utilizado com cautela em pacientes com função renal comprometida, uma vez que os dados clínicos são insuficientes para uma recomendação de dose definitiva neste grupo de pacientes.
+Pacientes com função hepática comprometida
+Alproxy deve ser utilizado com cautela em pacientes com função hepática comprometida, uma vez que os dados clínicos são insuficientes para uma recomendação de dose definitiva neste grupo de pacientes.
+Pacientes com função pulmonar comprometida
+Alproxy deve ser utilizado com cautela em pacientes com função pulmonar comprometida, uma vez que os dados de estudos clínicos são insuficientes para uma recomendação de dose definitiva neste grupo de pacientes.
+Idosos
+Alproxy deve ser utilizado com cautela em pacientes idosos, uma vez que os dados clínicos são insuficientes para uma recomendação de dose definitiva neste grupo de pacientes.
+Administração
+Manutenção da potência do ducto arterioso de botalli
+Preferencialmente, Alproxy é administrado por infusão intravenosa contínua em uma veia grande, utilizando bombas de infusão automática apropriadas. Alproxy deve ser diluído antes da administração. As soluções apropriadas para diluição são solução fisiológica ou solução de glicose a 5%.
+Insuficiência cardíaca crônica grave em candidatos a transplante cardíaco
+Somente após diluição com solventes apropriados para infusão venosa central contínua, utilizando bombas de infusão automática adequadas.
+Alproxy não deve ser armazenado na forma não diluída em recipientes plásticos. As soluções apropriadas para diluição são solução fisiológica ou solução de glicose a 5%.
+Instruções para diluição
+Insuficiência cardíaca crônica grave em candidatos a transplante cardíaco
+Como regra, 1 mL de Alproxy é diluído com solução de cloreto de sódio isotônico estéril ou solução aquosa de glicose a 5% em condições assépticas para produzir um volume final de 100 mL. Esta solução para infusão é infundida durante um período de 48 horas.
+Para uma velocidade de infusão de 2,5 nanogramas/Kg/min., os seguintes valores são aplicáveis:
+Solução para infusão, incluindo o volume da ampola (mL)
+Concentração de Alproxy da solução (mcg/mL)
+Velocidade de infusão (mL/Kg/h)
+100
+5 0,03
+Alproxy não deve ser armazenado na forma não diluída em recipientes plásticos. O contato direto do concentrado com superfícies plásticas pode levar à lixiviação dos plastificantes. Isso pode levar à turvação da solução e à descoloração do recipiente. Nesse caso, o produto e o recipiente devem ser descartados. Esse fenômeno parece ser dependente da concentração. Para evitar isso, recomenda-se que o concentrado seja diretamente adicionado à solução já preparada evitando o contato direto com as paredes do recipiente.
+Soluções preparadas há mais de 24 horas que não foram infundidas devem ser descartadas.
+Duração do tratamento
+Manutenção da potência do ducto arterioso de botal
+Em geral, Alproxy deve ser aplicado somente 2 a 3 dias antes da data programada da cirurgia. No entanto, após ponderar cuidadosamente os riscos e benefícios pelo médico, o tratamento pode ser prolongado (até 3 semanas) em casos excepcionais.
+Insuficiência cardíaca crônica grave em candidatos a transplante cardíaco
+A duração do tratamento depende das exigências clínicas.
+Caso você tenha recebido mais Alproxy do que deveria
+Em recém-nascidos e bebês
+Parada respiratória, batimentos cardíacos lentos, febre, pressão arterial baixa e erupções cutâneas podem ser sinais de superdosagem.
+No caso de parada respiratória e batimentos cardíacos lentos, a infusão deve ser descontinuada e o tratamento medicamentoso adequado deve ser iniciado.
+Deve-se ter cautela quando o tratamento continuar. No caso de febre ou pressão arterial baixa, a velocidade de infusão deve ser reduzida até que os sintomas cessem.
+As erupções cutâneas normalmente são causadas por um cateter arterial inserido de forma inadequada e podem ser remediadas alterando-se a posição da ponta do cateter.
+Em adultos
+Os efeitos colaterais podem ocorrer com maior frequência em adultos; especificamente, pode ocorrer uma redução da pressão arterial e uma frequência cardíaca reflexa acelerada (pulso elevado) em resposta aos efeitos vasodilatadores do medicamento.
+Você deve informar seu médico imediatamente caso esses sintomas ocorram.
+No caso de esquecimento da administração de Alproxy
+Sua condição cardiovascular pode piorar. Nesses casos, entre em contato com um médico imediatamente.
+Caso a administração de Alproxy seja interrompida
+Sua condição cardiovascular pode piorar. Nesses casos, entre em contato com um médico imediatamente.
+Se você tiver qualquer dúvida sobre o uso deste produto, pergunte ao seu médico ou farmacêutico.
+Instruções para diluição
+Manutenção da potência do ducto arterioso de botalli
+Em geral, 1 mL de Alproxy é diluído com solução de cloreto de sódio isotônico estéril ou solução aquosa de glicose a 5% em condições assépticas para produzir um volume final de 100 - 250 mL. A solução preparada contém 500 microgramas de PGE1.
+Para uma velocidade de infusão de 50 nanogramas/Kg/min, os seguintes valores são aplicáveis:
+Solução para infusão, incluindo o volume da ampola (mL)
+Concentração de Alproxy da solução (mcg/mL)
+Velocidade de infusão (mL/Kg/h)
+250
+2
+1,5
+100 5 0,6
+Insuficiência cardíaca crônica grave em candidatos a transplante cardíaco
+Em geral, 1 mL de Alproxy é diluído com solução de cloreto de sódio isotônico estéril ou solução aquosa de glicose a 5% em condições assépticas para produzir um volume final de 100 mL. Esta solução para infusão é infundida durante um período de 48 horas.
+Para uma velocidade de infusão de 2,5 nanogramas/Kg/min., os seguintes valores são aplicáveis:
+Solução para infusão, incluindo o volume da ampola (mL)
+Concentração de Alproxy da solução (mcg/mL)
+Velocidade de infusão (mL/Kg/h)
+100 5 0,03
+O contato direto do concentrado com superfícies plásticas deve ser evitado. Dessa forma, recomenda-se adicionar Alproxy diretamente na solução já preparada após a retirada do volume análogo evitando, assim, o contato direto com as paredes do recipiente.
+Soluções preparadas há mais de 24 horas que não foram infundidas devem ser descartadas.

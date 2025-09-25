@@ -1,0 +1,61 @@
+Hemofil, para o que é indicado e para o que serve?
+Hemofil, fator VIII de coagulação (humano) é indicado na Hemofilia A (Hemofilia clássica) para a prevenção e controle dos episódios hemorrágicos.
+O Hemofil pode ter uma grande importância terapêutica em pacientes com inibidores adquiridos do fator VIII não superiores a 10 Unidades Bethesda/mL.¹ Entretanto, a dosagem deverá ser controlada por determinações laboratoriais frequentes do FAH circulante. O fator VIII de coagulação (humano) é desaconselhável nos casos de doença de von Willebrand.
+
+
+Como o Hemofil funciona?
+O fator VIII de coagulação é uma proteína encontrada no plasma normal que é necessária para a formação do coágulo. A administração de Hemofil fornece um aumento dos níveis plasmáticos de fator VIII de coagulação e corrige temporariamente o defeito de coagulação em pacientes com Hemofilia A (hemofilia clássica).
+O tempo de meia-vida do Hemofil administrado em pacientes com deficiência de fator VIII de coagulação foi demonstrado ser 14,8 ± 3,0 horas.
+
+
+Quais as contraindicações do Hemofil?
+Hemofil é contraindicado para pacientes com hipersensibilidade conhecida à substância ativa, excipientes ou proteína murina (de ratos).
+
+
+Como usar o Hemofil?
+Reconstituição
+Usar técnicas assépticas.
+Deixar o Hemofil (liofilizado) e a água para injetáveis (diluente) à temperatura ambiente;
+Retirar a tampa dos frascos do concentrado e do diluente para deixar descoberta a parte central das rolhas de borracha;
+Desinfetar as rolhas com solução germicida;
+Remover a cobertura de proteção de uma extremidade da agulha de duas pontas e inserir a agulha exposta na rolha do diluente;
+Retirar a cobertura de proteção da outra extremidade da agulha de duas pontas. Virar o frasco de diluente sobre o frasco do Hemofil em posição reta, e rapidamente inserir a ponta livre da agulha na rolha do frasco do Hemofil no centro. O vácuo do frasco de Hemofil extrairá o diluente;
+Desconectar os dois frascos, retirando a agulha da rolha do frasco de diluente e depois retirar a agulha do frasco do Hemofil. Agitar suavemente até diluir todo o material. Verificar se o Hemofil dissolveu-se completamente para evitar que o filtro retire o material ativo.
+Nota: Não refrigerar após reconstituição.
+Administração
+Usar técnica asséptica.
+Somente administração intravenosa;
+Administrar em temperatura ambiente em até 3 horas após reconstituição;
+Registrar o nome e número de lote do produto para manter uma ligação entre o paciente e o lote do produto.
+Injeção com seringa intravenosa
+Os medicamentos parenterais devem ser examinados quanto à formação de partículas ou descoloração antes da administração, sempre que a solução e o recipiente o permitirem. A solução deve ser incolor. Não administrar se partículas ou descoloração for encontrado.
+Recomenda-se o uso de seringas de plástico para este produto. As soluções deste tipo tendem a aderir à superfície polida do vidro das seringas de vidro.
+Fixar a agulha de filtro na seringa descartável e puxar o êmbolo para que o ar entre na seringa;
+Inserir a agulha no Hemofil reconstituído;
+Injetar ar no frasco e extrair o material reconstituído para dentro da seringa;
+Retirar e descartar a agulha de filtro da seringa. Fixar uma agulha apropriada e fazer a aplicação intravenosa seguindo as instruções sobre a velocidade de administração;
+Se o paciente tiver que receber mais de um frasco de Hemofil, o conteúdo de dois frascos pode ser extraído para a mesma seringa usando uma nova agulha de filtro para diminuir a perda do Hemofil. As agulhas de filtro destinam-se a filtrar o conteúdo de um só frasco de Hemofil.
+Velocidade de Administração
+Administrar Hemofil a uma velocidade de até 10 mL por minuto. Infundir Hemofil a uma velocidade de administração que garanta o conforto do paciente.
+O Hemofil deve ser administrado somente por via intravenosa.
+O pico do nível previsto de FAH in vitro expresso como UI/dL de plasma ou % (porcentagem) do normal, pode ser calculado multiplicando-se a dose administrada por kg do peso do corpo (UI/kg) por dois. Este cálculo está baseado no resultado clínico de Abildgaard et al² com o apoio de dados de um estudo em colaboração sobre recuperação e sobrevida in vivo com quinze lotes diferentes de Hemofil fator VIII de coagulação (humano), em 56 hemofílicos que demonstraram um ponto médio do pico de recuperação acima da linha basal média de pré-infusão de cerca de 2,0 UI/dL por UI /kg infundida por peso do corpo.³
+Exemplo:
+Uma dose de 1.750 UI de FAH administrada a um paciente de 70 kg, ex., 25 UI /kg (1750/70) deve causar um pico de pós-infusão de aumento de FAH de 25 x 2 = 50 UI/dL (50% do normal).
+Um nível de pico de 70% é necessário em uma criança de 40 kg. Nesta situação a dose deve ser de 70/2 x 40 = 1400 UI.
+Esquema da Dosagem Recomendada
+A dosagem deve ser supervisionada pelo médico.
+O presente esquema serve de guia para a dosagem:
+Hemorragia
+Grau de Hemorragia Atividade necessária de FAH pós-infusão no sangue (como % do normal ou U UI/dL de plasma) Frequência de Infusão
+Hemartrose inicial ou sangramento de músculo ou sangramento oral 20 - 40 Inicie a infusão a cada 12 a 24 h, por 1 a 3 dias até que o episódio hemorrágico como indicado pela dor seja resolvido ou a cicatrização seja alcançada
+Hemartrose mais intensa, sangramento de músculo ou hematoma 30 - 60 Repita a infusão a cada 12 ou 24 h, por 3 dias ou mais, até que a dor ou o limitação funcional estejam resolvidas
+Os sangramentos com risco de vida, como lesões da cabeça, sangramento da garganta, dor abdominal forte 60 - 100 Repita a infusão de cada 8 a 24 h até que o risco esteja sanado
+Cirurgia
+Tipo de Cirurgia Atividade necessária de FAH pós-infusão no sangue (como % do normal ou U UI/dL de plasma) Frequência de Infusão
+Cirurgias menores, incluindo extrações de dente 60 - 80 Uma só infusão mais terapia anti-fibrinolítica oral dentro de 1 h é suficiente, em cerca de 70% dos casos
+Cirurgias de grande porte 80 - 100 (pré e pós-operatório) Repita a infusão a cada 8 a 24 h dependendo do estado de cicatrização
+Se o sangramento não é controlado com a dose prescrita, determinar o nível plasmático de fator VIII e administrar uma dose de Hemofil suficiente para atingir resposta clínica satisfatória.
+Sob certas circunstâncias (por exemplo, a presença de um inibidor de baixo título), dose maior do que a recomendada pode ser necessária, como por tratamento padrão. Em pacientes com inibidores de alto título anti-fator VIII, a terapia com Hemofil pode não ser eficaz e outras opções terapêuticas devem ser consideradas.
+A dosagem e a duração do tratamento dependem da severidade da deficiência de fator VIII, da localização e extensão da hemorragia e condição clínica do paciente. O cuidadoso controle da terapia de substituição é de suma importância nos casos de cirurgias de grande porte ou hemorragias que impliquem risco de vida.
+Siga orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

@@ -1,0 +1,67 @@
+Actemra, para o que é indicado e para o que serve?
+Artrite reumatoide (AR)
+Actemra® em associação com metotrexato (MTX) é indicado no tratamento da artrite reumatoide grave, ativa e progressiva em pacientes adultos não tratados previamente com MTX. Neste grupo de pacientes, Actemra® pode ser usado em monoterapia em caso de intolerância a MTX ou quando o uso continuado de MTX é inapropriado.
+Actemra® é indicado para o tratamento de artrite reumatoide ativa, moderada a grave em pacientes adultos, quando tratamento anterior adequado com, pelo menos, um medicamento antirreumático modificador da doença (DMARD) não tenha trazido os benefícios esperados:
+Após falha de esquema combinado com DMARDs convencionais, incluindo, necessariamente, o metotrexato, utilizados nas doses e pelo tempo indicados na bula de cada agente específico;
+Após falha do agente anti-TNF, utilizado na dose e pelo tempo indicados na bula de cada agente específico.
+Neste grupo de pacientes, Actemra® pode ser usado isoladamente ou em combinação com metotrexato (MTX) e/ou outros DMARDs.
+Artrite idiopática juvenil poliarticular (AIJP)
+Actemra® em combinação com metotrexato (MTX) está indicado também para tratamento da artrite idiopática juvenil poliarticular (fator reumatoide positivo ou negativo e oligoartrite estendida) em pacientes com 2 anos de idade ou mais que tiveram uma resposta inadequada ao tratamento prévio com MTX. Actemra® pode ser usado isoladamente em casos de intolerância ao MTX ou quando a continuidade do tratamento com MTX for inapropriada.
+Artrite idiopática juvenil sistêmica (AIJS)
+Actemra® está indicado também para tratamento da artrite idiopática juvenil sistêmica em pacientes com 2 anos de idade ou mais que responderam inadequadamente a terapia prévia com anti-inflamatórios não esteroides e corticosteroides sistêmicos, podendo ser utilizado isoladamente ou em combinação com MTX.
+Doença causada pelo coronavírus 2019 (COVID-19)
+Actemra® é indicado para o tratamento da doença causada pelo coronavírus 2019 (COVID-19) em adultos hospitalizados que estão recebendo corticosteroides sistêmicos e que precisam de oxigênio extra para ajudá-los a respirar ou ventilação mecânica (quando são usados meios mecânicos para auxiliar ou substituir a respiração natural).
+Síndrome de liberação de citocinas (SLC)
+Actemra® é indicado para tratar adultos e crianças com síndrome de liberação de citocinas (SLC) grave ou de risco à vida, um efeito colateral em pacientes tratados com terapias com células T com receptor de antígeno quimérico (CAR) usadas para tratar determinados tipos de câncer.
+
+
+Como o Actemra funciona?
+Actemra® faz parte dos novos medicamentos antirreumáticos biológicos modificadores da doença (DMARDs). É considerado um DMARD biológico, porque organismos vivos estão envolvidos na sua produção, o que não ocorre com DMARDs sintéticos, como o metotrexato, por exemplo.
+Actemra® é um anticorpo (substância que ajuda na defesa do organismo) humanizado que bloqueia a ação da interleucina 6 (IL-6), uma proteína que promove a inflamação crônica na AR. Em pacientes com AR, observam-se níveis elevados de IL-6 na articulação, e seus níveis no sangue correlacionam-se bem com a atividade da doença.
+Tocilizumabe (TCZ) neutraliza a ação da IL-6, o que resulta em melhora significativa e clinicamente superior, quando comparado ao tratamento com DMARDs tradicionais (como o metotrexato [MTX] e outros) em populações estudadas com AR ativa moderada a grave.
+O uso de Actemra® resultou em normalização dos níveis de hemoglobina (é uma proteína que transporta oxigênio no sangue) em pacientes com níveis de hemoglobina abaixo do limite de normalidade no início dos estudos clínicos com Actemra®. Em pacientes com níveis normais de hemoglobina no início dos estudos, Actemra® não causou seu aumento significativo.
+Actemra® foi mais efetivo que a terapia controle na melhora da qualidade de vida dos pacientes.
+O tratamento continuado resulta, no mínimo, em eficácia sustentada e, em alguns pacientes, pode promover benefícios adicionais.
+
+
+Quais as contraindicações do Actemra?
+Actemra® é contraindicado a pacientes com hipersensibilidade (alergia) conhecida a tocilizumabe ou aos componentes da fórmula.
+O tratamento com Actemra® não deve ser iniciado em pacientes com infecções graves ativas.
+Actemra® é contraindicado a pacientes com COVID-19 que ao mesmo tempo também tenham outras infecções graves ativas.
+
+
+Como usar o Actemra?
+Este medicamento é de uso hospitalar e deve ser preparado por um profissional da saúde, em condições assépticas (livres de contaminação). Antes de ser administrado, o conteúdo do frasco deve ser misturado com soro fisiológico para infusão na veia (via intravenosa).
+O profissional da saúde saberá como preparar o medicamento.
+A dose recomendada de tocilizumabe para pacientes com AR é:
+8 mg/kg, administrada uma vez a cada quatro semanas.
+A pacientes com peso corporal acima de 100 kg doses superiores a 800 mg por infusão não são recomendadas.
+A dose recomendada de tocilizumabe para pacientes com AIJP é:
+10 mg/kg para pacientes com menos de 30 kg;
+8 mg/kg para pacientes ≥ 30 kg.
+A ser administrada uma vez a cada quatro semanas por infusão intravenosa.
+A dose recomendada de tocilizumabe para pacientes com AIJS é:
+12 mg/kg para pacientes com menos de 30 kg;
+8 mg/kg para pacientes ≥ 30 kg.
+A ser administrada uma vez a cada duas semanas por infusão intravenosa.
+A dose recomendada de tocilizumabe para pacientes com COVID-19 é:
+8 mg/kg,
+A ser administrada uma única vez por infusão intravenosa. Uma dose adicional pode ser necessária.
+A dose recomendada de tocilizumabe para pacientes com SLC é:
+12 mg/kg para pacientes com menos de 30 kg;
+8 mg/kg para pacientes ≥ 30 kg.
+Actemra® pode ser administrado isolado ou em combinação com corticosteroides.
+Se não ocorrer melhora clínica nos sinais e sintomas de SLC após a primeira dose, até 3 doses adicionais de Actemra® podem ser administradas. O intervalo entre doses consecutivas deve ser de no mínimo 8 horas. Doses acima de 800 mg por infusão não são recomendadas em pacientes com SLC.
+O tempo total recomendado de infusão de tocilizumabe é de uma hora.
+Caso você apresente alterações em exames laboratoriais, seu médico poderá modificar a dose de tocilizumabe ou interromper o tratamento.
+Instruções especiais de administração
+Crianças
+A segurança e a eficácia em pacientes com AIJP e AIJS menores de 2 anos de idade não foram estabelecidas.
+Idosos
+Não é necessário ajuste de dose em pacientes com idade superior a 65 anos.
+Insuficiência dos rins
+Não é necessário ajuste de dose em pacientes com insuficiência dos rins leve ou moderada. Actemra® não foi estudado em pacientes com insuficiência dos rins grave.
+Insuficiência do fígado
+A segurança e a eficácia de tocilizumabe não foram estudadas em pacientes com insuficiência do fígado.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

@@ -1,0 +1,47 @@
+Oncaspar, para o que é indicado e para o que serve?
+Oncaspar é indicado como um componente da terapia antineoplásica combinada de pacientes com leucemia linfoblástica aguda (LLA).
+
+
+Como o Oncaspar funciona?
+A L-asparaginase é uma enzima que catalisa a conversão do aminoácido L-asparagina em ácido aspártico e amônia. Considera-se que o mecanismo de ação de Oncaspar seja baseado na destruição seletiva das células leucêmicas devido à depleção da asparagina plasmática. Células leucêmicas com baixa expressão de asparagina sintetase tem capacidade reduzida para sintetizar L-asparagina e, portanto, dependem de uma fonte exógena de asparagina para sobreviver. A depleção de asparagina, resultante do tratamento com a enzima L-asparaginase, mata as células leucêmicas. As células normais, no entanto, devido a sua capacidade de sintetizar a L-asparagina, são menos afetadas pela depleção da L-asparagina plasmática.
+
+
+Quais as contraindicações do Oncaspar?
+Histórico de reações de hipersensibilidade graves, incluindo anafilaxia ao Oncaspar ou outros excipientes;
+Histórico de trombose grave com terapia prévia com L-asparaginase;
+Histórico de pancreatite, incluindo pancreatite relacionada com terapia prévia com L-asparaginase;
+Histórico de eventos hemorrágicos graves com terapia prévia com L-asparaginase;
+Insuficiência hepática grave.
+
+
+Como usar o Oncaspar?
+Oncaspar deve ser prescrito por médicos e administrado por profissionais de saúde com experiência no uso de produtos antineoplásicos. Deve ser administrado apenas em ambiente hospitalar onde houver equipamento apropriado de reanimação disponível.
+Pré-medicação
+Antes da administração de Oncaspar, você pode receber uma combinação de medicamentos para reduzir a ocorrência de reações alérgicas. O seu médico decidirá se essa pré-medicação é necessária.
+Solução injetável 750U/mL
+Quando Oncaspar é administrado por via intramuscular, o volume em um único local de aplicação deve ser limitado a 2 mL. Se o volume a ser administrado for maior que 2mL, múltiplos locais de aplicação devem ser utilizados. Oncaspar não contém conservantes. Use apenas uma dose por frasco; descarte o produto não utilizado.
+Diluir Oncaspar com cloreto de sódio 0,9% injetável ou dextrose 5% injetável para preparar uma infusão. Para administração intravenosa, usar Oncaspar imediatamente após a diluição.
+Após a diluição para uso intravenoso, a solução deve ser utilizada imediatamente. A infusão intravenosa de Oncaspar é geralmente administrada durante um período de 1 a 2 horas. Se o uso imediato não for possível, Oncaspar pode ser armazenado sob temperatura refrigerada (2°C a 8°C) por até 48 horas a partir do tempo de preparação até a completa administração. Proteger as bolsas de infusão da luz solar direta.
+A estabilidade físico-química em uso, da solução diluída, foi demonstrada por 48 horas sob temperatura refrigerada (2º a 8ºC). Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente.
+Não infundir outros medicamentos intravenosos através da mesma linha intravenosa enquanto infundir Oncaspar.
+Pó para solução injetável 3750U
+Oncaspar pode ser administrado por via intramuscular (IM) ou por via intravenosa (IV) após a reconstituição do medicamento.
+Para volumes menores, a via preferencial de administração é a via intramuscular. Quando Oncaspar é administrado por via intramuscular, o volume injetado no mesmo local não deve exceder 2 mL em crianças e adolescentes, e 3 mL em adultos. Caso seja administrado um volume superior, a dose deverá ser dividida e administrada em vários locais de injeção.
+Este medicamento pode causar irritação por contato. O pó deve ser manuseado com cuidado. Deve-se evitar a inalação do vapor e o contato com a pele e mucosas, sobretudo com os olhos. Caso o medicamento entre em contato com os olhos, pele ou mucosas, lavar imediatamente com água abundante por ao menos 15 minutos.
+Posologia do Oncaspar
+Oncaspar, em geral, é administrado como parte de protocolos quimioterápicos em combinação com outros agentes antineoplásicos.
+Pacientes pediátricos e adultos ≤ 21 anos
+A dose recomendada de Oncaspar em pacientes com área de superfície corporal ≥ 0,6m2  e com idade ≤ 21 anos é de 2500 U de pegaspargase (equivalentes a 3,3 mL de Oncaspar)/m2 de área de superfície corporal a cada 14 dias.
+Crianças com área de superfície corporal < 0,6 m2 devem receber 82,5 U de pegaspargase (equivalentes a 0,1 mL de Oncaspar)/kg de peso corpóreo a cada 14 dias.
+Adultos > 21 anos
+A menos que prescrito de outra forma, a posologia recomendada em adultos com idade > 21 anos é de 2000 U de pegaspargase (equivalente a 2,67 mL de Oncaspar)/ m2 área de superfície corporal a cada 14 dias.
+Populações especiais
+Insuficiência renal
+Como a pegaspargase é uma proteína com alto peso molecular, não é excretada por via renal e nenhum ajuste de dose é necessário em pacientes com insuficiência renal.
+Insuficiência hepática
+Nenhum ajuste de dose é necessário em pacientes com insuficiência hepática.
+Idosos
+Existem dados limitados disponíveis para pacientes com mais de 65 anos de idade.
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem conhecimento do seu médico.
+Este medicamento não deve ser partido, aberto ou mastigado.

@@ -1,0 +1,84 @@
+Advate, para o que é indicado e para o que serve?
+O produto é indicado para a prevenção e controle de episódios hemorrágicos em paciente pediátricos e adultos com hemofilia A (deficiência congênita do fator VIII):
+Tratamento profilático;
+Tratamento sob demanda;
+Tratamento perioperatório.
+O Advate não é indicado para tratamento de doença de von Willebrand.
+A identificação do defeito de coagulação como deficiência do fator VIII é essencial antes da administração de Advate. Não se pode esperar benefício deste produto no tratamento de outras deficiências de fatores de coagulação.
+
+
+Como o Advate funciona?
+Propriedades Farmacodinâmicas
+O complexo fator VIII/fator de von Willebrand é composto por duas moléculas (fator VIII e fator de von Willebrand) com diferentes funções fisiológicas.
+Advate possui o fator VIII de coagulação recombinante, uma glicoproteína com uma sequência de aminoácidos semelhante ao fator VIII humano, e com modificações pós-translacionais similares àquelas dos produtos derivados de plasma. O fator VIII ativado atua como um cofator para o fator IX ativado, acelerando a conversão do fator X em fator X ativado. O fator X ativado converte a protrombina em trombina. A trombina, então, converte o fibrinogênio em fibrina e um coágulo de fibrina é formado.
+A hemofilia A é um distúrbio da coagulação sanguínea hereditário, ligado ao sexo, causado pela diminuição dos níveis de atividade do fator VIII e resulta em sangramento profuso em articulações, músculos ou órgãos internos, seja espontaneamente ou como resultado de trauma acidental ou cirúrgico. Os níveis plasmáticos do fator VIII são aumentados pela terapia de reposição, permitindo assim uma correção temporária da deficiência do fator e correção da tendência hemorrágica. O nível necessário para que uma hemostase adequada seja atingida varia, dependendo da localização anatômica e gravidade do insulto traumático, se presente.
+O fator VIII de coagulação recombinante é produzido a partir de células de ovário de hamster chinês (CHO) geneticamente modificadas contendo o gene humano do fator VIII de coagulação. Advate contém traços de IgG murina, proteínas das células CHO e fator de von Willebrand recombinante.
+A atividade (UI) é determinada utilizando um teste cromogênico comparado a um padrão interno, referenciado no padrão nº 6 da OMS. A atividade específica é de aproximadamente 4000 – 10000UI/mg de proteína.
+Advate é uma preparação estéril, apirogênica e liofilizada, sem conservantes ou aditivos de origem animal ou humana.
+Advate é uma glicoproteína composta por 2332 aminoácidos com um peso molecular de cerca de 280kD. O fator VIII injetado em um paciente com hemofilia A se liga ao fator de von Willebrand na corrente sanguínea.
+
+
+Quais as contraindicações do Advate?
+Hipersensibilidade conhecida à substância ativa ou a qualquer dos excipientes ou às proteínas de camundongo ou hamster.
+
+
+Como usar o Advate?
+Após a reconstituição com a água para injetáveis fornecida, o medicamento deve ser administrado por via intravenosa. Descartar os resíduos apropriadamente.
+Reconstituição: Usar técnica asséptica
+O Advate (pó liofilizado) e o diluente (água para injetáveis) devem atingir temperatura ambiente, entre 15 °C e 25 °C.
+Remover as tampas protetoras dos frascos com o pó liofilizado e a água para injetáveis.
+Limpar as tampas de borracha com compressas embebidas em álcool. Colocar os frascos sobre uma superfície plana.
+Abrir a embalagem do dispositivo Baxject II, removendo a película protetora sem tocar no conteúdo da embalagem (Fig. a).
+Não remover o sistema de transferência da embalagem. Virar a abertura para baixo e inserir a ponta de plástico transparente através da tampa de borracha do frasco de diluente. Agora retirar a embalagem do Baxject II (Fig. b). Não retirar a tampa azul do Baxject II.
+Agora girar o sistema, que consiste do Baxject II e do frasco para injetáveis do diluente, de forma que o frasco para injetáveis do diluente permaneça para cima.
+Pressionar a ponta branca de Baxject II na tampa de borracha do frasco de Advate. No vácuo, o diluente é aspirado para o frasco Advate (Fig. c).
+Agitar suavemente até que Advate esteja completamente dissolvido, caso contrário a substância ativa ficará retida ao passar através do filtro de Baxject II.
+Administração: Usar técnica asséptica
+Se a solução e o recipiente permitirem, os medicamentos parenterais devem ser sempre verificados antes da administração quanto à presença de partículas e à descoloração. Use somente soluções límpidas e incolores.
+Remover a tampa azul do Baxject II. Não deixar ar dentro da seringa: Conectar a seringa ao Baxject II (Fig. d).
+Virar o sistema (com o frasco de Advate para cima). Aspirar a solução de Advate, puxando para trás o êmbolo na seringa (Fig. e).
+Remover a seringa.
+Conectar o dispositivo de administração à seringa e injetar a preparação via intravenosa. Ela pode ser administrada em uma taxa de até 10 mL/min. A pulsação do paciente deve ser verificada antes e durante a administração de Advate. Geralmente, um aumento significativo na frequência do pulso pode ser reduzido imediatamente através da diminuição ou interrupção temporária da injeção.
+Recomenda-se que toda vez que Advate for administrado, o nome do paciente e número de lote do produto sejam registrados para manter um vínculo entre o paciente o lote do produto.
+Administração intravenosa
+O Advate deve ser administrado à temperatura ambiente, não mais de 3 horas após a reconstituição.
+A taxa de administração deve garantir o conforto do paciente, até um máximo de 10 mL/min.
+Os produtos reconstituídos devem ser inspecionados visualmente quanto à presença de matéria particulada e descoloração antes da administração. A solução deve ser límpida a incolor. Não administre se forem encontradas matéria particulada ou descoloração ou turbidez; contate o Serviço de Apoio ao Consumidor da Empresa.
+Posologia do Advate
+A dose e duração dependem da gravidade da deficiênciado fator VIII, do local e da extensão do sangramento e das condições clínicas do paciente. Controle cuidadoso da terapia de substituição é especialmente importante em casos de cirurgia maior ou hemorragias que ameaçam a vida.
+O aumento do pico in vivo esperado no nível de fator VIII expresso em UI/dL de plasma ou porcentagem do normal pode ser estimado pela multiplicação da dose administrada por Kg de peso corpóreo (UI/Kg) por 2.
+Exemplos (assumindo que o nível basal de fator VIII do paciente é < 1% do normal):
+De uma dose de 1.750 UI de Advate administrada a um paciente de 70kg deve se esperar um resultado no pico do aumento do fator VIII pós-infusão de 1.750UI x {[2 UI/dL] / [UI/kg]} / [70kg] = 50 UI/dL (50% do normal).
+Um pico de nível de 70% é requerido em uma criança de 40kg. Nesta situação, a dose apropriada seria 70 UI/dL / {[2 UI/dL] / [UI/kg]} x 40kg = 1.400UI.
+Embora a dose possa ser estimada pelos cálculos acima, é altamente recomendado que, sempre que possível, testes laboratoriais apropriados incluindo ensaios periódicos de atividade do fator VIII sejam realizados.
+Pacientes podem variar nas suas respostas clínicas e farmacocinéticas (p. ex.: meia-vida, recuperação in vivo) ao Advate.
+Sob certas circunstâncias (p. ex.: presença de um inibidor de título baixo) doses maiores que as doses recomendadas podem ser necessárias.
+Se o sangramento não é controlado com a dose recomendada, o nível plasmático do fator VIII deve ser determinado e uma dose suficiente de Advate deve ser administrada para alcançar a resposta clínica satisfatória.
+Pacientes com inibidores
+Em pacientes com inibidores de alto título antifator VIII, a terapia com Advate pode não ser eficaz e outras opções terapêuticas devem ser consideradas.
+Pacientes devem ser avaliados para o desenvolvimento de inibidores de fator VIII, caso os níveis de atividade plasmática do fator VIII esperados não sejam alcançados, ou caso o sangramento não seja controlado com uma dose apropriada.
+Dose recomendada – Prevenção e controle de episódios hemorrágicos
+Tabela 1 Guia para Advate - níveis plasmáticos alvo para prevenção e controle de episódios hemorrágicos:
+Grau de hemorragia
+Pico requerido de atividade de fator VIII pós-infusão no sangue (como % do normal ou UI/dL)
+Frequência da infusão
+Hemartrose precoce, episódio hemorrágico muscular ou episódio hemorrágico oral leve
+20 – 40 Repetir as infusões a cada 12 a 24 horas (8 a 24 horas para pacientes com menos de 6 anos) por pelo menos 1 dia, até o episódio hemorrágico ser resolvido (conforme indicado pelo alívio da dor) ou cicatrização da lesão
+Hemartrose, episódio hemorrágico muscular ou hematoma mais extenso
+30 – 60 Repetir as infusões a cada 12 a 24 horas (8 a 24 horas para pacientes com menos de 6 anos) por (usualmente) 3 dias ou mais até a dor e a limitação motora cessar
+Episódios hemorrágicos que ameaçam a vida tais como injúria na cabeça, episódio hemorrágico na garganta ou dor abdominal intensa
+60 – 100 Repetir as infusões a cada 12 a 24 horas (8 a 24 horas para pacientes com menos de 6 anos) até que a resolução do episódio hemorrágico tenha ocorrido
+Para a profilaxia de longo prazo do sangramento em pacientes com hemofilia A grave, as doses usuais são de 20 a 40 UI de fator VIII por kg de peso corpóreo em intervalos de 2 a 3 dias. Em paciente com menos de 6 anos, recomenda-se doses de 20 a 50 UI de fator VIII por kg de peso corpóreo 3 a 4 vezes por semana são recomendadas.
+Altas doses (40 a 100 UI/kg) podem ser utilizadas para proteção durante longos períodos (p. ex finais de semana).
+Dose recomendada – Prevenção e controle de episódios hemorrágicos antes ou durante cirurgia
+Tabela 2 Guia para Advate - níveis plasmáticos alvo para monitoramento durante cirurgia:
+Tipo de Procedimento
+Pico requerido de atividade de fator VIII pós-infusão no sangue (como % do normal ou UI/dL)
+Frequência da infusão
+Cirurgia de pequeno porte incluindo extração dentária
+60 - 100
+Fornecer uma infusão em bolus simples começando dentro de 1 hora da operação com dosagem adicional opcional a cada 12 a 24 horas como necessário para controlar o sangramento. Para procedimentos dentários, terapia adjuvante pode ser considerada
+Cirurgia de grande porte
+80 – 120 (pré e pós-operatório)
+Para reposição como infusão em bolus, repetir as infusões a cada 8 a 24 horas (6 a 24 horas para pacientes com menos de 6 anos) dependendo do nível desejado de fator VIII e estado de cicatrização da ferida
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico. Siga corretamente o modo de usar. Em caso de dúvidas sobre este medicamento, procure orientação do farmacêutico.

@@ -1,0 +1,91 @@
+Desforane, para o que é indicado e para o que serve?
+O Desforane (desflurano) é indicado como agente inalatório para a indução e/ou manutenção anestésica para cirurgias ambulatoriais ou hospitalares em adultos.
+O Desforane (desflurano) não é recomendado para a indução anestésica de pacientes pediátricos (crianças), devido à alta incidência de eventos adversos de vias aéreas superiores moderados a graves. Após a indução anestésica com agentes que não o Desforane (desflurano) e intubação traqueal, o Desforane (desflurano) é indicado para a manutenção da anestesia em crianças e lactentes.
+
+
+Como o Desforane funciona?
+Desforane (desflurano) é um agente anestésico líquido, não inflamável, para o uso em anestesia geral inalatória, por meio de vaporização, produz uma perda reversível da consciência e da sensação de dor, supressão (eliminação) da atividade motora voluntária, redução dos reflexos autonômicos (que envolvem músculos lisos) e depressão (diminuição) da respiração e sistema cardiovascular; todos os efeitos são relacionados com a dose.
+
+
+Quais as contraindicações do Desforane?
+Desforane (desflurano) não deve ser usado nas seguintes condições:
+Suspeita de suscetibilidade genética à hipertermia maligna (aumento da temperatura corporal);
+Em pacientes nos quais a anestesia geral é contraindicada;
+Indução da anestesia em pacientes pediátricos;
+Em pacientes com sensibilidade conhecida ao Desforane (desflurano) ou a outros agentes halogenados;
+Em pacientes com histórico de disfunção do fígado moderada a grave, seguindo de anestesia com Desforane (desflurano) ou outro agente halogenado.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Desforane?
+Desforane (desflurano) deve ser administrado somente por pessoas treinadas na administração de anestésicos gerais, usando um vaporizador especificamente designado e desenhado para o uso de Desforane (desflurano). A manutenção da via aérea do paciente, ventilação artificial, oxigênio, e reanimação circulatória devem estar imediatamente disponíveis.
+Desforane (desflurano) é administrado por inalação. A administração de anestesia geral deve ser individualizada com base na resposta do paciente. Hipotensão e aumento da depressão respiratória são potencializados na anestesia com Desforane (desflurano). A concentração alveolar mínima (CAM) de Desforane (desflurano) diminui com o aumento da idade do paciente. O CAM para Desforane (desflurano) também é reduzido pela administração concomitante de N2O (ver Tabela 1). A dose deve ser ajustada de acordo. A tabela a seguir fornece potência média relativa em função da idade e efeito do N2O em pacientes com estado físico ASA I ou II.
+Opióides e benzodiazepínicos diminuem o CAM de Desforane (desflurano). Desforane (desflurano) também diminui as doses de agentes bloqueadores neuromusculares. A dose deve ser ajustada.
+Tabela 1 - Concentração Alveolar Mínima (CAM):
+Idade N 100% de Oxigênio N 60% óxido nitroso / 40% oxigênio
+2 semanas 6 9,2 ± 0,0 --- ---
+10 semanas 5 9,4 ± 0,4 --- ---
+9 meses 4 10,0 ± 0,7 5 7,5 ± 0,8
+2 anos 3 9,1 ± 0,6 --- ---
+3 anos --- --- 5 6,4 ± 0,4
+4 anos 4 8,6 ± 0,6 --- ---
+7 anos 5 8,1 ± 0,6 --- ---
+25 anos 4 7,3 ± 0,0 4 4,0 ± 0,3
+45 anos 4 6,0 ± 0,3 6 2,8 ± 0,6
+70 anos 6 5,2 ± 0,6 6 2,8 ± 0,6
+Antes da administração do Desforane (desflurano), é necessário que o anestesista obtenha as seguintes informações do paciente:
+Medicamentos que esteja tomando, incluindo suplementos herbais;
+Alergias a medicamentos, incluindo reações alérgicas a agentes anestésicos (incluindo sensibilidade hepática);
+Histórico de reações graves à administração prévia de anestésicos;
+Se o paciente ou algum membro familiar tiver histórico de hipertermia maligna ou se o paciente tiver histórico de distrofia muscular de Duchenne ou outra doença neuromuscular latente;
+Os anestesistas devem informar aos pacientes sobre os riscos associados ao Desforane (desflurano):
+Náusea e vômito no pós-operatório e reações adversas respiratórias, incluindo tosse;
+Não há informações sobre os efeitos do Desforane (desflurano) após anestesia sobre a capacidade de operar automóveis ou outro maquinário pesado. No entanto, os pacientes devem ser informados de que a capacidade de realizar tais tarefas pode ser prejudicada após receber agentes anestésicos.
+Os anestesistas devem informar aos pais e cuidadores de pacientes pediátricos que a anestesia em crianças pode gerar um breve estado de agitação que pode dificultar a cooperação.
+Posologia do Desforane
+Medicação pré-anestésica
+A medicação pré-anestésica deve ser selecionada de acordo com a necessidade individual do paciente. Em estudos clínicos, pacientes programados para serem anestesiados com desflurano, frequentemente receberam uma medicação pré-anestésica IV, como opióide e/ou benzodiazepínico.
+Indução
+Em adultos, alguns pré-medicados com opióides, uma concentração inicial frequente foi de 3% de desflurano, aumentada em incrementos de 0,5-1,0% a cada 2 a 3 inspirações. As concentrações expiratórias finais de 4- 11% de Desforane (desflurano), com e sem N2O, levaram à anestesia em 2 a 4 minutos. Quando o desflurano foi testado como um agente primário de indução anestésica, a incidência de irritação das vias aéreas superiores (apneia, espasmo da laringe, tosse e secreções) foi alta.
+Durante a indução em adultos, a incidência geral de desaturação de oxihemoglobina (SpO2 < 90%) foi de 6%.
+Em adultos, após a indução com um medicamento intravenoso, como tiopental ou propofol, o desflurano pode ser iniciado a, aproximadamente, 0,5-1 CAM, se o gás condutor for O2 ou N2O/O2.
+Concentrações inspiradas de Desforane (desflurano) superior a 12% foram administradas com segurança em pacientes, particularmente durante a indução da anestesia em adultos. Estas concentrações irão proporcionalmente diluir a concentração de oxigénio, portanto, a manutenção de uma concentração adequada de oxigênio pode exigir uma redução do óxido nitroso ou ar, se esses gases são usados simultaneamente.
+Manutenção
+Os níveis anestésicos cirúrgicos em adultos podem ser mantidos com concentrações de 2,5 - 8,5% de Desforane (desflurano), com ou sem o uso concomitante de óxido nitroso. Em crianças, os níveis anestésicos cirúrgicos podem ser mantidos com concentrações de 5,2 - 10% de Desforane (desflurano), com ou sem o uso concomitante de óxido nitroso.
+Durante a manutenção da anestesia com taxas de fluxo de 2 L/min ou mais, a concentração alveolar de Desforane (desflurano) geralmente estará dentro de 10% da concentração inspirada.
+Durante a manutenção anestésica, concentrações crescentes de Desforane (desflurano) produzem reduções dose-dependentes na pressão arterial. Reduções excessivas na pressão arterial podem ser causadas pela profundidade da anestesia e, nestas circunstâncias, podem ser corrigidas pela redução da concentração inalada de Desforane (desflurano).
+As concentrações de desflurano que excederem 1 CAM podem aumentar a frequência cardíaca. Portanto, com este medicamento, uma frequência cardíaca aumentada não indica, de maneira confiável, uma anestesia inadequada.
+Manutenção da anestesia em pacientes pediátricos intubados
+Desforane (desflurano) é indicado para a manutenção de anestesia em pacientes pediátricos e lactentes, após a indução de anestesia com outro agente (que não seja desflurano) e intubação traqueal.
+Desforane (desflurano) com ou sem óxido nitroso, e halotano, com ou sem óxido nitroso, foram estudados em três ensaios clínicos realizados com pacientes pediátricos com idades entre 2 semanas a 12 anos (média de 2 anos) e estado físico ASA I ou II. A concentração de Desforane (desflurano), necessário para a manutenção da anestesia geral é dependente da idade. As alterações na pressão sanguínea durante a manutenção e recuperação da anestesia com desflurano/N2O/O2 são semelhantes aos observados com halotano N2O/O2.
+A frequência cardíaca durante a manutenção da anestesia por minutos mais rápidos com o desflurano do que com halotano. Os pacientes foram considerados adequados para a alta da unidade de cuidados pós-anestésicos dentro de uma hora tanto com desflurano como halotano. Não houve diferença na incidência de náuseas e vômitos entre os pacientes que receberam desflurano ou halotano.
+Recuperação
+A recuperação da anestesia geral deve ser avaliada cuidadosamente antes de o paciente recebe alta da unidade de cuidados pós-anestésica.
+Uso em pacientes com doença arterial coronariana
+Em pacientes com doença arterial coronariana, a manutenção da hemodinâmica normal é importante para prevenir a isquemia do miocárdio. Um rápido aumento na concentração de desflurano está associado com o aumento acentuado da frequência cardíaca, pressão arterial média e os níveis de epinefrina e norepinefrina. O desflurano não deve ser utilizado como único agente para indução anestésica em pacientes com doença arterial coronariana ou em pacientes em que os aumentos na frequência cardíaca ou pressão arterial indesejável. Deve ser utilizado com outros medicamentos preferencialmente opióides por via venosa e hipnóticos.
+Uso Neurocirúrgico
+O Desforane (desflurano) pode gerar um aumento dose-dependente na pressão do líquido cefalorraquidiano (PLCR) quando administrado em pacientes com lesões ocupando o espaço intracraniano. O desflurano deve ser administrado a 0,8 CAM ou menos e em conjunto com uma indução por barbitúrico e hiperventilação (hipocapnia), até que haja descompensação cerebral, em pacientes com aumentos na PLCR conhecidos ou suspeitos. Deve-se atentar à manutenção da pressão de perfusão cerebral.
+Cuidado Ocupacional
+Não há limite específico de exposição estabelecido para Desforane (desflurano). No entanto, o Instituto Nacional de Segurança e Saúde Ocupacional (NIOSH) recomenda que nenhum trabalhador deve ser exposto a concentrações de teto maior do que 2 ppm de qualquer agente anestésico halogenado ao longo de um período de amostragem não deve exceder uma hora.
+Principais Meios de Exposição incluem:
+Contato com a pele
+Pode causar irritação na pele. Em caso de contato, lave imediatamente a pele com água em abundância. Remova as roupas e sapatos contaminados. Procurar atendimento médico em caso de irritação.
+Contato com os olhos
+Pode causar irritação nos olhos. Em caso de contato, lavar imediatamente os olhos com água em abundância por pelo menos 15 minutos. Procurar atendimento médico em caso de irritação.
+Ingestão
+Não há outros efeitos terapêuticos específicos. Não provocar vômitos a menos que provocado pela equipe médica. Nunca dê algo pela boca a uma pessoa inconsciente. Se grande quantidade desta substância for ingerida, procure um médico imediatamente.
+Inalação
+Se o indivíduo inalar o vapor, ou sentir tonturas ou dores de cabeça, ele deve ser transferido para uma área com ar fresco.
+O indivíduo também poderá detectar os seguintes:
+Efeitos cardiovasculares
+Pode incluir alterações no ritmo cardíaco, alterações na pressão arterial, dor no peito.
+Efeitos respiratórios
+Podem incluir falta de ar, broncoespasmo, espasmo da laringe, depressão respiratória.
+Efeitos gastrointestinais
+Podem incluir náuseas, dor de estômago, perda de apetite.
+Efeitos no sistema nervoso
+Podem incluir ataxia, tremor, distúrbios da fala, letargia, dores de cabeça, tonturas, visão turva.
+Os efeitos previstos de superexposição aguda por inalação de Desforane (desflurano) incluem dor de cabeça, tontura ou (em casos extremos) inconsciência.
+Não há efeitos adversos documentados da exposição crônica aos vapores de anestésicos halogenados (Resíduos de Gases Anestésicos ou WAG) no local de trabalho. Embora os resultados de alguns estudos epidemiológicos sugiram uma ligação entre a exposição a agentes anestésicos halogenados e aumento dos problemas de saúde (aborto espontâneo) em particular, a relação não é conclusiva. Dado que a exposição a WAGs é um fator possível nos resultados para estes estudos, as pessoas presentes na sala de cirurgia, e as mulheres grávidas, em particular, devem minimizar a exposição. As precauções incluem ventilação geral adequada na sala de cirurgia, o uso de um sistema de eliminação bem projetado bem conservado, práticas de trabalho para minimizar vazamentos enquanto o agente anestésico está em uso, e manutenção de rotina de equipamentos para minimizar vazamentos.
+Pelos dados clínicos, as concentrações teriam de chegar a 2-3% no ar inspirado antes do indivíduo sentir tonturas ou outros efeitos fisiológicos.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

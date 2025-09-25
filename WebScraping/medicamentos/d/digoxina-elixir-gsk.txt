@@ -1,0 +1,84 @@
+Digoxina Elixir GSK, para o que é indicado e para o que serve?
+Insuficiência cardíaca
+Digoxina é indicada no tratamento da insuficiência cardíaca congestiva quando o problema dominante é a disfunção sistólica. Nesse caso, o benefício terapêutico é maior nos pacientes com dilatação ventricular.
+Digoxina é indicada especificamente quando a insuficiência cardíaca é acompanhada de fibrilação atrial.
+Arritmia supraventricular
+Digoxina também é indicada no tratamento de certas arritmias supraventriculares, particularmente fibrilação ou flutter atrial crônicos.
+
+
+Quais as contraindicações do Digoxina Elixir GSK?
+Digoxina é contraindicada nos seguintes casos:
+Presença de bloqueio cardíaco completo intermitente ou bloqueio atrioventricular de segundo grau, especialmente se houver história de síndrome de Stokes-Adams;
+Arritmias causadas por intoxicação por glicosídeos cardíacos;
+Arritmias supraventriculares associadas a uma via atrioventricular acessória, como na síndrome de Wolff-Parkinson-White, a menos que as características eletrofisiológicas da via acessória tenham sido avaliadas. Se a via acessória for conhecida ou se houver suspeita de sua existência, e não houver histórico de arritmias supraventriculares anteriores, Digoxina será contraindicada da mesma forma;
+Taquicardia ventricular ou fibrilação ventricular;
+Cardiomiopatia obstrutiva hipertrófica, a menos que haja fibrilação atrial e insuficiência cardíaca concomitantes, mas, mesmo nesse caso, Digoxina deve ser utilizada com cautela;
+Pacientes com conhecida hipersensibilidade a Digoxina ou a outros glicosídeos digitálicos.
+Risco Categoria C durante a gravidez
+Não existem contraindicações relativas às faixas etárias.
+O médico deve considerar o uso de Digoxina por mulheres grávidas apenas quando os benefícios clínicos esperados do tratamento da mãe superarem qualquer possível risco para o feto.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Digoxina Elixir GSK?
+Uso exclusivamente oral.
+Utilizar o conta - gotas graduado que acompanha a medicação (1mL/0,05mg).
+Posologia do Digoxina
+A dose de Digoxina deve ser ajustada individualmente, de acordo com idade, peso corporal e função renal. As doses sugeridas devem ser interpretadas somente como diretriz inicial.
+Controle
+A concentração sérica de Digoxina deve ser expressa em nanogramas/mililitro (ng/mL) ou nanomols/litro (nmol/L). Para converter ng/mL em nmol/L, multiplicar ng/mL por 1,28. As concentrações séricas de Digoxina podem ser determinadas por radioimunoensaio.
+Deve-se colher amostras de sangue a cada 6 horas ou mais após a última dose de Digoxina .
+Não há diretrizes rígidas sobre a faixa de concentração sérica mais eficaz. Várias análises post hoc de pacientes com insuficiência cardíaca do estudo Digitalis Investigation Group sugerem que a concentração sérica ideal pode ser de 0,5 ng/mL (0,64 nmol/L) a 1,0 ng/mL (1,28 nmol/L).
+A toxicidade da digoxina está mais comumente associada a concentrações séricas da droga superiores a 2 ng/mL. Entretanto, a intoxicação pode ocorrer com concentrações séricas menores. Quando é preciso decidir se as causas dos sintomas de determinado paciente se devem ou não ao uso de Digoxina , há fatores importantes a considerar, como o estado clínico, os níveis séricos de potássio e a função da tireoide.
+Outros glicosídeos, inclusive metabólitos de Digoxina , podem interferir nas análises disponíveis, e se deve sempre ter cuidado com valores que não pareçam corresponder ao estado clínico do paciente.
+Adultos e crianças com mais de 10 anos (utilize o conta – gotas graduado - 1mL / 0,05mg)
+Dose de ataque rápido
+Caso seja clinicamente apropriado, pode-se obter uma rápida digitalização de várias maneiras, como no exemplo a seguir: 750 a 1.500 µg (0,75 a 1,5 mg) em dose única.
+Quando houver menor urgência ou maior risco de toxicidade, como no caso de pacientes idosos, deve-se dividir a dose oral de ataque em intervalos de 6 horas, sendo a primeira dose aproximadamente a metade da dose total.
+A resposta clínica deve ser avaliada antes da administração de cada dose adicional.
+Dose de ataque lento
+Em alguns pacientes, como aqueles que apresentam insuficiência cardíaca moderada, a digitalização pode ser alcançada mais lentamente com doses diárias de 250 a 750 µg (0,25 a 0,75 mg), durante uma semana, seguidas da dose de manutenção apropriada. Deve haver resposta clínica em uma semana.
+Nota: a escolha entre uma dose de ataque rápido ou lento depende do estado clínico do paciente e da urgência da condição.
+Dose de manutenção
+Nota: a fórmula apresentada a seguir, baseada no clearence de creatinina, não deve ser usada para crianças.
+A dose de manutenção deve basear-se no percentual de reserva corporal máxima perdida a cada dia pela eliminação. A fórmula detalhada a seguir tem tido amplo uso clínico.
+Dose de manutenção: reserva corporal máxima x % de perda diária 100.
+Em que:
+Reserva corporal máxima = dose de ataque.
+Perda diária (%) = 14 + clearance de creatinina (Ccr)/5.
+Ccr é o clearance de creatinina corrigido para 70 kg de peso corporal ou 1,73 m2 de área de superfície corporal.
+Se apenas as concentrações de creatinina sérica (Scr) estão disponíveis, o Ccr (corrigido para o peso corporal de 70 kg) pode ser estimado para os homens como:
+Ccr = (140 - idade)/[Scr (em mg/100 mL)].
+Nota: quando os valores de creatinina sérica são obtidos em µmol/L, podem ser convertidos para mg/100 mL (mg%) como segue:
+Scr (mg/100 mL) = [Scr (µmol/L) x 113,12]/10.000 = Scr (µmol/L)/88,4.
+Em que:
+113,12 é o peso molecular da creatinina.
+Para as mulheres, esse resultado deve ser multiplicado por 0,85.
+Na prática, isso significa que a maior parte dos pacientes com insuficiência cardíaca tomará doses de manutenção diárias de 125 a 250 µg (0,125 a 0,25 mg) de digoxina; entretanto, para aqueles que demonstrarem aumento da sensibilidade aos eventos adversos dessa droga, uma dose diária de 62,5 µg (0,0625 mg), ou menor, pode ser suficiente. Por outro lado, alguns pacientes talvez precisem de uma dose maior.
+Neonatos e crianças menores de 10 anos
+Em caso de administração de glicosídeos cardíacos até duas semanas antes do início da terapia com digoxina, pode-se antecipar que a dose de ataque ideal desse fármaco será inferior à recomendada. Nos recém-nascidos, particularmente nos prematuros, o clearance renal da digoxina é menor, devendo-se considerar reduções de dose além das recomendadas.
+Por outro lado, no período imediatamente posterior ao nascimento, o bebê requer, de modo geral, doses proporcionalmente mais altas que as calculadas para adultos, com base no peso ou na área de superfície corporais, como indicado na tabela abaixo. Crianças maiores de 10 anos requerem doses para adultos proporcionais ao peso.
+Dose de ataque oral
+Deve ser administrada de acordo com a seguinte tabela:
+Neonatos prematuros (<1,5 kg)
+25 µg/kg em 24 horas
+Neonatos prematuros (1,5 a 2,5 kg)
+30 µg/kg em 24 horas
+Neonatos nascidos a termo até 2 anos
+45 µg/kg em 24 horas
+De 2 a 5 anos
+35 µg/kg em 24 horas
+De 5 a 10 anos
+25 µg/kg em 24 horas
+A dose de ataque deve ser dividida, administrando-se aproximadamente metade da dose total na primeira tomada e o restante em frações, em intervalos de 4 a 8 horas. A resposta clínica deve ser avaliada antes da administração de cada dose adicional.
+Dose de manutenção
+A dose de manutenção deve ser administrada de acordo com a tabela abaixo:
+Neonatos prematuros
+Dose diária = 20% da dose de ataque de 24 horas
+Neonatos nascidos a termo e crianças de até 10 anos
+Dose diária = 25% da dose de ataque de 24 horas
+Esses esquemas de dosagem são indicados por diretrizes e devem passar por criteriosa avaliação clínica, utilizando-se a monitoração dos níveis séricos da digoxina como base dos ajustes de dosagem para os pacientes pediátricos.
+Pacientes idosos
+Entre os idosos, há a tendência de ocorrência de distúrbios da função renal e de diminuição da massa corporal, o que influencia a farmacocinética da digoxina de tal forma que níveis altos desse fármaco no plasma podem rapidamente causar intoxicação. É possível evitar isso com a redução das doses usualmente administradas a adultos. Os níveis séricos de digoxina devem ser checados regularmente para evitar hipocalemia.
+Este medicamento não deve ser diluído antes de ser ingerido.
+Sempre meça com o máximo de acurácia, a dose prescrita para você, utilizando o conta-gotas graduado que acompanha a medicação.

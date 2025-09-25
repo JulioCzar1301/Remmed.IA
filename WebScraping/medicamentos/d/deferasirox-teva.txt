@@ -1,0 +1,66 @@
+Deferasirox Teva, para o que é indicado e para o que serve?
+Deferasirox é indicado para o tratamento de sobrecarga crônica de ferro devido à transfusões de sangue (hemossiderose transfusional) em pacientes adultos e pediátricos (com 2 anos de idade ou mais).
+
+
+Quais as contraindicações do Deferasirox Teva?
+Deferasirox é contraindicado quando o clearance (depuração) de creatinina é < 40 mL/min ou a creatinina sérica > 2 vezes o limite superior da normalidade na idade apropriada.
+Em pacientes com síndrome mielodisplásica (SMD) de alto risco e pacientes com outras malignidades hematológicas e não hematológicas, nos quais não se esperam benefícios da terapia de quelação devido à rápida progressão da doença.
+Deferasirox é contraindicado em pacientes com hipersensibilidade à substância ativa ou a qualquer dos excipientes da fórmula.
+
+
+Como usar o Deferasirox Teva?
+Deferasirox deve ser tomado uma vez por dia com o estômago vazio pelo menos 30 minutos antes da refeição e, de preferência, no mesmo horário todos os dias. Os comprimidos são dispersíveis por agitação em um copo de água ou suco de laranja ou maçã (100 - 200 mL) até que uma fina suspensão seja obtida. Após a ingestão da suspensão, qualquer resíduo deve ser novamente disperso em um pequeno volume de água ou suco de laranja ou maçã e ingerido. Os comprimidos não devem ser mastigados ou engolidos inteiros. A dispersão em bebidas gaseificadas ou leite não é recomendada devido à formação de espuma e à demora para dispersão, respectivamente.
+Posologia do Deferasirox
+Recomenda-se que a terapia com Deferasirox seja iniciada após a transfusão de aproximadamente 20 unidades (aproximadamente 100 mL/kg) de bolsas de hemácias ou quando há evidência de sobrecarga crônica de ferro por avaliação clínica (p. ex. ferritina sérica > 1000 microgramas/L). As doses (em mg/kg) devem ser calculadas e arredondadas para um número mais próximo de comprimidos inteiros.
+A terapia com agentes quelantes de ferro tem o objetivo de remover a quantidade de ferro administrada nas transfusões e, quando necessário, reduzir a carga de ferro existente. A decisão de remover o acúmulo de ferro deve ser individualizada com base no benefício clínico já comprovado e nos riscos da terapia de quelação.
+Dose inicial
+A dose diária inicial de Deferasirox é de 20 mg/kg de peso corpóreo.
+Uma dose diária inicial de 30 mg/kg pode ser considerada para pacientes recebendo mais que 14 mL/kg/mês de hemácias (aproximadamente mais de 4 unidades/mês para um adulto) e para aqueles cujo objetivo é reduzir a sobrecarga de ferro.
+Uma dose inicial de 10 mg/kg pode ser considerada para pacientes recebendo menos que 7 mL/kg/mês de hemácias (aproximadamente menos de 2 unidades/mês para um adulto) e para aqueles cujo objetivo é a manutenção do nível de ferro no organismo.
+Para pacientes que já estão bem controlados com o tratamento com desferroxamina, uma dose inicial de Deferasirox equivale numericamente à metade da dose de desferroxamina administrada [por ex.: um paciente recebendo 40 mg/kg/dia de desferroxamina, por 5 dias na semana (ou equivalente), pode ser transferido para o tratamento com Deferasirox utilizando uma dose inicial de 20 mg/kg/dia].
+Ajuste de dose
+Recomenda-se que a ferritina sérica seja monitorada todo mês e que a dose de Deferasirox seja ajustada, se necessário, a cada 3 a 6 meses, baseando-se na tendência da ferritina sérica. Ajustes de dose podem ser feitos por etapas de 5 a 10 mg/kg e de acordo com as respostas individuais dos pacientes e seus objetivos terapêuticos (manutenção ou redução da sobrecarga de ferro). Em pacientes não controlados adequadamente com doses de 30 mg/kg (por exemplo, níveis de ferritina sérica persistentemente acima de 2.500 microgramas/L, e não mostrando uma tendência decrescente ao longo do tempo) doses de até 40 mg/kg podem ser consideradas. As doses acima de 40 mg/kg não são recomendadas porque há somente experiências limitadas com doses acima deste nível.
+Em pacientes nos quais o nível de ferritina sérica atinge o valor desejado (geralmente entre 500 e 1.000 microgramas/L), reduções de doses em etapas de 5 a 10 mg/kg devem ser consideradas até a manutenção do nível de ferritina sérico dentro do intervalo desejado e minimizar o risco de superquelação.
+Se a ferritina sérica cair consistentemente abaixo de 500 microgramas/L, deve ser considerada a interrupção do tratamento. Como ocorre com outros quelantes de ferro, o risco de toxicidade de Deferasirox pode ser aumentado quando pacientes com baixa carga de ferro ou com níveis de ferritina sérica ligeiramente elevados recebem doses mais altas inapropriadamente.
+As doses recomendadas estão apresentadas na Tabela 5.
+Tabela 5 - Sobrecarga de ferro transfusional: Doses recomendadas
+- Deferasirox Comprimidos para suspensão Transfusões Ferritina sérica
+Dose inicial 20 mg/kg/dia Após 20 unidades (cerca de 100 mL/kg) de bolsas de hemácias >1,000 µg/L
+Dose inicial alternativa 30 mg/kg/dia  >14 mL/kg/mês de bolsa de hemácias (aprox. >4 unidades/mês para um adulto)
+10 mg/kg/dia <7 mL/kg/mês de bolsa de hemácisas (aprox. <2 unidades/mês para um adulto)
+Para pacientes bem administrados com deferoxamina* Metade da dose de deferoxamina - -
+Etapas de ajuste (cada 3 a 6 meses) Aumento
+5 a 10 mg/kg/dia
+Até 40 mg/kg/dia - >2,500 µg/L
+Redução
+5 a 10 mg/kg/dia
+Quando o objetivo é atingido * 500 a 1,000 µg/L
+Dose máxima 40 mg/kg/dia - -
+Considerar a interrupção da dose - - <500 µg/L
+*Conversão de dose (explicação mais detelhada na Tabela 6)
+As informações sobre a conversão de dose entre comprimidos para suspensão com a deferoxamina, são mostradas na Tabela 6 abaixo.
+Tabela 6 - Conversão de dose
+Dose de Deferoxamina** Dose diária de Deferasirox
+Comprimidos para suspensão
+10 mg/kg 5 mg/kg
+20 mg/kg 10 mg/kg
+30 mg/kg 15 mg/kg
+40 mg/kg 20 mg/kg
+50 mg/kg 25 mg/kg
+60 mg/kg 30 mg/kg
+Não aplicável* 35 mg/kg
+Não aplicável* 40 mg/kg
+* Não recomendado na bula de deferoxamina.
+ ** Para pacientes já bem administrado em tratamento com deferoxamina.
+Populações especiais
+Pacientes com insuficiência renal
+O tratamento com Deferasirox deve ser usado com cautela em pacientes com níveis de creatinina sérica acima do limite para a idade. Deve-se ter cautela especialmente ao ser usado em pacientes com clearance (depuração) de creatinina entre 40 e 60 mL/min, particularmente nos casos em que há fatores de risco adicionais que podem comprometer a função renal, tais como medicações concomitantes, desidratação, ou infecções graves. As recomendações de dosagem inicial para pacientes com insuficiência renal são as mesmas descritas acima. A creatinina sérica deve ser monitorada mensalmente em todos os pacientes e, se necessário, doses diárias podem ser reduzidas em 10 mg/kg.
+Pacientes com insuficiência hepática
+Deferasirox foi estudado em um ensaio clínico em pacientes com insuficiência hepática. Para pacientes com insuficiência hepática moderada (Child-Pugh B), a dose inicial deve ser reduzida em aproximadamente 50%. Deferasirox não deve ser utilizado em pacientes com insuficiência hepática grave (Child-Pugh C).
+A função hepática em todos os pacientes deve ser monitorada antes de iniciar o tratamento, a cada 2 semanas durante o primeiro mês e depois mensalmente.
+Pacientes pediátricos
+As recomendações de dosagem para pacientes pediátricos são as mesmas para pacientes adultos. Recomenda-se que a ferritina sérica seja monitorada mensalmente para avaliar a resposta do paciente à terapia e minimizar o risco de superquelação. Mudanças no peso de pacientes pediátricos ao longo do tempo devem ser consideradas no cálculo da dose.
+Pacientes idosos
+As recomendações de dosagem para pacientes idosos são as mesmas descritas acima.
+Em estudos clínicos, pacientes idosos tiveram uma frequência maior de reações adversas do que pacientes mais jovens e devem ser monitorados cautelosamente para reações adversas que podem requerer o ajuste de dose.
+Este medicamento não deve ser partido ou mastigado.

@@ -1,0 +1,48 @@
+Trezete, para o que é indicado e para o que serve?
+Trezete deve ser usado como terapia auxiliar à dieta em pacientes considerados como de alto ou muito alto risco cardiovascular, quando a resposta à dieta e aos exercícios é inadequada em pacientes adultos com hipercolesterolemia primária (familiar heterozigótica ou não familiar) ou com dislipidemia mista.
+Em pacientes adultos com hipercolesterolemia, Trezete é indicado para:
+Redução do LDL-colesterol; colesterol total e triglicérides elevados; diminuição de ApoB; não HDL-C; das razões LDL-C/HDL-C; não HDL-C/HDL-C; ApoB/ApoA-I; colesterol total/HDL-C e aumento de HDL-C.
+
+
+Como o Trezete funciona?
+A rosuvastatina inibe uma enzima que tem importante papel na fabricação do colesterol pelo organismo, chamada HMG-CoA redutase, de forma que seu uso contínuo reduz o nível de lipídios (substâncias gordurosas) no sangue, principalmente colesterol e triglicérides. A ezetimiba age reduzindo a absorção do colesterol no intestino delgado.
+Dessa forma, Trezete apresenta uma combinação de ações, com a rosuvastatina atuando no fígado, reduzindo a produção de colesterol e a ezetimiba atuando no intestino delgado, reduzindo a absorção de colesterol.
+Esses dois mecanismos de ação obtidos com a combinação fixa da ezetimiba e rosuvastatina aumentam o efeito redutor dos níveis de colesterol em comparação ao uso isolado desses medicamentos nas mesmas doses.
+
+
+Quais as contraindicações do Trezete?
+Trezete é contraindicado em caso de:
+Hipersensibilidade (alergia) a qualquer dos componentes da medicação;
+Pacientes que estejam utilizando ciclosporina;
+Doença hepática (no fígado) ativa incluindo elevações persistentes e inexplicadas das transaminases séricas (enzimas hepáticas) e qualquer elevação das transaminases séricas que exceda 3 vezes o limite superior do normal (LSN);
+Insuficiência renal grave (TFGe < 30 mL/min/1,73 m2);
+Miopatia (doença muscular);
+Durante a gravidez, na lactação, e mulheres com potencial de engravidar que não estão usando métodos contraceptivos apropriados.
+Este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar grávidas durante o tratamento.
+
+
+Como usar o Trezete?
+Os comprimidos de Trezete devem ser ingeridos inteiros com água, por via oral. Devem ser tomados, com ou sem alimento, uma vez ao dia, a qualquer hora do dia, devendo, no entanto, tomar o medicamento no mesmo horário todos os dias.
+Este medicamento não deve ser partido ou mastigado.
+Posologia do Trezete
+Seu médico deverá avaliar os critérios adequados para indicação e posologia do tratamento com Trezete.
+Em geral, Trezete deve ser iniciado utilizando-se a dose de 10 mg + 10 mg, e caso não ocorra a resposta adequada após 4 semanas, a dose poderá ser aumentada para 20 mg + 10 mg.
+A dose máxima diária é de 20 mg + 10 mg e não deve ser excedida. A dose de Trezete deve ser sempre individualizada considerando-se a meta da terapia e a resposta do paciente.
+Adultos
+Hipercolesterolemia primária, dislipidemia mista:
+A dose inicial habitual é de 10/10 mg uma vez ao dia. Para pacientes com hipercolesterolemia grave ou aqueles pacientes que necessitam atingir metas agressivas de redução de LDL-C, pode-se considerar uma dose inicial de 20/10 mg.
+Populações especiais
+Idosos
+Utiliza-se a faixa de dose habitual.
+Pacientes com insuficiência renal
+A faixa de dose habitual se aplica a pacientes com insuficiência renal de leve a moderada. Para pacientes com insuficiência renal grave (TFG estimada < 30mL/min/m2 ) Trezete não deve ser utilizado.
+Pacientes com insuficiência hepática
+Não é necessário ajuste posológico para pacientes com insuficiência hepática leve. O tratamento com Trezete não é recomendado para pacientes com insuficiência hepática moderada ou grave. Foi observado aumento da exposição sistêmica à rosuvastatina em pacientes com insuficiência hepática grave, portanto, o uso de doses superiores a 10/10 mg em pacientes com doenças hepáticas deve ser cuidadosamente considerado.
+Raça
+Não há dados específicos relativos ao uso de Trezete em população asiática. Com base nas orientações para uso de estatinas isoladas nessa população, recomenda-se o uso da terapia combinada sempre com a menor dose inicial e aumentando progressivamente se necessário, de acordo com resposta e a tolerabilidade do paciente. Com base em estudos com a rosuvastatina isolada, tem sido observada uma concentração plasmática aumentada de rosuvastatina em descendentes asiáticos. O aumento da exposição sistêmica deve ser levado em consideração no tratamento de pacientes descendentes asiáticos, cuja hipercolesterolemia não é adequadamente controlada com doses diárias de até 20 mg.
+Terapia concomitante
+A rosuvastatina é um substrato de várias proteínas transportadoras (por exemplo, OATP1B1 e BCRP). O risco de miopatia (transtorno da função muscular), incluindo rabdomiólise (doença que afeta os músculos e acarreta perda de tecido muscular) é maior quando a rosuvastatina é administrada concomitantemente com certos medicamentos que podem aumentar a concentração plasmática da rosuvastatina devido às interações com essas proteínas transportadoras, por exemplo ciclosporina e alguns inibidores de protease, incluindo combinações de ritonavir com atazanavir, lopinavir, e/ou tipranavir.
+Sempre que possível, medicamentos alternativos devem ser considerados e, se necessário, considerar a interrupção temporária da terapia com Trezete. Em situações em que a coadministração destes medicamentos com Trezete é inevitável, o benefício e o risco do tratamento concomitante e ajustes da posologia de Trezete devem ser cuidadosamente considerados.
+Coadministração com sequestrantes de ácidos biliares
+Trezete deve ser administrado no mínimo duas horas antes ou no mínimo quatro horas depois da administração de sequestrantes de ácidos biliares.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu médico.

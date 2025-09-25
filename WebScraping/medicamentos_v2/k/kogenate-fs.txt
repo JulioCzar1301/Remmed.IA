@@ -1,0 +1,96 @@
+Kogenate Fs, para o que é indicado e para o que serve?
+Kogenate FS é indicado para o tratamento de hemofilia clássica (hemofilia A), e para o tratamento profilático em pacientes pediátricos, reduzindo a ocorrência de hemorragias espontâneas e o risco de lesões articulares decorrentes da hemofilia A.
+Kogenate FS não contém fator de von Willebrand e, portanto, não está indicado no tratamento da doença de von Willebrand.
+Como o Kogenate FS funciona?
+Kogenate FS fornece uma maneira de, temporariamente, substituir o fator VIII ausente para manter um ambiente interno estável para o funcionamento do corpo.
+
+
+Quais as contraindicações do Kogenate Fs?
+Não use este medicamento se você tem intolerância conhecida ou reações alérgicas aos constituintes do produto.
+
+
+Como usar o Kogenate Fs?
+Kogenate FS é administrado diretamente à corrente sanguínea por injeção intravenosa.
+O número de unidades de fator VIII administrado é expresso em Unidades Internacionais (UI), e está relacionado com a atual norma da Organização Mundial de Saúde (OMS) para produtos de fator VIII. A atividade de fator VIII no plasma é expressa em porcentagem (relativa ao plasma humano normal) ou em Unidades Internacionais (relativamente ao Padrão Internacional para fator VIII no plasma). Uma Unidade Internacional (UI) de atividade de fator VIII é equivalente a essa quantidade de fator VIII em 1mL de plasma humano normal. O cálculo da dosagem necessária de fator VIII baseia-se na constatação empírica que 1 Unidade Internacional (UI) de fator VIII por kg de peso corporal aumenta a atividade plasmática de fator VIII em 1,5% a 2,5% da atividade normal.
+A dose e a duração da terapia de substituição com Kogenate FS necessárias para inibir hemorragias devem ser individualizadas, de acordo com as necessidades do paciente (peso, gravidade da deficiência na função hemostática, local e gravidade/extensão da hemorragia, o nível de inibidores e o nível de fator VIII desejado).
+O efeito clínico do fator VIII é o elemento mais importante na avaliação da eficácia do tratamento. Pode ser necessário administrar mais Kogenate FS do que se calculava a fim de atingir resultados clínicos satisfatórios. Se a dose calculada deixar de atingir os níveis esperados de fator VIII ou se o sangramento não for controlado depois da administração da dose calculada, deve-se suspeitar de inibidor circulante naquele paciente. Sua presença deve ser constatada e seu nível quantificado por exames laboratoriais apropriados.
+Quando um inibidor está presente, a dose necessária de Kogenate FS pode ser extremamente variável e só pode ser determinada pela resposta clínica.
+Pode-se fazer uma estimativa da elevação percentual do nível do fator VIII num organismo vivo multiplicando-se a dose de Kogenate FS por quilograma de peso corporal (UI/kg) por 2%.
+Cálculo 1
+Dose necessária (UI) = peso corporal (kg) x aumento do fator VIII desejado (% normal) x 0,5 (UI/Kg).
+Cálculo 2
+Aumento do fator VIII esperado (% normal) = (2% / UI / kg x unidades administradas)/peso corporal (kg).
+A dose individual usual é 10-30UI/Kg de peso corporal.
+
+A dose necessária para obter inibição de hemorragias depende do tipo e da gravidade do episódio de sangramento.
+Dosagem necessária para inibição de hemorragias:
+Evento hemorrágico Nível plasmático de atividade do fator VIII terapeuticamente necessário Dosagem necessária para manter o nível plasmático terapêutico
+Pequena hemorragia (hemorragias superficiais em início, hemorragias em articulações) 20-40% 10-20UI por kg
+Repetir a dose se há evidência de persistência do sangramento.
+Hemorragia moderada a grande (hemorragias em músculos, na cavidade oral, dentro de articulações, trauma conhecido) 30-60% 15-30UI por kg
+Repetir uma dose em 12-24 horas se necessário
+Cirurgia (pequenos procedimentos cirúrgicos)    
+Grande hemorragia ou que coloque a vida em risco (intracraniana, intra-abdominal ou intratorácica, sangramento gastrintestinal, sangramento no sistema nervoso central, sangramento nos espaços retrofaríngeos ou retroperitoneais ou na bainha do iliopsoas) 80-100% Dose inicial de 40-50UI por kg
+Repetir a dose de 20-25UI por kg a cada 8-12 horas.
+Fraturas    
+Traumatismo craniano    
+Cirurgia
+Grandes procedimentos
+cirúrgicos ~ 100%
+a) Por infusão de uma vez só (in bolus):
+Dose pré-operatória de 50UI/kg
+Verificar ~ 100% de atividade antes da cirurgia. Repetir, conforme necessário, depois de 6 a 12 horas inicialmente e por 10 a 14 dias até que a cicatrização esteja completa.
+b) Por infusão contínua:
+Elevar a atividade de fator VIII pré-cirurgico com uma infusão inicial in bolus e, imediatamente após com infusão contínua (em UI / h / kg), ajustar de acordo com a depuração diária do medicamento do organismo do paciente e com os níveis de fator VIII desejados por pelo menos 7 dias.
+Taxa de Administração
+Estudos demonstram que toda a dose é administrada em uma média de 5 minutos. A taxa de administração, no entanto, deve ser adaptada à resposta individual de cada paciente.
+Infusão contínua
+Kogenate FS pode ser administrado por infusão contínua. A velocidade de infusão deve ser calculada com base na depuração do medicamento do organismo e no nível desejado de fator VIII.
+Em um estudo clínico realizado em pacientes adultos com hemofilia A que se submeteram a uma grande cirurgia, as taxas de infusão de Kogenate FS foram 0,2 a 3,6mL/h.
+Ex.: Para um paciente de 75 kg com depuração de 3mL/h/kg, a taxa de infusão inicial seria 3UI/h/kg para alcançar nível de fator VIII de 100%. Para o cálculo de mL/hora, multiplicar a velocidade de infusão em UI/h/kg por quilo de massa corporal/concentração da solução (UI/mL).
+Cálculo da taxa de infusão e da depuração baseado no nível desejado de fator VIII:
+Podem ser exigidas taxas superiores de infusão em condições de depuração acelerada do fator durante intervenções cirúrgicas com grandes hemorragias e extenso dano tecidual.
+Posteriormente, as taxas de infusão devem ser calculadas com base nos níveis reais de fator VIII e a depuração recalculada para cada dia pós-cirúrgico com base na equação:
+Depuração = velocidade de infusão
+                   nível real de fator VIII
+Durante a infusão contínua, as bolsas de infusão devem ser trocadas a cada 24 horas.
+Foi demonstrado em um estudo clínico realizado com pacientes adultos com hemofilia A, submetidos a uma grande cirurgia, que Kogenate FS pode ser utilizado para a infusão contínua em cirurgias (pré e pósoperatório). Neste estudo foi usada heparina, um anticoagulante, para evitar tromboflebite, ou seja, formação de um trombo e inflamação da veia no local de infusão, como em qualquer outra infusão intravenosa de longo prazo.
+Taxa de infusão (UI/h/kg) = Depuração (mL/h/kg) x nível de fator VIII desejável (UI/mL).
+A estabilidade clínica e in vitro foram demonstradas utilizando bombas ambulatoriais com reservatório de polivinilcloreto (PVC). Kogenate FS contém baixo nível de polissorbato 80 como excipiente; o polissorbato 80 é conhecido por aumentar a taxa de di-(2-etilhexil) ftalato (DEHP) extraído de materiais em PVC. Isso deve ser considerado para uma administração de infusão contínua.
+Informações sobre os materiais que compõem a apresentação de Kogenate FS utilizados para reconstituição:
+Adaptador para Frasco
+Com filtro de 15um.
+Para uso único – descartável.
+Conteúdo estéril e não-pirogênico, ou seja, não induz aumento da temperatura corporal.
+Não utilizar se a embalagem estiver danificada.
+Prazo de Validade e Lote (Exp e Lot): vide informações impressas na embalagem do adaptador para frasco.
+Fabricado por: West Pharmaceutical Services Inc. – Lionville PA – 19341 - EUA.
+Equipo para infusão com filtro
+Não-pirogênico.
+Estéril.
+Prazo de Validade e Lote (Exp e Lot): vide informações impressas na embalagem do equipo para infusão.
+Fabricado por: Becton Dickinson (BD) Nogales, Sonora, México 84094 para Becton Dickinson (BD), Franklin Lakes - NJ - 07417 - EUA.
+Reconstituição Kogenate FS injetável
+Para infusão, o produto deve ser preparado sob condições assépticas. Se algum componente da embalagem estiver aberto ou danificado, não utilize este componente.
+Medicamentos parenterais devem ser visualmente inspecionados quanto à coloração e presença de material particulado antes da administração. Não utilize Kogenate FS se estiver turvo ou notar alguma partícula na solução.
+Kogenate FS deve ser reconstituído e administrado utilizando os componentes fornecidos em cada embalagem.
+O produto deve ser utilizado dentro de 3 horas após a reconstituição. Para infusão contínua, durante estudos in vitro, a estabilidade química e física foi demonstrada por 24 horas à temperatura de 30ºC, em bolsas de PVC.
+O produto reconstituído deve ser filtrado antes da sua administração para remover possível material particulado da solução. Esta filtração é realizada utilizando o adaptador para frasco.
+Lave bem as mãos antes dos seguintes procedimentos:
+Aqueça o frasco-ampola e a seringa entre as mãos, sem abri-los, até uma temperatura confortável (não exceder 37ºC).
+Remova o lacre protetor do frasco-ampola (Fig. A). Limpe assepticamente a tampa de borracha com álcool, tendo o cuidado de não tocar na tampa de borracha com as mãos.
+Coloque o frasco-ampola em uma superfície firme, não escorregadia. Retire a cobertura de papel da embalagem do adaptador para frasco. Não remova o adaptador da embalagem plástica. Segurando a embalagem do adaptador, coloque sobre o frasco-ampola e pressione firmemente para baixo (Fig. B). O adaptador irá perfurar a tampa de borracha do frasco. Não remova a embalagem do adaptador nesta etapa.
+Cuidadosamente, abra a embalagem (blíster) da seringa retirando a cobertura de papel até a metade. Retire a seringa preenchida com diluente. Segure o êmbolo pela parte superior e retire-o do blíster. Evite tocar a lateral e a parte final rosqueada do êmbolo. Segure a seringa em pé, conecte o êmbolo (segurando pela parte superior) e rosqueie girando firmemente no sentido horário (Fig. C).
+Segurando a seringa pelo corpo, retire a tampa da ponta da seringa (Fig. D). Não toque a ponta da seringa com as mãos ou em qualquer superfície. Coloque a seringa de lado.
+Agora remova a embalagem do adaptador (Fig. E).
+Conecte a seringa preenchida na parte rosqueada do adaptador para frasco e gire no sentido horário (Fig. F).
+Injete o diluente no frasco-ampola empurrando lentamente o êmbolo para baixo (Fig. G).
+Gire delicadamente o frasco-ampola até completa dissolução (Fig. H). Não agite o frasco. Assegurese de que o pó esteja completamente dissolvido. Não use soluções que contenham partículas visíveis ou que apresentem turvação.
+Retire a solução do frasco-ampola com a seringa, mantendo o frasco-ampola acima do adaptador para frasco e da seringa (Fig. I), e puxando o êmbolo lenta e suavemente. Assegure-se de que o conteúdo total do frasco-ampola foi passado para seringa.
+Mantenha êmbolo fixo e remova a seringa do adaptador para frasco (o adaptador para frasco deve permanecer fixado ao frasco-ampola). Rosqueie a seringa ao equipo para infusão que se encontra dentro do cartucho e faça a injeção intravenosa (Fig. J).
+Se o mesmo paciente for receber a administração de mais de um frasco-ampola, faça a reconstituição de cada frasco-ampola com a respectiva seringa com diluente e, posteriormente, junte as soluções em uma seringa maior (não faz parte da apresentação do produto) e administre de maneira usual.
+De maneira geral, soluções para uso parenteral devem ser inspecionadas visualmente quanto à presença de partículas ou alteração de cor antes da aplicação.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.
+O que devo fazer quando eu me esquecer de usar o Kogenate FS?
+Em caso de dúvidas, procure orientação do farmacêutico ou de seu médico ou cirurgião-dentista.

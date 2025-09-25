@@ -1,0 +1,94 @@
+Zinforo, para o que é indicado e para o que serve?
+Zinforo® (ceftarolina fosamila) é indicado para o tratamento de pacientes, com as seguintes infecções:
+Infecções de pele e partes moles complicadas (IPPMc) causadas por isolados sensíveis de Staphylococcus aureus (incluindo cepas resistentes à meticilina -MRSA), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus anginosus (inclui S. anginosus, S. intermedius, e S. constellatus), Streptococcus dysgalactiae, Escherichia coli, Klebsiella pneumoniae, Klebsiella oxytoca e Morganella morganii.
+Pneumonia adquirida na comunidade (PAC) causada por isolados sensíveis de Streptococcus pneumoniae (incluindo casos com bacteremia concomitante (bactéria isolada no sangue)), Staphylococcus aureus (apenas cepas sensíveis à meticillina - MSSA), Escherichia coli, Haemophilus influenzae, Haemophilus parainfluenzae e Klebsiella pneumoniae.
+Zinforo® é indicado em recém-nascidos, lactentes, crianças, adolescentes e adultos.
+Deve-se levar em consideração diretrizes oficiais sobre o uso apropriado de agentes antibacterianos.
+
+
+Como o Zinforo funciona?
+A ceftarolina (substância ativa de Zinforo®) é um antibiótico da classe das cefalosporinas, com atividade contra bactérias Gram-positivas, incluindo Staphylococcus aureus resistentes à meticilina (MRSA), em estudos para IPPMc. Também possui amplo espectro de ação contra bactérias Gram-negativas.
+
+
+Quais as contraindicações do Zinforo?
+Você não deve utilizar Zinforo® se tiver alergia ao princípio ativo ou a qualquer um dos excipientes.
+Você não deve utilizar Zinforo® se tiver alergia à classe de medicamentos antibacterianos chamados cefalosporinas.
+Você não deve utilizar Zinforo® se tiver alergia a qualquer outro tipo de agente antibacteriano beta-lactâmico.
+
+
+Como usar o Zinforo?
+Reconstituição e compatibilidade
+O pó deve ser reconstituído com água para injeção e a solução resultante deve ser diluída imediatamente antes do uso. A solução reconstituída é amarelo pálida livre de qualquer partícula.
+Técnicas padrão de assepsia devem ser utilizadas para preparação de soluções e administração.
+Zinforo® pó deve ser reconstituído com 20 mL de água para injeção esterilizada.
+A solução reconstituída resultante deve ser agitada antes de ser transferida para um frasco ou bolsa de infusão e então deve ser imediatamente diluída em um dos seguintes diluentes:
+Solução injetável de cloreto de sódio 9 mg/mL (0,9%);
+Solução injetável de glicose 50 mg/mL (5%);
+Solução injetável de cloreto de sódio 4,5 mg/mL e glicose 25 mg/mL (cloreto de sódio 0,45% e glicose 2,5%);
+Solução de Ringer lactato.
+Uma bolsa de infusão de 250 mL, 100 mL ou 50 mLpode ser utilizada para preparar a infusão. O intervalo de tempo total entre o início da reconstituição e a finalização da preparação da solução diluída para infusão intravenosa não deve exceder 30 minutos.
+Um mL da solução reconstituída contém 30 mg de ceftarolina fosamila.
+O volume de infusão para pacientes pediátricos irá variar de acordo com o peso da criança. A concentração da solução de infusão durante a preparação e administração não deve exceder 12 mg/mL de ceftarolina fosamila.
+A solução diluída (frasco ou bolsa de infusão) deve ser administrada em até 6 horas quando mantida em temperatura ambiente de 25°C. Esta solução pode ser armazenada por até 12 horas entre 2 e 8°C. No entanto, uma vez removida da refrigeração, a solução diluída deverá ser utilizada em até 6 horas.
+Cada frasco é para uma única utilização.
+O limite máximo diário de Zinforo® é de 1.800 mg.
+Zinforo® deve ser usado por infusão intravenosa, outra via de administração não é recomendada.
+Dosagem em adultos e pacientes pediátricos
+A dose recomendada de Zinforo® é de 600 mg, administrados a cada 12 horas por infusão intravenosa, durante 5 a 60 minutos (dose padrão), com reduções apropriadas para pacientes pediátricos (vide Tabela 1). A duração do tratamento deve ser orientada pelo tipo de infecção a ser tratada, sua gravidade e resposta clínica do paciente.
+Para o tratamento de infecções de pele e partes moles complicadas, confirmadas ou suspeitas de serem causadas por Staphylococcus aureus (S. aureus) com uma Concentração Inibitória Mínima (CIM) < 2 mg/L para ceftarolina, a dosede Zinforo® é de 600 mg administrada a cada 12 horas, por infusão intravenosa, por 5 a 60 minutos (dose padrão), com reduções apropriadas para pacientes pediátricos (vide Tabela 1).
+Para o tratamento de pacientes com IPPMc, confirmadas ou suspeitas, de serem causadas por S. aureus com uma CIM = 2 mg/L ou 4 mg/L para ceftarolina, a dose de Zinforo® é de 600 mg, administrada a cada 8 horas por infusão intravenosa, durante 120 minutos (dose elevada), com reduções apropriadas para pacientes pediátricos (vide Tabela 1).
+Tabela 1. Dosagem em pacientes com clearance de creatinina (ClCr)> 50 mL/min*:
+Indicações /
+Duração de tratamento recomendada (dias) Faixa etária Posologia Tempo de infusão (minutos)a /
+Frequência
+Dose padrão
+IPPMcb / 5 – 14
+PACc / 5 – 7
+Adultos e adolescentes com idade entre 12 e <18 anos, com peso corpóreo ≥ 33 kg 600 mg 5 – 60 / a cada 12 horas
+Adolescentes com idade entre 12 anos e <18 anos com peso corpóreo < 33 kg e crianças ≥ 2 anos a < 12 anos 12 mg/kg a um máximo de 400 mg 5 – 60 / a cada 8 horas
+≥ 2 meses a <2 anos 8mg/kg 5 – 60 / a cada 8 horas
+Do nascimento a <2 meses 6 mg/kg 60 / a cada 8 horas
+Dose elevada
+IPPMcb confirmada ou suspeita de ser causada por S. aureus com uma CIM =2 mg/L ou 4 mg/L para ceftarolinad / 5 – 14
+Adultos 600 mg 120 / a cada 8 horas
+Adolescentes e crianças de ≥ 2 anos a <18 anos 12 mg/kg, a um máximo de 600 mg 120 / a cada 8 horas
+≥ 2 meses a <2 anos 10 mg/kg 120 / a cada 8 horas
+a O tempo de infusão de 5 minutos é baseado em análises farmacocinéticas e farmacodinâmicas.
+b Indicação de infecções de pele e partes moles complicadas (IPPMc).
+c Indicação de pneumonia adquirida na comunidade (PAC).
+d Baseado em análises farmacocinéticas e farmacodinâmicas.
+* Calculado usando a fórmula de Cockcroft-Gault para adultos e a fórmula de Schwartz (em mL/min/1,73 m2 ) para pacientes pediátricos.
+Populações especiais
+Pacientes com insuficiência renal
+A dose deve ser ajustada quando a depuração da creatinina (ClCr) for ≤ 50 mL/min, conforme apresentado na Tabela 2.Os pacientes com doença renal terminal só podem ser tratados conforme posologia na Tabela 2.
+Tabela 2. Posologia em pacientes com insuficiência renal (ClCr ≤ 50 mL/min):
+Indicações /
+Duração de tratamento recomendada (dias) Faixa etária Clearance de creatinina (mL/min)a Posologia Tempo de infusão (minutos)b /
+Frequência
+Dose padrão
+IPPMcc / 5 – 14
+PACd / 5 – 7
+Adultos e adolescentes com idade entre 12 e < 18 anos com peso corpóreo ≥ 33 kg > 30 a ≤ 50 400 mg 5 – 60 / a cada 12 horas
+≥ 15 a ≤ 30 300 mg
+Doença renal terminal, incluindo hemodiálisef 200 mg
+Adolescentes com idade entre 12 anos e < 18 anos com peso corpóreo <33 kg e crianças ≥ 2 anos a < 12 anos > 30 a ≤ 50 8mg/kg a um máximo de 300mg 5 – 60 / a cada 8 horas
+≥ 15 a ≤ 30 6mg/kg a um máximo de 200mg
+Dose elevada
+IPPMcc confirmada ou suspeita de ser causada por S. aureus com uma CIM =2 mg/L ou 4 mg/L para ceftarolinae / 5 – 14
+Adultos > 30 a ≤ 50 400 mg 120 / a cada 8 horas
+≥ 15 a ≤ 30 300 mg
+Doença renal terminal, incluindo hemodiálisef 200 mg
+Adolescentes e crianças com idade entre ≥ 2 anos a < 18 ano > 30 a ≤ 50 10 mg/kg, a um máximo de 400 mg  120 / a cada 8 horas
+≥ 15 a ≤ 30 8 mg/kg a um máximo de 300 mg
+a Calculado utilizando a fórmula de Cockcroft-Gault para adultos e fórmula de Schwartz para pacientes pediátricos(em mL/min/1,73 m2 ). A dose é baseada no ClCr. O ClCr deve ser monitorado de perto e a dose ajustada de acordo com a alteração da função renal.
+b O tempo de infusão de 5 minutos é baseado em análises farmacocinéticas e farmacodinâmicas.
+c Indicação de infecções de pele e partes moles complicadas (IPPMc).
+d Indicação de pneumonia adquirida na comunidade (PAC).
+e Baseado em análises farmacocinéticas e farmacodinâmicas.
+f A ceftarolina é hemodialisável. Assim, Zinforo® deve ser administrado após hemodiálise em dias de hemodiálise.
+Pacientes com insuficiência hepática
+Nenhum ajuste de dose é considerado necessário em pacientes com insuficiência hepática.
+Pacientes idosos
+Não é necessário ajuste de dose para os idosos com depuração de creatinina (ClCr) > 50 mL/min.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

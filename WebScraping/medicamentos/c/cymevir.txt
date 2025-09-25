@@ -1,0 +1,79 @@
+Cymevir, para o que é indicado e para o que serve?
+Este medicamento é indicado nas seguintes situações:
+Manutenção do tratamento de retinite (inflamação de retina) causada por citomegalovírus (CMV) em pacientes portadores do vírus da AIDS, desde que a retinite esteja estável após terapia de indução;
+Para a prevenção e tratamento de infecções por citomegalovírus (CMV) em pacientes imunodeprimidos;
+Prevenção de doença causada por CMV em pacientes portadores do vírus da AIDS com risco de desenvolver essa doença;
+Em pacientes que receberam transplante de órgãos sólidos.
+O citomegalovírus (CMV) é um vírus que pode infectar qualquer parte do corpo, incluindo a retina do olho, causando a retinite (inflamação de retina) e problemas com acuidade visual (clareza na percepção da visão).
+
+
+Como o Cymevir funciona?
+Cymevir® é o nome comercial para o ganciclovir sódico, uma droga antiviral, ativa contra o citomegalovírus.
+A solução estéril de Cymevir®, destina-se exclusivamente à administração intravenosa. Cada bolsa contém 100mg, 250mg e 500mg de ganciclovir. O nome químico do ganciclovir é 9- (1,3-Dihidroxi-2-propoximetil) guanina. O ganciclovir tem sido referido, também, como DHPG.
+O ganciclovir é um nucleosídeo sintético que inibe a replicação dos herpes vírus, tanto in vitro como in vivo. Os vírus humanos sensíveis ao ganciclovir incluem os citomegalovírus (CMV), os vírus herpes simples 1 e 2 (HSV-1, HSV-2), o herpes vírus humano tipo 6, 7 e 8 (HHV-6, HHV-7, HHV-8) o vírus de Epstein-Barr (EBV) e o vírus da Varicela Zoster (VZV) e o vírus da Hepatite B. Os estudos clínicos têm se limitado à avaliação da eficácia na infecção por citomegalovírus.
+Nas células infectadas o ganciclovir causa inibição da síntese do DNA viral. A possibilidade de resistência viral deve ser considerada em pacientes que demonstrem pouca resposta clínica ou excreção viral persistente. A resistência do CMV ao ganciclovir é rara (aproximadamente 1%), mas tem sido observada em pacientes com AIDS e com retinite por CMV que nunca receberam terapia com ganciclovir.
+O volume de distribuição de ganciclovir após administração intravenosa está correlacionado com o peso corpóreo.
+Quando administrado I.V. o ganciclovir exibe uma farmacocinética linear estendendo-se de 1,6 – 5,0mg/kg.
+A excreção renal da droga inalterada, por filtração glomerular e secreção tubular, é a principal via de eliminação do Cymevir®.
+Farmacocinética em Situações Clínicas Especiais
+Pacientes com disfunção renal
+A farmacocinética do Cymevir® I.V. foi avaliada em 10 pacientes imunossuprimidos com disfunção renal que receberam doses de 1,25 – 5mg/kg.
+Pacientes em hemodiálise
+A hemodiálise reduz a concentração plasmática do Cymevir® em cerca de 50% após a administração I.V.
+Durante a hemodiálise intermitente, o clearance estimado do ganciclovir variou de 42 a 92mL/min, resultando em uma meia-vida de 3,3 a 4,5 horas. O clearance estimado do ganciclovir para a diálise contínua foi menor (4,0 a 29,6mL/min), mas resultou numa eliminação maior do ganciclovir no intervalo entre as doses. Para a hemodiálise intermitente, a fração de eliminação do ganciclovir numa sessão de diálise variou de 50% a 63%.
+Crianças
+A farmacocinética do ganciclovir foi estudada em 27 neonatos com idade entre 2 – 49 dias com dose intravenosa de 4 mg/kg e 6 mg/kg. Os clearances sistêmicos foram comparáveis àqueles observados em adultos com função renal normal. A farmacocinética do ganciclovir foi também avaliada em 10 crianças com função renal normal, idade de 9 meses a 12 anos. As características farmacocinéticas do ganciclovir foram às mesmas após dose única ou múltipla (a cada 12 horas) de administração intravenosa (5 mg/kg).
+Idosos
+Não existem dados disponíveis para adultos com idade acima de 65 anos.
+
+
+Quais as contraindicações do Cymevir?
+Você não deve utilizar Cymevir® se tem alergia conhecida a ganciclovir, aciclovir, valaciclovir, valganciclovir ou a qualquer outro componente da fórmula.
+Categoria de risco C.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+
+
+Como usar o Cymevir?
+O modo correto de aplicação e administração do medicamento é pela via intravenosa.
+Antes de serem administradas as soluções parenterais devem ser inspecionadas visualmente para se observar a presença de partículas, turvação na solução, fissuras e quaisquer violações na embalagem primária.
+Via de administração: intravenosa.
+Uso adulto.
+Dose padrão para tratamento de retinite por CMV e dose padrão para prevenção em receptores de transplante
+Tratamento de indução
+5 mg/kg a cada 12 horas em pacientes com função renal normal, por 14 – 21 dias para o tratamento da retinite e 7 – 14 dias para a prevenção em receptores de transplante.
+Tratamento de manutenção
+5mg/kg administrado por infusão intravenosa durante 1 hora, 1 vez por dia 7 dias/semana ou 6mg/kg 1 vez ao dia por 5 dias/semana.
+Dosagens especiais
+Pacientes com disfunção renal
+A dose do Cymevir® deve ser modificada como mostrado na tabela abaixo.
+Clearance de creatinina pode ser calculado pela creatinina sérica pela sua fórmula:
+Para pacientes do sexo feminino = 0,85 x valor para o sexo masculino.
+Clearence de creatinina
+Dose de indução
+Dose de manutenção
+≥ 70mL/min
+5mg/Kg a cada 12h
+5mg/Kg/dia
+50 – 69mL/min
+2,5mg/Kg a cada 12h
+2,50mg/Kg/dia
+24 - 49mL/min
+2,5mg/Kg/dia
+1,25mg/Kg/dia
+10 – 24mL/min
+1,25mg/Kg/dia
+0,625mg/Kg/dia
+< 10mL/min
+1,25 mg/Kg 3X por semana depois da hemodiálise
+0,625mg/Kg 3X por semana depois da hemodiálise
+Idosos
+A dose de ganciclovir sódico deve ser ajustada considerando sua condição renal.
+Recomenda-se modificações da dosagem em pacientes com diminuição renal; a creatinina sérica ou clearance de creatinina devem ser monitorados cuidadosamente.
+Pacientes com leucopenia, leucopenia grave, anemia e trombocitopenia
+Leucopenia grave, neutropenia, anemia, trombocitopenia, mielossupressão e anemia aplástica são observados em pacientes tratados com ganciclovir.
+Como pacientes idosos têm disfunção renal com frequência, Cymevir® deve ser administrado a pacientes idosos com especial consideração pela sua condição renal.
+Crianças
+A eficácia e segurança do ganciclovir sódico em pacientes pediátricos não está estabelecida, incluindo o uso de Cymevir® para tratamento de infecções congênitas ou neonatais por CMV. O uso do Cymevir® em crianças requer extremo cuidado devido ao potencial carcinogênico a longo prazo e toxicidade na reprodução. Os benefícios do tratamento devem ser considerados em relação aos riscos. Duração do tratamento a critério médico.
+Para administração de doses que variam de acordo com o peso do paciente, Cymevir® deve ser administrado através de bomba de infusão.
+Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico.

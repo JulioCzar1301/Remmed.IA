@@ -1,0 +1,238 @@
+Everolimo EMS, para o que é indicado e para o que serve?
+Comprimido 2,5mg, 5mg e 10mg
+Everolimo é indicado para o tratamento de:
+Mulheres na pós-menopausa com câncer de mama avançado, receptor hormonal positivo, em combinação com um inibidor da aromatase, após terapia endócrina prévia.
+Pacientes com tumores neuroendócrinos avançados (NET) localizados no estômago e intestino, pulmão ou pâncreas.
+Pacientes com câncer avançado do(s) rim(ns) (Carcinoma avançado de Células Renais (CCR)) cuja doença tenha progredido durante ou após o tratamento com VEGFR – TKI, quimioterápicos ou imunoterápicos.
+Pacientes com angiomiolipoma renal associado à complexo de esclerose tuberosa (TSC) não necessitando de cirurgia imediata (em pacientes acima de 18 anos).
+Pacientes com astrocitoma subependimário de células gigantes (SEGA, um tumor cerebral específico) associado à complexo de esclerose tuberosa (TSC).
+Comprimido 0,5mg, 0,75mg e 1,0mg
+Transplante de coração e rim
+Everolimo é indicado para a profilaxia da rejeição de órgãos em pacientes adultos receptores de transplante alogênico renal ou cardíaco com risco imunológico baixo a moderado. No transplante de coração e rim, Everolimo deve ser utilizado em combinação com ciclosporina para microemulsão e corticosteroides.
+Transplante de fígado
+Everolimo é indicado para a profilaxia da rejeição de órgãos em pacientes receptores de transplante hepático. No transplante hepático, Everolimo deve ser utilizado em combinação com tacrolimo e corticosteroides.
+
+
+Quais as contraindicações do Everolimo EMS?
+Comprimido 2,5mg, 5mg e 10mg
+Everolimo é contraindicado a pacientes com hipersensibilidade ao princípio ativo, a outros derivados da rapamicina ou a qualquer um dos excipientes.
+Comprimido 0,5mg, 0,75mg e 1,0mg
+Everolimo está contraindicado em pacientes com hipersensibilidade conhecida ao everolimo, sirolimo ou a qualquer um dos excipientes.
+
+
+Como usar o Everolimo EMS?
+Comprimido 2,5mg, 5mg e 10mg
+Everolimo deve ser administrado por via oral uma vez ao dia no mesmo horário todos os dias, regularmente, seja com ou sem alimento.
+Os comprimidos de Everolimo devem ser engolidos inteiros com um copo de água. Os comprimidos não devem ser mastigados ou triturados.
+Para pacientes com TSC e SEGA que não conseguirem engolir os comprimidos inteiros, os comprimidos de Everolimo podem ser dispersos completamente em um copo com água (contendo aproximadamente 30 mL) por agitação suave, até que o comprimido esteja completamente desintegrado (aproximadamente 7 minutos), imediatamente antes da ingestão. O copo deve ser enxaguado com o mesmo volume de água e o enxágue deve ser ingerido completamente para garantir que a dose total seja administrada.
+O tratamento com Everolimo deve ser iniciado por um médico experiente em tratamentos anticancerígenos ou no tratamento de pacientes com TSC.
+O tratamento deve continuar enquanto o benefício clínico seja observado ou até que ocorra toxicidade inaceitável.
+População-Alvo Geral
+Adultos
+Dosagem em câncer de mama avançado receptor hormonal positivo, tumores neuroendócrinos avançados de origem gastrintestinal, pulmonar ou pancreática, em Carcinoma Avançado de Células Renais e Angiomiolipoma renal associado ao TSC
+A dose recomendada de Everolimo é de 10 mg, uma vez ao dia.
+Dose em TSC e SEGA
+Individualizar a dosagem com base na Área de Superfície Corporal (ASC, em m2) utilizando a fórmula de Dubois, onde o peso (P) é em quilogramas e a altura (H) é em centímetros:
+ASC = (P0,425 x H0,725) x 0,007184.
+A dose diária inicial recomendada de Everolimo para o tratamento de pacientes com TSC e SEGA é 4,5 mg/m2, arredondada para a concentração mais próxima de Everolimo. Diferentes concentrações de comprimidos de Everolimo podem ser combinadas para obter-se a dose desejada.
+É necessário o monitoramento terapêutico da concentração sanguínea de everolimo, em pacientes tratados para TSC com SEGA. As concentrações mínimas de everolimo no sangue total devem ser avaliadas aproximadamente 2 semanas após o início do tratamento. Avaliar o volume do SEGA, aproximadamente 3 meses após o início da terapia com Everolimo, com os ajustes subsequentes da dose levando em conta as alterações no volume do SEGA, concentração mínima correspondente e tolerância.
+Uma vez que a dose estável é atingida, monitorar as concentrações, a cada 3 a 6 meses em pacientes com alteração da área da superfície corporal ou a cada 6 a 12 meses em pacientes com área de superfície corporal estável durante o tratamento.
+Modificações na dose
+Reações adversas ao medicamento [RAMs]
+O tratamento de reações adversas ao medicamento graves ou intoleráveis pode levar a uma interrupção temporária da dose (com ou sem redução da dose) ou descontinuação do tratamento com Everolimo. Se a
+redução da dose for necessária, a dose sugerida é, aproximadamente, 50% menor que a dose diária administrada anteriormente. Para redução de dosagem abaixo da concentração mais baixa disponível, a administração em dias alternados deve ser considerada.
+A Tabela 2-1 resume as recomendações para interrupção, redução ou descontinuação da dose de Everolimo no tratamento de RAMs. Também são fornecidas recomendações de tratamento gerais, conforme aplicável. O julgamento clínico do médico responsável deve orientar o plano de tratamento de cada paciente com base na avaliação individual de risco/benefício.
+Tabela 2-1 Ajuste da dose de Everolimo e recomendações de tratamento para reações adversas ao medicamento
+Reação Adversa ao Medicamento
+Gravidade1
+Ajuste da Dose de Everolimo e Recomendações de Tratamento
+Pneumonite não infecciosa
+Grau 1
+Assintomático, observações diagnósticas ou clínicas apenas
+Não é necessário ajuste da dose Iniciar o monitoramento adequado
+Grau 2
+Sintomática, intervenção médica indicada; limitação instrumental nas atividades diárias3
+Considerar a interrupção da terapia, descartar infecção, e considerar tratamento com corticosteroides até a melhora dos sintomas para ≤ Grau 1 Reiniciar o tratamento com uma dose 50% mais baixa que a dose diária previamente administrada. Descontinuar o tratamento se houver falha na recuperação dentro de 4 semanas
+Grau 3
+Sintomas graves; limitando o auto-cuidado nas atividades diárias, O2 indicado
+Interromper o tratamento até os sintomas regredirem para Grau ≤ 1.
+Descartar infecção e considerar tratamento com corticosteroides.
+Considerar reiniciar o tratamento com uma dose 50% mais baixa que a dose diária previamente administrada
+Grau 4
+Comprometimento respiratório com risco de morte; indicação de intervenção urgente (por exemplo traqueostomia ou intubação)
+Descontinuar o tratamento, descartar infecção, e considerar tratamento com corticosteroides
+Estomatite
+  Grau 1
+Assintomático ou sintomas leves; intervenção não indicada
+Não é necessário ajuste da dose.
+Tratar com enxaguatório bucal sem álcool ou água com sal (0,9%) diversas vezes ao dia
+Grau 2
+Dor moderada; não interferindo na ingestão oral; dieta modificada é indicada
+Interrupção temporária da dose até a recuperação para Grau <1. Reiniciar o tratamento na mesma dose. Se a estomatite ocorrer novamente em Grau 2, interromper a dose até a recuperação para Grau <1. Reiniciar o tratamento com uma dose 50% mais baixa que a dose diária previamente administrada. Tratar com analgésicos tópicos bucais (por exemplo, benzocaína, aminobenzoato de butila, cloridrato de tetracaína, mentol ou fenol) com ou sem corticosteroides tópicos (ou seja, pomada bucal de triancinolona)4
+Grau 3
+Dor grave; interferindo na ingestão oral
+Interrupção temporária da dose até a recuperação para Grau <1. Reiniciar o tratamento com uma dose 50% mais baixa que a dose diária previamente administrada. Tratar com analgésicos tópicos bucais (ou seja, benzocaína, aminobenzoato de butila, cloridrato de tetracaína, mentol ou fenol) com ou sem corticosteroides tópicos (ou seja, pomada bucal de triancinolona)4
+Grau 4
+Consequencias que ameaçam a vida; intervenção urgente é indicada
+Descontinuar o tratamento e tratar com terapia médica adequada
+Outras toxicidades não hematológicas (excluindo eventos metabólicos)
+Grau 1
+Se a toxicidade for tolerável, não é necessário ajuste da dose.
+Iniciar terapia médica e monitoramento adequados
+Grau 2
+Se a toxicidade tornar-se intolerável, interrupção temporária da dose até a recuperação para Grau <1. Reiniciar o tratamento na mesma dose. Se a toxicidade ocorrer novamente em Grau 2, interromper o tratamento até a recuperação para Grau <1. Reiniciar o tratamento com uma dose 50% mais baixa que a dose diária previamente administrada
+Grau 3
+Interrupção temporária da dose até a recuperação para Grau <1. Iniciar terapia médica e monitoramento adequados. Considerar reiniciar o tratamento com uma dose 50% mais baixa que a dose diária previamente administrada
+Grau 4
+Descontinuar o tratamento e tratar com terapia médica adequada
+Eventos metabólicos (por exemplo hiperglicemia, dislipidemia)
+Grau 1
+Não é necessário ajuste da dose. Iniciar terapia médica e monitoramento adequados
+Grau 2
+Não é necessário ajuste da dose. Tratar com terapia médica e monitoramento adequados
+Grau 3
+Interrupção temporária da dose. Reiniciar o tratamento com uma dose 50% mais baixa que a dose diária previamente administrada. Tratar com terapia médica e monitoramento adequados
+Grau 4
+Descontinuar o tratamento e tratar com terapia médica adequada
+Trombocitopenia (diminuição na contagem de plaquetas)
+Grau 1 (<LIN5 - 75,000/mm3; (<LIN5 – 75,0 x 109/L)
+Nenhum ajuste é requerido
+Grau 2 Nenhum ajuste é requerido (<75.000 – 50.000/mm3; <75,0 – 50,0 x 109/L)
+Interrupação temporária da dose até a recuperação do grau ≤ 1. Reiniciar o tratamento com a mesma dose
+Grau 3 (<50.000 – 25.000/mm3; <50,0 –25,0 x 109/L) OU
+Interrupação temporária da dose até a recuperação do grau ≤ 1. Reiniciar o tratamento com uma dose menor
+Grau 4 (<25.000/mm3; <25,0 x 109/L)
+  Neutropenia (diminuição na contagem de neutrófilos)
+Grau 1 (<LIN5 – 1.500/mm3; <LINe – 1,5 x 109/L) OU
+Nenhum ajuste é requerido
+  Grau 2 (<1.500 – 1.000/mm3; <1,5 – 1.0 x 109/L)
+Grau 3 (<1.000 - 500/mm3; <1,0 – 0,5 x 109/L)
+Interrupação temporária da dose até a recuperação do grau <2 Reiniciar o tratamento com a mesma dose
+Grau 4 (<500/ mm3; <0,5 x 109/L)
+Interrupação temporária da dose até a recuperação do grau <2. Reiniciar o tratamento com uma dose menor
+Neutropenia febril
+Grau 3 CAN6 <1.000 / mm3 com uma única temperatura >38,3ºC ou uma temperatura mantida ≥38ºC por mais de uma hora
+Interrupação temporária da dose até a recuperação do grau <2 e sem
+febre. Reiniciar o tratamento com uma dose menor
+Grau 4 Consequências que ameaçam a vida; intervenção urgente é indicada
+Descontinuar o tratamento
+1 Descrição dos Graus de gravidade: 1 = sintomas leves; 2 = sintomas moderados; 3 = sintomas severos; 4 = sintomas de ameaça à vida. Classificação baseada no National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v4.03
+2 Se for necessário a redução da dose, a dose sugerida é aproximadamente 50% mais baixa do que a dose administrada anteriormente.
+3 ADL = atividades diárias de vida.
+4 Evitar o uso de agentes contendo álcool, peróxido de hidrogênio, iodo, e derivados do tomilho no tratamento de estomatite visto que podem agravar úlceras bucais.
+5 Limite Inferior da Normalidade : LIN
+6 Contagem absoluta de neutrófilos: CAN
+Inibidores moderados da CYP3A4/PgP
+Precaução deve ser tomada quando inibidores moderados da CYP3A4/PgP são administrados concomitantemente com Everolimo. Se um paciente precisar da coadministração de um inibidor moderado da CYP3A4/PgP, a dose de Everolimo deve ser reduzida para aproximadamente 50%. Reduções de dose adicionais podem ser requeridas para manejo das RAMs. Para reduções de dose abaixo da menor concentração disponível deve ser considerada a alternância de dias.
+Câncer de mama avançado receptor hormonal positivo, tumores neuroendócrinos avançados de origem gastrintestinal, pulmonar ou pancreática, carcinoma de células renais avançado e nAngiomiolipoma renal associado ao TSC
+Se o inibidor moderado da CYP3A4/PgP for descontinuado, considerar um período sem uso da medicação de pelo menos 2 a 3 dias (média geralmente usada para inibidores moderados) antes que a dose de Everolimo seja aumentada. A dose de Everolimo deve retornar à dose usada antes do início com inibidores moderados da CYP3A4/PgP.
+TSC com SEGA
+Concentração do everolimo deve ser avaliada aproximadamente 2 semanas após a adição do inibidor moderado da CYP3A4/PgP. Caso o inibidor seja descontinuado, a dose de Everolimo deve retornar à dose usual utilizada anteriormente à administração do inibidor, e a concentração de everolimo deve ser reavaliada aproximadamente após 2 semanas.
+Indutores potentes da CYP3A4
+Evitar o uso concomitante de indutores potentes da CYP3A4.
+Câncer de mama avançado receptor hormonal positivo, tumores neuroendócrinos avançados de origem gastrintestinal, pulmonar ou pancreática, carcinoma de células renais avançado e Angiomiolipoma renal associado ao TSC
+Se for necessária a coadministração de indutores potentes da CYP3A4, deve-se considerar a duplicação da dose diária de Everolimo (baseado nos dados farmacocinéticos), usando aumentos de 5 mg ou menos. Esse ajuste de dose prevê que seja atingida a AUC no intervalo observado sem indutores. Entretanto, não há dados clínicos com esse ajuste para pacientes recebendo indutores potentes da CYP3A4. Se os indutores potentes forem descontinuados, considerar um período sem uso da medicação de pelo menos 3 a 5 dias (tempo razoável para reversão da indução enzimática), antes que os pacientes retornem à dose usual utilizada anteriormente à administração de indutores potentes da CYP3A4.
+TSC com SEGA
+Pacientes recebendo indutores potentes da CYP3A4 (por exemplo, medicamentos antiepilépticos indutores enzimáticos, carbamazepina, fenobarbital e fenitoína), podem necessitar de um aumento na dose de Everolimo para atingir as concentrações de 3 a 15 ng/mL. Duplicar a dose de Everolimo e avaliar a tolerabilidade. Avaliar o nível de everolimo aproximadamente 2 semanas após a duplicação da dose. Podem ser necessários ajustes adicionais para manter a faixa dentro de 3 a 15 ng/mL. Caso o indutor potente seja descontinuado, a dose de Everolimo deve retornar à dose usada anterior ao início com indutores potentes da CYP3A4 e a concentração do everolimo deve ser avaliada, aproximadamente, após 2 semanas.
+Populações especiais
+Pacientes pediátricos (abaixo de 18 anos)
+Everolimo não é recomendado para uso em pacientes pediátricos com câncer renal.
+Everolimo não é recomendado para uso em pacientes pediátricos com TSC que têm angiomiolipoma renal na ausência de SEGA.
+Everolimo não foi estudado em pacientes pediátricos com TSC e SEGA com idade < 1 ano.
+As recomendações de dosagem para pacientes pediátricos com SEGA associado a TSC são equivalentes às aplicadas para a população adulta correspondente com exceção dos pacientes com insuficiência hepática. Everolimo não é recomendado para pacientes menores de 18 anos de idade com SEGA associado a TSC e insuficiência hepática.
+Pacientes idosos (≥ 65 anos)
+Nenhum ajuste de dose é necessário.
+Pacientes com insuficiência renal
+Nenhum ajuste de dose é necessário.
+Pacientes com insuficiência hepática
+Câncer de mama avançado receptor hormonal positivo, tumores neuroendócrinos avançados de origem gastrintestinal, pulmonar ou pancreática, carcinoma de células renais avançado e TSC associado ao angiomiolipoma renal:
+Insuficiência hepática leve (Child-Pugh A)
+A dose recomendada é 7,5 mg por dia.
+Insuficiência hepática moderada (Child-Pugh B)
+A dose recomendada é de 5 mg por dia; a dose pode ser reduzida para 2,5 mg caso não seja bem tolerada.
+Comprometimento hepático grave (Child-Pugh C)
+Não recomendado. Se o benefício desejado superar o risco, não se deve exceder uma dose de 2,5 mg por dia.
+Devem ser feitos ajustes de dose se houver mudança no quadro hepático dos pacientes (Child-Pugh) durante o tratamento.
+TSC com SEGA
+Pacientes ≥ 18 anos de idade
+Insuficiência hepática leve (Child-Pugh A)
+75% da dose calculada sobre a ASC (arredondada para a concentração mais próxima).
+Insuficiência hepática moderada (Child-Pugh B)
+50% da dose calculada sobre a ASC (arredondada para a concentração mais próxima).
+Comprometimento hepático grave (Child-Pugh C)
+Não recomendado. Se o benefício desejado superar o risco, 25% da dose calculada com base na ASC (arredondado para a concentração mais próxima) não deve ser excedido.
+As concentrações séricas totais de everolimo no sangue devem ser avaliadas cerca de uma a duas semanas após o início do tratamento ou após qualquer mudança no quadro hepático (Child- Pugh). A dosagem deve ser ajustada para atingir concentrações mínimas de 3 a 15 ng/mL.
+Durante o tratamento, se houver alteração do quadro hepático do paciente (Child-Pugh), podem ser realizados ajustes de dose.
+Pacientes menores de 18 anos de idade
+Everolimo não é recomendado para pacientes menores de 18 anos de idade com SEGA associado à TSC e insuficiência hepática.
+Monitoramento terapêutico do medicamento em pacientes tratados para TSC com SEGA
+O monitoramento terapêutico das concentrações sanguíneas de everolimo é necessário aos pacientes tratados para TSC com SEGA usando um método bioanalítico de LC/MS validado. Quando possível, utilizar o mesmo ensaio e laboratório para monitoramento terapêutico do medicamento ao longo do tratamento.
+As concentrações mínimas devem ser avaliadas aproximadamente 2 semanas após a dose inicial, após qualquer alteração na dose, após o início ou uma mudança da administração concomitante de indutores e/ou inibidores de CYP3A4/PgP, ou após qualquer alteração no quadro hepático (Child-Pugh). As concentrações mínimas devem ser avaliadas aproximadamente 2 semanas após o início ou alteração na co-administração de indutores de CYP3A4 / PgP. As doses devem ser tituladas com o objetivo da obtenção de concentrações mínimas de everolimo de 3 a 15 ng/mL, dependendo da tolerância. A dose pode ser aumentada para se atingir uma concentração total maior dentro do faixa de intervalo para obter-se eficácia ótima, sujeita a tolerabilidade.
+Dose perdida
+Everolimo pode ser tomado até 6 horas após o horário de tomada habitual. Após mais de 6 horas, a dose deve ser ignorada para esse dia. No dia seguinte, Everolimo deve ser tomado no horário habitual. Doses duplas não devem ser tomadas para compensar aquela que foi perdida.
+Este medicamento não deve ser partido, aberto ou mastigado.
+Comprimido 0,5mg, 0,75mg e 1,0mg
+O tratamento com Everolimo deve somente ser iniciado e mantido apenas por médicos experientes na terapêutica imunossupressora após transplante de órgãos e por aqueles que tenham acesso ao monitoramento completo dos níveis de everolimo no sangue.
+Método de administração
+Everolimo deve ser utilizado apenas para administração oral.
+Os comprimidos de Everolimo devem ser engolidos inteiros com um copo de água e não devem ser triturados antes do uso.
+Dosagem População-alvo geral
+Adultos
+Transplante de coração e rim
+Para pacientes de transplante renal e cardíaco, é recomendado um regime posológico inicial de 0,75 mg duas vezes ao dia, administrado o mais rápido possível após o transplante.
+Transplante de fígado
+A dose de 1,0 mg duas vezes ao dia é recomendada para pacientes receptores de transplante hepático com a dose inicial aproximadamente 4 semanas após o transplante.
+A dose diária de Everolimo deve sempre ser administrada por via oral em duas doses divididas (duas vezes ao dia).
+Everolimo deve ser administrado constantemente, com ou sem alimentos concomitantemente com a ciclosporina para microemulsão ou tacrolimo.
+Pacientes que recebem Everolimo podem precisar de ajustes de dose dependendo dos níveis sanguíneos alcançados, tolerabilidade, resposta individual, alteração nas comedicações e na situação clínica. O ajuste de dose pode ser realizado em intervalos de 4 - 5 dias.
+Populações especiais
+Pacientes negros
+A incidência de episódios de rejeição aguda confirmada por biópsia foi significativamente maior em pacientes negros receptores de transplante renal quando comparada com não-negros. Há informações limitadas que indicam que pacientes negros possam precisar de uma dose maior de Everolimo para alcançar uma eficácia semelhante à dos pacientes não-negros na dose recomendada para adultos. No momento, dados de eficácia e segurança são muito limitados para permitir recomendações específicas para o uso de everolimo em pacientes negros.
+Pacientes pediátricos
+Não há dados suficientes do uso de Everolimo em crianças e adolescentes para suportar seu uso em pacientes nesta faixa de idade. Em pacientes pediátricos receptores de transplante renal, as informações disponíveis são limitadas.
+Pacientes geriátricos (≥ 65 anos)
+A experiência clínica em pacientes com 65 anos ou mais de idade é limitada. Embora os dados sejam limitados, não há diferença aparente na farmacocinética do everolimo entre pacientes com idade ≥ 65 a 70 anos e adultos mais jovens.
+Insuficiência renal
+Não é necessária ajuste de dose.
+Insuficiência hepática
+A concentração sanguínea mínima para everolimo (C0) deve ser monitorada com cautela em pacientes com comprometimento da função hepática. Para pacientes com insuficiência hepática leve (Child-Pugh Classe A), a dose deve ser reduzida para aproximadamente dois terços da dose normal. Para pacientes com insuficiência hepática moderada (Child-Pugh B), a dose deve ser reduzida para aproximadamente metade da dose normal. Para pacientes com insuficiência hepática grave (Child-Pugh C), a dose deve ser reduzida para, pelo menos, metade da dose normal. O ajuste adicional da dose deve ser baseado no monitoramento terapêutico.
+Monitoramento terapêutico
+É recomendado o monitoramento rotineiro das concentrações terapêuticas de everolimo no sangue.
+Baseando-se em análises de exposição-eficácia e exposição-segurança, pacientes com concentrações sanguíneas mínimas (C0) de everolimo ≥ 3,0 ng/mL apresentaram uma menor incidência de rejeição aguda confirmada por biópsia no transplante renal, cardíaco e hepático, se comparado aos pacientes que apresentaram níveis (C0) menores que 3,0 ng/mL. O limite superior recomendado para faixa terapêutica é 8 ng/mL. Não foi estudada a exposição acima de 12 ng/mL. Essas faixas recomendadas para everolimo são baseadas em métodos cromatográficos.
+É especialmente importante monitorar as concentrações sanguíneas de everolimo, em pacientes com insuficiência hepática, durante a administração concomitante de fortes indutores e inibidores da CYP3A4 quando há alteração da formulação e/ou se a dosagem de ciclosporina é acentuadamente reduzida. Ajustes ótimos da dose de Everolimo devem ser baseados nos níveis mínimos (C0) obtidos acima de 4 a 5 dias após a alteração prévia de dose. Há interação da ciclosporina com everolimo e, consequentemente, os níveis de everolimo podem diminuir se a exposição à ciclosporina for acentuadamente reduzida (por exemplo, concentrações mínimas (C0) < 50 ng/mL).
+Recomendação de dose de ciclosporina no transplante renal
+Everolimo não deve ser utilizado por longo período em associação com doses máximas de ciclosporina. A exposição reduzida à ciclosporina em pacientes receptores de transplante renal tratados com Everolimo é associada a uma melhor função renal. Com base na experiência adquirida com o estudo A2309, a redução à exposição à ciclosporina deve ser iniciada imediatamente após o transplante com a seguinte recomendação de intervalo de nível mínimo no sangue total:
+Tabela 15: Transplante renal: intervalo de nível mínimo alvo recomendado de ciclosporina no sangue
+Alvo de ciclosporina C0
+(ng/mL)
+Mês 1 Meses 2-3 Meses 4-5
+Meses
+6-12
+Grupos Everolimo
+100-200 75-150 50-100
+25-50
+(Níveis medidos são mostrados em “Farmacodinâmica”).
+Antes da redução da dose de ciclosporina, deve-se assegurar que a concentração sanguínea total mínima de everolimo (C0) no estado de equilíbrio seja ≥ 3 ng/mL.
+Os dados que relacionam a dose de Everolimo com concentrações mínimas de ciclosporina (C0) abaixo de 50 ng/mL ou níveis de C2 abaixo de 350 ng/mL, na fase de manutenção, são limitados. Caso o paciente não tolere a redução da exposição à ciclosporina, o uso contínuo do Everolimo deve ser reconsiderado.
+Recomendação de dose de ciclosporina no transplante cardíaco
+Pacientes receptores de transplante cardíaco no período de manutenção devem ter as doses da ciclosporina reduzidas, iniciando um mês após o transplante de acordo com a tolerabilidade para melhorar a função renal. Caso a disfunção renal seja progressiva ou se o clearance (depuração) de creatinina calculado for < 60 mL/min, o regime de tratamento deve ser ajustado. Para os pacientes receptores de transplante cardíaco, a dose de ciclosporina deve ser guiada pela experiência do estudo 2411 e confirmada no estudo 2310, no qual Everolimo foi administrado com ciclosporina com recomendadas concentrações mínimas (C0) alvo reduzidas conforme segue:
+Tabela 16: Transplante cardíaco: intervalo de nível mínimo alvo recomendado de ciclosporina no sangue
+Alvo de ciclosporina C0
+(ng/mL)
+Mês 1 Meses 2 Meses 3-4
+Meses
+5-6
+Meses
+7-12
+Grupo Everolimo
+200-350
+150-250
+100-200
+75-150
+50-100
+(Níveis medidos são mostrados em “Farmacodinâmica”).
+Antes da redução da dose de ciclosporina, deve-se assegurar que a concentração sanguínea mínima total de everolimo (C0) no estado de equilíbrio seja ≥ 3 ng/mL.
+No transplante cardíaco, os dados disponíveis são limitados em relação à dose de Everolimo com concentrações mínimas de ciclosporina (C0) reduzidas de 50 a 100 ng/mL após 12 meses. Se o paciente não tolerar a redução da exposição à ciclosporina, o uso contínuo de Everolimo deve ser reconsiderado.
+Recomendação de dose de tacrolimo no transplante hepático
+Pacientes receptores de transplante hepático devem ter a exposição reduzida ao tacrolimo a fim de se minimizar a toxicidade renal relacionada à calcineurina. A dose de tacrolimo deve ser reduzida a partir de aproximadamente 3 semanas após início de sua associação com Everolimo, baseando-se nos níveis sanguíneos mínimos alvo de tacrolimo (C0), de 3 a 5 ng/mL. Everolimo não foi estudado com doses máximas de tacrolimo em estudos clínicos controlados.
+Este medicamento não deve ser partido, aberto ou mastigado.
