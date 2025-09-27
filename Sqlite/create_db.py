@@ -5,7 +5,7 @@ def create_db():
     Cria e configura o banco de dados do hospital, removendo a tabela de prontuários.
     """
     try:
-        conn = sqlite3.connect("hospital_v2.db")
+        conn = sqlite3.connect("hospital.db")
         cursor = conn.cursor()
 
         # Tabela de pacientes
@@ -31,7 +31,6 @@ def create_db():
             tipo_exame TEXT NOT NULL,
             data_exame DATETIME NOT NULL,
             resultado TEXT,
-            arquivo BLOB,
             FOREIGN KEY (id_paciente) REFERENCES pacientes(id_paciente),
             FOREIGN KEY (id_medico) REFERENCES medicos(id_medico)
         )
@@ -59,6 +58,23 @@ def create_db():
             FOREIGN KEY (id_medico) REFERENCES medicos(id_medico)
         )
         """)
+
+        conn.execute('''
+            CREATE TABLE internacoes (
+            id_internacao   INTEGER PRIMARY KEY AUTOINCREMENT,
+            id_paciente     INTEGER NOT NULL,
+            data_entrada    DATE NOT NULL,
+            data_saida      DATE,
+            motivo          TEXT NOT NULL,
+            id_medico       INTEGER,
+            observacoes     TEXT,
+            FOREIGN KEY (id_paciente) REFERENCES pacientes(id_paciente),
+            FOREIGN KEY (id_medico) REFERENCES medicos(id_medico)
+                                                                );
+        ''')
+
+        
+
 
         conn.commit()
         print("Banco de dados hospital_v2.db criado com sucesso, sem a tabela de prontuários!")

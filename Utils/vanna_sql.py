@@ -50,5 +50,5 @@ def create_vanna_instance():
         "path": 'Sqlite/vanna_chromadb_db'
     }
     vn = MyVanna(config=config)
-    vn.connect_to_sqlite('./Sqlite/hospital_v2.db')
+    vn.connect_to_sqlite('./Sqlite/hospital.db')
     return vn

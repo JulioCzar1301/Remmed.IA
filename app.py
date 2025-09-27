@@ -3,17 +3,34 @@ from Utils.query_router import QueryRouter
 import sqlite3
 import io
 import json
+import datetime
 
 app = Flask(__name__)
 router = QueryRouter(use_llm=True)
 
 
 def get_db():
-    conn = sqlite3.connect("./Sqlite/hospital_v2.db", check_same_thread=False)
+    conn = sqlite3.connect("./Sqlite/hospital.db", check_same_thread=False)
     conn.row_factory = sqlite3.Row
     return conn
 
-@app.route("/exames", methods=["POST"])
+@app.route("/ask", methods=["POST"])
+def ask():
+    data = request.get_json()
+    token = data.get("token", "")
+    question = data.get("question", "")
+    if not question:
+        return jsonify({"error": "Missing 'question' in request body."}), 400
+    if token not in ["doctor","reception"]:
+        return jsonify({"error": "Token is invalid."}), 400
+    if token == "doctor":
+        router.get_name_user()
+
+    answer = router.execute(question, token)
+    return jsonify({"question": question, "answer": answer})
+
+
+@app.route("/create_exam", methods=["POST"])
 def inserir_exame():
     data = request.form
     id_paciente = data.get("id_paciente")
@@ -21,8 +38,6 @@ def inserir_exame():
     tipo_exame = data.get("tipo_exame")
     data_exame = data.get("data_exame")
     resultado = data.get("resultado")
-    arquivo = request.files.get("arquivo")
-    arquivo_blob = arquivo.read() if arquivo else None
 
     if not all([id_paciente, id_medico, tipo_exame, data_exame]):
         return jsonify({"error": "Campos obrigatórios: id_paciente, id_medico, tipo_exame, data_exame"}), 400
@@ -32,27 +47,28 @@ def inserir_exame():
     
     cursor.execute(
         """
-        INSERT INTO exames (id_paciente, id_medico, tipo_exame, data_exame, resultado, arquivo)
+        INSERT INTO exames (id_paciente, id_medico, tipo_exame, data_exame, resultado)
         VALUES (?, ?, ?, ?, ?, ?)
         """,
-        (id_paciente, id_medico, tipo_exame, data_exame, resultado, arquivo_blob)
+        (id_paciente, id_medico, tipo_exame, data_exame, resultado)
     )
     conn.commit()
     conn.close()
     return jsonify({"message": "Exame inserido com sucesso."})
 
-@app.route("/ask", methods=["POST"])
-def ask():
-    data = request.get_json()
-    id = data.get("id", "")
-    question = data.get("question", "")
-    if not question:
-        return jsonify({"error": "Missing 'question' in request body."}), 400
-    router.get_name_user()
-    answer = router.execute(question)
-    return jsonify({"question": question, "answer": answer})
+@app.route("/exam/<int:id_exame>/", methods=["GET"])
+def obter_exame(id_exame):
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute("SELECT arquivo FROM exames WHERE id_exame = ?", (id_exame,))
+    row = cursor.fetchone()
+    conn.close()
+    if not row or not row[0]:
+        return "Arquivo não encontrado", 404
+    return send_file(io.BytesIO(row[0]), mimetype="application/pdf", as_attachment=True, download_name=f"exame_{id_exame}.pdf")
 
-@app.route("/create_patient", methods=["POST"])
+
+@app.route("/create_pacient", methods=["POST"])
 def create_patient():
     data = request.get_json()
     name = data.get("name", "")
@@ -71,30 +87,8 @@ def create_patient():
     conn.close()
     return jsonify({"message": "Paciente criado com sucesso."})
 
-@app.route("/internacoes", methods=["POST"])
-def get_internacoes():
-    conn = get_db()
-    cursor = conn.cursor()
-    cursor.execute("SELECT * FROM internacoes")
-    rows = cursor.fetchall()
-    columns = [description[0] for description in cursor.description]
-    results = [dict(zip(columns, row)) for row in rows]
-    conn.close()
-    return jsonify(results)
-
-@app.route("/exames/<int:id_exame>/pdf", methods=["GET"])
-def baixar_pdf(id_exame):
-    conn = get_db()
-    cursor = conn.cursor()
-    cursor.execute("SELECT arquivo FROM exames WHERE id_exame = ?", (id_exame,))
-    row = cursor.fetchone()
-    conn.close()
-    if not row or not row[0]:
-        return "Arquivo não encontrado", 404
-    return send_file(io.BytesIO(row[0]), mimetype="application/pdf", as_attachment=True, download_name=f"exame_{id_exame}.pdf")
-
-@app.route("/pacientes", methods=["GET"])
-def ObterTodosUsuario():
+@app.route("/get_pacients", methods=["GET"])
+def get_pacients():
     conn = get_db()
     cursor = conn.cursor()
     cursor.execute("SELECT id_paciente, nome FROM pacientes")
@@ -102,8 +96,8 @@ def ObterTodosUsuario():
     conn.close()
     return json.dumps(rows)
 
-@app.route("/paciente/<int:id_paciente>", methods=['GET'])
-def obter_paciente(id_paciente):
+@app.route("/get_pacient/<int:id_paciente>", methods=['GET'])
+def get_pacient(id_paciente):
     conn = get_db()
     cursor = conn.cursor()
     cursor.execute("SELECT nome FROM pacientes WHERE id_paciente = ?", (id_paciente,))
@@ -111,6 +105,81 @@ def obter_paciente(id_paciente):
     conn.close()
     return json.dumps(row)
 
+
+@app.route("/create_appointment", methods=["POST"])
+def create_appointment():
+    data = request.get_json()
+    id_paciente = data.get("id_paciente")
+    id_medico = data.get("id_medico")
+    data_consulta = data.get("data_consulta", datetime.now().isoformat())
+    motivo = data.get("motivo")
+    diagnostico = data.get("diagnostico")
+
+    if not all([id_paciente, id_medico]):
+        return jsonify({"erro": "Campos obrigatórios: id_paciente e id_medico"}), 400
+
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute(
+        """
+        INSERT INTO consultas (id_paciente, id_medico, data_consulta, motivo, diagnostico)
+        VALUES (?, ?, ?, ?, ?)
+        """,
+        (id_paciente, id_medico, data_consulta, motivo, diagnostico),
+    )
+    conn.commit()
+    consulta_id = cursor.lastrowid
+    conn.close()
+
+    return jsonify({"mensagem": "Consulta criada com sucesso", "id_consulta": consulta_id}), 201
+
+@app.route("/get_appointment/<int:id_paciente>", methods=['GET'])
+def get_appointment(id_paciente):
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM consultas WHERE id_paciente=?",(id_paciente,))
+    rows = [dict(row) for row in cursor.fetchall()]
+    conn.close()
+    return json.dumps(rows)
+
+@app.route("/create_hospitalization", methods=["POST"])
+def create_hospitalization():
+    data = request.get_json()
+    id_paciente = data.get("id_paciente")
+    data_entrada = data.get("data_entrada", datetime.now().date().isoformat())
+    data_saida = data.get("data_saida")  # opcional
+    motivo = data.get("motivo")
+    id_medico = data.get("id_medico")
+    observacoes = data.get("observacoes")
+
+    if not all([id_paciente, motivo]):
+        return jsonify({"erro": "Campos obrigatórios: id_paciente e motivo"}), 400
+
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute(
+        """
+        INSERT INTO internacoes (id_paciente, data_entrada, data_saida, motivo, id_medico, observacoes)
+        VALUES (?, ?, ?, ?, ?, ?)
+        """,
+        (id_paciente, data_entrada, data_saida, motivo, id_medico, observacoes),
+    )
+    conn.commit()
+    internacao_id = cursor.lastrowid
+    conn.close()
+
+    return jsonify({"mensagem": "Internação criada com sucesso", "id_internacao": internacao_id}), 201
+
+@app.route("/get_hospitalization/<int:id_paciente>", methods=["GET"])
+def get_hospitalization(id_paciente):
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM internacoes WHERE id_paciente=?",(id_paciente,))
+    rows = cursor.fetchall()
+    columns = [description[0] for description in cursor.description]
+    results = [dict(zip(columns, row)) for row in rows]
+    conn.close()
+    return jsonify(results)
 
 
 if __name__ == "__main__":

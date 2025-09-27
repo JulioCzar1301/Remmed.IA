@@ -81,7 +81,7 @@ Resposta:
             return "sql"
         return "bulas"
 
-    def execute(self, question: str) -> str:
+    def execute(self, question: str, token:str) -> str:
         if self.use_llm:
             route = self.classify_with_llm(question)
         else:
@@ -89,15 +89,16 @@ Resposta:
 
         print("Chosen route:", route)
 
-        if route == "bulas":
+        if route == "bulas" and token == "doctor":
             return self.enhanced_rag_query(question)
 
         elif route == "sql":
             return self._execute_sql_query(question)
 
-        elif route == "ambos":
+        elif route == "ambos" and token == "doctor":
             return self._handle_combined_query(question)
-
+        elif token != "doctor":
+            return "Você não está autorizado a obter informações sobre medicamentos"
         else:
             return "Não foi possível classificar a consulta."
 
@@ -129,7 +130,7 @@ Resposta:
             Resultados da consulta SQL: {intermediate_answer}
             Escreva uma resposta clara, natural e educada em português para o usuário, sem mencionar SQL, tabelas ou estruturas técnicas
             """
-            return {"pdf": False, "resposta": chat_with_groq(prompt)}
+            return chat_with_groq(prompt)
 
 
     def enhanced_rag_query(self, question: str) -> str:
@@ -181,13 +182,13 @@ Resposta:
             extract_sql_prompt = f"""
             Extraia APENAS a parte da pergunta que se refere a dados de pacientes, médicos, exames ou hospitalares.
             Pergunta original: "{question}"
-            Retorne apenas a pergunta SQL, nada mais.
+.
             """
             sql_question = chat_with_groq(extract_sql_prompt).strip()
             print("Extracted SQL question:", sql_question)
             # Etapa 2: Executar SQL
-            self._execute_sql_query(sql_question)
-            sql, df, chart = self.vn.ask(sql_question, allow_llm_to_see_data=True)
+
+            sql_answer = self._execute_sql_query(sql_question)
             
 
             # Etapa 3: Extrair informação relevante (ex: nome do medicamento)
@@ -197,23 +198,23 @@ Resposta:
             Se houver mais de um, liste-os separados por vírgulas.
 
             Resultados:
-            {df.to_string(index=False)}
+            {sql_answer}
 
             Resposta (apenas os nomes, sem explicações):
             """
             extracted_info = chat_with_groq(extract_info_prompt, model="meta-llama/llama-4-maverick-17b-128e-instruct").strip()
             print("Extracted info for leaflet query:", extracted_info)
+
             # Etapa 4: Formular pergunta para o RAG usando a informação extraída
-
-
             leaflet_answer = self.enhanced_rag_query(extracted_info)
             print("Leaflet answer:", leaflet_answer)
+
             # Etapa 5: Resumir tudo com o LLM
             final_prompt = f"""
             O usuário com nome {self.name_user},informe o nome dele na resposta, perguntou: "{question}"
 
             Primeiro, obtivemos do banco de dados:
-            {df.to_string(index=False)}
+            {sql_answer}
 
             Depois, buscamos na bula do medicamento '{extracted_info}' e encontramos:
             {leaflet_answer}

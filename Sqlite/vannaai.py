@@ -61,7 +61,7 @@ config = {
 
 vn = MyVanna(config=config)
 
-vn.connect_to_sqlite('hospital_v2.db')
+vn.connect_to_sqlite('hospital.db')
 
 df_ddl = vn.run_sql("SELECT type, sql FROM sqlite_master WHERE sql is not null")
 
