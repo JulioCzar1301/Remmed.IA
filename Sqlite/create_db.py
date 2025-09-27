@@ -23,6 +23,20 @@ def create_db():
         )
         """)
 
+        cursor.execute("""
+        CREATE TABLE IF NOT EXISTS exames (
+            id_exame INTEGER PRIMARY KEY AUTOINCREMENT,
+            id_paciente INTEGER NOT NULL,
+            id_medico INTEGER NOT NULL,
+            tipo_exame TEXT NOT NULL,
+            data_exame DATETIME NOT NULL,
+            resultado TEXT,
+            arquivo BLOB,
+            FOREIGN KEY (id_paciente) REFERENCES pacientes(id_paciente),
+            FOREIGN KEY (id_medico) REFERENCES medicos(id_medico)
+        )
+       """)
+
         # Tabela de médicos
         cursor.execute("""
         CREATE TABLE IF NOT EXISTS medicos (

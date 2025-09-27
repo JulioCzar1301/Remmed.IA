@@ -32,7 +32,6 @@ class QueryRouter:
         self.use_llm = use_llm
         self.llama_model = llama_model
         self.name_user = ""
-        self.category = ""
         
     def get_name_user(self):
         conn = sqlite3.connect("./Sqlite/hospital_v2.db")
@@ -102,22 +101,36 @@ Resposta:
         else:
             return "Não foi possível classificar a consulta."
 
-    def _execute_sql_query(self, question: str) -> str:
+    def _execute_sql_query(self, question: str):
         sql, df, chart = self.vn.ask(question, allow_llm_to_see_data=True)
+        print("Debug:\n", sql)
+
         if df.empty:
             intermediate_answer = "Nenhum resultado encontrado."
         else:
             intermediate_answer = df.to_string(index=False)
-        
-        print(df)
-        prompt = f"""
-        Pergunta do usuário com nome {self.name_user},informe o nome dele na resposta: {question}
-        Resultados da consulta SQL: {intermediate_answer}
-        Escreva uma resposta clara, natural e educada em português para o usuário, sem mencionar SQL, tabelas ou estruturas técnicas
-        O usuário tem categoria {self.category}, caso seja paciente ele não pode obter informações sobre outros pacientes, apenas informações do usuário.
-        """
-        
-        return chat_with_groq(prompt)
+
+        # checar se consulta envolve binário
+        if ("exames" in sql.lower() and "arquivo" in sql.lower()) or "arquivo" in df.columns:
+            print("✅ O SQL busca a coluna 'arquivo' na tabela 'exame'")
+
+            # pega o id_exame do df (assumindo que vem junto na query)
+            if "id_exame" in df.columns:
+                id_exame = df.iloc[0]["id_exame"]
+                return {"pdf": True, "id_exame": id_exame}
+            else:
+                return {"pdf": True, "id_exame": None}
+        else:
+            print("❌ O SQL NÃO busca 'arquivo' em 'exame'")
+            print(df)
+
+            prompt = f"""
+            Pergunta do usuário com nome {self.name_user}, informe o nome dele na resposta: {question}
+            Resultados da consulta SQL: {intermediate_answer}
+            Escreva uma resposta clara, natural e educada em português para o usuário, sem mencionar SQL, tabelas ou estruturas técnicas
+            """
+            return {"pdf": False, "resposta": chat_with_groq(prompt)}
+
 
     def enhanced_rag_query(self, question: str) -> str:
         """
@@ -173,9 +186,9 @@ Resposta:
             sql_question = chat_with_groq(extract_sql_prompt).strip()
             print("Extracted SQL question:", sql_question)
             # Etapa 2: Executar SQL
+            self._execute_sql_query(sql_question)
             sql, df, chart = self.vn.ask(sql_question, allow_llm_to_see_data=True)
-            if df.empty:
-                return "Não encontrei dados necessários no banco para responder à sua pergunta."
+            
 
             # Etapa 3: Extrair informação relevante (ex: nome do medicamento)
             # Vamos pedir ao LLM para extrair o dado útil para a próxima etapa

@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify, send_file
 from Utils.query_router import QueryRouter
 import sqlite3
 import io
+import json
 
 app = Flask(__name__)
 router = QueryRouter(use_llm=True)
@@ -12,45 +13,33 @@ def get_db():
     conn.row_factory = sqlite3.Row
     return conn
 
-# @app.route("/exames", methods=["POST"])
-# def inserir_exame():
-#     data = request.form
-#     id_paciente = data.get("id_paciente")
-#     id_medico = data.get("id_medico")
-#     tipo_exame = data.get("tipo_exame")
-#     data_exame = data.get("data_exame")
-#     resultado = data.get("resultado")
-#     arquivo = request.files.get("arquivo")
-#     arquivo_blob = arquivo.read() if arquivo else None
+@app.route("/exames", methods=["POST"])
+def inserir_exame():
+    data = request.form
+    id_paciente = data.get("id_paciente")
+    id_medico = data.get("id_medico")
+    tipo_exame = data.get("tipo_exame")
+    data_exame = data.get("data_exame")
+    resultado = data.get("resultado")
+    arquivo = request.files.get("arquivo")
+    arquivo_blob = arquivo.read() if arquivo else None
 
-#     if not all([id_paciente, id_medico, tipo_exame, data_exame]):
-#         return jsonify({"error": "Campos obrigatórios: id_paciente, id_medico, tipo_exame, data_exame"}), 400
+    if not all([id_paciente, id_medico, tipo_exame, data_exame]):
+        return jsonify({"error": "Campos obrigatórios: id_paciente, id_medico, tipo_exame, data_exame"}), 400
 
-#     conn = get_db()
-#     cursor = conn.cursor()
-#     cursor.execute("""
-#         CREATE TABLE IF NOT EXISTS exames (
-#             id_exame INTEGER PRIMARY KEY AUTOINCREMENT,
-#             id_paciente INTEGER NOT NULL,
-#             id_medico INTEGER NOT NULL,
-#             tipo_exame TEXT NOT NULL,
-#             data_exame DATETIME NOT NULL,
-#             resultado TEXT,
-#             arquivo BLOB,
-#             FOREIGN KEY (id_paciente) REFERENCES pacientes(id_paciente),
-#             FOREIGN KEY (id_medico) REFERENCES medicos(id_medico)
-#         )
-#     """)
-#     cursor.execute(
-#         """
-#         INSERT INTO exames (id_paciente, id_medico, tipo_exame, data_exame, resultado, arquivo)
-#         VALUES (?, ?, ?, ?, ?, ?)
-#         """,
-#         (id_paciente, id_medico, tipo_exame, data_exame, resultado, arquivo_blob)
-#     )
-#     conn.commit()
-#     conn.close()
-#     return jsonify({"message": "Exame inserido com sucesso."})
+    conn = get_db()
+    cursor = conn.cursor()
+    
+    cursor.execute(
+        """
+        INSERT INTO exames (id_paciente, id_medico, tipo_exame, data_exame, resultado, arquivo)
+        VALUES (?, ?, ?, ?, ?, ?)
+        """,
+        (id_paciente, id_medico, tipo_exame, data_exame, resultado, arquivo_blob)
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"message": "Exame inserido com sucesso."})
 
 @app.route("/ask", methods=["POST"])
 def ask():
@@ -104,5 +93,29 @@ def baixar_pdf(id_exame):
         return "Arquivo não encontrado", 404
     return send_file(io.BytesIO(row[0]), mimetype="application/pdf", as_attachment=True, download_name=f"exame_{id_exame}.pdf")
 
+@app.route("/pacientes", methods=["GET"])
+def ObterTodosUsuario():
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute("SELECT id_paciente, nome FROM pacientes")
+    rows = [dict(row) for row in cursor.fetchall()]
+    conn.close()
+    return json.dumps(rows)
+
+@app.route("/paciente/<int:id_paciente>", methods=['GET'])
+def obter_paciente(id_paciente):
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute("SELECT nome FROM pacientes WHERE id_paciente = ?", (id_paciente,))
+    row = dict(cursor.fetchone())
+    conn.close()
+    return json.dumps(row)
+
+
+
 if __name__ == "__main__":
 	app.run(host="0.0.0.0", port=5000, debug=True)
+
+
+
+    

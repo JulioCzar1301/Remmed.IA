@@ -47,7 +47,7 @@ def create_vanna_instance():
     config = {
         "api_key": os.getenv("GROQ_API_KEY"),
         "model": "llama-3.3-70b-versatile",
-        "path": "Sqlite/vanna_chromadb_db"
+        "path": 'Sqlite/vanna_chromadb_db'
     }
     vn = MyVanna(config=config)
     vn.connect_to_sqlite('./Sqlite/hospital_v2.db')
