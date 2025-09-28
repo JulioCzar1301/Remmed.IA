@@ -9,13 +9,13 @@ def insert_db():
 
         # -------------------- Pacientes --------------------
         pacientes = [
-            ("Ana Souza", "12345678901", "1990-05-12", 65.0, "F", 1.68, "Dipirona", "Hipertensão"),
-            ("Carlos Pereira", "23456789012", "1985-09-23", 82.5, "M", 1.75, "Nenhuma", "Asma"),
-            ("João Silva", "34567890123", "2000-02-01", 70.3, "M", 1.80, "Glúten", "Histórico de enxaqueca"),
+            ("Ana Souza", "12345678901", "1990-05-12", 65.0, "F", 1.68, "Dipirona", "Hipertensão",27.5, 98, 72),
+            ("Carlos Pereira", "23456789012", "1985-09-23", 82.5, "M", 1.75, "Nenhuma", "Asma", 36.8, 95, 80),
+            ("João Silva", "34567890123", "2000-02-01", 70.3, "M", 1.80, "Glúten", "Histórico de enxaqueca", 37.2, 97, 76),
         ]
         cursor.executemany("""
-            INSERT OR IGNORE INTO pacientes (nome, cpf, data_nascimento, peso, sexo, altura, alergias, historico_medico)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            INSERT OR IGNORE INTO pacientes (nome, cpf, data_nascimento, peso, sexo, altura, alergias, historico_medico, temperatura, oxigenacao, frequencia_cardiaca)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, pacientes)
 
         # -------------------- Médicos --------------------

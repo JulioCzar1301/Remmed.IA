@@ -19,7 +19,10 @@ def create_db():
             sexo TEXT CHECK(sexo IN ('M','F','Outro')),
             altura REAL,
             alergias TEXT,
-            historico_medico TEXT
+            historico_medico TEXT,
+            temperatura REAL,
+            oxigenacao INTEGER,
+            frequencia_cardiaca INTEGER
         )
         """)
 

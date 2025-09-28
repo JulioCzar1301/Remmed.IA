@@ -34,7 +34,7 @@ class QueryRouter:
         self.name_user = ""
         
     def get_name_user(self):
-        conn = sqlite3.connect("./Sqlite/hospital_v2.db")
+        conn = sqlite3.connect("./Sqlite/hospital.db")
         cursor = conn.cursor()
         cursor.execute("SELECT nome FROM medicos WHERE id_medico = 1")
         result = cursor.fetchone()
@@ -103,34 +103,21 @@ Resposta:
             return "Não foi possível classificar a consulta."
 
     def _execute_sql_query(self, question: str):
-        sql, df, chart = self.vn.ask(question, allow_llm_to_see_data=True)
-        print("Debug:\n", sql)
+        _, df, _= self.vn.ask(question, allow_llm_to_see_data=True, print_results=False)
+       
 
         if df.empty:
             intermediate_answer = "Nenhum resultado encontrado."
         else:
             intermediate_answer = df.to_string(index=False)
 
-        # checar se consulta envolve binário
-        if ("exames" in sql.lower() and "arquivo" in sql.lower()) or "arquivo" in df.columns:
-            print("✅ O SQL busca a coluna 'arquivo' na tabela 'exame'")
 
-            # pega o id_exame do df (assumindo que vem junto na query)
-            if "id_exame" in df.columns:
-                id_exame = df.iloc[0]["id_exame"]
-                return {"pdf": True, "id_exame": id_exame}
-            else:
-                return {"pdf": True, "id_exame": None}
-        else:
-            print("❌ O SQL NÃO busca 'arquivo' em 'exame'")
-            print(df)
-
-            prompt = f"""
-            Pergunta do usuário com nome {self.name_user}, informe o nome dele na resposta: {question}
-            Resultados da consulta SQL: {intermediate_answer}
-            Escreva uma resposta clara, natural e educada em português para o usuário, sem mencionar SQL, tabelas ou estruturas técnicas
-            """
-            return chat_with_groq(prompt)
+        prompt = f"""
+        Pergunta do usuário com nome {self.name_user}, informe o nome dele na resposta: {question}
+        Resultados da consulta SQL: {intermediate_answer}
+        Escreva uma resposta clara, natural e educada em português para o usuário, sem mencionar SQL, tabelas ou estruturas técnicas
+        """
+        return chat_with_groq(prompt)
 
 
     def enhanced_rag_query(self, question: str) -> str:

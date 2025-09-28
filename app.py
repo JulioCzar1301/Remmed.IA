@@ -4,10 +4,11 @@ import sqlite3
 import io
 import json
 import datetime
+from flask_cors import CORS  
 
 app = Flask(__name__)
 router = QueryRouter(use_llm=True)
-
+CORS(app)
 
 def get_db():
     conn = sqlite3.connect("./Sqlite/hospital.db", check_same_thread=False)
@@ -79,9 +80,12 @@ def create_patient():
     altura = data.get("altura", "")
     alergias = data.get("alergias", "")
     historico_medico = data.get("historico_medico", "")
+    temperatura = data.get("temperatura", "")
+    oxigenacao = data.get("oxigenacao", "")
+    frequencia_cardiaca = data.get("frequencia_cardiaca", "")   
     conn = get_db()
     cursor = conn.cursor()
-    cursor.execute("INSERT OR IGNORE INTO pacientes (nome, cpf, data_nascimento, peso, sexo, altura, alergias, historico_medico) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+    cursor.execute("INSERT OR IGNORE INTO pacientes (nome, cpf, data_nascimento, peso, sexo, altura, alergias, historico_medico, temperatura, oxigenacao, frequencia_cardiaca) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                    (name, cpf, birth_date, peso, sexo, altura, alergias, historico_medico))
     conn.commit()
     conn.close()
@@ -100,7 +104,7 @@ def get_pacients():
 def get_pacient(id_paciente):
     conn = get_db()
     cursor = conn.cursor()
-    cursor.execute("SELECT nome FROM pacientes WHERE id_paciente = ?", (id_paciente,))
+    cursor.execute("SELECT * FROM pacientes WHERE id_paciente = ?", (id_paciente,))
     row = dict(cursor.fetchone())
     conn.close()
     return json.dumps(row)
