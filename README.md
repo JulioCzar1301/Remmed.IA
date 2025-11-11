@@ -30,22 +30,22 @@ Além disso, a API integra-se com **Groq**, **Pinecone** e **Vanna** para oferec
 
 ## 📂 Estrutura do Projeto
 
-project/
-├── app.py                     # Arquivo principal Flask
-├── requirements.txt           # Dependências
-├── Utils/
-│   ├── query_router.py      # Rotas de consultas
-│   ├── rag_medicines.py     # Funções de RAG com Pinecone
-│   └── vanna_sql.py         # Integração com Vanna
-├── Sqlite/
-│   └── hospital_v2.db       # Banco SQLite (exemplo)
-├── VetorDatabase/
-│   └── create_databse_pinecone  # População do Banco Vetorial
-├── WebScraping/
-│   ├── medicamentos           # Armazena todo texto coletado
-│   ├── medicamentos_v2        # Retira redundâncias dos textos coletados
-│   ├── link_medicamentos      # Link de cada bula buscada e processada
-│   └── spyder.py              # Faz a raspagem dos dados do site de consulta de medicos
+project/ <br>
+├── app.py                     # Arquivo principal Flask<br>
+├── requirements.txt           # Dependências<br>
+├── Utils/<br>
+│   ├── query_router.py      # Rotas de consultas<br>
+│   ├── rag_medicines.py     # Funções de RAG com Pinecone<br>
+│   └── vanna_sql.py         # Integração com Vanna<br>
+├── Sqlite/<br>
+│   └── hospital_v2.db       # Banco SQLite (exemplo)<br>
+├── VetorDatabase/<br>
+│   └── create_databse_pinecone  # População do Banco Vetorial<br>
+├── WebScraping/<br>
+│   ├── medicamentos           # Armazena todo texto coletado<br>
+│   ├── medicamentos_v2        # Retira redundâncias dos textos coletados<br>
+│   ├── link_medicamentos      # Link de cada bula buscada e processada<br>
+│   └── spyder.py              # Faz a raspagem dos dados do site de consulta de medicos<br>
 └── README.md                  # Documentação
 
 ## Etapas
