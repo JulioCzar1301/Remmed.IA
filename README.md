@@ -73,4 +73,21 @@ $env:PINECONE_API_KEY="minha chave do pinecone"
 ```
 python app.py
 ```
+## 🔌 Endpoints da API
+### 📝 Consultas com IA
+- POST /ask - Consulta inteligente com processamento de linguagem natural
+### 🏥 Gestão de Exames
+- POST /create_exam - Upload de exames médicos
+- GET /exam/<id_exame>/ - Download de exame em PDF
+###👤 Gestão de Pacientes
+- POST /create_pacient - Cadastrar novo paciente
+- GET /get_pacients - Listar todos os pacientes
+- GET /get_pacient/<id_paciente> - Obter dados de paciente específico
 
+### 📅 Gestão de Consultas
+- POST /create_appointment - Agendar consulta
+- GET /get_appointment/<id_paciente> - Obter consultas do paciente
+  
+### 🏥 Gestão de Internações
+- POST /create_hospitalization - Registrar internação
+- GET /get_hospitalization/<id_paciente> - Obter internações do paciente
